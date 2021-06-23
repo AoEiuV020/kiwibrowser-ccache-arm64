@@ -1,0 +1,23 @@
+obj/skia/skia_core_and_effects/SkAnalyticEdge.o: \
+  ../../third_party/skia/src/core/SkAnalyticEdge.cpp \
+  ../../third_party/skia/src/core/SkAnalyticEdge.h \
+  ../../third_party/skia/src/core/SkEdge.h \
+  ../../third_party/skia/include/core/SkRect.h \
+  ../../third_party/skia/include/core/SkPoint.h \
+  ../../third_party/skia/include/core/SkMath.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/skia/include/core/SkPreConfig.h \
+  ../../skia/config/SkUserConfig.h \
+  ../../third_party/skia/include/core/SkPostConfig.h \
+  ../../third_party/skia/include/core/../private/SkTFitsIn.h \
+  ../../third_party/skia/include/private/../private/SkTLogic.h \
+  ../../third_party/skia/include/core/SkScalar.h \
+  ../../third_party/skia/include/core/../private/SkFloatingPoint.h \
+  ../../third_party/skia/include/private/../private/SkFloatBits.h \
+  ../../third_party/skia/include/private/SkSafe_math.h \
+  ../../third_party/skia/include/core/../private/SkSafe32.h \
+  ../../third_party/skia/include/core/SkSize.h \
+  ../../third_party/skia/src/core/SkFDot6.h \
+  ../../third_party/skia/include/private/SkFixed.h \
+  ../../third_party/skia/src/core/SkFDot6Constants.h \
+  ../../third_party/skia/src/core/SkMathPriv.h

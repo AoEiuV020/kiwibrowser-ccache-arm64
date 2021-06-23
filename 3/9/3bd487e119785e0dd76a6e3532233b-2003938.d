@@ -1,0 +1,24 @@
+clang_x64/obj/third_party/protobuf/protoc/main.o: \
+  ../../third_party/protobuf/src/google/protobuf/compiler/main.cc \
+  ../../third_party/protobuf/src/google/protobuf/compiler/command_line_interface.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/common.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/port.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/platform_macros.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/macros.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/logging.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/scoped_ptr.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/mutex.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/callback.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/type_traits.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/template_util.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/hash.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/cpp/cpp_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/code_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/python/python_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/java/java_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/csharp/csharp_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/javanano/javanano_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/js/js_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/objectivec/objectivec_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/php/php_generator.h \
+  ../../third_party/protobuf/src/google/protobuf/compiler/ruby/ruby_generator.h

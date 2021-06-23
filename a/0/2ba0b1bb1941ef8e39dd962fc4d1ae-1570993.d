@@ -1,0 +1,21 @@
+obj/skia/skia_core_and_effects/SkRWBuffer.o: \
+  ../../third_party/skia/src/core/SkRWBuffer.cpp \
+  ../../third_party/skia/include/core/SkRWBuffer.h \
+  ../../third_party/skia/include/core/SkRefCnt.h \
+  ../../third_party/skia/include/core/../private/SkTLogic.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/skia/include/core/SkPreConfig.h \
+  ../../skia/config/SkUserConfig.h \
+  ../../third_party/skia/include/core/SkPostConfig.h \
+  ../../third_party/skia/include/core/../private/SkTFitsIn.h \
+  ../../third_party/skia/include/private/../private/SkTLogic.h \
+  ../../skia/config/sk_ref_cnt_ext_release.h \
+  ../../third_party/skia/include/private/SkAtomics.h \
+  ../../third_party/skia/include/private/SkMalloc.h \
+  ../../third_party/skia/src/core/SkMakeUnique.h \
+  ../../third_party/skia/include/core/SkStream.h \
+  ../../third_party/skia/include/core/SkData.h \
+  ../../third_party/skia/include/core/SkScalar.h \
+  ../../third_party/skia/include/core/../private/SkFloatingPoint.h \
+  ../../third_party/skia/include/private/../private/SkFloatBits.h \
+  ../../third_party/skia/include/private/SkSafe_math.h

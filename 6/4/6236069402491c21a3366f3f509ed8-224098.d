@@ -1,0 +1,9 @@
+clang_x64/obj/base/third_party/libevent/libevent/evdns.o: \
+  ../../base/third_party/libevent/evdns.c \
+  ../../base/third_party/libevent/linux/config.h \
+  ../../base/third_party/libevent/evdns.h \
+  ../../base/third_party/libevent/evutil.h \
+  ../../base/third_party/libevent/event-config.h \
+  ../../base/third_party/libevent/linux/event-config.h \
+  ../../base/third_party/libevent/log.h \
+  ../../base/third_party/libevent/event.h

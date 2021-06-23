@@ -1,0 +1,28 @@
+clang_x64/obj/third_party/protobuf/protoc_lib/subprocess.o: \
+  ../../third_party/protobuf/src/google/protobuf/compiler/subprocess.cc \
+  ../../third_party/protobuf/src/google/protobuf/compiler/subprocess.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/common.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/port.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/platform_macros.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/macros.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/logging.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/scoped_ptr.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/mutex.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/callback.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/type_traits.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/template_util.h \
+  ../../third_party/protobuf/src/google/protobuf/message.h \
+  ../../third_party/protobuf/src/google/protobuf/arena.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/atomic_sequence_num.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/atomicops.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/atomicops_internals_x86_gcc.h \
+  ../../third_party/protobuf/src/google/protobuf/message_lite.h \
+  ../../third_party/protobuf/src/google/protobuf/generated_message_util.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/once.h \
+  ../../third_party/protobuf/src/google/protobuf/has_bits.h \
+  ../../third_party/protobuf/src/google/protobuf/descriptor.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/shared_ptr.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/substitute.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/strutil.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/stringpiece.h \
+  ../../third_party/protobuf/src/google/protobuf/stubs/hash.h

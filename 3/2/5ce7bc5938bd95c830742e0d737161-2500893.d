@@ -1,0 +1,57 @@
+obj/net/net/quic_mem_slice_span_impl.o: \
+  ../../net/third_party/quic/platform/impl/quic_mem_slice_span_impl.cc \
+  ../../net/third_party/quic/platform/impl/quic_mem_slice_span_impl.h \
+  ../../base/memory/ref_counted.h ../../base/atomic_ref_count.h \
+  ../../base/base_export.h ../../base/compiler_specific.h \
+  ../../build/build_config.h ../../base/logging.h \
+  ../../base/callback_forward.h ../../base/debug/debugger.h \
+  ../../base/macros.h ../../base/strings/string_piece_forward.h \
+  ../../base/strings/string16.h ../../base/template_util.h \
+  ../../base/memory/scoped_refptr.h ../../base/sequence_checker.h \
+  ../../base/sequence_checker_impl.h ../../base/synchronization/lock.h \
+  ../../base/synchronization/lock_impl.h \
+  ../../base/threading/platform_thread.h ../../base/time/time.h \
+  ../../base/numerics/safe_math.h ../../base/numerics/checked_math.h \
+  ../../base/numerics/checked_math_impl.h \
+  ../../base/numerics/safe_conversions.h \
+  ../../base/numerics/safe_conversions_impl.h \
+  ../../base/numerics/safe_math_shared_impl.h \
+  ../../base/numerics/safe_math_clang_gcc_impl.h \
+  ../../base/numerics/clamped_math.h \
+  ../../base/numerics/clamped_math_impl.h \
+  ../../base/threading/thread_collision_warner.h ../../base/atomicops.h \
+  ../../base/atomicops_internals_portable.h ../../net/base/io_buffer.h \
+  ../../base/memory/free_deleter.h ../../base/pickle.h \
+  ../../base/gtest_prod_util.h \
+  ../../testing/gtest/include/gtest/gtest_prod.h \
+  ../../third_party/googletest/src/googletest/include/gtest/gtest_prod.h \
+  ../../base/strings/string_piece.h ../../base/strings/char_traits.h \
+  ../../base/files/file.h ../../base/files/file_path.h \
+  ../../base/files/file_tracing.h ../../base/files/platform_file.h \
+  ../../base/files/scoped_file.h ../../base/scoped_generic.h \
+  ../../net/base/net_export.h \
+  ../../net/third_party/quic/core/quic_types.h \
+  ../../net/third_party/quic/core/quic_time.h \
+  ../../net/third_party/quic/platform/api/quic_export.h \
+  ../../net/third_party/quic/platform/impl/quic_export_impl.h \
+  ../../net/third_party/quic/platform/api/quic_string.h \
+  ../../net/third_party/quic/platform/impl/quic_string_impl.h \
+  ../../net/third_party/quic/core/quic_stream_send_buffer.h \
+  ../../net/base/iovec.h \
+  ../../net/third_party/quic/core/frames/quic_stream_frame.h \
+  ../../net/third_party/quic/core/quic_buffer_allocator.h \
+  ../../net/third_party/quic/platform/api/quic_string_piece.h \
+  ../../net/third_party/quic/platform/impl/quic_string_piece_impl.h \
+  ../../net/third_party/quic/platform/api/quic_containers.h \
+  ../../net/third_party/quic/platform/impl/quic_containers_impl.h \
+  ../../base/containers/circular_deque.h \
+  ../../base/containers/vector_buffer.h ../../base/containers/queue.h \
+  ../../base/containers/small_map.h ../../base/containers/hash_tables.h \
+  ../../base/hash.h ../../net/base/interval_set.h \
+  ../../net/base/interval.h ../../net/base/linked_hash_map.h \
+  ../../net/third_party/quic/platform/api/quic_mem_slice.h \
+  ../../net/third_party/quic/platform/impl/quic_mem_slice_impl.h \
+  ../../net/third_party/quic/platform/api/quic_bug_tracker.h \
+  ../../net/third_party/quic/platform/impl/quic_bug_tracker_impl.h \
+  ../../net/third_party/quic/platform/api/quic_logging.h \
+  ../../net/third_party/quic/platform/impl/quic_logging_impl.h

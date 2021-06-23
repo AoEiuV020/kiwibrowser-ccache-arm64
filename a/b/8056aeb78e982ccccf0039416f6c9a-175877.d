@@ -1,0 +1,24 @@
+clang_x64/obj/third_party/boringssl/boringssl/e_tls.o: \
+  ../../third_party/boringssl/src/crypto/cipher_extra/e_tls.c \
+  ../../third_party/boringssl/src/include/openssl/aead.h \
+  ../../third_party/boringssl/src/include/openssl/base.h \
+  ../../third_party/boringssl/src/include/openssl/is_boringssl.h \
+  ../../third_party/boringssl/src/include/openssl/opensslconf.h \
+  ../../third_party/boringssl/src/include/openssl/cipher.h \
+  ../../third_party/boringssl/src/include/openssl/err.h \
+  ../../third_party/boringssl/src/include/openssl/hmac.h \
+  ../../third_party/boringssl/src/include/openssl/digest.h \
+  ../../third_party/boringssl/src/include/openssl/md5.h \
+  ../../third_party/boringssl/src/include/openssl/mem.h \
+  ../../third_party/boringssl/src/include/openssl/sha.h \
+  ../../third_party/boringssl/src/include/openssl/type_check.h \
+  ../../third_party/boringssl/src/crypto/cipher_extra/../fipsmodule/cipher/internal.h \
+  ../../third_party/boringssl/src/include/openssl/aes.h \
+  ../../third_party/boringssl/src/crypto/cipher_extra/../fipsmodule/cipher/../../internal.h \
+  ../../third_party/boringssl/src/include/openssl/ex_data.h \
+  ../../third_party/boringssl/src/include/openssl/stack.h \
+  ../../third_party/boringssl/src/include/openssl/thread.h \
+  ../../third_party/boringssl/src/crypto/cipher_extra/../fipsmodule/cipher/../modes/internal.h \
+  ../../third_party/boringssl/src/crypto/cipher_extra/../fipsmodule/cipher/../modes/../../internal.h \
+  ../../third_party/boringssl/src/crypto/cipher_extra/../internal.h \
+  ../../third_party/boringssl/src/crypto/cipher_extra/internal.h

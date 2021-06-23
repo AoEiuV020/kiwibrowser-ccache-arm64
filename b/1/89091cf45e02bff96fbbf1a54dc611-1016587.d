@@ -1,0 +1,22 @@
+obj/skia/skia_core_and_effects/SkExecutor.o: \
+  ../../third_party/skia/src/core/SkExecutor.cpp \
+  ../../third_party/skia/include/core/SkExecutor.h \
+  ../../third_party/skia/src/core/SkMakeUnique.h \
+  ../../third_party/skia/include/private/SkMutex.h \
+  ../../third_party/skia/include/private/../private/SkSemaphore.h \
+  ../../third_party/skia/include/private/../private/SkOnce.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/skia/include/core/SkPreConfig.h \
+  ../../skia/config/SkUserConfig.h \
+  ../../third_party/skia/include/core/SkPostConfig.h \
+  ../../third_party/skia/include/core/../private/SkTFitsIn.h \
+  ../../third_party/skia/include/private/../private/SkTLogic.h \
+  ../../third_party/skia/include/private/../private/SkThreadID.h \
+  ../../third_party/skia/include/private/SkSemaphore.h \
+  ../../third_party/skia/include/private/SkSpinlock.h \
+  ../../third_party/skia/include/private/SkTArray.h \
+  ../../third_party/skia/include/private/../private/SkSafe32.h \
+  ../../third_party/skia/include/private/../private/SkTemplates.h \
+  ../../third_party/skia/include/core/SkMath.h \
+  ../../third_party/skia/include/private/SkMalloc.h \
+  ../../third_party/skia/include/private/SkTLogic.h
