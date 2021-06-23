@@ -1,0 +1,32 @@
+obj/third_party/webrtc/call/call_interfaces/audio_state.o: \
+  ../../third_party/webrtc/call/audio_state.cc \
+  ../../third_party/webrtc/call/audio_state.h \
+  ../../third_party/webrtc/api/audio/audio_mixer.h \
+  ../../third_party/webrtc/api/audio/audio_frame.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/refcount.h \
+  ../../third_party/webrtc/modules/audio_device/include/audio_device.h \
+  ../../third_party/webrtc/modules/audio_device/include/audio_device_defines.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/deprecation.h \
+  ../../third_party/webrtc/rtc_base/strings/string_builder.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_minmax.h \
+  ../../third_party/webrtc/rtc_base/stringutils.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/modules/audio_processing/include/audio_processing.h \
+  ../../third_party/webrtc/api/audio/echo_canceller3_config.h \
+  ../../third_party/webrtc/api/audio/echo_control.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/modules/audio_processing/beamformer/array_util.h \
+  ../../third_party/webrtc/modules/audio_processing/include/audio_generator.h \
+  ../../third_party/webrtc/modules/audio_processing/include/audio_frame_view.h \
+  ../../third_party/webrtc/modules/audio_processing/include/audio_processing_statistics.h \
+  ../../third_party/webrtc/modules/audio_processing/include/config.h \
+  ../../third_party/webrtc/rtc_base/basictypes.h \
+  ../../third_party/webrtc/rtc_base/arraysize.h \
+  ../../third_party/webrtc/rtc_base/platform_file.h

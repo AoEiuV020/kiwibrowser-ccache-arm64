@@ -1,0 +1,36 @@
+obj/third_party/breakpad/client/linux_dumper.o: \
+  ../../third_party/breakpad/breakpad/src/client/linux/minidump_writer/linux_dumper.cc \
+  ../../third_party/breakpad/breakpad/src/client/linux/minidump_writer/linux_dumper.h \
+  ../../third_party/breakpad/breakpad/src/common/android/include/elf.h \
+  ../../third_party/breakpad/breakpad/src/common/android/include/link.h \
+  ../../third_party/breakpad/breakpad/src/common/android/include/sys/user.h \
+  ../../third_party/breakpad/breakpad/src/client/linux/dump_writer_common/mapping_info.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_format.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/breakpad_types.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_amd64.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_arm.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_arm64.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_mips.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_ppc.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_ppc64.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_sparc.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_x86.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_linux.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_mac.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_ps3.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_solaris.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_win32.h \
+  ../../third_party/breakpad/breakpad/src/client/linux/dump_writer_common/thread_info.h \
+  ../../third_party/breakpad/breakpad/src/client/linux/dump_writer_common/raw_context_cpu.h \
+  ../../third_party/breakpad/breakpad/src/common/memory_allocator.h \
+  ../../third_party/lss/linux_syscall_support.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/file_id.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/guid_creator.h \
+  ../../third_party/breakpad/breakpad/src/common/using_std_string.h \
+  ../../third_party/breakpad/breakpad/src/client/linux/minidump_writer/line_reader.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/linux_libc_support.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/elfutils.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/memory_mapped_file.h \
+  ../../third_party/breakpad/breakpad/src/common/basictypes.h \
+  ../../third_party/breakpad/breakpad/src/common/memory_range.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/safe_readlink.h

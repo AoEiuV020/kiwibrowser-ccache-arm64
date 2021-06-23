@@ -1,0 +1,24 @@
+obj/third_party/webrtc/modules/audio_processing/agc2/rnn_vad/lib/features_extraction.o: \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/features_extraction.cc \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/features_extraction.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/biquad_filter.h \
+  ../../third_party/webrtc/rtc_base/arraysize.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/common.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_search.h \
+  ../../third_party/webrtc/common_audio/real_fourier.h \
+  ../../third_party/webrtc/rtc_base/memory/aligned_malloc.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_info.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/pitch_search_internal.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/sequence_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/spectral_features.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/fft_util.h \
+  ../../third_party/rnnoise/src/kiss_fft.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/ring_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/symmetric_matrix_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/rnn_vad/lp_residual.h

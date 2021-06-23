@@ -1,0 +1,82 @@
+[1m../../ui/accessibility/ax_text_utils.cc:124:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_ACTIVATE_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:49:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ACTIVATE_ACTION_VERB'[0m
+#define IDS_AX_ACTIVATE_ACTION_VERB _Pragma("whitelisted_resource_27303") 27303
+[0;1;32m                                    ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27303
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:126:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_CHECK_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:50:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CHECK_ACTION_VERB'[0m
+#define IDS_AX_CHECK_ACTION_VERB _Pragma("whitelisted_resource_27304") 27304
+[0;1;32m                                 ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27304
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:128:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_CLICK_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:51:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CLICK_ACTION_VERB'[0m
+#define IDS_AX_CLICK_ACTION_VERB _Pragma("whitelisted_resource_27305") 27305
+[0;1;32m                                 ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27305
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:130:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_CLICK_ANCESTOR_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:52:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CLICK_ANCESTOR_ACTION_VERB'[0m
+#define IDS_AX_CLICK_ANCESTOR_ACTION_VERB _Pragma("whitelisted_resource_27306") 27306
+[0;1;32m                                          ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27306
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:132:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_JUMP_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:53:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_JUMP_ACTION_VERB'[0m
+#define IDS_AX_JUMP_ACTION_VERB _Pragma("whitelisted_resource_27307") 27307
+[0;1;32m                                ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27307
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:134:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_OPEN_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:54:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_OPEN_ACTION_VERB'[0m
+#define IDS_AX_OPEN_ACTION_VERB _Pragma("whitelisted_resource_27308") 27308
+[0;1;32m                                ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27308
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:136:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_PRESS_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:55:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_PRESS_ACTION_VERB'[0m
+#define IDS_AX_PRESS_ACTION_VERB _Pragma("whitelisted_resource_27309") 27309
+[0;1;32m                                 ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27309
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:138:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_SELECT_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:56:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_SELECT_ACTION_VERB'[0m
+#define IDS_AX_SELECT_ACTION_VERB _Pragma("whitelisted_resource_27310") 27310
+[0;1;32m                                  ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27310
+[0;1;32m ^
+[0m[1m../../ui/accessibility/ax_text_utils.cc:140:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_AX_UNCHECK_ACTION_VERB);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:57:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_UNCHECK_ACTION_VERB'[0m
+#define IDS_AX_UNCHECK_ACTION_VERB _Pragma("whitelisted_resource_27311") 27311
+[0;1;32m                                   ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27311
+[0;1;32m ^
+[0m9 warnings generated.

@@ -1,0 +1,37 @@
+obj/third_party/webrtc/modules/audio_processing/aec3/aec3/render_delay_buffer.o: \
+  ../../third_party/webrtc/modules/audio_processing/aec3/render_delay_buffer.cc \
+  ../../third_party/webrtc/modules/audio_processing/aec3/render_delay_buffer.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/api/audio/echo_canceller3_config.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/aec3_common.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/downsampled_render_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/fft_data.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/render_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/fft_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/matrix_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/vector_buffer.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/aec3_fft.h \
+  ../../third_party/webrtc/modules/audio_processing/utility/ooura_fft.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/block_processor.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/echo_remover.h \
+  ../../third_party/webrtc/api/audio/echo_control.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/delay_estimate.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/echo_path_variability.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/render_delay_controller.h \
+  ../../third_party/webrtc/modules/audio_processing/logging/apm_data_dumper.h \
+  ../../third_party/webrtc/common_audio/wav_file.h \
+  ../../third_party/webrtc/rtc_base/platform_file.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/decimator.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/cascaded_biquad_filter.h \
+  ../../third_party/webrtc/rtc_base/atomicops.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/system_wrappers/include/field_trial.h

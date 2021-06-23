@@ -1,0 +1,51 @@
+obj/components/viz/common/common/resource_metadata.o: \
+  ../../components/viz/common/resources/resource_metadata.cc \
+  ../../components/viz/common/resources/resource_metadata.h \
+  ../../components/viz/common/viz_common_export.h \
+  ../../gpu/command_buffer/common/mailbox.h ../../gpu/gpu_export.h \
+  ../../gpu/command_buffer/common/sync_token.h \
+  ../../gpu/command_buffer/common/command_buffer_id.h \
+  ../../gpu/command_buffer/common/id_type.h \
+  ../../gpu/command_buffer/common/constants.h ../../build/build_config.h \
+  ../../third_party/skia/include/core/SkColorSpace.h \
+  ../../third_party/skia/include/core/SkMatrix44.h \
+  ../../third_party/skia/include/core/SkMatrix.h \
+  ../../third_party/skia/include/core/SkRect.h \
+  ../../third_party/skia/include/core/SkPoint.h \
+  ../../third_party/skia/include/core/SkMath.h \
+  ../../third_party/skia/include/core/SkTypes.h \
+  ../../third_party/skia/include/core/SkPreConfig.h \
+  ../../skia/config/SkUserConfig.h \
+  ../../third_party/skia/include/core/SkPostConfig.h \
+  ../../third_party/skia/include/core/../private/SkTFitsIn.h \
+  ../../third_party/skia/include/core/../private/../private/SkTLogic.h \
+  ../../third_party/skia/include/core/SkScalar.h \
+  ../../third_party/skia/include/core/../private/SkFloatingPoint.h \
+  ../../third_party/skia/include/core/../private/../private/SkFloatBits.h \
+  ../../third_party/skia/include/core/../private/SkSafe_math.h \
+  ../../third_party/skia/include/core/../private/SkSafe32.h \
+  ../../third_party/skia/include/core/SkSize.h \
+  ../../third_party/skia/include/core/SkRefCnt.h \
+  ../../third_party/skia/include/core/../private/SkTLogic.h \
+  ../../skia/config/sk_ref_cnt_ext_release.h \
+  ../../third_party/skia/include/gpu/GrBackendSurface.h \
+  ../../third_party/skia/include/gpu/GrTypes.h \
+  ../../third_party/skia/include/gpu/GrConfig.h \
+  ../../third_party/skia/include/gpu/gl/GrGLTypes.h \
+  ../../third_party/skia/include/gpu/gl/GrGLConfig.h \
+  ../../third_party/skia/include/gpu/gl/GrGLConfig_chrome.h \
+  ../../third_party/skia/include/gpu/mock/GrMockTypes.h \
+  ../../third_party/skia/include/c/../private/GrTypesPriv.h \
+  ../../third_party/skia/include/core/../private/GrSharedEnums.h \
+  ../../third_party/skia/include/core/SkImageInfo.h \
+  ../../third_party/skia/include/core/../private/SkImageInfoPriv.h \
+  ../../third_party/skia/include/core/../private/SkWeakRefCnt.h \
+  ../../ui/gfx/geometry/size.h ../../base/compiler_specific.h \
+  ../../base/numerics/safe_math.h ../../base/numerics/checked_math.h \
+  ../../base/numerics/checked_math_impl.h \
+  ../../base/numerics/safe_conversions.h \
+  ../../base/numerics/safe_conversions_impl.h \
+  ../../base/numerics/safe_math_shared_impl.h \
+  ../../base/numerics/safe_math_clang_gcc_impl.h \
+  ../../base/numerics/clamped_math.h \
+  ../../base/numerics/clamped_math_impl.h ../../ui/gfx/gfx_export.h

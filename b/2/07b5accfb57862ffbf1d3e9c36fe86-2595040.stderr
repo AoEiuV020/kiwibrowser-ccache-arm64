@@ -1,0 +1,28 @@
+[1m../../ui/base/webui/jstemplate_builder.cc:43:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_WEBUI_JS_LOAD_TIME_DATA));
+[0;1;32m          ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:219:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_JS_LOAD_TIME_DATA'[0m
+#define IDR_WEBUI_JS_LOAD_TIME_DATA _Pragma("whitelisted_resource_28060") 28060
+[0;1;32m                                    ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28060
+[0;1;32m ^
+[0m[1m../../ui/base/webui/jstemplate_builder.cc:60:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_WEBUI_JSTEMPLATE_JS));
+[0;1;32m          ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:6:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_JSTEMPLATE_JS'[0m
+#define IDR_WEBUI_JSTEMPLATE_JS _Pragma("whitelisted_resource_27751") 27751
+[0;1;32m                                ^
+[0m[1m<scratch space>:195:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27751
+[0;1;32m ^
+[0m[1m../../ui/base/webui/jstemplate_builder.cc:89:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_WEBUI_I18N_TEMPLATE_JS));
+[0;1;32m          ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:5:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_I18N_TEMPLATE_JS'[0m
+#define IDR_WEBUI_I18N_TEMPLATE_JS _Pragma("whitelisted_resource_27750") 27750
+[0;1;32m                                   ^
+[0m[1m<scratch space>:197:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27750
+[0;1;32m ^
+[0m3 warnings generated.

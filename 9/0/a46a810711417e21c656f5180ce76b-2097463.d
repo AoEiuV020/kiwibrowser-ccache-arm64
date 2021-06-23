@@ -1,0 +1,25 @@
+obj/third_party/angle/translator/ConstantUnion.o: \
+  ../../third_party/angle/src/compiler/translator/ConstantUnion.cpp \
+  ../../third_party/angle/src/compiler/translator/ConstantUnion.h \
+  ../../third_party/angle/src/compiler/translator/Common.h \
+  ../../third_party/angle/src/common/angleutils.h \
+  ../../third_party/angle/src/common/platform.h \
+  ../../third_party/angle/src/common/debug.h \
+  ../../third_party/angle/src/common/third_party/smhasher/src/PMurHash.h \
+  ../../third_party/angle/src/compiler/translator/PoolAlloc.h \
+  ../../third_party/angle/src/compiler/translator/BaseTypes.h \
+  ../../third_party/angle/include/GLSLANG/ShaderLang.h \
+  ../../third_party/angle/include/KHR/khrplatform.h \
+  ../../third_party/angle/include/GLSLANG/ShaderVars.h \
+  ../../third_party/angle/src/compiler/translator/ImmutableString.h \
+  ../../third_party/angle/src/common/string_utils.h \
+  ../../third_party/angle/src/common/Optional.h \
+  ../../third_party/angle/src/common/mathutil.h \
+  ../../third_party/angle/src/common/third_party/base/anglebase/numerics/safe_math.h \
+  ../../third_party/angle/src/common/third_party/base/anglebase/logging.h \
+  ../../third_party/angle/src/common/third_party/base/anglebase/numerics/safe_math_impl.h \
+  ../../third_party/angle/src/common/third_party/base/anglebase/numerics/safe_conversions.h \
+  ../../third_party/angle/src/common/third_party/base/anglebase/numerics/safe_conversions_impl.h \
+  ../../third_party/angle/src/compiler/translator/Diagnostics.h \
+  ../../third_party/angle/src/compiler/preprocessor/DiagnosticsBase.h \
+  ../../third_party/angle/src/compiler/translator/Severity.h

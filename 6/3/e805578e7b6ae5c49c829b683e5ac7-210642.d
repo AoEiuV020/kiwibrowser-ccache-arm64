@@ -1,0 +1,21 @@
+obj/third_party/perfetto/protos/perfetto/trace/zero/trace_packet.pbzero.o: \
+  gen/third_party/perfetto/protos/perfetto/trace/trace_packet.pbzero.cc \
+  gen/third_party/perfetto/protos/perfetto/trace/trace_packet.pbzero.h \
+  ../../third_party/perfetto/include/perfetto/protozero/proto_field_descriptor.h \
+  ../../third_party/perfetto/include/perfetto/protozero/message.h \
+  ../../third_party/perfetto/include/perfetto/base/export.h \
+  ../../third_party/perfetto/include/perfetto/base/build_config.h \
+  ../../third_party/perfetto/include/perfetto/base/logging.h \
+  ../../third_party/perfetto/include/perfetto/base/utils.h \
+  ../../third_party/perfetto/include/perfetto/protozero/contiguous_memory_range.h \
+  ../../third_party/perfetto/include/perfetto/protozero/proto_utils.h \
+  ../../third_party/perfetto/include/perfetto/protozero/scattered_stream_writer.h \
+  gen/third_party/perfetto/protos/perfetto/trace/clock_snapshot.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/trace_stats.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/test_event.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/config/trace_config.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/chrome/chrome_trace_event.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/filesystem/inode_file_map.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/ps/process_tree.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/ftrace/ftrace_event_bundle.pbzero.h \
+  gen/third_party/perfetto/protos/perfetto/trace/ftrace/ftrace_stats.pbzero.h

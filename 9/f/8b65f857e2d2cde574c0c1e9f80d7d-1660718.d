@@ -1,0 +1,26 @@
+obj/third_party/webrtc/modules/audio_coding/audio_network_adaptor/event_log_writer.o: \
+  ../../third_party/webrtc/modules/audio_coding/audio_network_adaptor/event_log_writer.cc \
+  ../../third_party/webrtc/logging/rtc_event_log/events/rtc_event_audio_network_adaptation.h \
+  ../../third_party/webrtc/logging/rtc_event_log/events/rtc_event.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/timeutils.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/logging/rtc_event_log/rtc_event_log.h \
+  ../../third_party/webrtc/api/rtceventlogoutput.h \
+  ../../third_party/webrtc/rtc_base/task_queue.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/rtc_base/ptr_util.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/rtc_base/thread_annotations.h \
+  ../../third_party/webrtc/modules/audio_coding/audio_network_adaptor/event_log_writer.h \
+  ../../third_party/webrtc/modules/audio_coding/audio_network_adaptor/include/audio_network_adaptor.h \
+  ../../third_party/webrtc/api/audio_codecs/audio_encoder.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/rtc_base/buffer.h \
+  ../../third_party/webrtc/rtc_base/zero_memory.h \
+  ../../third_party/webrtc/rtc_base/deprecation.h \
+  ../../third_party/webrtc/modules/audio_coding/audio_network_adaptor/include/audio_network_adaptor_config.h

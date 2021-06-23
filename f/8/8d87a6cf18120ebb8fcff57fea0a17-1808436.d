@@ -1,0 +1,27 @@
+obj/third_party/webrtc/modules/audio_processing/agc2/fixed_digital/interpolated_gain_curve.o: \
+  ../../third_party/webrtc/modules/audio_processing/agc2/interpolated_gain_curve.cc \
+  ../../third_party/webrtc/modules/audio_processing/agc2/interpolated_gain_curve.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/agc2_common.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc_overrides/rtc_base/gtest_prod_util.h \
+  ../../base/gtest_prod_util.h \
+  ../../testing/gtest/include/gtest/gtest_prod.h \
+  ../../third_party/googletest/src/googletest/include/gtest/gtest_prod.h \
+  ../../third_party/webrtc/modules/audio_processing/logging/apm_data_dumper.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/common_audio/wav_file.h \
+  ../../third_party/webrtc/rtc_base/platform_file.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/system_wrappers/include/metrics.h \
+  ../../third_party/webrtc/common_types.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/api/video/video_bitrate_allocation.h \
+  ../../third_party/webrtc/rtc_base/deprecation.h \
+  ../../third_party/webrtc/rtc_base/atomicops.h

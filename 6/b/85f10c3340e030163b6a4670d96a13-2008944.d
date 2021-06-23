@@ -1,0 +1,25 @@
+obj/third_party/webrtc/media/rtc_media_base/codec.o: \
+  ../../third_party/webrtc/media/base/codec.cc \
+  ../../third_party/webrtc/media/base/codec.h \
+  ../../third_party/webrtc/api/rtpparameters.h \
+  ../../third_party/webrtc/api/mediatypes.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/api/video_codecs/sdp_video_format.h \
+  ../../third_party/webrtc/common_types.h \
+  ../../third_party/webrtc/api/video/video_bitrate_allocation.h \
+  ../../third_party/webrtc/rtc_base/deprecation.h \
+  ../../third_party/webrtc/media/base/mediaconstants.h \
+  ../../third_party/webrtc/media/base/h264_profile_level_id.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/rtc_base/stringencode.h \
+  ../../third_party/webrtc/rtc_base/strings/string_builder.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_minmax.h \
+  ../../third_party/webrtc/rtc_base/stringutils.h

@@ -1,0 +1,271 @@
+[1m../../ui/base/l10n/formatter.cc:29:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_ELAPSED_SECS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:27:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_SECS'[0m
+#define IDS_TIME_ELAPSED_SECS _Pragma("whitelisted_resource_27272") 27272
+[0;1;32m                              ^
+[0m[1m<scratch space>:189:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27272
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:35:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_TIME_ELAPSED_LONG_SECS, "one{# second ago}", " other{# seconds ago}"};
+[0;1;32m    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:28:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_LONG_SECS'[0m
+#define IDS_TIME_ELAPSED_LONG_SECS _Pragma("whitelisted_resource_27273") 27273
+[0;1;32m                                   ^
+[0m[1m<scratch space>:191:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27273
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:38:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_ELAPSED_MINS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:29:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_MINS'[0m
+#define IDS_TIME_ELAPSED_MINS _Pragma("whitelisted_resource_27274") 27274
+[0;1;32m                              ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27274
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:44:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_TIME_ELAPSED_LONG_MINS, "one{# minute ago}", " other{# minutes ago}"};
+[0;1;32m    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:30:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_LONG_MINS'[0m
+#define IDS_TIME_ELAPSED_LONG_MINS _Pragma("whitelisted_resource_27275") 27275
+[0;1;32m                                   ^
+[0m[1m<scratch space>:195:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27275
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:47:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_ELAPSED_HOURS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:31:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_HOURS'[0m
+#define IDS_TIME_ELAPSED_HOURS _Pragma("whitelisted_resource_27276") 27276
+[0;1;32m                               ^
+[0m[1m<scratch space>:197:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27276
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:52:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_ELAPSED_DAYS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:32:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_DAYS'[0m
+#define IDS_TIME_ELAPSED_DAYS _Pragma("whitelisted_resource_27277") 27277
+[0;1;32m                              ^
+[0m[1m<scratch space>:199:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27277
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:57:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_TIME_ELAPSED_MONTHS, "one{# month ago}", " other{# months ago}"};
+[0;1;32m    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:33:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_MONTHS'[0m
+#define IDS_TIME_ELAPSED_MONTHS _Pragma("whitelisted_resource_27278") 27278
+[0;1;32m                                ^
+[0m[1m<scratch space>:201:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27278
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:59:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_TIME_ELAPSED_YEARS, "one{# year ago}", " other{# years ago}"};
+[0;1;32m    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:34:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_ELAPSED_YEARS'[0m
+#define IDS_TIME_ELAPSED_YEARS _Pragma("whitelisted_resource_27279") 27279
+[0;1;32m                               ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27279
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:62:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_REMAINING_SECS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:19:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_SECS'[0m
+#define IDS_TIME_REMAINING_SECS _Pragma("whitelisted_resource_27264") 27264
+[0;1;32m                                ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27264
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:67:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_REMAINING_MINS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:21:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_MINS'[0m
+#define IDS_TIME_REMAINING_MINS _Pragma("whitelisted_resource_27266") 27266
+[0;1;32m                                ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27266
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:73:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_REMAINING_LONG_SECS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:20:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_LONG_SECS'[0m
+#define IDS_TIME_REMAINING_LONG_SECS _Pragma("whitelisted_resource_27265") 27265
+[0;1;32m                                     ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27265
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:78:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_REMAINING_LONG_MINS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:22:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_LONG_MINS'[0m
+#define IDS_TIME_REMAINING_LONG_MINS _Pragma("whitelisted_resource_27267") 27267
+[0;1;32m                                     ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27267
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:83:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_REMAINING_HOURS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:23:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_HOURS'[0m
+#define IDS_TIME_REMAINING_HOURS _Pragma("whitelisted_resource_27268") 27268
+[0;1;32m                                 ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27268
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:88:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_REMAINING_DAYS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:24:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_DAYS'[0m
+#define IDS_TIME_REMAINING_DAYS _Pragma("whitelisted_resource_27269") 27269
+[0;1;32m                                ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27269
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:93:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_TIME_REMAINING_MONTHS, "one{# month left}", " other{# months left}"};
+[0;1;32m    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:25:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_MONTHS'[0m
+#define IDS_TIME_REMAINING_MONTHS _Pragma("whitelisted_resource_27270") 27270
+[0;1;32m                                  ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27270
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:95:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_TIME_REMAINING_YEARS, "one{# year left}", " other{# years left}"};
+[0;1;32m    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:26:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_REMAINING_YEARS'[0m
+#define IDS_TIME_REMAINING_YEARS _Pragma("whitelisted_resource_27271") 27271
+[0;1;32m                                 ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27271
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:98:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_SECS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:5:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_SECS'[0m
+#define IDS_TIME_SECS _Pragma("whitelisted_resource_27250") 27250
+[0;1;32m                      ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27250
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:103:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_MINS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:8:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_MINS'[0m
+#define IDS_TIME_MINS _Pragma("whitelisted_resource_27253") 27253
+[0;1;32m                      ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27253
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:109:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_LONG_SECS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:6:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_LONG_SECS'[0m
+#define IDS_TIME_LONG_SECS _Pragma("whitelisted_resource_27251") 27251
+[0;1;32m                           ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27251
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:114:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_LONG_MINS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:9:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_LONG_MINS'[0m
+#define IDS_TIME_LONG_MINS _Pragma("whitelisted_resource_27254") 27254
+[0;1;32m                           ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27254
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:119:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_HOURS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:12:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_HOURS'[0m
+#define IDS_TIME_HOURS _Pragma("whitelisted_resource_27257") 27257
+[0;1;32m                       ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27257
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:124:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_DAYS,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:15:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_DAYS'[0m
+#define IDS_TIME_DAYS _Pragma("whitelisted_resource_27260") 27260
+[0;1;32m                      ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27260
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:128:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+static const Pluralities IDS_DURATION_MONTH = {IDS_TIME_MONTHS, "one{# month}",
+[0;1;32m                                               ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:17:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_MONTHS'[0m
+#define IDS_TIME_MONTHS _Pragma("whitelisted_resource_27262") 27262
+[0;1;32m                        ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27262
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:130:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+static const Pluralities IDS_DURATION_YEAR = {IDS_TIME_YEARS, "one{# year}",
+[0;1;32m                                              ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:18:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_YEARS'[0m
+#define IDS_TIME_YEARS _Pragma("whitelisted_resource_27263") 27263
+[0;1;32m                       ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27263
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:134:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_LONG_MINS_1ST,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:10:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_LONG_MINS_1ST'[0m
+#define IDS_TIME_LONG_MINS_1ST _Pragma("whitelisted_resource_27255") 27255
+[0;1;32m                               ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27255
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:139:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_LONG_SECS_2ND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:7:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_LONG_SECS_2ND'[0m
+#define IDS_TIME_LONG_SECS_2ND _Pragma("whitelisted_resource_27252") 27252
+[0;1;32m                               ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27252
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:144:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_HOURS_1ST,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:13:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_HOURS_1ST'[0m
+#define IDS_TIME_HOURS_1ST _Pragma("whitelisted_resource_27258") 27258
+[0;1;32m                           ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27258
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:149:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_LONG_MINS_2ND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:11:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_LONG_MINS_2ND'[0m
+#define IDS_TIME_LONG_MINS_2ND _Pragma("whitelisted_resource_27256") 27256
+[0;1;32m                               ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27256
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:154:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_DAYS_1ST,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:16:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_DAYS_1ST'[0m
+#define IDS_TIME_DAYS_1ST _Pragma("whitelisted_resource_27261") 27261
+[0;1;32m                          ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27261
+[0;1;32m ^
+[0m[1m../../ui/base/l10n/formatter.cc:159:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_TIME_HOURS_2ND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:14:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TIME_HOURS_2ND'[0m
+#define IDS_TIME_HOURS_2ND _Pragma("whitelisted_resource_27259") 27259
+[0;1;32m                           ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27259
+[0;1;32m ^
+[0m30 warnings generated.

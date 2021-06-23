@@ -1,0 +1,22 @@
+clang_x64/obj/third_party/blink/renderer/platform/character_data_generator/character_property_data_generator.o: \
+  ../../third_party/blink/renderer/platform/text/character_property_data_generator.cc \
+  ../../third_party/blink/renderer/platform/text/character_property_data_generator.h \
+  ../../third_party/icu/source/common/unicode/uobject.h \
+  ../../third_party/icu/source/common/unicode/utypes.h \
+  ../../third_party/icu/source/common/unicode/umachine.h \
+  ../../third_party/icu/source/common/unicode/ptypes.h \
+  ../../third_party/icu/source/common/unicode/platform.h \
+  ../../third_party/icu/source/common/unicode/uconfig.h \
+  ../../third_party/icu/source/common/unicode/uvernum.h \
+  ../../third_party/icu/source/common/unicode/urename.h \
+  ../../third_party/icu/source/common/unicode/uversion.h \
+  ../../third_party/icu/source/common/unicode/utf.h \
+  ../../third_party/icu/source/common/unicode/utf8.h \
+  ../../third_party/icu/source/common/unicode/utf16.h \
+  ../../third_party/icu/source/common/unicode/utf_old.h \
+  ../../third_party/blink/renderer/platform/text/character_property.h \
+  ../../third_party/icu/source/common/utrie2.h \
+  ../../third_party/icu/source/common/putilimp.h \
+  ../../third_party/icu/source/common/unicode/putil.h \
+  ../../third_party/icu/source/common/udataswp.h \
+  ../../third_party/icu/source/common/mutex.h

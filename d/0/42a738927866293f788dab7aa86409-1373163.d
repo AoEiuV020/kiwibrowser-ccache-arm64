@@ -1,0 +1,31 @@
+obj/third_party/perfetto/src/tracing/tracing/shared_memory_arbiter_impl.o: \
+  ../../third_party/perfetto/src/tracing/core/shared_memory_arbiter_impl.cc \
+  ../../third_party/perfetto/src/tracing/core/shared_memory_arbiter_impl.h \
+  ../../third_party/perfetto/include/perfetto/base/thread_checker.h \
+  ../../third_party/perfetto/include/perfetto/base/build_config.h \
+  ../../third_party/perfetto/include/perfetto/base/logging.h \
+  ../../third_party/perfetto/include/perfetto/base/utils.h \
+  ../../third_party/perfetto/include/perfetto/base/weak_ptr.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/basic_types.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/shared_memory_abi.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/shared_memory_arbiter.h \
+  ../../third_party/perfetto/include/perfetto/base/export.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/service.h \
+  ../../third_party/perfetto/include/perfetto/base/scoped_file.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/shared_memory.h \
+  ../../third_party/perfetto/src/tracing/core/id_allocator.h \
+  ../../third_party/perfetto/include/perfetto/base/task_runner.h \
+  ../../third_party/perfetto/include/perfetto/base/watchdog.h \
+  ../../third_party/perfetto/include/perfetto/base/watchdog_noop.h \
+  ../../third_party/perfetto/include/perfetto/base/time.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/commit_data_request.h \
+  ../../third_party/perfetto/src/tracing/core/null_trace_writer.h \
+  ../../third_party/perfetto/include/perfetto/protozero/message_handle.h \
+  ../../third_party/perfetto/include/perfetto/protozero/message.h \
+  ../../third_party/perfetto/include/perfetto/protozero/contiguous_memory_range.h \
+  ../../third_party/perfetto/include/perfetto/protozero/proto_utils.h \
+  ../../third_party/perfetto/include/perfetto/protozero/scattered_stream_writer.h \
+  ../../third_party/perfetto/include/perfetto/protozero/scattered_stream_null_delegate.h \
+  ../../third_party/perfetto/include/perfetto/tracing/core/trace_writer.h \
+  ../../third_party/perfetto/src/tracing/core/trace_writer_impl.h \
+  ../../third_party/perfetto/src/tracing/core/patch_list.h

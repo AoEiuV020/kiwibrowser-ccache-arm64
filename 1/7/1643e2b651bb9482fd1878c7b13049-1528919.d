@@ -1,0 +1,27 @@
+obj/third_party/webrtc/api/video/video_frame_i420/i420_buffer.o: \
+  ../../third_party/webrtc/api/video/i420_buffer.cc \
+  ../../third_party/webrtc/api/video/i420_buffer.h \
+  ../../third_party/webrtc/api/video/video_frame_buffer.h \
+  ../../third_party/webrtc/rtc_base/refcount.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/api/video/video_rotation.h \
+  ../../third_party/webrtc/rtc_base/memory/aligned_malloc.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/keep_ref_until_done.h \
+  ../../third_party/webrtc/rtc_base/bind.h \
+  ../../third_party/webrtc/rtc_base/template_util.h \
+  ../../third_party/webrtc/rtc_base/callback.h \
+  ../../third_party/webrtc/rtc_base/refcountedobject.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/rtc_base/refcounter.h \
+  ../../third_party/webrtc/rtc_base/atomicops.h \
+  ../../third_party/libyuv/include/libyuv/convert.h \
+  ../../third_party/libyuv/include/libyuv/basic_types.h \
+  ../../third_party/libyuv/include/libyuv/rotate.h \
+  ../../third_party/libyuv/include/libyuv/convert_argb.h \
+  ../../third_party/libyuv/include/libyuv/convert_from.h \
+  ../../third_party/libyuv/include/libyuv/planar_functions.h \
+  ../../third_party/libyuv/include/libyuv/scale.h

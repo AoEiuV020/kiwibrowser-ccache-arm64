@@ -1,0 +1,73 @@
+[1m../../third_party/blink/renderer/core/script/layered_api.cc:27:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"blank/index.js", IDR_LAYERED_API_BLANK_INDEX_JS},
+[0;1;32m                       ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:27:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_BLANK_INDEX_JS'[0m
+#define IDR_LAYERED_API_BLANK_INDEX_JS _Pragma("whitelisted_resource_25434") 25434
+[0;1;32m                                       ^
+[0m[1m<scratch space>:269:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25434
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:30:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_LAYERED_API_ASYNC_LOCAL_STORAGE_INDEX_JS},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:26:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_ASYNC_LOCAL_STORAGE_INDEX_JS'[0m
+#define IDR_LAYERED_API_ASYNC_LOCAL_STORAGE_INDEX_JS _Pragma("whitelisted_resource_25433") 25433
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:271:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25433
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:32:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"virtual-list/index.js", IDR_LAYERED_API_VIRTUAL_LIST_INDEX_JS},
+[0;1;32m                              ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:28:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_VIRTUAL_LIST_INDEX_JS'[0m
+#define IDR_LAYERED_API_VIRTUAL_LIST_INDEX_JS _Pragma("whitelisted_resource_25435") 25435
+[0;1;32m                                              ^
+[0m[1m<scratch space>:273:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25435
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:34:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_BASE_JS},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:29:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_BASE_JS'[0m
+#define IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_BASE_JS _Pragma("whitelisted_resource_25436") 25436
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:275:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25436
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:36:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_GRID_JS},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:30:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_GRID_JS'[0m
+#define IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_GRID_JS _Pragma("whitelisted_resource_25437") 25437
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:277:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25437
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:38:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_JS},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:31:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_JS'[0m
+#define IDR_LAYERED_API_VIRTUAL_LIST_LAYOUTS_LAYOUT_1D_JS _Pragma("whitelisted_resource_25438") 25438
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:279:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25438
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:40:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_LAYERED_API_VIRTUAL_LIST_VIRTUAL_LIST_JS},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:32:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_VIRTUAL_LIST_VIRTUAL_LIST_JS'[0m
+#define IDR_LAYERED_API_VIRTUAL_LIST_VIRTUAL_LIST_JS _Pragma("whitelisted_resource_25439") 25439
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:281:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25439
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/core/script/layered_api.cc:42:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_LAYERED_API_VIRTUAL_LIST_VIRTUAL_REPEATER_JS},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:33:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAYERED_API_VIRTUAL_LIST_VIRTUAL_REPEATER_JS'[0m
+#define IDR_LAYERED_API_VIRTUAL_LIST_VIRTUAL_REPEATER_JS _Pragma("whitelisted_resource_25440") 25440
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:283:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25440
+[0;1;32m ^
+[0m8 warnings generated.

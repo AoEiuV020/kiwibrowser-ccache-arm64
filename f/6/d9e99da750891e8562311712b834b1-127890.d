@@ -1,0 +1,21 @@
+obj/third_party/libsrtp/libsrtp/hmac_ossl.o: \
+  ../../third_party/libsrtp/crypto/hash/hmac_ossl.c \
+  ../../third_party/libsrtp/config/config.h \
+  ../../third_party/libsrtp/crypto/include/auth.h \
+  ../../third_party/libsrtp/include/srtp.h \
+  ../../third_party/libsrtp/crypto/include/crypto_types.h \
+  ../../third_party/libsrtp/crypto/include/alloc.h \
+  ../../third_party/libsrtp/crypto/include/datatypes.h \
+  ../../third_party/libsrtp/crypto/include/integers.h \
+  ../../third_party/libsrtp/crypto/include/err.h \
+  ../../third_party/boringssl/src/include/openssl/evp.h \
+  ../../third_party/boringssl/src/include/openssl/base.h \
+  ../../third_party/boringssl/src/include/openssl/is_boringssl.h \
+  ../../third_party/boringssl/src/include/openssl/opensslconf.h \
+  ../../third_party/boringssl/src/include/openssl/thread.h \
+  ../../third_party/boringssl/src/include/openssl/aead.h \
+  ../../third_party/boringssl/src/include/openssl/base64.h \
+  ../../third_party/boringssl/src/include/openssl/cipher.h \
+  ../../third_party/boringssl/src/include/openssl/digest.h \
+  ../../third_party/boringssl/src/include/openssl/nid.h \
+  ../../third_party/boringssl/src/include/openssl/hmac.h

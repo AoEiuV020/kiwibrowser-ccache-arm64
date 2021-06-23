@@ -1,0 +1,26 @@
+obj/third_party/webrtc/pc/peerconnection/jsepicecandidate.o: \
+  ../../third_party/webrtc/pc/jsepicecandidate.cc \
+  ../../third_party/webrtc/api/jsepicecandidate.h \
+  ../../third_party/webrtc/api/candidate.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/helpers.h \
+  ../../third_party/webrtc/rtc_base/network_constants.h \
+  ../../third_party/webrtc/rtc_base/socketaddress.h \
+  ../../third_party/webrtc/rtc_base/ipaddress.h \
+  ../../third_party/webrtc/rtc_base/byteorder.h \
+  ../../third_party/webrtc/rtc_base/basictypes.h \
+  ../../third_party/webrtc/api/jsep.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/api/rtcerror.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/rtc_base/refcount.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/pc/webrtcsdp.h \
+  ../../third_party/webrtc/rtc_base/stringencode.h

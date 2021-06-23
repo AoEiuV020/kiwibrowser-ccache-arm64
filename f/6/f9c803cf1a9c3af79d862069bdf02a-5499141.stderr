@@ -1,0 +1,1387 @@
+[1m../../content/child/blink_platform_impl.cc:73:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_AM_PM_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:146:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_AM_PM_FIELD_TEXT'[0m
+#define IDS_AX_AM_PM_FIELD_TEXT _Pragma("whitelisted_resource_20242") 20242
+[0;1;32m                                ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20242
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:75:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_CALENDAR_SHOW_MONTH_SELECTOR;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:26:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CALENDAR_SHOW_MONTH_SELECTOR'[0m
+#define IDS_AX_CALENDAR_SHOW_MONTH_SELECTOR _Pragma("whitelisted_resource_20121") 20121
+[0;1;32m                                            ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20121
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:77:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_CALENDAR_SHOW_NEXT_MONTH;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:27:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CALENDAR_SHOW_NEXT_MONTH'[0m
+#define IDS_AX_CALENDAR_SHOW_NEXT_MONTH _Pragma("whitelisted_resource_20122") 20122
+[0;1;32m                                        ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20122
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:79:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_CALENDAR_SHOW_PREVIOUS_MONTH;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:28:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CALENDAR_SHOW_PREVIOUS_MONTH'[0m
+#define IDS_AX_CALENDAR_SHOW_PREVIOUS_MONTH _Pragma("whitelisted_resource_20123") 20123
+[0;1;32m                                            ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20123
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:81:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_CALENDAR_WEEK_DESCRIPTION;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:29:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_CALENDAR_WEEK_DESCRIPTION'[0m
+#define IDS_AX_CALENDAR_WEEK_DESCRIPTION _Pragma("whitelisted_resource_20124") 20124
+[0;1;32m                                         ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20124
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:83:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_DAY_OF_MONTH_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:147:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_DAY_OF_MONTH_FIELD_TEXT'[0m
+#define IDS_AX_DAY_OF_MONTH_FIELD_TEXT _Pragma("whitelisted_resource_20243") 20243
+[0;1;32m                                       ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20243
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:85:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_HOUR_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:148:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_HOUR_FIELD_TEXT'[0m
+#define IDS_AX_HOUR_FIELD_TEXT _Pragma("whitelisted_resource_20244") 20244
+[0;1;32m                               ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20244
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:87:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_DEFAULT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:149:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_DEFAULT'[0m
+#define IDS_AX_MEDIA_DEFAULT _Pragma("whitelisted_resource_20245") 20245
+[0;1;32m                             ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20245
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:89:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_AUDIO_ELEMENT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:150:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_AUDIO_ELEMENT'[0m
+#define IDS_AX_MEDIA_AUDIO_ELEMENT _Pragma("whitelisted_resource_20246") 20246
+[0;1;32m                                   ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20246
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:91:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_VIDEO_ELEMENT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:151:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_VIDEO_ELEMENT'[0m
+#define IDS_AX_MEDIA_VIDEO_ELEMENT _Pragma("whitelisted_resource_20247") 20247
+[0;1;32m                                   ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20247
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:93:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_MUTE_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:152:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_MUTE_BUTTON'[0m
+#define IDS_AX_MEDIA_MUTE_BUTTON _Pragma("whitelisted_resource_20248") 20248
+[0;1;32m                                 ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20248
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:95:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_UNMUTE_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:153:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_UNMUTE_BUTTON'[0m
+#define IDS_AX_MEDIA_UNMUTE_BUTTON _Pragma("whitelisted_resource_20249") 20249
+[0;1;32m                                   ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20249
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:97:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_PLAY_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:154:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_PLAY_BUTTON'[0m
+#define IDS_AX_MEDIA_PLAY_BUTTON _Pragma("whitelisted_resource_20250") 20250
+[0;1;32m                                 ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20250
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:99:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_PAUSE_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:155:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_PAUSE_BUTTON'[0m
+#define IDS_AX_MEDIA_PAUSE_BUTTON _Pragma("whitelisted_resource_20251") 20251
+[0;1;32m                                  ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20251
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:101:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_CURRENT_TIME_DISPLAY;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:156:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_CURRENT_TIME_DISPLAY'[0m
+#define IDS_AX_MEDIA_CURRENT_TIME_DISPLAY _Pragma("whitelisted_resource_20252") 20252
+[0;1;32m                                          ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20252
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:103:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_TIME_REMAINING_DISPLAY;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:157:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_TIME_REMAINING_DISPLAY'[0m
+#define IDS_AX_MEDIA_TIME_REMAINING_DISPLAY _Pragma("whitelisted_resource_20253") 20253
+[0;1;32m                                            ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20253
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:105:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_ENTER_FULL_SCREEN_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:158:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_ENTER_FULL_SCREEN_BUTTON'[0m
+#define IDS_AX_MEDIA_ENTER_FULL_SCREEN_BUTTON _Pragma("whitelisted_resource_20254") 20254
+[0;1;32m                                              ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20254
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:107:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_EXIT_FULL_SCREEN_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:159:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_EXIT_FULL_SCREEN_BUTTON'[0m
+#define IDS_AX_MEDIA_EXIT_FULL_SCREEN_BUTTON _Pragma("whitelisted_resource_20255") 20255
+[0;1;32m                                             ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20255
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:109:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_SHOW_CLOSED_CAPTIONS_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:160:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_SHOW_CLOSED_CAPTIONS_BUTTON'[0m
+#define IDS_AX_MEDIA_SHOW_CLOSED_CAPTIONS_BUTTON _Pragma("whitelisted_resource_20256") 20256
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20256
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:111:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_HIDE_CLOSED_CAPTIONS_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:161:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_HIDE_CLOSED_CAPTIONS_BUTTON'[0m
+#define IDS_AX_MEDIA_HIDE_CLOSED_CAPTIONS_BUTTON _Pragma("whitelisted_resource_20257") 20257
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20257
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:113:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_CAST_OFF_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:162:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_CAST_OFF_BUTTON'[0m
+#define IDS_AX_MEDIA_CAST_OFF_BUTTON _Pragma("whitelisted_resource_20258") 20258
+[0;1;32m                                     ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20258
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:115:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_CAST_ON_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:163:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_CAST_ON_BUTTON'[0m
+#define IDS_AX_MEDIA_CAST_ON_BUTTON _Pragma("whitelisted_resource_20259") 20259
+[0;1;32m                                    ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20259
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:117:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_DOWNLOAD_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:164:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_DOWNLOAD_BUTTON'[0m
+#define IDS_AX_MEDIA_DOWNLOAD_BUTTON _Pragma("whitelisted_resource_20260") 20260
+[0;1;32m                                     ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20260
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:119:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_OVERFLOW_BUTTON;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:165:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_OVERFLOW_BUTTON'[0m
+#define IDS_AX_MEDIA_OVERFLOW_BUTTON _Pragma("whitelisted_resource_20261") 20261
+[0;1;32m                                     ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20261
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:121:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_AUDIO_ELEMENT_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:166:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_AUDIO_ELEMENT_HELP'[0m
+#define IDS_AX_MEDIA_AUDIO_ELEMENT_HELP _Pragma("whitelisted_resource_20262") 20262
+[0;1;32m                                        ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20262
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:123:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_VIDEO_ELEMENT_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:167:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_VIDEO_ELEMENT_HELP'[0m
+#define IDS_AX_MEDIA_VIDEO_ELEMENT_HELP _Pragma("whitelisted_resource_20263") 20263
+[0;1;32m                                        ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20263
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:125:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_MUTE_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:168:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_MUTE_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_MUTE_BUTTON_HELP _Pragma("whitelisted_resource_20264") 20264
+[0;1;32m                                      ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20264
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:127:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_UNMUTE_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:169:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_UNMUTE_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_UNMUTE_BUTTON_HELP _Pragma("whitelisted_resource_20265") 20265
+[0;1;32m                                        ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20265
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:129:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_PLAY_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:170:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_PLAY_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_PLAY_BUTTON_HELP _Pragma("whitelisted_resource_20266") 20266
+[0;1;32m                                      ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20266
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:131:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_PAUSE_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:171:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_PAUSE_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_PAUSE_BUTTON_HELP _Pragma("whitelisted_resource_20267") 20267
+[0;1;32m                                       ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20267
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:133:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_AUDIO_SLIDER_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:172:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_AUDIO_SLIDER_HELP'[0m
+#define IDS_AX_MEDIA_AUDIO_SLIDER_HELP _Pragma("whitelisted_resource_20268") 20268
+[0;1;32m                                       ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20268
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:135:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_VIDEO_SLIDER_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:173:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_VIDEO_SLIDER_HELP'[0m
+#define IDS_AX_MEDIA_VIDEO_SLIDER_HELP _Pragma("whitelisted_resource_20269") 20269
+[0;1;32m                                       ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20269
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:137:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_CURRENT_TIME_DISPLAY_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:174:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_CURRENT_TIME_DISPLAY_HELP'[0m
+#define IDS_AX_MEDIA_CURRENT_TIME_DISPLAY_HELP _Pragma("whitelisted_resource_20270") 20270
+[0;1;32m                                               ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20270
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:139:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_TIME_REMAINING_DISPLAY_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:175:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_TIME_REMAINING_DISPLAY_HELP'[0m
+#define IDS_AX_MEDIA_TIME_REMAINING_DISPLAY_HELP _Pragma("whitelisted_resource_20271") 20271
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20271
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:141:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_ENTER_FULL_SCREEN_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:176:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_ENTER_FULL_SCREEN_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_ENTER_FULL_SCREEN_BUTTON_HELP _Pragma("whitelisted_resource_20272") 20272
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20272
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:143:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_EXIT_FULL_SCREEN_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:177:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_EXIT_FULL_SCREEN_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_EXIT_FULL_SCREEN_BUTTON_HELP _Pragma("whitelisted_resource_20273") 20273
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20273
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:145:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_SHOW_CLOSED_CAPTIONS_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:178:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_SHOW_CLOSED_CAPTIONS_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_SHOW_CLOSED_CAPTIONS_BUTTON_HELP _Pragma("whitelisted_resource_20274") 20274
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20274
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:147:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_HIDE_CLOSED_CAPTIONS_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:179:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_HIDE_CLOSED_CAPTIONS_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_HIDE_CLOSED_CAPTIONS_BUTTON_HELP _Pragma("whitelisted_resource_20275") 20275
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20275
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:149:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_CAST_OFF_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:180:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_CAST_OFF_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_CAST_OFF_BUTTON_HELP _Pragma("whitelisted_resource_20276") 20276
+[0;1;32m                                          ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20276
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:151:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_CAST_ON_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:181:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_CAST_ON_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_CAST_ON_BUTTON_HELP _Pragma("whitelisted_resource_20277") 20277
+[0;1;32m                                         ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20277
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:153:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MEDIA_OVERFLOW_BUTTON_HELP;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:182:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_OVERFLOW_BUTTON_HELP'[0m
+#define IDS_AX_MEDIA_OVERFLOW_BUTTON_HELP _Pragma("whitelisted_resource_20278") 20278
+[0;1;32m                                          ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20278
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:155:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MILLISECOND_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:183:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MILLISECOND_FIELD_TEXT'[0m
+#define IDS_AX_MILLISECOND_FIELD_TEXT _Pragma("whitelisted_resource_20279") 20279
+[0;1;32m                                      ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20279
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:157:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MINUTE_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:184:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MINUTE_FIELD_TEXT'[0m
+#define IDS_AX_MINUTE_FIELD_TEXT _Pragma("whitelisted_resource_20280") 20280
+[0;1;32m                                 ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20280
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:159:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_MONTH_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:185:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MONTH_FIELD_TEXT'[0m
+#define IDS_AX_MONTH_FIELD_TEXT _Pragma("whitelisted_resource_20281") 20281
+[0;1;32m                                ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20281
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:161:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_SECOND_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:186:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_SECOND_FIELD_TEXT'[0m
+#define IDS_AX_SECOND_FIELD_TEXT _Pragma("whitelisted_resource_20282") 20282
+[0;1;32m                                 ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20282
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:163:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_WEEK_OF_YEAR_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:187:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_WEEK_OF_YEAR_FIELD_TEXT'[0m
+#define IDS_AX_WEEK_OF_YEAR_FIELD_TEXT _Pragma("whitelisted_resource_20283") 20283
+[0;1;32m                                       ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20283
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:165:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_AX_YEAR_FIELD_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:188:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_YEAR_FIELD_TEXT'[0m
+#define IDS_AX_YEAR_FIELD_TEXT _Pragma("whitelisted_resource_20284") 20284
+[0;1;32m                               ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20284
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:167:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_CALENDAR_CLEAR;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:6:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_CALENDAR_CLEAR'[0m
+#define IDS_FORM_CALENDAR_CLEAR _Pragma("whitelisted_resource_20101") 20101
+[0;1;32m                                ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20101
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:169:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_CALENDAR_TODAY;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:7:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_CALENDAR_TODAY'[0m
+#define IDS_FORM_CALENDAR_TODAY _Pragma("whitelisted_resource_20102") 20102
+[0;1;32m                                ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20102
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:171:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_DETAILS_WITHOUT_SUMMARY_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:5:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DETAILS_WITHOUT_SUMMARY_LABEL'[0m
+#define IDS_DETAILS_WITHOUT_SUMMARY_LABEL _Pragma("whitelisted_resource_20100") 20100
+[0;1;32m                                          ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20100
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:173:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_FILE_BUTTON_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:11:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_FILE_BUTTON_LABEL'[0m
+#define IDS_FORM_FILE_BUTTON_LABEL _Pragma("whitelisted_resource_20106") 20106
+[0;1;32m                                   ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20106
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:175:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_MULTIPLE_FILES_BUTTON_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:12:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_MULTIPLE_FILES_BUTTON_LABEL'[0m
+#define IDS_FORM_MULTIPLE_FILES_BUTTON_LABEL _Pragma("whitelisted_resource_20107") 20107
+[0;1;32m                                             ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20107
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:177:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_FILE_NO_FILE_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:13:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_FILE_NO_FILE_LABEL'[0m
+#define IDS_FORM_FILE_NO_FILE_LABEL _Pragma("whitelisted_resource_20108") 20108
+[0;1;32m                                    ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20108
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:179:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_INPUT_ALT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:9:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_INPUT_ALT'[0m
+#define IDS_FORM_INPUT_ALT _Pragma("whitelisted_resource_20104") 20104
+[0;1;32m                           ^
+[0m[1m<scratch space>:163:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20104
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:181:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_PLUGIN_INITIALIZATION_ERROR;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:239:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_INITIALIZATION_ERROR'[0m
+#define IDS_PLUGIN_INITIALIZATION_ERROR _Pragma("whitelisted_resource_20335") 20335
+[0;1;32m                                        ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20335
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:183:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_REMOTING_CAST_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:231:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_REMOTING_CAST_TEXT'[0m
+#define IDS_MEDIA_REMOTING_CAST_TEXT _Pragma("whitelisted_resource_20327") 20327
+[0;1;32m                                     ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20327
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:185:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_REMOTING_CAST_TO_UNKNOWN_DEVICE_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:232:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_REMOTING_CAST_TO_UNKNOWN_DEVICE_TEXT'[0m
+#define IDS_MEDIA_REMOTING_CAST_TO_UNKNOWN_DEVICE_TEXT _Pragma("whitelisted_resource_20328") 20328
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:169:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20328
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:187:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_REMOTING_STOP_BY_ERROR_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:235:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_REMOTING_STOP_BY_ERROR_TEXT'[0m
+#define IDS_MEDIA_REMOTING_STOP_BY_ERROR_TEXT _Pragma("whitelisted_resource_20331") 20331
+[0;1;32m                                              ^
+[0m[1m<scratch space>:171:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20331
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:189:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_REMOTING_STOP_BY_PLAYBACK_QUALITY_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:234:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_REMOTING_STOP_BY_PLAYBACK_QUALITY_TEXT'[0m
+#define IDS_MEDIA_REMOTING_STOP_BY_PLAYBACK_QUALITY_TEXT _Pragma("whitelisted_resource_20330") 20330
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:173:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20330
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:193:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_REMOTING_STOP_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:233:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_REMOTING_STOP_TEXT'[0m
+#define IDS_MEDIA_REMOTING_STOP_TEXT _Pragma("whitelisted_resource_20329") 20329
+[0;1;32m                                     ^
+[0m[1m<scratch space>:175:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20329
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:195:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_SCRUBBING_MESSAGE_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:236:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCRUBBING_MESSAGE_TEXT'[0m
+#define IDS_MEDIA_SCRUBBING_MESSAGE_TEXT _Pragma("whitelisted_resource_20332") 20332
+[0;1;32m                                         ^
+[0m[1m<scratch space>:177:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20332
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:197:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_FILE_MULTIPLE_UPLOAD;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:14:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_FILE_MULTIPLE_UPLOAD'[0m
+#define IDS_FORM_FILE_MULTIPLE_UPLOAD _Pragma("whitelisted_resource_20109") 20109
+[0;1;32m                                      ^
+[0m[1m<scratch space>:179:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20109
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:199:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_OTHER_COLOR_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:15:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_OTHER_COLOR_LABEL'[0m
+#define IDS_FORM_OTHER_COLOR_LABEL _Pragma("whitelisted_resource_20110") 20110
+[0;1;32m                                   ^
+[0m[1m<scratch space>:181:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20110
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:201:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_OTHER_DATE_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:16:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_OTHER_DATE_LABEL'[0m
+#define IDS_FORM_OTHER_DATE_LABEL _Pragma("whitelisted_resource_20111") 20111
+[0;1;32m                                  ^
+[0m[1m<scratch space>:183:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20111
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:203:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_OTHER_MONTH_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:17:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_OTHER_MONTH_LABEL'[0m
+#define IDS_FORM_OTHER_MONTH_LABEL _Pragma("whitelisted_resource_20112") 20112
+[0;1;32m                                   ^
+[0m[1m<scratch space>:185:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20112
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:205:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_OTHER_WEEK_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:18:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_OTHER_WEEK_LABEL'[0m
+#define IDS_FORM_OTHER_WEEK_LABEL _Pragma("whitelisted_resource_20113") 20113
+[0;1;32m                                  ^
+[0m[1m<scratch space>:187:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20113
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:207:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_CLOSED_CAPTIONS;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:219:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_CLOSED_CAPTIONS'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_CLOSED_CAPTIONS _Pragma("whitelisted_resource_20315") 20315
+[0;1;32m                                                ^
+[0m[1m<scratch space>:189:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20315
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:209:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_CLOSED_CAPTIONS_SUBMENU_TITLE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:220:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_CLOSED_CAPTIONS_SUBMENU_TITLE'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_CLOSED_CAPTIONS_SUBMENU_TITLE _Pragma("whitelisted_resource_20316") 20316
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:191:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20316
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:211:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_CAST;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:221:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_CAST'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_CAST _Pragma("whitelisted_resource_20317") 20317
+[0;1;32m                                     ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20317
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:213:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_ENTER_FULLSCREEN;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:222:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_ENTER_FULLSCREEN'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_ENTER_FULLSCREEN _Pragma("whitelisted_resource_20318") 20318
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:195:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20318
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:215:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_EXIT_FULLSCREEN;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:223:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_EXIT_FULLSCREEN'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_EXIT_FULLSCREEN _Pragma("whitelisted_resource_20319") 20319
+[0;1;32m                                                ^
+[0m[1m<scratch space>:197:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20319
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:217:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_MUTE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:224:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_MUTE'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_MUTE _Pragma("whitelisted_resource_20320") 20320
+[0;1;32m                                     ^
+[0m[1m<scratch space>:199:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20320
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:219:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_UNMUTE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:225:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_UNMUTE'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_UNMUTE _Pragma("whitelisted_resource_20321") 20321
+[0;1;32m                                       ^
+[0m[1m<scratch space>:201:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20321
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:221:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_PLAY;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:226:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_PLAY'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_PLAY _Pragma("whitelisted_resource_20322") 20322
+[0;1;32m                                     ^
+[0m[1m<scratch space>:203:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20322
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:223:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_PAUSE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:227:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_PAUSE'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_PAUSE _Pragma("whitelisted_resource_20323") 20323
+[0;1;32m                                      ^
+[0m[1m<scratch space>:205:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20323
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:225:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_DOWNLOAD;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:228:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_DOWNLOAD'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_DOWNLOAD _Pragma("whitelisted_resource_20324") 20324
+[0;1;32m                                         ^
+[0m[1m<scratch space>:207:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20324
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:227:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_OVERFLOW_MENU_PICTURE_IN_PICTURE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:229:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_OVERFLOW_MENU_PICTURE_IN_PICTURE'[0m
+#define IDS_MEDIA_OVERFLOW_MENU_PICTURE_IN_PICTURE _Pragma("whitelisted_resource_20325") 20325
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20325
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:229:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_PICTURE_IN_PICTURE_INTERSTITIAL_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:230:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_PICTURE_IN_PICTURE_INTERSTITIAL_TEXT'[0m
+#define IDS_MEDIA_PICTURE_IN_PICTURE_INTERSTITIAL_TEXT _Pragma("whitelisted_resource_20326") 20326
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20326
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:231:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_PLACEHOLDER_FOR_DAY_OF_MONTH_FIELD;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:19:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_PLACEHOLDER_FOR_DAY_OF_MONTH_FIELD'[0m
+#define IDS_FORM_PLACEHOLDER_FOR_DAY_OF_MONTH_FIELD _Pragma("whitelisted_resource_20114") 20114
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20114
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:233:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_PLACEHOLDER_FOR_MONTH_FIELD;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:20:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_PLACEHOLDER_FOR_MONTH_FIELD'[0m
+#define IDS_FORM_PLACEHOLDER_FOR_MONTH_FIELD _Pragma("whitelisted_resource_20115") 20115
+[0;1;32m                                             ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20115
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:235:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_PLACEHOLDER_FOR_YEAR_FIELD;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:21:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_PLACEHOLDER_FOR_YEAR_FIELD'[0m
+#define IDS_FORM_PLACEHOLDER_FOR_YEAR_FIELD _Pragma("whitelisted_resource_20116") 20116
+[0;1;32m                                            ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20116
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:237:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_RESET_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:10:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_RESET_LABEL'[0m
+#define IDS_FORM_RESET_LABEL _Pragma("whitelisted_resource_20105") 20105
+[0;1;32m                             ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20105
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:239:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_SELECT_MENU_LIST_TEXT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:22:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_SELECT_MENU_LIST_TEXT'[0m
+#define IDS_FORM_SELECT_MENU_LIST_TEXT _Pragma("whitelisted_resource_20117") 20117
+[0;1;32m                                       ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20117
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:241:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_SUBMIT_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:8:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_SUBMIT_LABEL'[0m
+#define IDS_FORM_SUBMIT_LABEL _Pragma("whitelisted_resource_20103") 20103
+[0;1;32m                              ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20103
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:243:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_THIS_MONTH_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:23:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_THIS_MONTH_LABEL'[0m
+#define IDS_FORM_THIS_MONTH_LABEL _Pragma("whitelisted_resource_20118") 20118
+[0;1;32m                                  ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20118
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:245:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_THIS_WEEK_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:24:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_THIS_WEEK_LABEL'[0m
+#define IDS_FORM_THIS_WEEK_LABEL _Pragma("whitelisted_resource_20119") 20119
+[0;1;32m                                 ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20119
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:247:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_BAD_INPUT_DATETIME;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:204:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_BAD_INPUT_DATETIME'[0m
+#define IDS_FORM_VALIDATION_BAD_INPUT_DATETIME _Pragma("whitelisted_resource_20300") 20300
+[0;1;32m                                               ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20300
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:249:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_BAD_INPUT_NUMBER;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:205:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_BAD_INPUT_NUMBER'[0m
+#define IDS_FORM_VALIDATION_BAD_INPUT_NUMBER _Pragma("whitelisted_resource_20301") 20301
+[0;1;32m                                             ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20301
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:251:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_PATTERN_MISMATCH;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:213:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_PATTERN_MISMATCH'[0m
+#define IDS_FORM_VALIDATION_PATTERN_MISMATCH _Pragma("whitelisted_resource_20309") 20309
+[0;1;32m                                             ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20309
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:253:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_RANGE_OVERFLOW;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:202:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_RANGE_OVERFLOW'[0m
+#define IDS_FORM_VALIDATION_RANGE_OVERFLOW _Pragma("whitelisted_resource_20298") 20298
+[0;1;32m                                           ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20298
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:255:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_RANGE_OVERFLOW_DATETIME;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:203:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_RANGE_OVERFLOW_DATETIME'[0m
+#define IDS_FORM_VALIDATION_RANGE_OVERFLOW_DATETIME _Pragma("whitelisted_resource_20299") 20299
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20299
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:257:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_RANGE_UNDERFLOW;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:200:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_RANGE_UNDERFLOW'[0m
+#define IDS_FORM_VALIDATION_RANGE_UNDERFLOW _Pragma("whitelisted_resource_20296") 20296
+[0;1;32m                                            ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20296
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:259:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_RANGE_UNDERFLOW_DATETIME;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:201:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_RANGE_UNDERFLOW_DATETIME'[0m
+#define IDS_FORM_VALIDATION_RANGE_UNDERFLOW_DATETIME _Pragma("whitelisted_resource_20297") 20297
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20297
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:261:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_STEP_MISMATCH;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:214:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_STEP_MISMATCH'[0m
+#define IDS_FORM_VALIDATION_STEP_MISMATCH _Pragma("whitelisted_resource_20310") 20310
+[0;1;32m                                          ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20310
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:263:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_STEP_MISMATCH_CLOSE_TO_LIMIT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:215:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_STEP_MISMATCH_CLOSE_TO_LIMIT'[0m
+#define IDS_FORM_VALIDATION_STEP_MISMATCH_CLOSE_TO_LIMIT _Pragma("whitelisted_resource_20311") 20311
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20311
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:265:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TOO_LONG;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:216:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TOO_LONG'[0m
+#define IDS_FORM_VALIDATION_TOO_LONG _Pragma("whitelisted_resource_20312") 20312
+[0;1;32m                                     ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20312
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:267:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TOO_SHORT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:217:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TOO_SHORT'[0m
+#define IDS_FORM_VALIDATION_TOO_SHORT _Pragma("whitelisted_resource_20313") 20313
+[0;1;32m                                      ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20313
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:269:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TOO_SHORT_PLURAL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:218:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TOO_SHORT_PLURAL'[0m
+#define IDS_FORM_VALIDATION_TOO_SHORT_PLURAL _Pragma("whitelisted_resource_20314") 20314
+[0;1;32m                                             ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20314
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:271:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:191:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH _Pragma("whitelisted_resource_20287") 20287
+[0;1;32m                                          ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20287
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:273:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:211:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL _Pragma("whitelisted_resource_20307") 20307
+[0;1;32m                                                ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20307
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:275:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:192:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY _Pragma("whitelisted_resource_20288") 20288
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20288
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:277:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY_DOMAIN;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:193:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY_DOMAIN'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY_DOMAIN _Pragma("whitelisted_resource_20289") 20289
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20289
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:279:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY_LOCAL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:194:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY_LOCAL'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_EMPTY_LOCAL _Pragma("whitelisted_resource_20290") 20290
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20290
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:281:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_DOMAIN;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:195:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_DOMAIN'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_DOMAIN _Pragma("whitelisted_resource_20291") 20291
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20291
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:283:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_DOTS;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:196:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_DOTS'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_DOTS _Pragma("whitelisted_resource_20292") 20292
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20292
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:285:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_LOCAL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:197:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_LOCAL'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_INVALID_LOCAL _Pragma("whitelisted_resource_20293") 20293
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20293
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:287:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_NO_AT_SIGN;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:198:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_NO_AT_SIGN'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_EMAIL_NO_AT_SIGN _Pragma("whitelisted_resource_20294") 20294
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20294
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:289:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_MULTIPLE_EMAIL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:199:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_MULTIPLE_EMAIL'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_MULTIPLE_EMAIL _Pragma("whitelisted_resource_20295") 20295
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20295
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:291:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_TYPE_MISMATCH_URL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:212:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_TYPE_MISMATCH_URL'[0m
+#define IDS_FORM_VALIDATION_TYPE_MISMATCH_URL _Pragma("whitelisted_resource_20308") 20308
+[0;1;32m                                              ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20308
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:293:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_VALUE_MISSING;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:206:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_VALUE_MISSING'[0m
+#define IDS_FORM_VALIDATION_VALUE_MISSING _Pragma("whitelisted_resource_20302") 20302
+[0;1;32m                                          ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20302
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:295:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_VALUE_MISSING_CHECKBOX;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:207:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_VALUE_MISSING_CHECKBOX'[0m
+#define IDS_FORM_VALIDATION_VALUE_MISSING_CHECKBOX _Pragma("whitelisted_resource_20303") 20303
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20303
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:297:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_VALUE_MISSING_FILE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:208:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_VALUE_MISSING_FILE'[0m
+#define IDS_FORM_VALIDATION_VALUE_MISSING_FILE _Pragma("whitelisted_resource_20304") 20304
+[0;1;32m                                               ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20304
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:299:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_VALUE_MISSING_MULTIPLE_FILE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:190:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_VALUE_MISSING_MULTIPLE_FILE'[0m
+#define IDS_FORM_VALIDATION_VALUE_MISSING_MULTIPLE_FILE _Pragma("whitelisted_resource_20286") 20286
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20286
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:301:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_VALUE_MISSING_RADIO;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:209:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_VALUE_MISSING_RADIO'[0m
+#define IDS_FORM_VALIDATION_VALUE_MISSING_RADIO _Pragma("whitelisted_resource_20305") 20305
+[0;1;32m                                                ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20305
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:303:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_VALIDATION_VALUE_MISSING_SELECT;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:210:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_VALIDATION_VALUE_MISSING_SELECT'[0m
+#define IDS_FORM_VALIDATION_VALUE_MISSING_SELECT _Pragma("whitelisted_resource_20306") 20306
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20306
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:305:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_INPUT_WEEK_TEMPLATE;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:189:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_INPUT_WEEK_TEMPLATE'[0m
+#define IDS_FORM_INPUT_WEEK_TEMPLATE _Pragma("whitelisted_resource_20285") 20285
+[0;1;32m                                     ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20285
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:307:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_FORM_WEEK_NUMBER_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:25:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FORM_WEEK_NUMBER_LABEL'[0m
+#define IDS_FORM_WEEK_NUMBER_LABEL _Pragma("whitelisted_resource_20120") 20120
+[0;1;32m                                   ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20120
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:309:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_TRACKS_NO_LABEL;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:237:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_TRACKS_NO_LABEL'[0m
+#define IDS_MEDIA_TRACKS_NO_LABEL _Pragma("whitelisted_resource_20333") 20333
+[0;1;32m                                  ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20333
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:311:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_MEDIA_TRACKS_OFF;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:238:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_TRACKS_OFF'[0m
+#define IDS_MEDIA_TRACKS_OFF _Pragma("whitelisted_resource_20334") 20334
+[0;1;32m                             ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20334
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:313:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_UNITS_KIBIBYTES;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:240:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UNITS_KIBIBYTES'[0m
+#define IDS_UNITS_KIBIBYTES _Pragma("whitelisted_resource_20336") 20336
+[0;1;32m                            ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20336
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:315:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_UNITS_MEBIBYTES;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:241:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UNITS_MEBIBYTES'[0m
+#define IDS_UNITS_MEBIBYTES _Pragma("whitelisted_resource_20337") 20337
+[0;1;32m                            ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20337
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:317:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_UNITS_GIBIBYTES;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:242:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UNITS_GIBIBYTES'[0m
+#define IDS_UNITS_GIBIBYTES _Pragma("whitelisted_resource_20338") 20338
+[0;1;32m                            ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20338
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:319:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_UNITS_TEBIBYTES;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:243:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UNITS_TEBIBYTES'[0m
+#define IDS_UNITS_TEBIBYTES _Pragma("whitelisted_resource_20339") 20339
+[0;1;32m                            ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20339
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:321:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_UNITS_PEBIBYTES;
+[0;1;32m             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:244:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UNITS_PEBIBYTES'[0m
+#define IDS_UNITS_PEBIBYTES _Pragma("whitelisted_resource_20340") 20340
+[0;1;32m                            ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20340
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:406:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDR_AUDIO_SPATIALIZATION_COMPOSITE, ui::SCALE_FACTOR_NONE);
+[0;1;32m        ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:25:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUDIO_SPATIALIZATION_COMPOSITE'[0m
+#define IDR_AUDIO_SPATIALIZATION_COMPOSITE _Pragma("whitelisted_resource_25432") 25432
+[0;1;32m                                           ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25432
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:469:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"missingImage", IDR_BROKENIMAGE, ui::SCALE_FACTOR_100P, false},
+[0;1;32m                     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:6:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BROKENIMAGE'[0m
+#define IDR_BROKENIMAGE _Pragma("whitelisted_resource_25301") 25301
+[0;1;32m                        ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25301
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:470:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"missingImage@2x", IDR_BROKENIMAGE, ui::SCALE_FACTOR_200P, false},
+[0;1;32m                        ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:6:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BROKENIMAGE'[0m
+#define IDR_BROKENIMAGE _Pragma("whitelisted_resource_25301") 25301
+[0;1;32m                        ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25301
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:471:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"searchCancel", IDR_SEARCH_CANCEL, ui::SCALE_FACTOR_100P, false},
+[0;1;32m                     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:7:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SEARCH_CANCEL'[0m
+#define IDR_SEARCH_CANCEL _Pragma("whitelisted_resource_25302") 25302
+[0;1;32m                          ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25302
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:472:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"searchCancelPressed", IDR_SEARCH_CANCEL_PRESSED, ui::SCALE_FACTOR_100P,
+[0;1;32m                            ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:8:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SEARCH_CANCEL_PRESSED'[0m
+#define IDR_SEARCH_CANCEL_PRESSED _Pragma("whitelisted_resource_25303") 25303
+[0;1;32m                                  ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25303
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:474:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"generatePassword", IDR_PASSWORD_GENERATION_ICON, ui::SCALE_FACTOR_100P,
+[0;1;32m                         ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:9:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PASSWORD_GENERATION_ICON'[0m
+#define IDR_PASSWORD_GENERATION_ICON _Pragma("whitelisted_resource_25304") 25304
+[0;1;32m                                     ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25304
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:476:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"generatePasswordHover", IDR_PASSWORD_GENERATION_ICON_HOVER,
+[0;1;32m                              ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:10:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PASSWORD_GENERATION_ICON_HOVER'[0m
+#define IDR_PASSWORD_GENERATION_ICON_HOVER _Pragma("whitelisted_resource_25305") 25305
+[0;1;32m                                           ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25305
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:478:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"html.css", IDR_UASTYLE_HTML_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                 ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_HTML_CSS'[0m
+#define IDR_UASTYLE_HTML_CSS _Pragma("whitelisted_resource_25400") 25400
+[0;1;32m                             ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25400
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:479:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"quirks.css", IDR_UASTYLE_QUIRKS_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                   ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:6:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_QUIRKS_CSS'[0m
+#define IDR_UASTYLE_QUIRKS_CSS _Pragma("whitelisted_resource_25401") 25401
+[0;1;32m                               ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25401
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:480:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"view-source.css", IDR_UASTYLE_VIEW_SOURCE_CSS, ui::SCALE_FACTOR_NONE,
+[0;1;32m                        ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:7:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_VIEW_SOURCE_CSS'[0m
+#define IDR_UASTYLE_VIEW_SOURCE_CSS _Pragma("whitelisted_resource_25402") 25402
+[0;1;32m                                    ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25402
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:483:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"themeChromiumAndroid.css", IDR_UASTYLE_THEME_CHROMIUM_ANDROID_CSS,
+[0;1;32m                                 ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:8:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_THEME_CHROMIUM_ANDROID_CSS'[0m
+#define IDR_UASTYLE_THEME_CHROMIUM_ANDROID_CSS _Pragma("whitelisted_resource_25403") 25403
+[0;1;32m                                               ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25403
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:486:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"fullscreenAndroid.css", IDR_UASTYLE_FULLSCREEN_ANDROID_CSS,
+[0;1;32m                              ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:9:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_FULLSCREEN_ANDROID_CSS'[0m
+#define IDR_UASTYLE_FULLSCREEN_ANDROID_CSS _Pragma("whitelisted_resource_25404") 25404
+[0;1;32m                                           ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25404
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:489:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"themeChromiumLinux.css", IDR_UASTYLE_THEME_CHROMIUM_LINUX_CSS,
+[0;1;32m                               ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:10:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_THEME_CHROMIUM_LINUX_CSS'[0m
+#define IDR_UASTYLE_THEME_CHROMIUM_LINUX_CSS _Pragma("whitelisted_resource_25405") 25405
+[0;1;32m                                             ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25405
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:492:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_UASTYLE_THEME_INPUT_MULTIPLE_FIELDS_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:11:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_THEME_INPUT_MULTIPLE_FIELDS_CSS'[0m
+#define IDR_UASTYLE_THEME_INPUT_MULTIPLE_FIELDS_CSS _Pragma("whitelisted_resource_25407") 25407
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25407
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:496:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"themeWin.css", IDR_UASTYLE_THEME_WIN_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:12:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_THEME_WIN_CSS'[0m
+#define IDR_UASTYLE_THEME_WIN_CSS _Pragma("whitelisted_resource_25408") 25408
+[0;1;32m                                  ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25408
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:497:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"themeWinQuirks.css", IDR_UASTYLE_THEME_WIN_QUIRKS_CSS,
+[0;1;32m                           ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:13:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_THEME_WIN_QUIRKS_CSS'[0m
+#define IDR_UASTYLE_THEME_WIN_QUIRKS_CSS _Pragma("whitelisted_resource_25409") 25409
+[0;1;32m                                         ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25409
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:499:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"svg.css", IDR_UASTYLE_SVG_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:14:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_SVG_CSS'[0m
+#define IDR_UASTYLE_SVG_CSS _Pragma("whitelisted_resource_25410") 25410
+[0;1;32m                            ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25410
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:500:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"mathml.css", IDR_UASTYLE_MATHML_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                   ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:15:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_MATHML_CSS'[0m
+#define IDR_UASTYLE_MATHML_CSS _Pragma("whitelisted_resource_25411") 25411
+[0;1;32m                               ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25411
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:501:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"fullscreen.css", IDR_UASTYLE_FULLSCREEN_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                       ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:16:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_FULLSCREEN_CSS'[0m
+#define IDR_UASTYLE_FULLSCREEN_CSS _Pragma("whitelisted_resource_25412") 25412
+[0;1;32m                                   ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25412
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:502:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"xhtmlmp.css", IDR_UASTYLE_XHTMLMP_CSS, ui::SCALE_FACTOR_NONE, true},
+[0;1;32m                    ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:17:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_XHTMLMP_CSS'[0m
+#define IDR_UASTYLE_XHTMLMP_CSS _Pragma("whitelisted_resource_25413") 25413
+[0;1;32m                                ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25413
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:503:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewportAndroid.css", IDR_UASTYLE_VIEWPORT_ANDROID_CSS,
+[0;1;32m                            ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:18:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_VIEWPORT_ANDROID_CSS'[0m
+#define IDR_UASTYLE_VIEWPORT_ANDROID_CSS _Pragma("whitelisted_resource_25414") 25414
+[0;1;32m                                         ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25414
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:505:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewportTelevision.css", IDR_UASTYLE_VIEWPORT_TELEVISION_CSS,
+[0;1;32m                               ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:19:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_VIEWPORT_TELEVISION_CSS'[0m
+#define IDR_UASTYLE_VIEWPORT_TELEVISION_CSS _Pragma("whitelisted_resource_25415") 25415
+[0;1;32m                                            ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25415
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:507:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"InspectorOverlayPage.html", IDR_INSPECTOR_OVERLAY_PAGE_HTML,
+[0;1;32m                                  ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:20:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INSPECTOR_OVERLAY_PAGE_HTML'[0m
+#define IDR_INSPECTOR_OVERLAY_PAGE_HTML _Pragma("whitelisted_resource_25416") 25416
+[0;1;32m                                        ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25416
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:509:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"DocumentXMLTreeViewer.css", IDR_DOCUMENTXMLTREEVIEWER_CSS,
+[0;1;32m                                  ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:21:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOCUMENTXMLTREEVIEWER_CSS'[0m
+#define IDR_DOCUMENTXMLTREEVIEWER_CSS _Pragma("whitelisted_resource_25417") 25417
+[0;1;32m                                      ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25417
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:511:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"DocumentXMLTreeViewer.js", IDR_DOCUMENTXMLTREEVIEWER_JS,
+[0;1;32m                                 ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:22:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOCUMENTXMLTREEVIEWER_JS'[0m
+#define IDR_DOCUMENTXMLTREEVIEWER_JS _Pragma("whitelisted_resource_25418") 25418
+[0;1;32m                                     ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25418
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:531:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"input_alert.svg", IDR_VALIDATION_BUBBLE_ICON, ui::SCALE_FACTOR_NONE,
+[0;1;32m                        ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:23:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_VALIDATION_BUBBLE_ICON'[0m
+#define IDR_VALIDATION_BUBBLE_ICON _Pragma("whitelisted_resource_25419") 25419
+[0;1;32m                                   ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25419
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:533:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"validation_bubble.css", IDR_VALIDATION_BUBBLE_CSS, ui::SCALE_FACTOR_NONE,
+[0;1;32m                              ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_resources.h:24:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_VALIDATION_BUBBLE_CSS'[0m
+#define IDR_VALIDATION_BUBBLE_CSS _Pragma("whitelisted_resource_25420") 25420
+[0;1;32m                                  ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25420
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:535:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"placeholderIcon", IDR_PLACEHOLDER_ICON, ui::SCALE_FACTOR_100P, false},
+[0;1;32m                        ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:11:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLACEHOLDER_ICON'[0m
+#define IDR_PLACEHOLDER_ICON _Pragma("whitelisted_resource_25306") 25306
+[0;1;32m                             ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25306
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:536:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"brokenCanvas", IDR_BROKENCANVAS, ui::SCALE_FACTOR_100P, false},
+[0;1;32m                     ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:5:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BROKENCANVAS'[0m
+#define IDR_BROKENCANVAS _Pragma("whitelisted_resource_25300") 25300
+[0;1;32m                         ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25300
+[0;1;32m ^
+[0m[1m../../content/child/blink_platform_impl.cc:537:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"brokenCanvas@2x", IDR_BROKENCANVAS, ui::SCALE_FACTOR_200P, false},
+[0;1;32m                        ^
+[0m[1mgen/third_party/blink/public/resources/grit/blink_image_resources.h:5:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BROKENCANVAS'[0m
+#define IDR_BROKENCANVAS _Pragma("whitelisted_resource_25300") 25300
+[0;1;32m                         ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25300
+[0;1;32m ^
+[0m154 warnings generated.

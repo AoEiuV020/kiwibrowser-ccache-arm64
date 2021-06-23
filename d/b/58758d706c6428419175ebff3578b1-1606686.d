@@ -1,0 +1,20 @@
+obj/third_party/webrtc/modules/audio_coding/webrtc_opus/audio_decoder_opus.o: \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/audio_decoder_opus.cc \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/audio_decoder_opus.h \
+  ../../third_party/webrtc/api/audio_codecs/audio_decoder.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/rtc_base/buffer.h \
+  ../../third_party/webrtc/rtc_base/zero_memory.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/opus_interface.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/opus/opus_inst.h \
+  ../../third_party/webrtc/rtc_base/ignore_wundef.h \
+  ../../third_party/opus/src/include/opus.h \
+  ../../third_party/opus/src/include/opus_types.h \
+  ../../third_party/opus/src/include/opus_defines.h

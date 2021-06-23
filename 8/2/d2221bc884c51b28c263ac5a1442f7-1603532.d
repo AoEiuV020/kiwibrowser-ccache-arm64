@@ -1,0 +1,19 @@
+obj/third_party/webrtc/rtc_base/rtc_base_generic/messagedigest.o: \
+  ../../third_party/webrtc/rtc_base/messagedigest.cc \
+  ../../third_party/webrtc/rtc_base/messagedigest.h \
+  ../../third_party/webrtc/rtc_base/openssldigest.h \
+  ../../third_party/boringssl/src/include/openssl/evp.h \
+  ../../third_party/boringssl/src/include/openssl/base.h \
+  ../../third_party/boringssl/src/include/openssl/is_boringssl.h \
+  ../../third_party/boringssl/src/include/openssl/opensslconf.h \
+  ../../third_party/boringssl/src/include/openssl/thread.h \
+  ../../third_party/boringssl/src/include/openssl/aead.h \
+  ../../third_party/boringssl/src/include/openssl/base64.h \
+  ../../third_party/boringssl/src/include/openssl/cipher.h \
+  ../../third_party/boringssl/src/include/openssl/digest.h \
+  ../../third_party/boringssl/src/include/openssl/nid.h \
+  ../../third_party/webrtc/rtc_base/stringencode.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h

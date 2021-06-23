@@ -1,0 +1,35 @@
+obj/third_party/webrtc/media/rtc_software_fallback_wrappers/videoencodersoftwarefallbackwrapper.o: \
+  ../../third_party/webrtc/media/engine/videoencodersoftwarefallbackwrapper.cc \
+  ../../third_party/webrtc/media/engine/videoencodersoftwarefallbackwrapper.h \
+  ../../third_party/webrtc/api/video_codecs/video_encoder.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/api/video/video_bitrate_allocation.h \
+  ../../third_party/webrtc/api/video/video_frame.h \
+  ../../third_party/webrtc/api/video/video_rotation.h \
+  ../../third_party/webrtc/api/video/video_frame_buffer.h \
+  ../../third_party/webrtc/rtc_base/refcount.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h \
+  ../../third_party/webrtc/common_types.h \
+  ../../third_party/webrtc/rtc_base/deprecation.h \
+  ../../third_party/webrtc/common_video/include/video_frame.h \
+  ../../third_party/webrtc/api/video/video_content_type.h \
+  ../../third_party/webrtc/api/video/video_timing.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_conversions.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_conversions_impl.h \
+  ../../third_party/webrtc/media/base/codec.h \
+  ../../third_party/webrtc/api/rtpparameters.h \
+  ../../third_party/webrtc/api/mediatypes.h \
+  ../../third_party/webrtc/api/video_codecs/sdp_video_format.h \
+  ../../third_party/webrtc/media/base/mediaconstants.h \
+  ../../third_party/webrtc/media/base/h264_profile_level_id.h \
+  ../../third_party/webrtc/modules/video_coding/include/video_error_codes.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/timeutils.h \
+  ../../third_party/webrtc/system_wrappers/include/field_trial.h

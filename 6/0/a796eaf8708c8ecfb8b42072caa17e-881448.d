@@ -1,0 +1,20 @@
+obj/third_party/libvpx/libvpx/vp9_iht16x16_add_neon.o: \
+  ../../third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_iht16x16_add_neon.c \
+  ../../third_party/libvpx/source/config/linux/arm64/./vp9_rtcd.h \
+  ../../third_party/libvpx/source/libvpx/vp9/common/vp9_common.h \
+  ../../third_party/libvpx/source/config/linux/arm64/./vpx_config.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/vpx_dsp_common.h \
+  ../../third_party/libvpx/source/libvpx/vpx/vpx_integer.h \
+  ../../third_party/libvpx/source/libvpx/vpx_ports/mem.h \
+  ../../third_party/libvpx/source/config/linux/arm64/vpx_config.h \
+  ../../third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h \
+  ../../third_party/libvpx/source/libvpx/vpx_ports/bitops.h \
+  ../../third_party/libvpx/source/libvpx/vpx_ports/msvc.h \
+  ../../third_party/libvpx/source/libvpx/vp9/common/vp9_enums.h \
+  ../../third_party/libvpx/source/libvpx/vp9/common/vp9_filter.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/vpx_filter.h \
+  ../../third_party/libvpx/source/libvpx/vp9/common/arm/neon/vp9_iht_neon.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/arm/idct_neon.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/arm/transpose_neon.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/txfm_common.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/arm/mem_neon.h

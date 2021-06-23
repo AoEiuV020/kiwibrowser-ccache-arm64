@@ -1,0 +1,109 @@
+[1m../../ui/base/text/bytes_formatting.cc:21:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_BYTES,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:112:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_BYTES'[0m
+#define IDS_APP_BYTES _Pragma("whitelisted_resource_27368") 27368
+[0;1;32m                      ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27368
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:22:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_KIBIBYTES,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:113:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_KIBIBYTES'[0m
+#define IDS_APP_KIBIBYTES _Pragma("whitelisted_resource_27369") 27369
+[0;1;32m                          ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27369
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:23:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_MEBIBYTES,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:114:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_MEBIBYTES'[0m
+#define IDS_APP_MEBIBYTES _Pragma("whitelisted_resource_27370") 27370
+[0;1;32m                          ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27370
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:24:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_GIBIBYTES,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:115:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_GIBIBYTES'[0m
+#define IDS_APP_GIBIBYTES _Pragma("whitelisted_resource_27371") 27371
+[0;1;32m                          ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27371
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:25:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_TEBIBYTES,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:116:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_TEBIBYTES'[0m
+#define IDS_APP_TEBIBYTES _Pragma("whitelisted_resource_27372") 27372
+[0;1;32m                          ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27372
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:26:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_PEBIBYTES
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:117:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PEBIBYTES'[0m
+#define IDS_APP_PEBIBYTES _Pragma("whitelisted_resource_27373") 27373
+[0;1;32m                          ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27373
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:30:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_BYTES_PER_SECOND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:118:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_BYTES_PER_SECOND'[0m
+#define IDS_APP_BYTES_PER_SECOND _Pragma("whitelisted_resource_27374") 27374
+[0;1;32m                                 ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27374
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:31:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_KIBIBYTES_PER_SECOND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:119:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_KIBIBYTES_PER_SECOND'[0m
+#define IDS_APP_KIBIBYTES_PER_SECOND _Pragma("whitelisted_resource_27375") 27375
+[0;1;32m                                     ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27375
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:32:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_MEBIBYTES_PER_SECOND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:120:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_MEBIBYTES_PER_SECOND'[0m
+#define IDS_APP_MEBIBYTES_PER_SECOND _Pragma("whitelisted_resource_27376") 27376
+[0;1;32m                                     ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27376
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:33:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_GIBIBYTES_PER_SECOND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:121:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_GIBIBYTES_PER_SECOND'[0m
+#define IDS_APP_GIBIBYTES_PER_SECOND _Pragma("whitelisted_resource_27377") 27377
+[0;1;32m                                     ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27377
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:34:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_TEBIBYTES_PER_SECOND,
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:122:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_TEBIBYTES_PER_SECOND'[0m
+#define IDS_APP_TEBIBYTES_PER_SECOND _Pragma("whitelisted_resource_27378") 27378
+[0;1;32m                                     ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27378
+[0;1;32m ^
+[0m[1m../../ui/base/text/bytes_formatting.cc:35:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_APP_PEBIBYTES_PER_SECOND
+[0;1;32m  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:123:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PEBIBYTES_PER_SECOND'[0m
+#define IDS_APP_PEBIBYTES_PER_SECOND _Pragma("whitelisted_resource_27379") 27379
+[0;1;32m                                     ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27379
+[0;1;32m ^
+[0m12 warnings generated.

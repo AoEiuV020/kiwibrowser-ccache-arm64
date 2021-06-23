@@ -1,0 +1,35 @@
+obj/third_party/webrtc/modules/audio_processing/agc2/adaptive_digital/adaptive_agc.o: \
+  ../../third_party/webrtc/modules/audio_processing/agc2/adaptive_agc.cc \
+  ../../third_party/webrtc/modules/audio_processing/agc2/adaptive_agc.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/adaptive_digital_gain_applier.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/agc2_common.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/gain_applier.h \
+  ../../third_party/webrtc/modules/audio_processing/include/audio_frame_view.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/vad_with_level.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/adaptive_mode_level_estimator.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/saturation_protector.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/noise_level_estimator.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/signal_classifier.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/down_sampler.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/biquad_filter.h \
+  ../../third_party/webrtc/rtc_base/arraysize.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/modules/audio_processing/agc2/noise_spectrum_estimator.h \
+  ../../third_party/webrtc/modules/audio_processing/utility/ooura_fft.h \
+  ../../third_party/webrtc/common_audio/include/audio_util.h \
+  ../../third_party/webrtc/modules/audio_processing/logging/apm_data_dumper.h \
+  ../../third_party/webrtc/common_audio/wav_file.h \
+  ../../third_party/webrtc/rtc_base/platform_file.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/voice_activity_detector.h \
+  ../../third_party/webrtc/common_audio/resampler/include/resampler.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/vad_audio_proc.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/common.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/pitch_based_vad.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/gmm.h \
+  ../../third_party/webrtc/modules/audio_processing/vad/standalone_vad.h \
+  ../../third_party/webrtc/common_audio/vad/include/webrtc_vad.h

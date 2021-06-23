@@ -1,0 +1,31 @@
+obj/third_party/webrtc/modules/audio_processing/aec3/aec3/residual_echo_estimator.o: \
+  ../../third_party/webrtc/modules/audio_processing/aec3/residual_echo_estimator.cc \
+  ../../third_party/webrtc/modules/audio_processing/aec3/residual_echo_estimator.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/api/audio/echo_canceller3_config.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/aec3_common.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/aec_state.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/delay_estimate.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/echo_audibility.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/matrix_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/render_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/fft_buffer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/fft_data.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/vector_buffer.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/stationarity_estimator.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/reverb_model.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/echo_path_variability.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/erl_estimator.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/erle_estimator.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/filter_analyzer.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/cascaded_biquad_filter.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/suppression_gain_limiter.h \
+  ../../third_party/webrtc/modules/audio_processing/aec3/reverb_model_fallback.h \
+  ../../third_party/webrtc/system_wrappers/include/field_trial.h

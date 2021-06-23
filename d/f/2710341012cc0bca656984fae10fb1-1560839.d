@@ -1,0 +1,21 @@
+obj/third_party/webrtc/media/rtc_media_base/videoadapter.o: \
+  ../../third_party/webrtc/media/base/videoadapter.cc \
+  ../../third_party/webrtc/media/base/videoadapter.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/media/base/videocommon.h \
+  ../../third_party/webrtc/rtc_base/timeutils.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/rtc_base/criticalsection.h \
+  ../../third_party/webrtc/rtc_base/platform_thread_types.h \
+  ../../third_party/webrtc/rtc_base/thread_annotations.h \
+  ../../third_party/webrtc/media/base/mediaconstants.h \
+  ../../third_party/webrtc/rtc_base/arraysize.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h

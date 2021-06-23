@@ -1,0 +1,19 @@
+obj/third_party/webrtc/modules/remote_bitrate_estimator/remote_bitrate_estimator/overuse_estimator.o: \
+  ../../third_party/webrtc/modules/remote_bitrate_estimator/overuse_estimator.cc \
+  ../../third_party/webrtc/modules/remote_bitrate_estimator/overuse_estimator.h \
+  ../../third_party/webrtc/common_types.h \
+  ../../third_party/webrtc/api/array_view.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/numerics/safe_compare.h \
+  ../../third_party/webrtc/rtc_base/type_traits.h \
+  ../../third_party/webrtc/api/optional.h \
+  ../../third_party/webrtc/rtc_base/sanitizer.h \
+  ../../third_party/webrtc/api/video/video_bitrate_allocation.h \
+  ../../third_party/webrtc/rtc_base/deprecation.h \
+  ../../third_party/webrtc/modules/remote_bitrate_estimator/include/bwe_defines.h \
+  ../../third_party/webrtc/rtc_base/constructormagic.h \
+  ../../third_party/webrtc/modules/remote_bitrate_estimator/test/bwe_test_logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/logging.h \
+  ../../third_party/webrtc_overrides/rtc_base/diagnostic_logging.h \
+  ../../third_party/webrtc/rtc_base/scoped_ref_ptr.h

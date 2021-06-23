@@ -1,0 +1,22 @@
+obj/third_party/libvpx/libvpx/vp9_dsubexp.o: \
+  ../../third_party/libvpx/source/libvpx/vp9/decoder/vp9_dsubexp.c \
+  ../../third_party/libvpx/source/libvpx/vp9/common/vp9_entropy.h \
+  ../../third_party/libvpx/source/libvpx/vpx/vpx_integer.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/prob.h \
+  ../../third_party/libvpx/source/config/linux/arm64/./vpx_config.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/./vpx_dsp_common.h \
+  ../../third_party/libvpx/source/libvpx/vpx_ports/mem.h \
+  ../../third_party/libvpx/source/config/linux/arm64/vpx_config.h \
+  ../../third_party/libvpx/source/libvpx/vp9/common/vp9_common.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/vpx_dsp_common.h \
+  ../../third_party/libvpx/source/libvpx/vpx_mem/vpx_mem.h \
+  ../../third_party/libvpx/source/libvpx/vpx_ports/bitops.h \
+  ../../third_party/libvpx/source/libvpx/vpx_ports/msvc.h \
+  ../../third_party/libvpx/source/libvpx/vp9/common/vp9_enums.h \
+  ../../third_party/libvpx/source/libvpx/vp9/decoder/vp9_dsubexp.h \
+  ../../third_party/libvpx/source/libvpx/vpx_dsp/bitreader.h \
+  ../../third_party/libvpx/source/libvpx/vpx/vp8dx.h \
+  ../../third_party/libvpx/source/libvpx/vpx/./vp8.h \
+  ../../third_party/libvpx/source/libvpx/vpx/./vpx_codec.h \
+  ../../third_party/libvpx/source/libvpx/vpx/./vpx_image.h \
+  ../../third_party/libvpx/source/libvpx/vpx/./vpx_integer.h

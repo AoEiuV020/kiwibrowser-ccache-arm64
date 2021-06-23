@@ -1,0 +1,23 @@
+obj/third_party/breakpad/client/ucontext_reader.o: \
+  ../../third_party/breakpad/breakpad/src/client/linux/dump_writer_common/ucontext_reader.cc \
+  ../../third_party/breakpad/breakpad/src/client/linux/dump_writer_common/ucontext_reader.h \
+  ../../third_party/breakpad/breakpad/src/common/android/include/sys/user.h \
+  ../../third_party/breakpad/breakpad/src/client/linux/dump_writer_common/raw_context_cpu.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_format.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/breakpad_types.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_amd64.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_arm.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_arm64.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_mips.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_ppc.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_ppc64.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_sparc.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_cpu_x86.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_linux.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_mac.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_ps3.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_solaris.h \
+  ../../third_party/breakpad/breakpad/src/google_breakpad/common/minidump_exception_win32.h \
+  ../../third_party/breakpad/breakpad/src/common/memory_allocator.h \
+  ../../third_party/lss/linux_syscall_support.h \
+  ../../third_party/breakpad/breakpad/src/common/linux/linux_libc_support.h

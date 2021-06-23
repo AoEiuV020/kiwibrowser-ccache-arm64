@@ -1,0 +1,19 @@
+obj/third_party/webrtc/modules/audio_coding/isac_c/isac.o: \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/isac.c \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/include/isac.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/bandwidth_info.h \
+  ../../third_party/webrtc/typedefs.h \
+  ../../third_party/webrtc/rtc_base/checks.h \
+  ../../third_party/webrtc/common_audio/signal_processing/include/signal_processing_library.h \
+  ../../third_party/webrtc/common_audio/signal_processing/dot_product_with_scale.h \
+  ../../third_party/webrtc/common_audio/signal_processing/include/spl_inl.h \
+  ../../third_party/webrtc/rtc_base/compile_assert_c.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/bandwidth_estimator.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/settings.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/structs.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/codec.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/crc.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/entropy_coding.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/lpc_shape_swb16_tables.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/os_specific_inline.h \
+  ../../third_party/webrtc/modules/audio_coding/codecs/isac/main/source/isac_vad.h

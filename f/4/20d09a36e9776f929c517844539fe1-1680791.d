@@ -1,0 +1,5 @@
+obj/third_party/angle/angle_common/angleutils.o: \
+  ../../third_party/angle/src/common/angleutils.cpp \
+  ../../third_party/angle/src/common/angleutils.h \
+  ../../third_party/angle/src/common/platform.h \
+  ../../third_party/angle/src/common/debug.h

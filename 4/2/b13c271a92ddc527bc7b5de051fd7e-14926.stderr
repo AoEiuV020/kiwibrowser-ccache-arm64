@@ -1,0 +1,406 @@
+[1mgen/ui/resources/grit/ui_resources_map.cc:12:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_2", IDR_CLOSE_2},
+[0;1;32m                  ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:5:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2'[0m
+#define IDR_CLOSE_2 _Pragma("whitelisted_resource_26961") 26961
+[0;1;32m                    ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26961
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:13:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_2_H", IDR_CLOSE_2_H},
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:6:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2_H'[0m
+#define IDR_CLOSE_2_H _Pragma("whitelisted_resource_26962") 26962
+[0;1;32m                      ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26962
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:14:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_2_MASK", IDR_CLOSE_2_MASK},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:7:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2_MASK'[0m
+#define IDR_CLOSE_2_MASK _Pragma("whitelisted_resource_26963") 26963
+[0;1;32m                         ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26963
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:15:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_2_P", IDR_CLOSE_2_P},
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:8:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2_P'[0m
+#define IDR_CLOSE_2_P _Pragma("whitelisted_resource_26964") 26964
+[0;1;32m                      ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26964
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:16:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_3_MASK", IDR_CLOSE_3_MASK},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:9:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_3_MASK'[0m
+#define IDR_CLOSE_3_MASK _Pragma("whitelisted_resource_26965") 26965
+[0;1;32m                         ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26965
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:17:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_DIALOG", IDR_CLOSE_DIALOG},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:10:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_DIALOG'[0m
+#define IDR_CLOSE_DIALOG _Pragma("whitelisted_resource_26966") 26966
+[0;1;32m                         ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26966
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:18:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_DIALOG_H", IDR_CLOSE_DIALOG_H},
+[0;1;32m                         ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:11:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_DIALOG_H'[0m
+#define IDR_CLOSE_DIALOG_H _Pragma("whitelisted_resource_26967") 26967
+[0;1;32m                           ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26967
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:19:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_DIALOG_P", IDR_CLOSE_DIALOG_P},
+[0;1;32m                         ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:12:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_DIALOG_P'[0m
+#define IDR_CLOSE_DIALOG_P _Pragma("whitelisted_resource_26968") 26968
+[0;1;32m                           ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26968
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:20:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DISABLE", IDR_DISABLE},
+[0;1;32m                  ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:13:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISABLE'[0m
+#define IDR_DISABLE _Pragma("whitelisted_resource_26969") 26969
+[0;1;32m                    ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26969
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:21:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DISABLE_H", IDR_DISABLE_H},
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:14:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISABLE_H'[0m
+#define IDR_DISABLE_H _Pragma("whitelisted_resource_26970") 26970
+[0;1;32m                      ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26970
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:22:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DISABLE_P", IDR_DISABLE_P},
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:15:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISABLE_P'[0m
+#define IDR_DISABLE_P _Pragma("whitelisted_resource_26971") 26971
+[0;1;32m                      ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26971
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:23:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DEFAULT_FAVICON", IDR_DEFAULT_FAVICON},
+[0;1;32m                          ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:16:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON'[0m
+#define IDR_DEFAULT_FAVICON _Pragma("whitelisted_resource_26972") 26972
+[0;1;32m                            ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26972
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:24:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DEFAULT_FAVICON_32", IDR_DEFAULT_FAVICON_32},
+[0;1;32m                             ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:17:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON_32'[0m
+#define IDR_DEFAULT_FAVICON_32 _Pragma("whitelisted_resource_26973") 26973
+[0;1;32m                               ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26973
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:25:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DEFAULT_FAVICON_64", IDR_DEFAULT_FAVICON_64},
+[0;1;32m                             ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:18:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON_64'[0m
+#define IDR_DEFAULT_FAVICON_64 _Pragma("whitelisted_resource_26974") 26974
+[0;1;32m                               ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26974
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:26:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_HARDLOCKED", IDR_EASY_UNLOCK_HARDLOCKED},
+[0;1;32m                                 ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:19:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_HARDLOCKED'[0m
+#define IDR_EASY_UNLOCK_HARDLOCKED _Pragma("whitelisted_resource_26975") 26975
+[0;1;32m                                   ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26975
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:27:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_HARDLOCKED_HOVER", IDR_EASY_UNLOCK_HARDLOCKED_HOVER},
+[0;1;32m                                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:20:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_HARDLOCKED_HOVER'[0m
+#define IDR_EASY_UNLOCK_HARDLOCKED_HOVER _Pragma("whitelisted_resource_26976") 26976
+[0;1;32m                                         ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26976
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:28:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_HARDLOCKED_PRESSED", IDR_EASY_UNLOCK_HARDLOCKED_PRESSED},
+[0;1;32m                                         ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:21:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_HARDLOCKED_PRESSED'[0m
+#define IDR_EASY_UNLOCK_HARDLOCKED_PRESSED _Pragma("whitelisted_resource_26977") 26977
+[0;1;32m                                           ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26977
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:29:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED", IDR_EASY_UNLOCK_LOCKED},
+[0;1;32m                             ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:22:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED'[0m
+#define IDR_EASY_UNLOCK_LOCKED _Pragma("whitelisted_resource_26978") 26978
+[0;1;32m                               ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26978
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:30:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_HOVER", IDR_EASY_UNLOCK_LOCKED_HOVER},
+[0;1;32m                                   ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:23:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_HOVER'[0m
+#define IDR_EASY_UNLOCK_LOCKED_HOVER _Pragma("whitelisted_resource_26979") 26979
+[0;1;32m                                     ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26979
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:31:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_PRESSED", IDR_EASY_UNLOCK_LOCKED_PRESSED},
+[0;1;32m                                     ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:24:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_PRESSED'[0m
+#define IDR_EASY_UNLOCK_LOCKED_PRESSED _Pragma("whitelisted_resource_26980") 26980
+[0;1;32m                                       ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26980
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:32:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED", IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED},
+[0;1;32m                                             ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:25:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED'[0m
+#define IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED _Pragma("whitelisted_resource_26981") 26981
+[0;1;32m                                               ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26981
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:33:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_HOVER", IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_HOVER},
+[0;1;32m                                                   ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:26:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_HOVER'[0m
+#define IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_HOVER _Pragma("whitelisted_resource_26982") 26982
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26982
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:34:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_PRESSED", IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_PRESSED},
+[0;1;32m                                                     ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:27:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_PRESSED'[0m
+#define IDR_EASY_UNLOCK_LOCKED_TO_BE_ACTIVATED_PRESSED _Pragma("whitelisted_resource_26983") 26983
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26983
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:35:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT", IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT},
+[0;1;32m                                                 ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:28:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT'[0m
+#define IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT _Pragma("whitelisted_resource_26984") 26984
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26984
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:36:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_HOVER", IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_HOVER},
+[0;1;32m                                                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:29:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_HOVER'[0m
+#define IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_HOVER _Pragma("whitelisted_resource_26985") 26985
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26985
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:37:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_PRESSED", IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_PRESSED},
+[0;1;32m                                                         ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:30:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_PRESSED'[0m
+#define IDR_EASY_UNLOCK_LOCKED_WITH_PROXIMITY_HINT_PRESSED _Pragma("whitelisted_resource_26986") 26986
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26986
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:38:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_SPINNER", IDR_EASY_UNLOCK_SPINNER},
+[0;1;32m                              ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:31:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_SPINNER'[0m
+#define IDR_EASY_UNLOCK_SPINNER _Pragma("whitelisted_resource_26987") 26987
+[0;1;32m                                ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26987
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:39:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_UNLOCKED", IDR_EASY_UNLOCK_UNLOCKED},
+[0;1;32m                               ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:32:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_UNLOCKED'[0m
+#define IDR_EASY_UNLOCK_UNLOCKED _Pragma("whitelisted_resource_26988") 26988
+[0;1;32m                                 ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26988
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:40:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_UNLOCKED_HOVER", IDR_EASY_UNLOCK_UNLOCKED_HOVER},
+[0;1;32m                                     ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:33:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_UNLOCKED_HOVER'[0m
+#define IDR_EASY_UNLOCK_UNLOCKED_HOVER _Pragma("whitelisted_resource_26989") 26989
+[0;1;32m                                       ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26989
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:41:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EASY_UNLOCK_UNLOCKED_PRESSED", IDR_EASY_UNLOCK_UNLOCKED_PRESSED},
+[0;1;32m                                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:34:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_UNLOCKED_PRESSED'[0m
+#define IDR_EASY_UNLOCK_UNLOCKED_PRESSED _Pragma("whitelisted_resource_26990") 26990
+[0;1;32m                                         ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26990
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:42:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EMOJI_FAVICON", IDR_EMOJI_FAVICON},
+[0;1;32m                        ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:35:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EMOJI_FAVICON'[0m
+#define IDR_EMOJI_FAVICON _Pragma("whitelisted_resource_26991") 26991
+[0;1;32m                          ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26991
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:43:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_FOLDER_CLOSED", IDR_FOLDER_CLOSED},
+[0;1;32m                        ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:36:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FOLDER_CLOSED'[0m
+#define IDR_FOLDER_CLOSED _Pragma("whitelisted_resource_26992") 26992
+[0;1;32m                          ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26992
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:44:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_FOLDER_CLOSED_RTL", IDR_FOLDER_CLOSED_RTL},
+[0;1;32m                            ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:37:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FOLDER_CLOSED_RTL'[0m
+#define IDR_FOLDER_CLOSED_RTL _Pragma("whitelisted_resource_26993") 26993
+[0;1;32m                              ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26993
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:45:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_MENU_DROPARROW", IDR_MENU_DROPARROW},
+[0;1;32m                         ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:38:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MENU_DROPARROW'[0m
+#define IDR_MENU_DROPARROW _Pragma("whitelisted_resource_26997") 26997
+[0;1;32m                           ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26997
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:46:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_NTP_DEFAULT_FAVICON", IDR_NTP_DEFAULT_FAVICON},
+[0;1;32m                              ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:39:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NTP_DEFAULT_FAVICON'[0m
+#define IDR_NTP_DEFAULT_FAVICON _Pragma("whitelisted_resource_27005") 27005
+[0;1;32m                                ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27005
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:47:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_0_BAR", IDR_SIGNAL_0_BAR},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:40:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_0_BAR'[0m
+#define IDR_SIGNAL_0_BAR _Pragma("whitelisted_resource_27009") 27009
+[0;1;32m                         ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27009
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:48:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_1_BAR", IDR_SIGNAL_1_BAR},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:41:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_1_BAR'[0m
+#define IDR_SIGNAL_1_BAR _Pragma("whitelisted_resource_27010") 27010
+[0;1;32m                         ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27010
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:49:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_2_BAR", IDR_SIGNAL_2_BAR},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:42:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_2_BAR'[0m
+#define IDR_SIGNAL_2_BAR _Pragma("whitelisted_resource_27011") 27011
+[0;1;32m                         ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27011
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:50:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_3_BAR", IDR_SIGNAL_3_BAR},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:43:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_3_BAR'[0m
+#define IDR_SIGNAL_3_BAR _Pragma("whitelisted_resource_27012") 27012
+[0;1;32m                         ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27012
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:51:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_4_BAR", IDR_SIGNAL_4_BAR},
+[0;1;32m                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:44:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_4_BAR'[0m
+#define IDR_SIGNAL_4_BAR _Pragma("whitelisted_resource_27013") 27013
+[0;1;32m                         ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27013
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:52:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_0_BAR_SELECTED", IDR_SIGNAL_0_BAR_SELECTED},
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:45:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_0_BAR_SELECTED'[0m
+#define IDR_SIGNAL_0_BAR_SELECTED _Pragma("whitelisted_resource_27014") 27014
+[0;1;32m                                  ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27014
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:53:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_1_BAR_SELECTED", IDR_SIGNAL_1_BAR_SELECTED},
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:46:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_1_BAR_SELECTED'[0m
+#define IDR_SIGNAL_1_BAR_SELECTED _Pragma("whitelisted_resource_27015") 27015
+[0;1;32m                                  ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27015
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:54:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_2_BAR_SELECTED", IDR_SIGNAL_2_BAR_SELECTED},
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:47:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_2_BAR_SELECTED'[0m
+#define IDR_SIGNAL_2_BAR_SELECTED _Pragma("whitelisted_resource_27016") 27016
+[0;1;32m                                  ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27016
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:55:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_3_BAR_SELECTED", IDR_SIGNAL_3_BAR_SELECTED},
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:48:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_3_BAR_SELECTED'[0m
+#define IDR_SIGNAL_3_BAR_SELECTED _Pragma("whitelisted_resource_27017") 27017
+[0;1;32m                                  ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27017
+[0;1;32m ^
+[0m[1mgen/ui/resources/grit/ui_resources_map.cc:56:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SIGNAL_4_BAR_SELECTED", IDR_SIGNAL_4_BAR_SELECTED},
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:49:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_4_BAR_SELECTED'[0m
+#define IDR_SIGNAL_4_BAR_SELECTED _Pragma("whitelisted_resource_27018") 27018
+[0;1;32m                                  ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27018
+[0;1;32m ^
+[0m45 warnings generated.
