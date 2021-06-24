@@ -1,0 +1,424 @@
+[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:167:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("automation", IDR_AUTOMATION_CUSTOM_BINDINGS_JS);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/renderer_resources.h:13:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOMATION_CUSTOM_BINDINGS_JS'[0m
+#define IDR_AUTOMATION_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12866") 12866
+[0;1;32m                                          ^
+[0m[1m<scratch space>:5:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12866
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:168:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("automationEvent", IDR_AUTOMATION_EVENT_JS);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/renderer_resources.h:14:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOMATION_EVENT_JS'[0m
+#define IDR_AUTOMATION_EVENT_JS _Pragma("whitelisted_resource_12867") 12867
+[0;1;32m                                ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12867
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:169:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("automationNode", IDR_AUTOMATION_NODE_JS);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/renderer_resources.h:15:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOMATION_NODE_JS'[0m
+#define IDR_AUTOMATION_NODE_JS _Pragma("whitelisted_resource_12868") 12868
+[0;1;32m                               ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12868
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:171:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_BROWSER_ACTION_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:16:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BROWSER_ACTION_CUSTOM_BINDINGS_JS'[0m
+#define IDR_BROWSER_ACTION_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12869") 12869
+[0;1;32m                                              ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12869
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:173:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_DECLARATIVE_CONTENT_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:25:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DECLARATIVE_CONTENT_CUSTOM_BINDINGS_JS'[0m
+#define IDR_DECLARATIVE_CONTENT_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12878") 12878
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12878
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:175:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_DESKTOP_CAPTURE_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:26:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DESKTOP_CAPTURE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_DESKTOP_CAPTURE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12879") 12879
+[0;1;32m                                               ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12879
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:177:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_DEVELOPER_PRIVATE_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:27:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVELOPER_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_DEVELOPER_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12880") 12880
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12880
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:178:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("downloads", IDR_DOWNLOADS_CUSTOM_BINDINGS_JS);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/renderer_resources.h:28:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOADS_CUSTOM_BINDINGS_JS'[0m
+#define IDR_DOWNLOADS_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12881") 12881
+[0;1;32m                                         ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12881
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:179:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("gcm", IDR_GCM_CUSTOM_BINDINGS_JS);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/renderer_resources.h:30:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GCM_CUSTOM_BINDINGS_JS'[0m
+#define IDR_GCM_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12883") 12883
+[0;1;32m                                   ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12883
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:180:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("identity", IDR_IDENTITY_CUSTOM_BINDINGS_JS);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/renderer_resources.h:31:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_CUSTOM_BINDINGS_JS'[0m
+#define IDR_IDENTITY_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12884") 12884
+[0;1;32m                                        ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12884
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:182:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_IMAGE_WRITER_PRIVATE_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:32:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IMAGE_WRITER_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_IMAGE_WRITER_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12885") 12885
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12885
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:183:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("input.ime", IDR_INPUT_IME_CUSTOM_BINDINGS_JS);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/renderer_resources.h:33:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INPUT_IME_CUSTOM_BINDINGS_JS'[0m
+#define IDR_INPUT_IME_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12886") 12886
+[0;1;32m                                         ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12886
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:185:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_MEDIA_GALLERIES_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:34:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_GALLERIES_CUSTOM_BINDINGS_JS'[0m
+#define IDR_MEDIA_GALLERIES_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12887") 12887
+[0;1;32m                                               ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12887
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:187:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_NOTIFICATIONS_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:35:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NOTIFICATIONS_CUSTOM_BINDINGS_JS'[0m
+#define IDR_NOTIFICATIONS_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12888") 12888
+[0;1;32m                                             ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12888
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:188:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("omnibox", IDR_OMNIBOX_CUSTOM_BINDINGS_JS);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/renderer_resources.h:36:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_OMNIBOX_CUSTOM_BINDINGS_JS'[0m
+#define IDR_OMNIBOX_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12889") 12889
+[0;1;32m                                       ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12889
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:189:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("pageAction", IDR_PAGE_ACTION_CUSTOM_BINDINGS_JS);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/renderer_resources.h:37:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PAGE_ACTION_CUSTOM_BINDINGS_JS'[0m
+#define IDR_PAGE_ACTION_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12890") 12890
+[0;1;32m                                           ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12890
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:191:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_PAGE_CAPTURE_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:38:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PAGE_CAPTURE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_PAGE_CAPTURE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12891") 12891
+[0;1;32m                                            ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12891
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:193:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_SYNC_FILE_SYSTEM_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:39:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_CUSTOM_BINDINGS_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12892") 12892
+[0;1;32m                                                ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12892
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:195:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_SYSTEM_INDICATOR_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:40:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYSTEM_INDICATOR_CUSTOM_BINDINGS_JS'[0m
+#define IDR_SYSTEM_INDICATOR_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12893") 12893
+[0;1;32m                                                ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12893
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:196:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("tabCapture", IDR_TAB_CAPTURE_CUSTOM_BINDINGS_JS);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/renderer_resources.h:41:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_CAPTURE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_TAB_CAPTURE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12894") 12894
+[0;1;32m                                           ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12894
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:197:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("tts", IDR_TTS_CUSTOM_BINDINGS_JS);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/renderer_resources.h:43:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TTS_CUSTOM_BINDINGS_JS'[0m
+#define IDR_TTS_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12896") 12896
+[0;1;32m                                   ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12896
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:198:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("ttsEngine", IDR_TTS_ENGINE_CUSTOM_BINDINGS_JS);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/renderer_resources.h:44:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TTS_ENGINE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_TTS_ENGINE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12897") 12897
+[0;1;32m                                          ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12897
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:234:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_CAST_STREAMING_RTP_STREAM_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:17:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CAST_STREAMING_RTP_STREAM_CUSTOM_BINDINGS_JS'[0m
+#define IDR_CAST_STREAMING_RTP_STREAM_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12870") 12870
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12870
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:236:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_CAST_STREAMING_SESSION_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:18:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CAST_STREAMING_SESSION_CUSTOM_BINDINGS_JS'[0m
+#define IDR_CAST_STREAMING_SESSION_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12871") 12871
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12871
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:239:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_CAST_STREAMING_UDP_TRANSPORT_CUSTOM_BINDINGS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:19:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CAST_STREAMING_UDP_TRANSPORT_CUSTOM_BINDINGS_JS'[0m
+#define IDR_CAST_STREAMING_UDP_TRANSPORT_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12872") 12872
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12872
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:242:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_CAST_STREAMING_RECEIVER_SESSION_CUSTOM_BINDINGS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:20:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CAST_STREAMING_RECEIVER_SESSION_CUSTOM_BINDINGS_JS'[0m
+#define IDR_CAST_STREAMING_RECEIVER_SESSION_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12873") 12873
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12873
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:245:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_WEBRTC_DESKTOP_CAPTURE_PRIVATE_CUSTOM_BINDINGS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:45:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBRTC_DESKTOP_CAPTURE_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_WEBRTC_DESKTOP_CAPTURE_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12898") 12898
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12898
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:247:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_WEBRTC_LOGGING_PRIVATE_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:46:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBRTC_LOGGING_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_WEBRTC_LOGGING_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12899") 12899
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12899
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:248:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("webstore", IDR_WEBSTORE_CUSTOM_BINDINGS_JS);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/renderer_resources.h:47:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_WEBSTORE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12900") 12900
+[0;1;32m                                        ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12900
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:253:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_CHROME_WEB_VIEW_INTERNAL_CUSTOM_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:22:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_WEB_VIEW_INTERNAL_CUSTOM_BINDINGS_JS'[0m
+#define IDR_CHROME_WEB_VIEW_INTERNAL_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12875") 12875
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12875
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:254:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("chromeWebView", IDR_CHROME_WEB_VIEW_JS);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/renderer_resources.h:23:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_WEB_VIEW_JS'[0m
+#define IDR_CHROME_WEB_VIEW_JS _Pragma("whitelisted_resource_12876") 12876
+[0;1;32m                               ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12876
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:259:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_CONTROLLER_MOJOM_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:48:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_CONTROLLER_MOJOM_JS'[0m
+#define IDR_MEDIA_CONTROLLER_MOJOM_JS _Pragma("whitelisted_resource_12917") 12917
+[0;1;32m                                      ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12917
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:262:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_MOJOM_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:49:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_MOJOM_JS'[0m
+#define IDR_MEDIA_ROUTER_MOJOM_JS _Pragma("whitelisted_resource_12918") 12918
+[0;1;32m                                  ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12918
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:265:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_STATUS_MOJOM_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:51:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_STATUS_MOJOM_JS'[0m
+#define IDR_MEDIA_STATUS_MOJOM_JS _Pragma("whitelisted_resource_12920") 12920
+[0;1;32m                                  ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12920
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:267:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_MEDIA_ROUTER_BINDINGS_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:50:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_BINDINGS_JS'[0m
+#define IDR_MEDIA_ROUTER_BINDINGS_JS _Pragma("whitelisted_resource_12919") 12919
+[0;1;32m                                     ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12919
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:269:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_MOJO_TIME_MOJOM_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:52:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_TIME_MOJOM_JS'[0m
+#define IDR_MOJO_TIME_MOJOM_JS _Pragma("whitelisted_resource_12921") 12921
+[0;1;32m                               ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12921
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:271:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_MOJO_IP_ADDRESS_MOJOM_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:53:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_IP_ADDRESS_MOJOM_JS'[0m
+#define IDR_MOJO_IP_ADDRESS_MOJOM_JS _Pragma("whitelisted_resource_12922") 12922
+[0;1;32m                                     ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12922
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:273:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_MOJO_IP_ENDPOINT_MOJOM_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:54:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_IP_ENDPOINT_MOJOM_JS'[0m
+#define IDR_MOJO_IP_ENDPOINT_MOJOM_JS _Pragma("whitelisted_resource_12923") 12923
+[0;1;32m                                      ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12923
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:274:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("url/mojom/origin.mojom", IDR_ORIGIN_MOJOM_JS);
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/grit/renderer_resources.h:55:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ORIGIN_MOJOM_JS'[0m
+#define IDR_ORIGIN_MOJOM_JS _Pragma("whitelisted_resource_12924") 12924
+[0;1;32m                            ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12924
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:275:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source_map->RegisterSource("url/mojom/url.mojom", IDR_MOJO_URL_MOJOM_JS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/renderer_resources.h:56:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_URL_MOJOM_JS'[0m
+#define IDR_MOJO_URL_MOJOM_JS _Pragma("whitelisted_resource_12925") 12925
+[0;1;32m                              ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12925
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:277:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDR_REMOTING_COMMON_JS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/renderer_resources.h:58:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_REMOTING_COMMON_JS'[0m
+#define IDR_REMOTING_COMMON_JS _Pragma("whitelisted_resource_12927") 12927
+[0;1;32m                               ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12927
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:280:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_REMOTING_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:57:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_REMOTING_JS'[0m
+#define IDR_MEDIA_REMOTING_JS _Pragma("whitelisted_resource_12926") 12926
+[0;1;32m                              ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12926
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:284:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source_map->RegisterSource("app", IDR_APP_CUSTOM_BINDINGS_JS);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/renderer_resources.h:12:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_CUSTOM_BINDINGS_JS'[0m
+#define IDR_APP_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12865") 12865
+[0;1;32m                                   ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12865
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:285:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source_map->RegisterSource("tabs", IDR_TABS_CUSTOM_BINDINGS_JS);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/renderer_resources.h:42:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TABS_CUSTOM_BINDINGS_JS'[0m
+#define IDR_TABS_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_12895") 12895
+[0;1;32m                                    ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12895
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:288:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source_map->RegisterSource("ChromeSetting", IDR_CHROME_SETTING_JS);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/renderer_resources.h:21:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_SETTING_JS'[0m
+#define IDR_CHROME_SETTING_JS _Pragma("whitelisted_resource_12874") 12874
+[0;1;32m                              ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12874
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:289:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source_map->RegisterSource("ContentSetting", IDR_CONTENT_SETTING_JS);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/renderer_resources.h:24:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTENT_SETTING_JS'[0m
+#define IDR_CONTENT_SETTING_JS _Pragma("whitelisted_resource_12877") 12877
+[0;1;32m                               ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12877
+[0;1;32m ^
+[0m[1m../../chrome/renderer/extensions/chrome_extensions_dispatcher_delegate.cc:291:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_EASY_UNLOCK_PROXIMITY_REQUIRED_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/renderer_resources.h:29:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EASY_UNLOCK_PROXIMITY_REQUIRED_JS'[0m
+#define IDR_EASY_UNLOCK_PROXIMITY_REQUIRED_JS _Pragma("whitelisted_resource_12882") 12882
+[0;1;32m                                              ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12882
+[0;1;32m ^
+[0m47 warnings generated.

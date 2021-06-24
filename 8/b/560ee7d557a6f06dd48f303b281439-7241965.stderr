@@ -1,0 +1,91 @@
+[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:94:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_BLOCKED_PLUGIN_HTML));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/renderer_resources.h:7:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLOCKED_PLUGIN_HTML'[0m
+#define IDR_BLOCKED_PLUGIN_HTML _Pragma("whitelisted_resource_12860") 12860
+[0;1;32m                                ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12860
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:98:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   l10n_util::GetStringUTF8(IDS_PLUGIN_NOT_SUPPORTED));
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:1027:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_NOT_SUPPORTED'[0m
+#define IDS_PLUGIN_NOT_SUPPORTED _Pragma("whitelisted_resource_16165") 16165
+[0;1;32m                                 ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16165
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:120:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  values.SetString("hide", l10n_util::GetStringUTF8(IDS_PLUGIN_HIDE));
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1623:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_HIDE'[0m
+#define IDS_PLUGIN_HIDE _Pragma("whitelisted_resource_5193") 5193
+[0;1;32m                        ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5193
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:189:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetMessage(l10n_util::GetStringFUTF16(IDS_PLUGIN_UPDATING, plugin_name_));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1634:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_UPDATING'[0m
+#define IDS_PLUGIN_UPDATING _Pragma("whitelisted_resource_5205") 5205
+[0;1;32m                            ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5205
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:193:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetMessage(l10n_util::GetStringFUTF16(IDS_PLUGIN_DOWNLOADING, plugin_name_));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1630:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_DOWNLOADING'[0m
+#define IDS_PLUGIN_DOWNLOADING _Pragma("whitelisted_resource_5201") 5201
+[0;1;32m                               ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5201
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:201:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetMessage(l10n_util::GetStringFUTF16(IDS_PLUGIN_DOWNLOAD_ERROR_SHORT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1632:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_DOWNLOAD_ERROR_SHORT'[0m
+#define IDS_PLUGIN_DOWNLOAD_ERROR_SHORT _Pragma("whitelisted_resource_5203") 5203
+[0;1;32m                                        ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5203
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:295:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    run_item.label = l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_PLUGIN_RUN);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:896:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PLUGIN_RUN'[0m
+#define IDS_CONTENT_CONTEXT_PLUGIN_RUN _Pragma("whitelisted_resource_4238") 4238
+[0;1;32m                                       ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4238
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:304:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_ENABLE_FLASH);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:898:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_ENABLE_FLASH'[0m
+#define IDS_CONTENT_CONTEXT_ENABLE_FLASH _Pragma("whitelisted_resource_4240") 4240
+[0;1;32m                                         ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4240
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:314:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  hide_item.label = l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_PLUGIN_HIDE);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:897:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PLUGIN_HIDE'[0m
+#define IDS_CONTENT_CONTEXT_PLUGIN_HIDE _Pragma("whitelisted_resource_4239") 4239
+[0;1;32m                                        ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4239
+[0;1;32m ^
+[0m[1m../../chrome/renderer/plugins/chrome_plugin_placeholder.cc:339:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        l10n_util::GetStringFUTF16(IDS_PLUGIN_BLOCKED, title_),
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1625:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_BLOCKED'[0m
+#define IDS_PLUGIN_BLOCKED _Pragma("whitelisted_resource_5195") 5195
+[0;1;32m                           ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5195
+[0;1;32m ^
+[0m10 warnings generated.

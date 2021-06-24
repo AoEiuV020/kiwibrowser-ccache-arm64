@@ -1,0 +1,622 @@
+[1m../../extensions/renderer/dispatcher.cc:449:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_SERVICE_WORKER_BINDINGS_JS);
+[0;1;32m          ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:65:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SERVICE_WORKER_BINDINGS_JS'[0m
+#define IDR_SERVICE_WORKER_BINDINGS_JS _Pragma("whitelisted_resource_24530") 24530
+[0;1;32m                                       ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24530
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:544:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    int resource_id = extension->is_platform_app() ? IDR_PLATFORM_APP_CSS
+[0;1;32m                                                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:70:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLATFORM_APP_CSS'[0m
+#define IDR_PLATFORM_APP_CSS _Pragma("whitelisted_resource_24535") 24535
+[0;1;32m                             ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24535
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:545:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                   : IDR_EXTENSION_FONTS_CSS;
+[0;1;32m                                                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:72:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_FONTS_CSS'[0m
+#define IDR_EXTENSION_FONTS_CSS _Pragma("whitelisted_resource_24537") 24537
+[0;1;32m                                ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24537
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:567:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDR_EXTENSION_CSS);
+[0;1;32m            ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:73:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_CSS'[0m
+#define IDR_EXTENSION_CSS _Pragma("whitelisted_resource_24600") 24600
+[0;1;32m                          ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24600
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:650:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"appView", IDR_APP_VIEW_JS},
+[0;1;32m                  ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:5:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_VIEW_JS'[0m
+#define IDR_APP_VIEW_JS _Pragma("whitelisted_resource_24470") 24470
+[0;1;32m                        ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24470
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:651:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"entryIdManager", IDR_ENTRY_ID_MANAGER},
+[0;1;32m                         ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:7:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ENTRY_ID_MANAGER'[0m
+#define IDR_ENTRY_ID_MANAGER _Pragma("whitelisted_resource_24472") 24472
+[0;1;32m                             ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24472
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:652:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionOptions", IDR_EXTENSION_OPTIONS_JS},
+[0;1;32m                           ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:9:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_OPTIONS_JS'[0m
+#define IDR_EXTENSION_OPTIONS_JS _Pragma("whitelisted_resource_24474") 24474
+[0;1;32m                                 ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24474
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:653:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionOptionsAttributes", IDR_EXTENSION_OPTIONS_ATTRIBUTES_JS},
+[0;1;32m                                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:10:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_OPTIONS_ATTRIBUTES_JS'[0m
+#define IDR_EXTENSION_OPTIONS_ATTRIBUTES_JS _Pragma("whitelisted_resource_24475") 24475
+[0;1;32m                                            ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24475
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:654:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionOptionsConstants", IDR_EXTENSION_OPTIONS_CONSTANTS_JS},
+[0;1;32m                                    ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:11:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_OPTIONS_CONSTANTS_JS'[0m
+#define IDR_EXTENSION_OPTIONS_CONSTANTS_JS _Pragma("whitelisted_resource_24476") 24476
+[0;1;32m                                           ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24476
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:655:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionOptionsEvents", IDR_EXTENSION_OPTIONS_EVENTS_JS},
+[0;1;32m                                 ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:12:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_OPTIONS_EVENTS_JS'[0m
+#define IDR_EXTENSION_OPTIONS_EVENTS_JS _Pragma("whitelisted_resource_24477") 24477
+[0;1;32m                                        ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24477
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:656:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionView", IDR_EXTENSION_VIEW_JS},
+[0;1;32m                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:13:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_VIEW_JS'[0m
+#define IDR_EXTENSION_VIEW_JS _Pragma("whitelisted_resource_24478") 24478
+[0;1;32m                              ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24478
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:657:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionViewApiMethods", IDR_EXTENSION_VIEW_API_METHODS_JS},
+[0;1;32m                                  ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:14:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_VIEW_API_METHODS_JS'[0m
+#define IDR_EXTENSION_VIEW_API_METHODS_JS _Pragma("whitelisted_resource_24479") 24479
+[0;1;32m                                          ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24479
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:658:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionViewAttributes", IDR_EXTENSION_VIEW_ATTRIBUTES_JS},
+[0;1;32m                                  ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:15:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_VIEW_ATTRIBUTES_JS'[0m
+#define IDR_EXTENSION_VIEW_ATTRIBUTES_JS _Pragma("whitelisted_resource_24480") 24480
+[0;1;32m                                         ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24480
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:659:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionViewConstants", IDR_EXTENSION_VIEW_CONSTANTS_JS},
+[0;1;32m                                 ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:16:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_VIEW_CONSTANTS_JS'[0m
+#define IDR_EXTENSION_VIEW_CONSTANTS_JS _Pragma("whitelisted_resource_24481") 24481
+[0;1;32m                                        ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24481
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:660:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionViewEvents", IDR_EXTENSION_VIEW_EVENTS_JS},
+[0;1;32m                              ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:17:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_VIEW_EVENTS_JS'[0m
+#define IDR_EXTENSION_VIEW_EVENTS_JS _Pragma("whitelisted_resource_24482") 24482
+[0;1;32m                                     ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24482
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:661:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensionViewInternal", IDR_EXTENSION_VIEW_INTERNAL_CUSTOM_BINDINGS_JS},
+[0;1;32m                                ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:18:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_VIEW_INTERNAL_CUSTOM_BINDINGS_JS'[0m
+#define IDR_EXTENSION_VIEW_INTERNAL_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24483") 24483
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24483
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:662:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"feedbackPrivate", IDR_FEEDBACK_PRIVATE_CUSTOM_BINDINGS_JS},
+[0;1;32m                          ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:19:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FEEDBACK_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_FEEDBACK_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24484") 24484
+[0;1;32m                                                ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24484
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:663:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"fileEntryBindingUtil", IDR_FILE_ENTRY_BINDING_UTIL_JS},
+[0;1;32m                               ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:57:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FILE_ENTRY_BINDING_UTIL_JS'[0m
+#define IDR_FILE_ENTRY_BINDING_UTIL_JS _Pragma("whitelisted_resource_24522") 24522
+[0;1;32m                                       ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24522
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:664:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"fileSystem", IDR_FILE_SYSTEM_CUSTOM_BINDINGS_JS},
+[0;1;32m                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:58:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FILE_SYSTEM_CUSTOM_BINDINGS_JS'[0m
+#define IDR_FILE_SYSTEM_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24523") 24523
+[0;1;32m                                           ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24523
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:665:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"guestView", IDR_GUEST_VIEW_JS},
+[0;1;32m                    ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:26:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_JS'[0m
+#define IDR_GUEST_VIEW_JS _Pragma("whitelisted_resource_24491") 24491
+[0;1;32m                          ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24491
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:666:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"guestViewAttributes", IDR_GUEST_VIEW_ATTRIBUTES_JS},
+[0;1;32m                              ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:20:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_ATTRIBUTES_JS'[0m
+#define IDR_GUEST_VIEW_ATTRIBUTES_JS _Pragma("whitelisted_resource_24485") 24485
+[0;1;32m                                     ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24485
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:667:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"guestViewContainer", IDR_GUEST_VIEW_CONTAINER_JS},
+[0;1;32m                             ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:21:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_CONTAINER_JS'[0m
+#define IDR_GUEST_VIEW_CONTAINER_JS _Pragma("whitelisted_resource_24486") 24486
+[0;1;32m                                    ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24486
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:668:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"guestViewDeny", IDR_GUEST_VIEW_DENY_JS},
+[0;1;32m                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:22:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_DENY_JS'[0m
+#define IDR_GUEST_VIEW_DENY_JS _Pragma("whitelisted_resource_24487") 24487
+[0;1;32m                               ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24487
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:669:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"guestViewEvents", IDR_GUEST_VIEW_EVENTS_JS},
+[0;1;32m                          ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:23:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_EVENTS_JS'[0m
+#define IDR_GUEST_VIEW_EVENTS_JS _Pragma("whitelisted_resource_24488") 24488
+[0;1;32m                                 ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24488
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:670:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"imageUtil", IDR_IMAGE_UTIL_JS},
+[0;1;32m                    ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:27:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IMAGE_UTIL_JS'[0m
+#define IDR_IMAGE_UTIL_JS _Pragma("whitelisted_resource_24492") 24492
+[0;1;32m                          ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24492
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:671:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"setIcon", IDR_SET_ICON_JS},
+[0;1;32m                  ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:38:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SET_ICON_JS'[0m
+#define IDR_SET_ICON_JS _Pragma("whitelisted_resource_24503") 24503
+[0;1;32m                        ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24503
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:672:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"test", IDR_TEST_CUSTOM_BINDINGS_JS},
+[0;1;32m               ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:39:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEST_CUSTOM_BINDINGS_JS'[0m
+#define IDR_TEST_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24504") 24504
+[0;1;32m                                    ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24504
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:674:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDR_BROWSER_TEST_ENVIRONMENT_SPECIFIC_BINDINGS_JS},
+[0;1;32m       ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:6:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BROWSER_TEST_ENVIRONMENT_SPECIFIC_BINDINGS_JS'[0m
+#define IDR_BROWSER_TEST_ENVIRONMENT_SPECIFIC_BINDINGS_JS _Pragma("whitelisted_resource_24471") 24471
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24471
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:675:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"uncaught_exception_handler", IDR_UNCAUGHT_EXCEPTION_HANDLER_JS},
+[0;1;32m                                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:40:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UNCAUGHT_EXCEPTION_HANDLER_JS'[0m
+#define IDR_UNCAUGHT_EXCEPTION_HANDLER_JS _Pragma("whitelisted_resource_24505") 24505
+[0;1;32m                                          ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24505
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:676:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"utils", IDR_UTILS_JS},
+[0;1;32m                ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:41:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UTILS_JS'[0m
+#define IDR_UTILS_JS _Pragma("whitelisted_resource_24506") 24506
+[0;1;32m                     ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24506
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:677:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webRequest", IDR_WEB_REQUEST_CUSTOM_BINDINGS_JS},
+[0;1;32m                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:66:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_REQUEST_CUSTOM_BINDINGS_JS'[0m
+#define IDR_WEB_REQUEST_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24531") 24531
+[0;1;32m                                           ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24531
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:678:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webRequestEvent", IDR_WEB_REQUEST_EVENT_JS},
+[0;1;32m                          ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:67:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_REQUEST_EVENT_JS'[0m
+#define IDR_WEB_REQUEST_EVENT_JS _Pragma("whitelisted_resource_24532") 24532
+[0;1;32m                                 ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24532
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:681:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webView", IDR_WEB_VIEW_JS},
+[0;1;32m                  ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:48:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_JS'[0m
+#define IDR_WEB_VIEW_JS _Pragma("whitelisted_resource_24513") 24513
+[0;1;32m                        ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24513
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:682:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewActionRequests", IDR_WEB_VIEW_ACTION_REQUESTS_JS},
+[0;1;32m                                ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:42:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_ACTION_REQUESTS_JS'[0m
+#define IDR_WEB_VIEW_ACTION_REQUESTS_JS _Pragma("whitelisted_resource_24507") 24507
+[0;1;32m                                        ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24507
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:683:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewApiMethods", IDR_WEB_VIEW_API_METHODS_JS},
+[0;1;32m                            ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:43:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_API_METHODS_JS'[0m
+#define IDR_WEB_VIEW_API_METHODS_JS _Pragma("whitelisted_resource_24508") 24508
+[0;1;32m                                    ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24508
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:684:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewAttributes", IDR_WEB_VIEW_ATTRIBUTES_JS},
+[0;1;32m                            ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:44:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_ATTRIBUTES_JS'[0m
+#define IDR_WEB_VIEW_ATTRIBUTES_JS _Pragma("whitelisted_resource_24509") 24509
+[0;1;32m                                   ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24509
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:685:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewConstants", IDR_WEB_VIEW_CONSTANTS_JS},
+[0;1;32m                           ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:45:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_CONSTANTS_JS'[0m
+#define IDR_WEB_VIEW_CONSTANTS_JS _Pragma("whitelisted_resource_24510") 24510
+[0;1;32m                                  ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24510
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:686:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewEvents", IDR_WEB_VIEW_EVENTS_JS},
+[0;1;32m                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:46:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_EVENTS_JS'[0m
+#define IDR_WEB_VIEW_EVENTS_JS _Pragma("whitelisted_resource_24511") 24511
+[0;1;32m                               ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24511
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:687:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewInternal", IDR_WEB_VIEW_INTERNAL_CUSTOM_BINDINGS_JS},
+[0;1;32m                          ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:47:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_INTERNAL_CUSTOM_BINDINGS_JS'[0m
+#define IDR_WEB_VIEW_INTERNAL_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24512") 24512
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24512
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:689:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"keep_alive", IDR_KEEP_ALIVE_JS},
+[0;1;32m                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:29:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_KEEP_ALIVE_JS'[0m
+#define IDR_KEEP_ALIVE_JS _Pragma("whitelisted_resource_24494") 24494
+[0;1;32m                          ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24494
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:690:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"mojo_bindings", IDR_MOJO_BINDINGS_JS, true},
+[0;1;32m                        ^
+[0m[1mgen/mojo/public/js/grit/mojo_bindings_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_BINDINGS_JS'[0m
+#define IDR_MOJO_BINDINGS_JS _Pragma("whitelisted_resource_24750") 24750
+[0;1;32m                             ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24750
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:691:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensions/common/mojo/keep_alive.mojom", IDR_KEEP_ALIVE_MOJOM_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:30:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_KEEP_ALIVE_MOJOM_JS'[0m
+#define IDR_KEEP_ALIVE_MOJOM_JS _Pragma("whitelisted_resource_24495") 24495
+[0;1;32m                                ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24495
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:694:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"app.runtime", IDR_APP_RUNTIME_CUSTOM_BINDINGS_JS},
+[0;1;32m                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:49:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_RUNTIME_CUSTOM_BINDINGS_JS'[0m
+#define IDR_APP_RUNTIME_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24514") 24514
+[0;1;32m                                           ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24514
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:695:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"app.window", IDR_APP_WINDOW_CUSTOM_BINDINGS_JS},
+[0;1;32m                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:50:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CUSTOM_BINDINGS_JS'[0m
+#define IDR_APP_WINDOW_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24515") 24515
+[0;1;32m                                          ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24515
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:696:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"declarativeWebRequest", IDR_DECLARATIVE_WEBREQUEST_CUSTOM_BINDINGS_JS},
+[0;1;32m                                ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:54:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DECLARATIVE_WEBREQUEST_CUSTOM_BINDINGS_JS'[0m
+#define IDR_DECLARATIVE_WEBREQUEST_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24519") 24519
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24519
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:697:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"displaySource", IDR_DISPLAY_SOURCE_CUSTOM_BINDINGS_JS},
+[0;1;32m                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:55:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISPLAY_SOURCE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_DISPLAY_SOURCE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24520") 24520
+[0;1;32m                                              ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24520
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:698:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"contextMenus", IDR_CONTEXT_MENUS_CUSTOM_BINDINGS_JS},
+[0;1;32m                       ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:52:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTEXT_MENUS_CUSTOM_BINDINGS_JS'[0m
+#define IDR_CONTEXT_MENUS_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24517") 24517
+[0;1;32m                                             ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24517
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:699:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"contextMenusHandlers", IDR_CONTEXT_MENUS_HANDLERS_JS},
+[0;1;32m                               ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:53:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTEXT_MENUS_HANDLERS_JS'[0m
+#define IDR_CONTEXT_MENUS_HANDLERS_JS _Pragma("whitelisted_resource_24518") 24518
+[0;1;32m                                      ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24518
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:700:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"mimeHandlerPrivate", IDR_MIME_HANDLER_PRIVATE_CUSTOM_BINDINGS_JS},
+[0;1;32m                             ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:34:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MIME_HANDLER_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_MIME_HANDLER_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24499") 24499
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24499
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:701:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"extensions/common/api/mime_handler.mojom", IDR_MIME_HANDLER_MOJOM_JS},
+[0;1;32m                                                   ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:35:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MIME_HANDLER_MOJOM_JS'[0m
+#define IDR_MIME_HANDLER_MOJOM_JS _Pragma("whitelisted_resource_24500") 24500
+[0;1;32m                                  ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24500
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:702:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"mojoPrivate", IDR_MOJO_PRIVATE_CUSTOM_BINDINGS_JS},
+[0;1;32m                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:61:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_PRIVATE_CUSTOM_BINDINGS_JS'[0m
+#define IDR_MOJO_PRIVATE_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24526") 24526
+[0;1;32m                                            ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24526
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:703:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"permissions", IDR_PERMISSIONS_CUSTOM_BINDINGS_JS},
+[0;1;32m                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:62:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PERMISSIONS_CUSTOM_BINDINGS_JS'[0m
+#define IDR_PERMISSIONS_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24527") 24527
+[0;1;32m                                           ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24527
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:704:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"printerProvider", IDR_PRINTER_PROVIDER_CUSTOM_BINDINGS_JS},
+[0;1;32m                          ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:63:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRINTER_PROVIDER_CUSTOM_BINDINGS_JS'[0m
+#define IDR_PRINTER_PROVIDER_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24528") 24528
+[0;1;32m                                                ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24528
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:705:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"webViewRequest", IDR_WEB_VIEW_REQUEST_CUSTOM_BINDINGS_JS},
+[0;1;32m                         ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:68:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEB_VIEW_REQUEST_CUSTOM_BINDINGS_JS'[0m
+#define IDR_WEB_VIEW_REQUEST_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24533") 24533
+[0;1;32m                                                ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24533
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:708:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {"platformApp", IDR_PLATFORM_APP_JS},
+[0;1;32m                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:71:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLATFORM_APP_JS'[0m
+#define IDR_PLATFORM_APP_JS _Pragma("whitelisted_resource_24536") 24536
+[0;1;32m                            ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24536
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:712:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"binding", IDR_BINDING_JS});
+[0;1;32m                                    ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:51:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BINDING_JS'[0m
+#define IDR_BINDING_JS _Pragma("whitelisted_resource_24516") 24516
+[0;1;32m                       ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24516
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:713:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({kEventBindings, IDR_EVENT_BINDINGS_JS});
+[0;1;32m                                         ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:8:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EVENT_BINDINGS_JS'[0m
+#define IDR_EVENT_BINDINGS_JS _Pragma("whitelisted_resource_24473") 24473
+[0;1;32m                              ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24473
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:714:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"lastError", IDR_LAST_ERROR_JS});
+[0;1;32m                                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:31:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LAST_ERROR_JS'[0m
+#define IDR_LAST_ERROR_JS _Pragma("whitelisted_resource_24496") 24496
+[0;1;32m                          ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24496
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:715:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"sendRequest", IDR_SEND_REQUEST_JS});
+[0;1;32m                                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:37:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SEND_REQUEST_JS'[0m
+#define IDR_SEND_REQUEST_JS _Pragma("whitelisted_resource_24502") 24502
+[0;1;32m                            ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24502
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:716:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({kSchemaUtils, IDR_SCHEMA_UTILS_JS});
+[0;1;32m                                       ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:36:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SCHEMA_UTILS_JS'[0m
+#define IDR_SCHEMA_UTILS_JS _Pragma("whitelisted_resource_24501") 24501
+[0;1;32m                            ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24501
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:717:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"json_schema", IDR_JSON_SCHEMA_JS});
+[0;1;32m                                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:28:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_JSON_SCHEMA_JS'[0m
+#define IDR_JSON_SCHEMA_JS _Pragma("whitelisted_resource_24493") 24493
+[0;1;32m                           ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24493
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:719:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"messaging", IDR_MESSAGING_JS});
+[0;1;32m                                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:32:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MESSAGING_JS'[0m
+#define IDR_MESSAGING_JS _Pragma("whitelisted_resource_24497") 24497
+[0;1;32m                         ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24497
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:720:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"messaging_utils", IDR_MESSAGING_UTILS_JS});
+[0;1;32m                                            ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:33:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MESSAGING_UTILS_JS'[0m
+#define IDR_MESSAGING_UTILS_JS _Pragma("whitelisted_resource_24498") 24498
+[0;1;32m                               ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24498
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:721:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"extension", IDR_EXTENSION_CUSTOM_BINDINGS_JS});
+[0;1;32m                                      ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:56:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_CUSTOM_BINDINGS_JS'[0m
+#define IDR_EXTENSION_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24521") 24521
+[0;1;32m                                         ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24521
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:722:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"i18n", IDR_I18N_CUSTOM_BINDINGS_JS});
+[0;1;32m                                 ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:60:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_I18N_CUSTOM_BINDINGS_JS'[0m
+#define IDR_I18N_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24525") 24525
+[0;1;32m                                    ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24525
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:723:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"runtime", IDR_RUNTIME_CUSTOM_BINDINGS_JS});
+[0;1;32m                                    ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:64:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RUNTIME_CUSTOM_BINDINGS_JS'[0m
+#define IDR_RUNTIME_CUSTOM_BINDINGS_JS _Pragma("whitelisted_resource_24529") 24529
+[0;1;32m                                       ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24529
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:726:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"StorageArea", IDR_STORAGE_AREA_JS});
+[0;1;32m                                        ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:69:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_STORAGE_AREA_JS'[0m
+#define IDR_STORAGE_AREA_JS _Pragma("whitelisted_resource_24534") 24534
+[0;1;32m                            ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24534
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:730:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    resources.push_back({"guestViewIframe", IDR_GUEST_VIEW_IFRAME_JS});
+[0;1;32m                                            ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:25:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_IFRAME_JS'[0m
+#define IDR_GUEST_VIEW_IFRAME_JS _Pragma("whitelisted_resource_24490") 24490
+[0;1;32m                                 ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24490
+[0;1;32m ^
+[0m[1m../../extensions/renderer/dispatcher.cc:732:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {"guestViewIframeContainer", IDR_GUEST_VIEW_IFRAME_CONTAINER_JS});
+[0;1;32m                                     ^
+[0m[1mgen/extensions/grit/extensions_renderer_resources.h:24:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_VIEW_IFRAME_CONTAINER_JS'[0m
+#define IDR_GUEST_VIEW_IFRAME_CONTAINER_JS _Pragma("whitelisted_resource_24489") 24489
+[0;1;32m                                           ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24489
+[0;1;32m ^
+[0m69 warnings generated.

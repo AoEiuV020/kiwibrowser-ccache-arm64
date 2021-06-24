@@ -1,0 +1,10 @@
+[1m../../chrome/renderer/net/net_error_helper.cc:323:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int resource_id = IDR_NET_ERROR_HTML;
+[0;1;32m                    ^
+[0m[1mgen/components/grit/components_resources.h:28:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NET_ERROR_HTML'[0m
+#define IDR_NET_ERROR_HTML _Pragma("whitelisted_resource_17033") 17033
+[0;1;32m                           ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17033
+[0;1;32m ^
+[0m1 warning generated.
