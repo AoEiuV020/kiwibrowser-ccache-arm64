@@ -1,0 +1,82 @@
+[1m../../extensions/browser/warning_set.cc:76:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_NETWORK_DELAY,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:60:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_NETWORK_DELAY'[0m
+#define IDS_EXTENSION_WARNINGS_NETWORK_DELAY _Pragma("whitelisted_resource_24675") 24675
+[0;1;32m                                             ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24675
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:86:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_NETWORK_CONFLICT,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:61:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_NETWORK_CONFLICT'[0m
+#define IDS_EXTENSION_WARNINGS_NETWORK_CONFLICT _Pragma("whitelisted_resource_24676") 24676
+[0;1;32m                                                ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24676
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:103:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_REDIRECT_CONFLICT,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:62:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_REDIRECT_CONFLICT'[0m
+#define IDS_EXTENSION_WARNINGS_REDIRECT_CONFLICT _Pragma("whitelisted_resource_24677") 24677
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24677
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:118:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_REQUEST_HEADER_CONFLICT,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:63:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_REQUEST_HEADER_CONFLICT'[0m
+#define IDS_EXTENSION_WARNINGS_REQUEST_HEADER_CONFLICT _Pragma("whitelisted_resource_24678") 24678
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24678
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:133:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_RESPONSE_HEADER_CONFLICT,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:64:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_RESPONSE_HEADER_CONFLICT'[0m
+#define IDS_EXTENSION_WARNINGS_RESPONSE_HEADER_CONFLICT _Pragma("whitelisted_resource_24679") 24679
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24679
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:146:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_CREDENTIALS_CONFLICT,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:65:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_CREDENTIALS_CONFLICT'[0m
+#define IDS_EXTENSION_WARNINGS_CREDENTIALS_CONFLICT _Pragma("whitelisted_resource_24680") 24680
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24680
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:158:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_NETWORK_DELAY,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:60:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_NETWORK_DELAY'[0m
+#define IDS_EXTENSION_WARNINGS_NETWORK_DELAY _Pragma("whitelisted_resource_24675") 24675
+[0;1;32m                                             ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24675
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:177:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_WARNINGS_DOWNLOAD_FILENAME_CONFLICT,
+[0;1;32m      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:66:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNINGS_DOWNLOAD_FILENAME_CONFLICT'[0m
+#define IDS_EXTENSION_WARNINGS_DOWNLOAD_FILENAME_CONFLICT _Pragma("whitelisted_resource_24681") 24681
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24681
+[0;1;32m ^
+[0m[1m../../extensions/browser/warning_set.cc:187:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDS_EXTENSION_WARNING_RELOAD_TOO_FREQUENT,
+[0;1;32m                          ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:67:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WARNING_RELOAD_TOO_FREQUENT'[0m
+#define IDS_EXTENSION_WARNING_RELOAD_TOO_FREQUENT _Pragma("whitelisted_resource_24682") 24682
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24682
+[0;1;32m ^
+[0m9 warnings generated.

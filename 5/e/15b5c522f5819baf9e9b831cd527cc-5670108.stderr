@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/webui/download_internals/download_internals_ui.cc:26:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_DOWNLOAD_INTERNALS_CSS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:61:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOAD_INTERNALS_CSS'[0m
+#define IDR_DOWNLOAD_INTERNALS_CSS _Pragma("whitelisted_resource_11048") 11048
+[0;1;32m                                   ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11048
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/download_internals/download_internals_ui.cc:28:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_DOWNLOAD_INTERNALS_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:62:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOAD_INTERNALS_JS'[0m
+#define IDR_DOWNLOAD_INTERNALS_JS _Pragma("whitelisted_resource_11049") 11049
+[0;1;32m                                  ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11049
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/download_internals/download_internals_ui.cc:30:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_DOWNLOAD_INTERNALS_BROWSER_PROXY_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:63:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOAD_INTERNALS_BROWSER_PROXY_JS'[0m
+#define IDR_DOWNLOAD_INTERNALS_BROWSER_PROXY_JS _Pragma("whitelisted_resource_11050") 11050
+[0;1;32m                                                ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11050
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/download_internals/download_internals_ui.cc:32:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_DOWNLOAD_INTERNALS_VISUALS_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:64:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOAD_INTERNALS_VISUALS_JS'[0m
+#define IDR_DOWNLOAD_INTERNALS_VISUALS_JS _Pragma("whitelisted_resource_11051") 11051
+[0;1;32m                                          ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11051
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/download_internals/download_internals_ui.cc:33:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_DOWNLOAD_INTERNALS_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:60:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOAD_INTERNALS_HTML'[0m
+#define IDR_DOWNLOAD_INTERNALS_HTML _Pragma("whitelisted_resource_11047") 11047
+[0;1;32m                                    ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11047
+[0;1;32m ^
+[0m5 warnings generated.

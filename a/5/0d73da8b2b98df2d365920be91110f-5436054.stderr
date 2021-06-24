@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/views/omnibox/omnibox_tab_switch_button.cc:39:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SetText(l10n_util::GetStringUTF16(IDS_OMNIBOX_TAB_SUGGEST_SHORT_HINT));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:370:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_TAB_SUGGEST_SHORT_HINT'[0m
+#define IDS_OMNIBOX_TAB_SUGGEST_SHORT_HINT _Pragma("whitelisted_resource_15477") 15477
+[0;1;32m                                           ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15477
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_tab_switch_button.cc:41:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SetText(l10n_util::GetStringUTF16(IDS_OMNIBOX_TAB_SUGGEST_HINT));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:369:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_TAB_SUGGEST_HINT'[0m
+#define IDS_OMNIBOX_TAB_SUGGEST_HINT _Pragma("whitelisted_resource_15476") 15476
+[0;1;32m                                     ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15476
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_tab_switch_button.cc:45:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SetText(l10n_util::GetStringUTF16(IDS_OMNIBOX_TAB_SUGGEST_HINT));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:369:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_TAB_SUGGEST_HINT'[0m
+#define IDS_OMNIBOX_TAB_SUGGEST_HINT _Pragma("whitelisted_resource_15476") 15476
+[0;1;32m                                     ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15476
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_tab_switch_button.cc:54:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SetText(l10n_util::GetStringUTF16(IDS_OMNIBOX_TAB_SUGGEST_HINT));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:369:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_TAB_SUGGEST_HINT'[0m
+#define IDS_OMNIBOX_TAB_SUGGEST_HINT _Pragma("whitelisted_resource_15476") 15476
+[0;1;32m                                     ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15476
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_tab_switch_button.cc:56:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SetText(l10n_util::GetStringUTF16(IDS_OMNIBOX_TAB_SUGGEST_SHORT_HINT));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:370:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_TAB_SUGGEST_SHORT_HINT'[0m
+#define IDS_OMNIBOX_TAB_SUGGEST_SHORT_HINT _Pragma("whitelisted_resource_15477") 15477
+[0;1;32m                                           ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15477
+[0;1;32m ^
+[0m5 warnings generated.

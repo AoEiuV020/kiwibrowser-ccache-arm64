@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/sandbox_internals_ui.cc:60:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SANDBOX_INTERNALS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:245:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SANDBOX_INTERNALS_HTML'[0m
+#define IDR_SANDBOX_INTERNALS_HTML _Pragma("whitelisted_resource_11444") 11444
+[0;1;32m                                   ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11444
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sandbox_internals_ui.cc:61:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("sandbox_internals.js", IDR_SANDBOX_INTERNALS_JS);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:246:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SANDBOX_INTERNALS_JS'[0m
+#define IDR_SANDBOX_INTERNALS_JS _Pragma("whitelisted_resource_11445") 11445
+[0;1;32m                                 ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11445
+[0;1;32m ^
+[0m2 warnings generated.

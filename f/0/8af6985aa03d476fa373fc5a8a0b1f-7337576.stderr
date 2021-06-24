@@ -1,0 +1,307 @@
+[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:160:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {CONTENT_SETTINGS_TYPE_COOKIES, kCookieIcon, IDS_BLOCKED_COOKIES_MESSAGE, 0,
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1139:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_COOKIES_MESSAGE'[0m
+#define IDS_BLOCKED_COOKIES_MESSAGE _Pragma("whitelisted_resource_4510") 4510
+[0;1;32m                                    ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4510
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:161:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_ACCESSED_COOKIES_MESSAGE},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1140:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSED_COOKIES_MESSAGE'[0m
+#define IDS_ACCESSED_COOKIES_MESSAGE _Pragma("whitelisted_resource_4511") 4511
+[0;1;32m                                     ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4511
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:162:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {CONTENT_SETTINGS_TYPE_IMAGES, kPhotoIcon, IDS_BLOCKED_IMAGES_MESSAGE, 0,
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1144:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_IMAGES_MESSAGE'[0m
+#define IDS_BLOCKED_IMAGES_MESSAGE _Pragma("whitelisted_resource_4515") 4515
+[0;1;32m                                   ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4515
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:165:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_BLOCKED_JAVASCRIPT_MESSAGE, 0, 0},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1175:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_JAVASCRIPT_MESSAGE'[0m
+#define IDS_BLOCKED_JAVASCRIPT_MESSAGE _Pragma("whitelisted_resource_4546") 4546
+[0;1;32m                                       ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4546
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:166:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {CONTENT_SETTINGS_TYPE_PLUGINS, kExtensionIcon, IDS_BLOCKED_PLUGINS_MESSAGE,
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1180:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_PLUGINS_MESSAGE'[0m
+#define IDS_BLOCKED_PLUGINS_MESSAGE _Pragma("whitelisted_resource_4551") 4551
+[0;1;32m                                    ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4551
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:167:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_BLOCKED_PLUGIN_EXPLANATORY_TEXT, 0},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1173:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_PLUGIN_EXPLANATORY_TEXT'[0m
+#define IDS_BLOCKED_PLUGIN_EXPLANATORY_TEXT _Pragma("whitelisted_resource_4544") 4544
+[0;1;32m                                            ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4544
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:168:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {CONTENT_SETTINGS_TYPE_POPUPS, kWebIcon, IDS_BLOCKED_POPUPS_TOOLTIP,
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1152:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_POPUPS_TOOLTIP'[0m
+#define IDS_BLOCKED_POPUPS_TOOLTIP _Pragma("whitelisted_resource_4523") 4523
+[0;1;32m                                   ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4523
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:169:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_BLOCKED_POPUPS_EXPLANATORY_TEXT, 0},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1172:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_POPUPS_EXPLANATORY_TEXT'[0m
+#define IDS_BLOCKED_POPUPS_EXPLANATORY_TEXT _Pragma("whitelisted_resource_4543") 4543
+[0;1;32m                                            ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4543
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:171:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_BLOCKED_DISPLAYING_INSECURE_CONTENT, 0, 0},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1654:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_DISPLAYING_INSECURE_CONTENT'[0m
+#define IDS_BLOCKED_DISPLAYING_INSECURE_CONTENT _Pragma("whitelisted_resource_5225") 5225
+[0;1;32m                                                ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5225
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:173:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_BLOCKED_PPAPI_BROKER_MESSAGE, 0, IDS_ALLOWED_PPAPI_BROKER_MESSAGE},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1646:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_PPAPI_BROKER_MESSAGE'[0m
+#define IDS_BLOCKED_PPAPI_BROKER_MESSAGE _Pragma("whitelisted_resource_5217") 5217
+[0;1;32m                                         ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5217
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:173:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_BLOCKED_PPAPI_BROKER_MESSAGE, 0, IDS_ALLOWED_PPAPI_BROKER_MESSAGE},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1647:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ALLOWED_PPAPI_BROKER_MESSAGE'[0m
+#define IDS_ALLOWED_PPAPI_BROKER_MESSAGE _Pragma("whitelisted_resource_5218") 5218
+[0;1;32m                                         ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5218
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:174:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {CONTENT_SETTINGS_TYPE_SOUND, kTabAudioIcon, IDS_BLOCKED_SOUND_TITLE, 0, 0},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1182:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_SOUND_TITLE'[0m
+#define IDS_BLOCKED_SOUND_TITLE _Pragma("whitelisted_resource_4553") 4553
+[0;1;32m                                ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4553
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:388:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                            ? IDS_GEOLOCATION_ALLOWED_TOOLTIP
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2459:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GEOLOCATION_ALLOWED_TOOLTIP'[0m
+#define IDS_GEOLOCATION_ALLOWED_TOOLTIP _Pragma("whitelisted_resource_6209") 6209
+[0;1;32m                                        ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6209
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:389:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                            : IDS_GEOLOCATION_BLOCKED_TOOLTIP));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2460:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GEOLOCATION_BLOCKED_TOOLTIP'[0m
+#define IDS_GEOLOCATION_BLOCKED_TOOLTIP _Pragma("whitelisted_resource_6210") 6210
+[0;1;32m                                        ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6210
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:398:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  set_tooltip(l10n_util::GetStringUTF16(IDS_REGISTER_PROTOCOL_HANDLER_TOOLTIP));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2470:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REGISTER_PROTOCOL_HANDLER_TOOLTIP'[0m
+#define IDS_REGISTER_PROTOCOL_HANDLER_TOOLTIP _Pragma("whitelisted_resource_6220") 6220
+[0;1;32m                                              ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6220
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:447:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                            ? IDS_MIDI_SYSEX_ALLOWED_TOOLTIP
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2463:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIDI_SYSEX_ALLOWED_TOOLTIP'[0m
+#define IDS_MIDI_SYSEX_ALLOWED_TOOLTIP _Pragma("whitelisted_resource_6213") 6213
+[0;1;32m                                       ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6213
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:448:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                            : IDS_MIDI_SYSEX_BLOCKED_TOOLTIP));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2464:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIDI_SYSEX_BLOCKED_TOOLTIP'[0m
+#define IDS_MIDI_SYSEX_BLOCKED_TOOLTIP _Pragma("whitelisted_resource_6214") 6214
+[0;1;32m                                       ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6214
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:476:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      set_tooltip(l10n_util::GetStringUTF16(IDS_ALLOWED_DOWNLOAD_TITLE));
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1132:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ALLOWED_DOWNLOAD_TITLE'[0m
+#define IDS_ALLOWED_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4503") 4503
+[0;1;32m                                   ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4503
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:481:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      set_explanatory_string_id(IDS_BLOCKED_DOWNLOADS_EXPLANATION);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1134:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_DOWNLOADS_EXPLANATION'[0m
+#define IDS_BLOCKED_DOWNLOADS_EXPLANATION _Pragma("whitelisted_resource_4505") 4505
+[0;1;32m                                          ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4505
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:482:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      set_tooltip(l10n_util::GetStringUTF16(IDS_BLOCKED_DOWNLOAD_TITLE));
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1133:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_DOWNLOAD_TITLE'[0m
+#define IDS_BLOCKED_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4504") 4504
+[0;1;32m                                   ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4504
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:514:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      allowed ? IDS_ALLOWED_CLIPBOARD_MESSAGE : IDS_BLOCKED_CLIPBOARD_MESSAGE));
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1749:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ALLOWED_CLIPBOARD_MESSAGE'[0m
+#define IDS_ALLOWED_CLIPBOARD_MESSAGE _Pragma("whitelisted_resource_5326") 5326
+[0;1;32m                                      ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5326
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:514:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      allowed ? IDS_ALLOWED_CLIPBOARD_MESSAGE : IDS_BLOCKED_CLIPBOARD_MESSAGE));
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1752:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_CLIPBOARD_MESSAGE'[0m
+#define IDS_BLOCKED_CLIPBOARD_MESSAGE _Pragma("whitelisted_resource_5329") 5329
+[0;1;32m                                      ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5329
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:545:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int id = IDS_CAMERA_BLOCKED;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2479:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAMERA_BLOCKED'[0m
+#define IDS_CAMERA_BLOCKED _Pragma("whitelisted_resource_6229") 6229
+[0;1;32m                           ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6229
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:550:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = is_cam ? IDS_MICROPHONE_CAMERA_BLOCKED : IDS_MICROPHONE_BLOCKED;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2475:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MICROPHONE_CAMERA_BLOCKED'[0m
+#define IDS_MICROPHONE_CAMERA_BLOCKED _Pragma("whitelisted_resource_6225") 6225
+[0;1;32m                                      ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6225
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:550:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = is_cam ? IDS_MICROPHONE_CAMERA_BLOCKED : IDS_MICROPHONE_BLOCKED;
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2478:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MICROPHONE_BLOCKED'[0m
+#define IDS_MICROPHONE_BLOCKED _Pragma("whitelisted_resource_6228") 6228
+[0;1;32m                               ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6228
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:553:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_CAMERA_ACCESSED;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2477:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAMERA_ACCESSED'[0m
+#define IDS_CAMERA_ACCESSED _Pragma("whitelisted_resource_6227") 6227
+[0;1;32m                            ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6227
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:555:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = is_cam ? IDS_MICROPHONE_CAMERA_ALLOWED : IDS_MICROPHONE_ACCESSED;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2474:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MICROPHONE_CAMERA_ALLOWED'[0m
+#define IDS_MICROPHONE_CAMERA_ALLOWED _Pragma("whitelisted_resource_6224") 6224
+[0;1;32m                                      ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6224
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:555:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = is_cam ? IDS_MICROPHONE_CAMERA_ALLOWED : IDS_MICROPHONE_ACCESSED;
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2476:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MICROPHONE_ACCESSED'[0m
+#define IDS_MICROPHONE_ACCESSED _Pragma("whitelisted_resource_6226") 6226
+[0;1;32m                                ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6226
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:619:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  set_explanatory_string_id(IDS_BLOCKED_ADS_PROMPT_TITLE);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2815:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_ADS_PROMPT_TITLE'[0m
+#define IDS_BLOCKED_ADS_PROMPT_TITLE _Pragma("whitelisted_resource_6656") 6656
+[0;1;32m                                     ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6656
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:620:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  set_tooltip(l10n_util::GetStringUTF16(IDS_BLOCKED_ADS_PROMPT_TOOLTIP));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2817:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCKED_ADS_PROMPT_TOOLTIP'[0m
+#define IDS_BLOCKED_ADS_PROMPT_TOOLTIP _Pragma("whitelisted_resource_6658") 6658
+[0;1;32m                                       ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6658
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:670:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  set_explanatory_string_id(IDS_REDIRECT_BLOCKED_TITLE);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2820:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REDIRECT_BLOCKED_TITLE'[0m
+#define IDS_REDIRECT_BLOCKED_TITLE _Pragma("whitelisted_resource_6662") 6662
+[0;1;32m                                   ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6662
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:671:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  set_tooltip(l10n_util::GetStringUTF16(IDS_REDIRECT_BLOCKED_TOOLTIP));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2821:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REDIRECT_BLOCKED_TOOLTIP'[0m
+#define IDS_REDIRECT_BLOCKED_TOOLTIP _Pragma("whitelisted_resource_6663") 6663
+[0;1;32m                                     ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6663
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:721:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  set_tooltip(l10n_util::GetStringUTF16(allowed ? IDS_SENSORS_ALLOWED_TOOLTIP
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2548:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SENSORS_ALLOWED_TOOLTIP'[0m
+#define IDS_SENSORS_ALLOWED_TOOLTIP _Pragma("whitelisted_resource_6307") 6307
+[0;1;32m                                    ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6307
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/content_settings/content_setting_image_model.cc:722:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                : IDS_SENSORS_BLOCKED_TOOLTIP));
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2549:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SENSORS_BLOCKED_TOOLTIP'[0m
+#define IDS_SENSORS_BLOCKED_TOOLTIP _Pragma("whitelisted_resource_6308") 6308
+[0;1;32m                                    ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6308
+[0;1;32m ^
+[0m34 warnings generated.

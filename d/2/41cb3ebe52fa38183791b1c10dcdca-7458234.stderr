@@ -1,0 +1,154 @@
+[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:69:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SIGNIN_ERROR_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:170:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_ERROR_HTML'[0m
+#define IDR_SIGNIN_ERROR_HTML _Pragma("whitelisted_resource_11262") 11262
+[0;1;32m                              ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11262
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:70:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("signin_error.js", IDR_SIGNIN_ERROR_JS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:171:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_ERROR_JS'[0m
+#define IDR_SIGNIN_ERROR_JS _Pragma("whitelisted_resource_11263") 11263
+[0;1;32m                            ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11263
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:71:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("signin_shared_css.html", IDR_SIGNIN_SHARED_CSS_HTML);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:10:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_SHARED_CSS_HTML'[0m
+#define IDR_SIGNIN_SHARED_CSS_HTML _Pragma("whitelisted_resource_11500") 11500
+[0;1;32m                                   ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11500
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:84:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDS_OLD_PROFILES_DISABLED_TITLE);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2217:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OLD_PROFILES_DISABLED_TITLE'[0m
+#define IDS_OLD_PROFILES_DISABLED_TITLE _Pragma("whitelisted_resource_5856") 5856
+[0;1;32m                                        ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5856
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:86:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->AddLocalizedString("signinErrorTitle", IDS_SIGNIN_ERROR_TITLE);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2257:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_TITLE'[0m
+#define IDS_SIGNIN_ERROR_TITLE _Pragma("whitelisted_resource_5896") 5896
+[0;1;32m                               ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5896
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:90:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            ? IDS_SIGNIN_ERROR_DICE_EMAIL_TITLE
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2259:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_DICE_EMAIL_TITLE'[0m
+#define IDS_SIGNIN_ERROR_DICE_EMAIL_TITLE _Pragma("whitelisted_resource_5898") 5898
+[0;1;32m                                          ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5898
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:91:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            : IDS_SIGNIN_ERROR_EMAIL_TITLE;
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2258:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_EMAIL_TITLE'[0m
+#define IDS_SIGNIN_ERROR_EMAIL_TITLE _Pragma("whitelisted_resource_5897") 5897
+[0;1;32m                                     ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5897
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:106:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDS_OLD_PROFILES_DISABLED_MESSAGE);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2218:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OLD_PROFILES_DISABLED_MESSAGE'[0m
+#define IDS_OLD_PROFILES_DISABLED_MESSAGE _Pragma("whitelisted_resource_5857") 5857
+[0;1;32m                                          ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5857
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:113:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_OLD_PROFILES_DISABLED_ADD_PERSON_SUGGESTION);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2219:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OLD_PROFILES_DISABLED_ADD_PERSON_SUGGESTION'[0m
+#define IDS_OLD_PROFILES_DISABLED_ADD_PERSON_SUGGESTION _Pragma("whitelisted_resource_5858") 5858
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5858
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:118:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_OLD_PROFILES_DISABLED_ADD_PERSON_SUGGESTION_WITH_DOMAIN,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2220:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OLD_PROFILES_DISABLED_ADD_PERSON_SUGGESTION_WITH_DOMAIN'[0m
+#define IDS_OLD_PROFILES_DISABLED_ADD_PERSON_SUGGESTION_WITH_DOMAIN _Pragma("whitelisted_resource_5859") 5859
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5859
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:123:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDS_OLD_PROFILES_DISABLED_REMOVED_OLD_PROFILE);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2221:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OLD_PROFILES_DISABLED_REMOVED_OLD_PROFILE'[0m
+#define IDS_OLD_PROFILES_DISABLED_REMOVED_OLD_PROFILE _Pragma("whitelisted_resource_5860") 5860
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5860
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:126:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                 IDS_SYNC_USER_NAME_IN_USE_ERROR)) == 0) {
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2222:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_USER_NAME_IN_USE_ERROR'[0m
+#define IDS_SYNC_USER_NAME_IN_USE_ERROR _Pragma("whitelisted_resource_5861") 5861
+[0;1;32m                                        ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5861
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:144:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_SYNC_USER_NAME_IN_USE_BY_ERROR,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2223:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_USER_NAME_IN_USE_BY_ERROR'[0m
+#define IDS_SYNC_USER_NAME_IN_USE_BY_ERROR _Pragma("whitelisted_resource_5862") 5862
+[0;1;32m                                           ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5862
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:156:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_SIGNIN_ERROR_SWITCH_BUTTON_LABEL, existing_name));
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2262:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_SWITCH_BUTTON_LABEL'[0m
+#define IDS_SIGNIN_ERROR_SWITCH_BUTTON_LABEL _Pragma("whitelisted_resource_5901") 5901
+[0;1;32m                                             ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5901
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:157:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("signinErrorLearnMore", IDS_LEARN_MORE);
+[0;1;32m                                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:159:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_SIGNIN_ERROR_CLOSE_BUTTON_LABEL);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2260:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_CLOSE_BUTTON_LABEL'[0m
+#define IDS_SIGNIN_ERROR_CLOSE_BUTTON_LABEL _Pragma("whitelisted_resource_5899") 5899
+[0;1;32m                                            ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5899
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_error_ui.cc:161:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_SIGNIN_ERROR_OK_BUTTON_LABEL);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2261:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_OK_BUTTON_LABEL'[0m
+#define IDS_SIGNIN_ERROR_OK_BUTTON_LABEL _Pragma("whitelisted_resource_5900") 5900
+[0;1;32m                                         ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5900
+[0;1;32m ^
+[0m17 warnings generated.

@@ -1,0 +1,118 @@
+[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:37:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringUTF16(IDS_FULLSCREEN_ENTERED_FULLSCREEN);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2520:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_ENTERED_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_ENTERED_FULLSCREEN _Pragma("whitelisted_resource_6279") 6279
+[0;1;32m                                          ^
+[0m[1m<scratch space>:421:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6279
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:40:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_FULLSCREEN_ENTERED_FULLSCREEN_MOUSELOCK);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2522:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_ENTERED_FULLSCREEN_MOUSELOCK'[0m
+#define IDS_FULLSCREEN_ENTERED_FULLSCREEN_MOUSELOCK _Pragma("whitelisted_resource_6281") 6281
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:423:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6281
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:42:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringUTF16(IDS_FULLSCREEN_ENTERED_MOUSELOCK);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2524:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_ENTERED_MOUSELOCK'[0m
+#define IDS_FULLSCREEN_ENTERED_MOUSELOCK _Pragma("whitelisted_resource_6283") 6283
+[0;1;32m                                         ^
+[0m[1m<scratch space>:425:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6283
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:45:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_FULLSCREEN_USER_ENTERED_FULLSCREEN);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2516:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_USER_ENTERED_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_USER_ENTERED_FULLSCREEN _Pragma("whitelisted_resource_6275") 6275
+[0;1;32m                                               ^
+[0m[1m<scratch space>:427:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6275
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:48:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_FULLSCREEN_UNKNOWN_EXTENSION_TRIGGERED_FULLSCREEN);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2518:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_UNKNOWN_EXTENSION_TRIGGERED_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_UNKNOWN_EXTENSION_TRIGGERED_FULLSCREEN _Pragma("whitelisted_resource_6277") 6277
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:429:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6277
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:59:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_FULLSCREEN_SITE_ENTERED_FULLSCREEN,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2519:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_SITE_ENTERED_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_SITE_ENTERED_FULLSCREEN _Pragma("whitelisted_resource_6278") 6278
+[0;1;32m                                               ^
+[0m[1m<scratch space>:431:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6278
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:63:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FULLSCREEN_SITE_ENTERED_FULLSCREEN_MOUSELOCK, host);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2521:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_SITE_ENTERED_FULLSCREEN_MOUSELOCK'[0m
+#define IDS_FULLSCREEN_SITE_ENTERED_FULLSCREEN_MOUSELOCK _Pragma("whitelisted_resource_6280") 6280
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:433:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6280
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:65:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_FULLSCREEN_SITE_ENTERED_MOUSELOCK,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2523:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_SITE_ENTERED_MOUSELOCK'[0m
+#define IDS_FULLSCREEN_SITE_ENTERED_MOUSELOCK _Pragma("whitelisted_resource_6282") 6282
+[0;1;32m                                              ^
+[0m[1m<scratch space>:435:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6282
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:68:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_FULLSCREEN_USER_ENTERED_FULLSCREEN);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2516:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_USER_ENTERED_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_USER_ENTERED_FULLSCREEN _Pragma("whitelisted_resource_6275") 6275
+[0;1;32m                                               ^
+[0m[1m<scratch space>:437:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6275
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:71:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FULLSCREEN_EXTENSION_TRIGGERED_FULLSCREEN, host);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2517:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_EXTENSION_TRIGGERED_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_EXTENSION_TRIGGERED_FULLSCREEN _Pragma("whitelisted_resource_6276") 6276
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:439:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6276
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:124:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FULLSCREEN_PRESS_ESC_TO_EXIT_FULLSCREEN, accelerator);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2525:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_PRESS_ESC_TO_EXIT_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_PRESS_ESC_TO_EXIT_FULLSCREEN _Pragma("whitelisted_resource_6284") 6284
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:441:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6284
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:127:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FULLSCREEN_HOLD_ESC_TO_EXIT_FULLSCREEN, accelerator);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2527:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_HOLD_ESC_TO_EXIT_FULLSCREEN'[0m
+#define IDS_FULLSCREEN_HOLD_ESC_TO_EXIT_FULLSCREEN _Pragma("whitelisted_resource_6286") 6286
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6286
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/exclusive_access/exclusive_access_bubble_type.cc:130:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FULLSCREEN_PRESS_ESC_TO_EXIT_MOUSELOCK, accelerator);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2526:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FULLSCREEN_PRESS_ESC_TO_EXIT_MOUSELOCK'[0m
+#define IDS_FULLSCREEN_PRESS_ESC_TO_EXIT_MOUSELOCK _Pragma("whitelisted_resource_6285") 6285
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6285
+[0;1;32m ^
+[0m13 warnings generated.

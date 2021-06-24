@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/location_bar/find_bar_icon.cc:32:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_TOOLTIP_FIND);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1724:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_FIND'[0m
+#define IDS_TOOLTIP_FIND _Pragma("whitelisted_resource_5300") 5300
+[0;1;32m                         ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5300
+[0;1;32m ^
+[0m1 warning generated.

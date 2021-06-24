@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/version_handler.cc:46:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *exec_path_out = l10n_util::GetStringUTF16(IDS_VERSION_UI_PATH_NOTFOUND);
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:1015:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VERSION_UI_PATH_NOTFOUND'[0m
+#define IDS_VERSION_UI_PATH_NOTFOUND _Pragma("whitelisted_resource_16152") 16152
+[0;1;32m                                     ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16152
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/version_handler.cc:52:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *profile_path_out = l10n_util::GetStringUTF16(IDS_VERSION_UI_PATH_NOTFOUND);
+[0;1;32m                                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:1015:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VERSION_UI_PATH_NOTFOUND'[0m
+#define IDS_VERSION_UI_PATH_NOTFOUND _Pragma("whitelisted_resource_16152") 16152
+[0;1;32m                                     ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16152
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/version_handler.cc:120:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_PLUGINS_DISABLED_PLUGIN);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1581:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGINS_DISABLED_PLUGIN'[0m
+#define IDS_PLUGINS_DISABLED_PLUGIN _Pragma("whitelisted_resource_5128") 5128
+[0;1;32m                                    ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5128
+[0;1;32m ^
+[0m3 warnings generated.

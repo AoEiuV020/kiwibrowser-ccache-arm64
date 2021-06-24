@@ -1,0 +1,109 @@
+[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:141:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_MANAGE_PASSWORDS_SHOW_PASSWORD));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2500:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_SHOW_PASSWORD'[0m
+#define IDS_MANAGE_PASSWORDS_SHOW_PASSWORD _Pragma("whitelisted_resource_6250") 6250
+[0;1;32m                                           ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6250
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:143:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_MANAGE_PASSWORDS_HIDE_PASSWORD));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2501:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_HIDE_PASSWORD'[0m
+#define IDS_MANAGE_PASSWORDS_HIDE_PASSWORD _Pragma("whitelisted_resource_6251") 6251
+[0;1;32m                                           ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6251
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:146:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDR_SHOW_PASSWORD_HOVER));
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:92:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SHOW_PASSWORD_HOVER'[0m
+#define IDR_SHOW_PASSWORD_HOVER _Pragma("whitelisted_resource_10462") 10462
+[0;1;32m                                ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10462
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:150:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_HIDE_PASSWORD_HOVER));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/theme_resources.h:42:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_HIDE_PASSWORD_HOVER'[0m
+#define IDR_HIDE_PASSWORD_HOVER _Pragma("whitelisted_resource_10293") 10293
+[0;1;32m                                ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10293
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:181:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_PASSWORD_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1795:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_PASSWORD_LABEL'[0m
+#define IDS_PASSWORD_MANAGER_PASSWORD_LABEL _Pragma("whitelisted_resource_5373") 5373
+[0;1;32m                                            ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5373
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:223:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDS_PASSWORD_MANAGER_SIGNIN_VIA_FEDERATION,
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1796:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SIGNIN_VIA_FEDERATION'[0m
+#define IDS_PASSWORD_MANAGER_SIGNIN_VIA_FEDERATION _Pragma("whitelisted_resource_5374") 5374
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5374
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:255:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_USERNAME_LABEL),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1794:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_USERNAME_LABEL'[0m
+#define IDS_PASSWORD_MANAGER_USERNAME_LABEL _Pragma("whitelisted_resource_5372") 5372
+[0;1;32m                                            ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5372
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:260:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_PASSWORD_LABEL)
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1795:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_PASSWORD_LABEL'[0m
+#define IDS_PASSWORD_MANAGER_PASSWORD_LABEL _Pragma("whitelisted_resource_5373") 5373
+[0;1;32m                                            ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5373
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:384:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  ? IDS_PASSWORD_MANAGER_UPDATE_BUTTON
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1799:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_UPDATE_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_UPDATE_BUTTON _Pragma("whitelisted_resource_5377") 5377
+[0;1;32m                                           ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5377
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:385:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  : IDS_PASSWORD_MANAGER_SAVE_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1797:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SAVE_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_SAVE_BUTTON _Pragma("whitelisted_resource_5375") 5375
+[0;1;32m                                         ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5375
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:387:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    message = is_update_bubble_ ? IDS_PASSWORD_MANAGER_CANCEL_BUTTON
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1786:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_CANCEL_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_CANCEL_BUTTON _Pragma("whitelisted_resource_5364") 5364
+[0;1;32m                                           ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5364
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_pending_view.cc:388:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                : IDS_PASSWORD_MANAGER_BUBBLE_BLACKLIST_BUTTON;
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1788:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_BUBBLE_BLACKLIST_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_BUBBLE_BLACKLIST_BUTTON _Pragma("whitelisted_resource_5366") 5366
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5366
+[0;1;32m ^
+[0m12 warnings generated.

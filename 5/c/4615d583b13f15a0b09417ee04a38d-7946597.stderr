@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/extensions/media_galleries_dialog_views.cc:107:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_GALLERIES_DIALOG_CONTENT_WIDTH_CHARS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/locale_settings.h:18:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_CONTENT_WIDTH_CHARS'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_CONTENT_WIDTH_CHARS _Pragma("whitelisted_resource_10020") 10020
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10020
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/media_galleries_dialog_views.cc:245:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MEDIA_GALLERIES_DIALOG_CANCEL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2631:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_CANCEL'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_CANCEL _Pragma("whitelisted_resource_6409") 6409
+[0;1;32m                                          ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6409
+[0;1;32m ^
+[0m2 warnings generated.

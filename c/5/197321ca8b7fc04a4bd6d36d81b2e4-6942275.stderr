@@ -1,0 +1,109 @@
+[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:49:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("webrtcLogsTitle", IDS_WEBRTC_LOGS_TITLE);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1612:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_TITLE'[0m
+#define IDS_WEBRTC_LOGS_TITLE _Pragma("whitelisted_resource_5164") 5164
+[0;1;32m                              ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5164
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:51:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_LOG_COUNT_BANNER_FORMAT);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1613:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_LOG_COUNT_BANNER_FORMAT'[0m
+#define IDS_WEBRTC_LOGS_LOG_COUNT_BANNER_FORMAT _Pragma("whitelisted_resource_5165") 5165
+[0;1;32m                                                ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5165
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:53:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_LOG_HEADER_FORMAT);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1614:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_LOG_HEADER_FORMAT'[0m
+#define IDS_WEBRTC_LOGS_LOG_HEADER_FORMAT _Pragma("whitelisted_resource_5166") 5166
+[0;1;32m                                          ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5166
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:55:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_LOG_LOCAL_FILE_LABEL_FORMAT);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1615:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_LOG_LOCAL_FILE_LABEL_FORMAT'[0m
+#define IDS_WEBRTC_LOGS_LOG_LOCAL_FILE_LABEL_FORMAT _Pragma("whitelisted_resource_5167") 5167
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5167
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:57:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_NO_LOCAL_LOG_FILE_MESSAGE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1616:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_NO_LOCAL_LOG_FILE_MESSAGE'[0m
+#define IDS_WEBRTC_LOGS_NO_LOCAL_LOG_FILE_MESSAGE _Pragma("whitelisted_resource_5168") 5168
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:59:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_LOG_UPLOAD_TIME_FORMAT);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1617:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_LOG_UPLOAD_TIME_FORMAT'[0m
+#define IDS_WEBRTC_LOGS_LOG_UPLOAD_TIME_FORMAT _Pragma("whitelisted_resource_5169") 5169
+[0;1;32m                                               ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5169
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:61:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_LOG_REPORT_ID_FORMAT);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1618:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_LOG_REPORT_ID_FORMAT'[0m
+#define IDS_WEBRTC_LOGS_LOG_REPORT_ID_FORMAT _Pragma("whitelisted_resource_5170") 5170
+[0;1;32m                                             ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5170
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:62:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("bugLinkText", IDS_WEBRTC_LOGS_BUG_LINK_LABEL);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1619:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_BUG_LINK_LABEL'[0m
+#define IDS_WEBRTC_LOGS_BUG_LINK_LABEL _Pragma("whitelisted_resource_5171") 5171
+[0;1;32m                                       ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5171
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:64:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_LOG_NOT_UPLOADED_MESSAGE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1620:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_LOG_NOT_UPLOADED_MESSAGE'[0m
+#define IDS_WEBRTC_LOGS_LOG_NOT_UPLOADED_MESSAGE _Pragma("whitelisted_resource_5172") 5172
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5172
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:66:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_WEBRTC_LOGS_NO_LOGS_MESSAGE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1621:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBRTC_LOGS_NO_LOGS_MESSAGE'[0m
+#define IDS_WEBRTC_LOGS_NO_LOGS_MESSAGE _Pragma("whitelisted_resource_5173") 5173
+[0;1;32m                                        ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5173
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:68:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("webrtc_logs.js", IDR_WEBRTC_LOGS_JS);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:180:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBRTC_LOGS_JS'[0m
+#define IDR_WEBRTC_LOGS_JS _Pragma("whitelisted_resource_11272") 11272
+[0;1;32m                           ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11272
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media/webrtc_logs_ui.cc:69:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_WEBRTC_LOGS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:179:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBRTC_LOGS_HTML'[0m
+#define IDR_WEBRTC_LOGS_HTML _Pragma("whitelisted_resource_11271") 11271
+[0;1;32m                             ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11271
+[0;1;32m ^
+[0m12 warnings generated.

@@ -1,0 +1,199 @@
+[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:25:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(TabStripModel::CommandNewTab, IDS_TAB_CXMENU_NEWTAB);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1899:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_NEWTAB'[0m
+#define IDS_TAB_CXMENU_NEWTAB _Pragma("whitelisted_resource_5504") 5504
+[0;1;32m                              ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5504
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:27:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(TabStripModel::CommandReload, IDS_TAB_CXMENU_RELOAD);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1900:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_RELOAD'[0m
+#define IDS_TAB_CXMENU_RELOAD _Pragma("whitelisted_resource_5505") 5505
+[0;1;32m                              ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5505
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:29:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_TAB_CXMENU_DUPLICATE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1901:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_DUPLICATE'[0m
+#define IDS_TAB_CXMENU_DUPLICATE _Pragma("whitelisted_resource_5506") 5506
+[0;1;32m                                 ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5506
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:34:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        will_pin ? IDS_TAB_CXMENU_PIN_TABS : IDS_TAB_CXMENU_UNPIN_TABS);
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1907:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_PIN_TABS'[0m
+#define IDS_TAB_CXMENU_PIN_TABS _Pragma("whitelisted_resource_5512") 5512
+[0;1;32m                                ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5512
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:34:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        will_pin ? IDS_TAB_CXMENU_PIN_TABS : IDS_TAB_CXMENU_UNPIN_TABS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1909:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_UNPIN_TABS'[0m
+#define IDS_TAB_CXMENU_UNPIN_TABS _Pragma("whitelisted_resource_5514") 5514
+[0;1;32m                                  ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5514
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:38:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        will_pin ? IDS_TAB_CXMENU_PIN_TAB : IDS_TAB_CXMENU_UNPIN_TAB);
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1906:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_PIN_TAB'[0m
+#define IDS_TAB_CXMENU_PIN_TAB _Pragma("whitelisted_resource_5511") 5511
+[0;1;32m                               ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5511
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:38:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        will_pin ? IDS_TAB_CXMENU_PIN_TAB : IDS_TAB_CXMENU_UNPIN_TAB);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1908:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_UNPIN_TAB'[0m
+#define IDS_TAB_CXMENU_UNPIN_TAB _Pragma("whitelisted_resource_5513") 5513
+[0;1;32m                                 ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5513
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:45:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          will_mute ? IDS_TAB_CXMENU_SOUND_MUTE_SITES
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1915:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_SOUND_MUTE_SITES'[0m
+#define IDS_TAB_CXMENU_SOUND_MUTE_SITES _Pragma("whitelisted_resource_5520") 5520
+[0;1;32m                                        ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5520
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:46:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    : IDS_TAB_CXMENU_SOUND_UNMUTE_SITES);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1917:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_SOUND_UNMUTE_SITES'[0m
+#define IDS_TAB_CXMENU_SOUND_UNMUTE_SITES _Pragma("whitelisted_resource_5522") 5522
+[0;1;32m                                          ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5522
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:50:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          will_mute ? IDS_TAB_CXMENU_SOUND_MUTE_SITE
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1914:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_SOUND_MUTE_SITE'[0m
+#define IDS_TAB_CXMENU_SOUND_MUTE_SITE _Pragma("whitelisted_resource_5519") 5519
+[0;1;32m                                       ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5519
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:51:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    : IDS_TAB_CXMENU_SOUND_UNMUTE_SITE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1916:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_SOUND_UNMUTE_SITE'[0m
+#define IDS_TAB_CXMENU_SOUND_UNMUTE_SITE _Pragma("whitelisted_resource_5521") 5521
+[0;1;32m                                         ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5521
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:58:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          will_mute ? IDS_TAB_CXMENU_AUDIO_MUTE_TABS
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1911:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_AUDIO_MUTE_TABS'[0m
+#define IDS_TAB_CXMENU_AUDIO_MUTE_TABS _Pragma("whitelisted_resource_5516") 5516
+[0;1;32m                                       ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5516
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:59:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    : IDS_TAB_CXMENU_AUDIO_UNMUTE_TABS);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1913:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_AUDIO_UNMUTE_TABS'[0m
+#define IDS_TAB_CXMENU_AUDIO_UNMUTE_TABS _Pragma("whitelisted_resource_5518") 5518
+[0;1;32m                                         ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5518
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:64:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          will_mute ? IDS_TAB_CXMENU_AUDIO_MUTE_TAB
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1910:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_AUDIO_MUTE_TAB'[0m
+#define IDS_TAB_CXMENU_AUDIO_MUTE_TAB _Pragma("whitelisted_resource_5515") 5515
+[0;1;32m                                      ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5515
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:65:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    : IDS_TAB_CXMENU_AUDIO_UNMUTE_TAB);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1912:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_AUDIO_UNMUTE_TAB'[0m
+#define IDS_TAB_CXMENU_AUDIO_UNMUTE_TAB _Pragma("whitelisted_resource_5517") 5517
+[0;1;32m                                        ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5517
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:71:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_TAB_CXMENU_CLOSETABS);
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1903:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_CLOSETABS'[0m
+#define IDS_TAB_CXMENU_CLOSETABS _Pragma("whitelisted_resource_5508") 5508
+[0;1;32m                                 ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5508
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:74:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_TAB_CXMENU_CLOSETAB);
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1902:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_CLOSETAB'[0m
+#define IDS_TAB_CXMENU_CLOSETAB _Pragma("whitelisted_resource_5507") 5507
+[0;1;32m                                ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5507
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:77:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_TAB_CXMENU_CLOSEOTHERTABS);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1904:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_CLOSEOTHERTABS'[0m
+#define IDS_TAB_CXMENU_CLOSEOTHERTABS _Pragma("whitelisted_resource_5509") 5509
+[0;1;32m                                      ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5509
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:79:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_TAB_CXMENU_CLOSETABSTORIGHT);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1905:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_CLOSETABSTORIGHT'[0m
+#define IDS_TAB_CXMENU_CLOSETABSTORIGHT _Pragma("whitelisted_resource_5510") 5510
+[0;1;32m                                        ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5510
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:84:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      is_window ? IDS_RESTORE_WINDOW : IDS_RESTORE_TAB);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:937:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESTORE_WINDOW'[0m
+#define IDS_RESTORE_WINDOW _Pragma("whitelisted_resource_4280") 4280
+[0;1;32m                           ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4280
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:84:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      is_window ? IDS_RESTORE_WINDOW : IDS_RESTORE_TAB);
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:936:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESTORE_TAB'[0m
+#define IDS_RESTORE_TAB _Pragma("whitelisted_resource_4279") 4279
+[0;1;32m                        ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4279
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_menu_model.cc:86:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_TAB_CXMENU_BOOKMARK_ALL_TABS);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1918:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_CXMENU_BOOKMARK_ALL_TABS'[0m
+#define IDS_TAB_CXMENU_BOOKMARK_ALL_TABS _Pragma("whitelisted_resource_5523") 5523
+[0;1;32m                                         ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5523
+[0;1;32m ^
+[0m22 warnings generated.

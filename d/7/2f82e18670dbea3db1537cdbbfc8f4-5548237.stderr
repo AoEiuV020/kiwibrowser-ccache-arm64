@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/toolbar/back_forward_menu_model.cc:90:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_HISTORY_SHOWFULLHISTORY_LINK);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:309:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_SHOWFULLHISTORY_LINK'[0m
+#define IDS_HISTORY_SHOWFULLHISTORY_LINK _Pragma("whitelisted_resource_15412") 15412
+[0;1;32m                                         ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15412
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/back_forward_menu_model.cc:138:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDR_HISTORY_FAVICON);
+[0;1;32m        ^
+[0m[1mgen/components/grit/components_scaled_resources.h:31:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_HISTORY_FAVICON'[0m
+#define IDR_HISTORY_FAVICON _Pragma("whitelisted_resource_17229") 17229
+[0;1;32m                            ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17229
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/back_forward_menu_model.cc:408:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_HISTORY_SHOWFULLHISTORY_LINK);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:309:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_SHOWFULLHISTORY_LINK'[0m
+#define IDS_HISTORY_SHOWFULLHISTORY_LINK _Pragma("whitelisted_resource_15412") 15412
+[0;1;32m                                         ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15412
+[0;1;32m ^
+[0m3 warnings generated.

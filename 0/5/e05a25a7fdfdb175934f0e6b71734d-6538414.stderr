@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/settings/search_engines_handler.cc:195:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      index, IDS_SEARCH_ENGINES_EDITOR_DESCRIPTION_COLUMN));
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:956:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_ENGINES_EDITOR_DESCRIPTION_COLUMN'[0m
+#define IDS_SEARCH_ENGINES_EDITOR_DESCRIPTION_COLUMN _Pragma("whitelisted_resource_4300") 4300
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4300
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/search_engines_handler.cc:198:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      table_model->GetText(index, IDS_SEARCH_ENGINES_EDITOR_KEYWORD_COLUMN));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:955:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_ENGINES_EDITOR_KEYWORD_COLUMN'[0m
+#define IDS_SEARCH_ENGINES_EDITOR_KEYWORD_COLUMN _Pragma("whitelisted_resource_4299") 4299
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4299
+[0;1;32m ^
+[0m2 warnings generated.

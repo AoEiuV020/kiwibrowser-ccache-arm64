@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/content_setting_bubble_contents.cc:196:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             ? l10n_util::GetStringUTF16(IDS_MEDIA_MENU_NO_DEVICE_TITLE)
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1850:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_MENU_NO_DEVICE_TITLE'[0m
+#define IDS_MEDIA_MENU_NO_DEVICE_TITLE _Pragma("whitelisted_resource_5435") 5435
+[0;1;32m                                       ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5435
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/content_setting_bubble_contents.cc:572:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_LEARN_MORE));
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/content_setting_bubble_contents.cc:582:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      title = l10n_util::GetStringUTF16(IDS_MANAGE);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1126:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE'[0m
+#define IDS_MANAGE _Pragma("whitelisted_resource_4497") 4497
+[0;1;32m                   ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4497
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/content_setting_bubble_contents.cc:619:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return done_text.empty() ? l10n_util::GetStringUTF16(IDS_DONE) : done_text;
+[0;1;32m                                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m4 warnings generated.

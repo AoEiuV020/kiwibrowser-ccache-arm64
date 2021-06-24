@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/frame/system_menu_model_delegate.cc:95:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int string_id = IDS_RESTORE_TAB;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:936:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESTORE_TAB'[0m
+#define IDS_RESTORE_TAB _Pragma("whitelisted_resource_4279") 4279
+[0;1;32m                        ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4279
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/system_menu_model_delegate.cc:103:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_RESTORE_WINDOW;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:937:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESTORE_WINDOW'[0m
+#define IDS_RESTORE_WINDOW _Pragma("whitelisted_resource_4280") 4280
+[0;1;32m                           ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4280
+[0;1;32m ^
+[0m2 warnings generated.

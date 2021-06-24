@@ -1,0 +1,82 @@
+[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:57:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             rb.GetImageNamed(IDR_DISABLE).ToImageSkia());
+[0;1;32m                              ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:13:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISABLE'[0m
+#define IDR_DISABLE _Pragma("whitelisted_resource_26969") 26969
+[0;1;32m                    ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26969
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:59:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             rb.GetImageNamed(IDR_DISABLE_H).ToImageSkia());
+[0;1;32m                              ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:14:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISABLE_H'[0m
+#define IDR_DISABLE_H _Pragma("whitelisted_resource_26970") 26970
+[0;1;32m                      ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26970
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:61:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             rb.GetImageNamed(IDR_DISABLE_P).ToImageSkia());
+[0;1;32m                              ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:15:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISABLE_P'[0m
+#define IDR_DISABLE_P _Pragma("whitelisted_resource_26971") 26971
+[0;1;32m                      ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26971
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:70:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_APPLICATION_INFO_REVOKE_PERMISSION_ALT_TEXT, permission_message));
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1112:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_REVOKE_PERMISSION_ALT_TEXT'[0m
+#define IDS_APPLICATION_INFO_REVOKE_PERMISSION_ALT_TEXT _Pragma("whitelisted_resource_4480") 4480
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4480
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:218:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_APP_PERMISSIONS_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1103:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_APP_PERMISSIONS_TITLE'[0m
+#define IDS_APPLICATION_INFO_APP_PERMISSIONS_TITLE _Pragma("whitelisted_resource_4471") 4471
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4471
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:226:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                ? IDS_APPLICATION_INFO_EXTENSION_NO_PERMISSIONS_TEXT
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1114:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_EXTENSION_NO_PERMISSIONS_TEXT'[0m
+#define IDS_APPLICATION_INFO_EXTENSION_NO_PERMISSIONS_TEXT _Pragma("whitelisted_resource_4482") 4482
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4482
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:227:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                : IDS_APPLICATION_INFO_APP_NO_PERMISSIONS_TEXT));
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1113:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_APP_NO_PERMISSIONS_TEXT'[0m
+#define IDS_APPLICATION_INFO_APP_NO_PERMISSIONS_TEXT _Pragma("whitelisted_resource_4481") 4481
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4481
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:288:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_APPLICATION_INFO_RETAINED_FILES, GetRetainedFileCount());
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1115:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_RETAINED_FILES'[0m
+#define IDS_APPLICATION_INFO_RETAINED_FILES _Pragma("whitelisted_resource_4483") 4483
+[0;1;32m                                            ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4483
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_permissions_panel.cc:329:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_APPLICATION_INFO_RETAINED_DEVICES, GetRetainedDeviceCount());
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1116:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_RETAINED_DEVICES'[0m
+#define IDS_APPLICATION_INFO_RETAINED_DEVICES _Pragma("whitelisted_resource_4484") 4484
+[0;1;32m                                              ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4484
+[0;1;32m ^
+[0m9 warnings generated.

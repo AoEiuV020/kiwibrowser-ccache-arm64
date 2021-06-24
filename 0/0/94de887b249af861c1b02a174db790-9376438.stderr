@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc:213:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_PROMPT_UNINSTALL_TRIGGERED_BY_EXTENSION,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1503:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_UNINSTALL_TRIGGERED_BY_EXTENSION'[0m
+#define IDS_EXTENSION_PROMPT_UNINSTALL_TRIGGERED_BY_EXTENSION _Pragma("whitelisted_resource_5050") 5050
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5050
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc:225:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PROMPT_UNINSTALL_REPORT_ABUSE_FROM_EXTENSION,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1500:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_UNINSTALL_REPORT_ABUSE_FROM_EXTENSION'[0m
+#define IDS_EXTENSION_PROMPT_UNINSTALL_REPORT_ABUSE_FROM_EXTENSION _Pragma("whitelisted_resource_5047") 5047
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5047
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc:229:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PROMPT_UNINSTALL_REPORT_ABUSE));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1499:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_UNINSTALL_REPORT_ABUSE'[0m
+#define IDS_EXTENSION_PROMPT_UNINSTALL_REPORT_ABUSE _Pragma("whitelisted_resource_5046") 5046
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5046
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc:263:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON : IDS_CANCEL);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1498:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON'[0m
+#define IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON _Pragma("whitelisted_resource_5045") 5045
+[0;1;32m                                              ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5045
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc:263:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON : IDS_CANCEL);
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_uninstall_dialog_view.cc:289:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringFUTF16(IDS_EXTENSION_PROMPT_UNINSTALL_TITLE,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1501:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_UNINSTALL_TITLE'[0m
+#define IDS_EXTENSION_PROMPT_UNINSTALL_TITLE _Pragma("whitelisted_resource_5048") 5048
+[0;1;32m                                             ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5048
+[0;1;32m ^
+[0m6 warnings generated.

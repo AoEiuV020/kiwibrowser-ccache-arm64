@@ -1,0 +1,82 @@
+[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:961:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    const int kBackgroundIdGlass = IDR_THEME_TAB_BACKGROUND_V;
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/theme_resources.h:111:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_V'[0m
+#define IDR_THEME_TAB_BACKGROUND_V _Pragma("whitelisted_resource_10494") 10494
+[0;1;32m                                   ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10494
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:974:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      incognito ? IDR_THEME_TAB_BACKGROUND_INCOGNITO : IDR_THEME_TAB_BACKGROUND;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:110:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_INCOGNITO'[0m
+#define IDR_THEME_TAB_BACKGROUND_INCOGNITO _Pragma("whitelisted_resource_10493") 10493
+[0;1;32m                                           ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10493
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:974:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      incognito ? IDR_THEME_TAB_BACKGROUND_INCOGNITO : IDR_THEME_TAB_BACKGROUND;
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:109:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND'[0m
+#define IDR_THEME_TAB_BACKGROUND _Pragma("whitelisted_resource_10491") 10491
+[0;1;32m                                 ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10491
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:976:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  tp->HasCustomImage(IDR_THEME_FRAME) ||
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:101:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME'[0m
+#define IDR_THEME_FRAME _Pragma("whitelisted_resource_10483") 10483
+[0;1;32m                        ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10483
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:977:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  (incognito && tp->HasCustomImage(IDR_THEME_FRAME_INCOGNITO));
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/theme_resources.h:103:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INCOGNITO'[0m
+#define IDR_THEME_FRAME_INCOGNITO _Pragma("whitelisted_resource_10485") 10485
+[0;1;32m                                  ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10485
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:1253:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_TOOLTIP_NEW_TAB));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1717:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_NEW_TAB'[0m
+#define IDS_TOOLTIP_NEW_TAB _Pragma("whitelisted_resource_5293") 5293
+[0;1;32m                            ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5293
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:1255:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_NEWTAB));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1737:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_NEWTAB'[0m
+#define IDS_ACCNAME_NEWTAB _Pragma("whitelisted_resource_5314") 5314
+[0;1;32m                           ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5314
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:2041:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      is_down ? IDR_TAB_DROP_DOWN : IDR_TAB_DROP_UP);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/theme_resources.h:98:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_DROP_DOWN'[0m
+#define IDR_TAB_DROP_DOWN _Pragma("whitelisted_resource_10479") 10479
+[0;1;32m                          ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10479
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/tabs/tab_strip.cc:2041:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      is_down ? IDR_TAB_DROP_DOWN : IDR_TAB_DROP_UP);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:99:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_DROP_UP'[0m
+#define IDR_TAB_DROP_UP _Pragma("whitelisted_resource_10480") 10480
+[0;1;32m                        ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10480
+[0;1;32m ^
+[0m9 warnings generated.

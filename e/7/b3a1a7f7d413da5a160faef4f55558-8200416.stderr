@@ -1,0 +1,307 @@
+[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:47:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("title", IDS_DOWNLOAD_TITLE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:809:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_TITLE'[0m
+#define IDS_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4151") 4151
+[0;1;32m                           ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4151
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:48:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("searchResultsFor", IDS_SEARCH_RESULTS);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:828:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_RESULTS'[0m
+#define IDS_SEARCH_RESULTS _Pragma("whitelisted_resource_4170") 4170
+[0;1;32m                           ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4170
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:49:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("downloads", IDS_DOWNLOAD_TITLE);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:809:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_TITLE'[0m
+#define IDS_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4151") 4151
+[0;1;32m                           ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4151
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:51:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("clearAll", IDS_DOWNLOAD_LINK_CLEAR_ALL);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1058:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_CLEAR_ALL'[0m
+#define IDS_DOWNLOAD_LINK_CLEAR_ALL _Pragma("whitelisted_resource_4410") 4410
+[0;1;32m                                    ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4410
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:52:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("clearSearch", IDS_DOWNLOAD_CLEAR_SEARCH);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1043:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_CLEAR_SEARCH'[0m
+#define IDS_DOWNLOAD_CLEAR_SEARCH _Pragma("whitelisted_resource_4395") 4395
+[0;1;32m                                  ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4395
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:54:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOWNLOAD_LINK_OPEN_DOWNLOADS_FOLDER);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1059:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_OPEN_DOWNLOADS_FOLDER'[0m
+#define IDS_DOWNLOAD_LINK_OPEN_DOWNLOADS_FOLDER _Pragma("whitelisted_resource_4411") 4411
+[0;1;32m                                                ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4411
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:55:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("moreActions", IDS_DOWNLOAD_MORE_ACTIONS);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1060:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_MORE_ACTIONS'[0m
+#define IDS_DOWNLOAD_MORE_ACTIONS _Pragma("whitelisted_resource_4412") 4412
+[0;1;32m                                  ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4412
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:56:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("search", IDS_MD_DOWNLOAD_SEARCH);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1042:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_DOWNLOAD_SEARCH'[0m
+#define IDS_MD_DOWNLOAD_SEARCH _Pragma("whitelisted_resource_4394") 4394
+[0;1;32m                               ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4394
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:60:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("noDownloads", IDS_MD_DOWNLOAD_NO_DOWNLOADS);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1044:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_DOWNLOAD_NO_DOWNLOADS'[0m
+#define IDS_MD_DOWNLOAD_NO_DOWNLOADS _Pragma("whitelisted_resource_4396") 4396
+[0;1;32m                                     ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4396
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:61:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("noSearchResults", IDS_SEARCH_NO_RESULTS);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:829:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_NO_RESULTS'[0m
+#define IDS_SEARCH_NO_RESULTS _Pragma("whitelisted_resource_4171") 4171
+[0;1;32m                              ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4171
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:64:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("statusCancelled", IDS_DOWNLOAD_TAB_CANCELLED);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1052:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_TAB_CANCELLED'[0m
+#define IDS_DOWNLOAD_TAB_CANCELLED _Pragma("whitelisted_resource_4404") 4404
+[0;1;32m                                   ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4404
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:65:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("statusRemoved", IDS_DOWNLOAD_FILE_REMOVED);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1053:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_FILE_REMOVED'[0m
+#define IDS_DOWNLOAD_FILE_REMOVED _Pragma("whitelisted_resource_4405") 4405
+[0;1;32m                                  ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4405
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:69:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_BLOCK_REASON_GENERIC_DOWNLOAD);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1030:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCK_REASON_GENERIC_DOWNLOAD'[0m
+#define IDS_BLOCK_REASON_GENERIC_DOWNLOAD _Pragma("whitelisted_resource_4381") 4381
+[0;1;32m                                          ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4381
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:71:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_BLOCK_REASON_DANGEROUS_DOWNLOAD);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/chromium_strings.h:67:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCK_REASON_DANGEROUS_DOWNLOAD'[0m
+#define IDS_BLOCK_REASON_DANGEROUS_DOWNLOAD _Pragma("whitelisted_resource_508") 508
+[0;1;32m                                            ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_508
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:73:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_BLOCK_REASON_UNCOMMON_DOWNLOAD);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1029:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCK_REASON_UNCOMMON_DOWNLOAD'[0m
+#define IDS_BLOCK_REASON_UNCOMMON_DOWNLOAD _Pragma("whitelisted_resource_4380") 4380
+[0;1;32m                                           ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4380
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:75:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_BLOCK_REASON_UNWANTED_DOWNLOAD);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/chromium_strings.h:68:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCK_REASON_UNWANTED_DOWNLOAD'[0m
+#define IDS_BLOCK_REASON_UNWANTED_DOWNLOAD _Pragma("whitelisted_resource_509") 509
+[0;1;32m                                           ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_509
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:76:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("dangerSave", IDS_CONFIRM_DOWNLOAD);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1037:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_DOWNLOAD'[0m
+#define IDS_CONFIRM_DOWNLOAD _Pragma("whitelisted_resource_4389") 4389
+[0;1;32m                             ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4389
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:77:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("dangerRestore", IDS_CONFIRM_DOWNLOAD_RESTORE);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1038:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_DOWNLOAD_RESTORE'[0m
+#define IDS_CONFIRM_DOWNLOAD_RESTORE _Pragma("whitelisted_resource_4390") 4390
+[0;1;32m                                     ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4390
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:78:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("dangerDiscard", IDS_DISCARD_DOWNLOAD);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1040:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DISCARD_DOWNLOAD'[0m
+#define IDS_DISCARD_DOWNLOAD _Pragma("whitelisted_resource_4392") 4392
+[0;1;32m                             ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4392
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:81:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("controlPause", IDS_DOWNLOAD_LINK_PAUSE);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1041:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_PAUSE'[0m
+#define IDS_DOWNLOAD_LINK_PAUSE _Pragma("whitelisted_resource_4393") 4393
+[0;1;32m                                ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4393
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:83:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->AddLocalizedString("controlShowInFolder", IDS_DOWNLOAD_LINK_SHOW);
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1050:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_SHOW'[0m
+#define IDS_DOWNLOAD_LINK_SHOW _Pragma("whitelisted_resource_4402") 4402
+[0;1;32m                               ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4402
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:84:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("controlCancel", IDS_DOWNLOAD_LINK_CANCEL);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1048:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_CANCEL'[0m
+#define IDS_DOWNLOAD_LINK_CANCEL _Pragma("whitelisted_resource_4400") 4400
+[0;1;32m                                 ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4400
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:85:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("controlResume", IDS_DOWNLOAD_LINK_RESUME);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1046:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_RESUME'[0m
+#define IDS_DOWNLOAD_LINK_RESUME _Pragma("whitelisted_resource_4398") 4398
+[0;1;32m                                 ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4398
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:87:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOWNLOAD_LINK_REMOVE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1047:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_LINK_REMOVE'[0m
+#define IDS_DOWNLOAD_LINK_REMOVE _Pragma("whitelisted_resource_4399") 4399
+[0;1;32m                                 ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4399
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:88:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("controlRetry", IDS_MD_DOWNLOAD_LINK_RETRY);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1049:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_DOWNLOAD_LINK_RETRY'[0m
+#define IDS_MD_DOWNLOAD_LINK_RETRY _Pragma("whitelisted_resource_4401") 4401
+[0;1;32m                                   ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4401
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:90:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOWNLOAD_BY_EXTENSION_URL);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1061:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_BY_EXTENSION_URL'[0m
+#define IDS_DOWNLOAD_BY_EXTENSION_URL _Pragma("whitelisted_resource_4413") 4413
+[0;1;32m                                      ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4413
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:97:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("inIncognito", IDS_DOWNLOAD_IN_INCOGNITO);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1062:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_IN_INCOGNITO'[0m
+#define IDS_DOWNLOAD_IN_INCOGNITO _Pragma("whitelisted_resource_4414") 4414
+[0;1;32m                                  ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4414
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:100:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_DOWNLOADS_1X_INCOGNITO_MARKER_PNG);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:65:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_DOWNLOADS_1X_INCOGNITO_MARKER_PNG'[0m
+#define IDR_MD_DOWNLOADS_1X_INCOGNITO_MARKER_PNG _Pragma("whitelisted_resource_11052") 11052
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11052
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:102:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_DOWNLOADS_2X_INCOGNITO_MARKER_PNG);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:66:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_DOWNLOADS_2X_INCOGNITO_MARKER_PNG'[0m
+#define IDR_MD_DOWNLOADS_2X_INCOGNITO_MARKER_PNG _Pragma("whitelisted_resource_11053") 11053
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11053
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:104:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_DOWNLOADS_1X_NO_DOWNLOADS_PNG);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:67:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_DOWNLOADS_1X_NO_DOWNLOADS_PNG'[0m
+#define IDR_MD_DOWNLOADS_1X_NO_DOWNLOADS_PNG _Pragma("whitelisted_resource_11054") 11054
+[0;1;32m                                             ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11054
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:106:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_DOWNLOADS_2X_NO_DOWNLOADS_PNG);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:68:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_DOWNLOADS_2X_NO_DOWNLOADS_PNG'[0m
+#define IDR_MD_DOWNLOADS_2X_NO_DOWNLOADS_PNG _Pragma("whitelisted_resource_11055") 11055
+[0;1;32m                                             ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11055
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:112:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("crisper.js", IDR_MD_DOWNLOADS_CRISPER_JS);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/browser_resources.h:70:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_DOWNLOADS_CRISPER_JS'[0m
+#define IDR_MD_DOWNLOADS_CRISPER_JS _Pragma("whitelisted_resource_11057") 11057
+[0;1;32m                                    ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11057
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:113:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_MD_DOWNLOADS_VULCANIZED_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:69:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_DOWNLOADS_VULCANIZED_HTML'[0m
+#define IDR_MD_DOWNLOADS_VULCANIZED_HTML _Pragma("whitelisted_resource_11056") 11056
+[0;1;32m                                         ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11056
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_downloads/md_downloads_ui.cc:169:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_DOWNLOADS_FAVICON, scale_factor);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/theme_resources.h:31:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOADS_FAVICON'[0m
+#define IDR_DOWNLOADS_FAVICON _Pragma("whitelisted_resource_10253") 10253
+[0;1;32m                              ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10253
+[0;1;32m ^
+[0m34 warnings generated.

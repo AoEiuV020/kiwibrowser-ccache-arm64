@@ -1,0 +1,118 @@
+[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:142:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_CONFIRM_KEEP_DANGEROUS_DOWNLOAD_TITLE);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1031:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_KEEP_DANGEROUS_DOWNLOAD_TITLE'[0m
+#define IDS_CONFIRM_KEEP_DANGEROUS_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4383") 4383
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4383
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:148:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_KEEP_DANGEROUS_DOWNLOAD_TITLE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1032:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_KEEP_DANGEROUS_DOWNLOAD_TITLE'[0m
+#define IDS_KEEP_DANGEROUS_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4384") 4384
+[0;1;32m                                          ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4384
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:150:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_KEEP_UNCOMMON_DOWNLOAD_TITLE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1033:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_KEEP_UNCOMMON_DOWNLOAD_TITLE'[0m
+#define IDS_KEEP_UNCOMMON_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4385") 4385
+[0;1;32m                                         ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4385
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:153:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CONFIRM_KEEP_DANGEROUS_DOWNLOAD_TITLE);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1031:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_KEEP_DANGEROUS_DOWNLOAD_TITLE'[0m
+#define IDS_CONFIRM_KEEP_DANGEROUS_DOWNLOAD_TITLE _Pragma("whitelisted_resource_4383") 4383
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4383
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:203:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CANCEL);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:208:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_CONFIRM_DOWNLOAD);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1037:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_DOWNLOAD'[0m
+#define IDS_CONFIRM_DOWNLOAD _Pragma("whitelisted_resource_4389") 4389
+[0;1;32m                             ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4389
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:209:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CONFIRM_DOWNLOAD_AGAIN);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1036:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_DOWNLOAD_AGAIN'[0m
+#define IDS_CONFIRM_DOWNLOAD_AGAIN _Pragma("whitelisted_resource_4388") 4388
+[0;1;32m                                   ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4388
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:217:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_DANGEROUS_DOWNLOAD,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1026:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_DANGEROUS_DOWNLOAD'[0m
+#define IDS_PROMPT_DANGEROUS_DOWNLOAD _Pragma("whitelisted_resource_4377") 4377
+[0;1;32m                                      ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4377
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:224:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_MALICIOUS_DOWNLOAD_CONTENT,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:66:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_MALICIOUS_DOWNLOAD_CONTENT'[0m
+#define IDS_PROMPT_MALICIOUS_DOWNLOAD_CONTENT _Pragma("whitelisted_resource_507") 507
+[0;1;32m                                              ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_507
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:229:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_UNCOMMON_DOWNLOAD_CONTENT,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1028:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_UNCOMMON_DOWNLOAD_CONTENT'[0m
+#define IDS_PROMPT_UNCOMMON_DOWNLOAD_CONTENT _Pragma("whitelisted_resource_4379") 4379
+[0;1;32m                                             ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4379
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:234:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_DOWNLOAD_CHANGES_SETTINGS,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:64:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_DOWNLOAD_CHANGES_SETTINGS'[0m
+#define IDS_PROMPT_DOWNLOAD_CHANGES_SETTINGS _Pragma("whitelisted_resource_505") 505
+[0;1;32m                                             ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_505
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:253:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_CONFIRM_KEEP_MALICIOUS_DOWNLOAD_BODY);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1035:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_CONFIRM_KEEP_MALICIOUS_DOWNLOAD_BODY'[0m
+#define IDS_PROMPT_CONFIRM_KEEP_MALICIOUS_DOWNLOAD_BODY _Pragma("whitelisted_resource_4387") 4387
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4387
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_danger_prompt_views.cc:257:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_CONFIRM_KEEP_DANGEROUS_DOWNLOAD);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1034:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_CONFIRM_KEEP_DANGEROUS_DOWNLOAD'[0m
+#define IDS_PROMPT_CONFIRM_KEEP_DANGEROUS_DOWNLOAD _Pragma("whitelisted_resource_4386") 4386
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4386
+[0;1;32m ^
+[0m13 warnings generated.

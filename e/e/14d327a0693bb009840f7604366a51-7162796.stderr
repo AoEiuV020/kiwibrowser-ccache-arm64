@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/signin/signin_utils_desktop.cc:51:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_SYNC_LOGIN_NAME_PROHIBITED));
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2214:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_LOGIN_NAME_PROHIBITED'[0m
+#define IDS_SYNC_LOGIN_NAME_PROHIBITED _Pragma("whitelisted_resource_5853") 5853
+[0;1;32m                                       ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5853
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_utils_desktop.cc:70:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_SYNC_WRONG_EMAIL, base::UTF8ToUTF16(current_email)));
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:100:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_WRONG_EMAIL'[0m
+#define IDS_SYNC_WRONG_EMAIL _Pragma("whitelisted_resource_547") 547
+[0;1;32m                             ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_547
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_utils_desktop.cc:95:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  l10n_util::GetStringUTF8(IDS_SYNC_USER_NAME_IN_USE_ERROR));
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2222:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_USER_NAME_IN_USE_ERROR'[0m
+#define IDS_SYNC_USER_NAME_IN_USE_ERROR _Pragma("whitelisted_resource_5861") 5861
+[0;1;32m                                        ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5861
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_utils_desktop.cc:110:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_SYNC_USED_PROFILE_ERROR, base::UTF8ToUTF16(last_email)));
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:102:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_USED_PROFILE_ERROR'[0m
+#define IDS_SYNC_USED_PROFILE_ERROR _Pragma("whitelisted_resource_549") 549
+[0;1;32m                                    ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_549
+[0;1;32m ^
+[0m4 warnings generated.

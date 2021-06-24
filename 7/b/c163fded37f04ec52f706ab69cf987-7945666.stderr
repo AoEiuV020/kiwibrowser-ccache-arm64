@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/profiles/avatar_toolbar_button.cc:72:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_INCOGNITO_AVATAR_BUTTON_TOOLTIP));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1843:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITO_AVATAR_BUTTON_TOOLTIP'[0m
+#define IDS_INCOGNITO_AVATAR_BUTTON_TOOLTIP _Pragma("whitelisted_resource_5428") 5428
+[0;1;32m                                            ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5428
+[0;1;32m ^
+[0m1 warning generated.

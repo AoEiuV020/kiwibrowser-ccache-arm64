@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/engagement/site_engagement_ui.cc:84:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("site_engagement.js", IDR_SITE_ENGAGEMENT_JS);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/browser_resources.h:156:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SITE_ENGAGEMENT_JS'[0m
+#define IDR_SITE_ENGAGEMENT_JS _Pragma("whitelisted_resource_11248") 11248
+[0;1;32m                               ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11248
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/engagement/site_engagement_ui.cc:87:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SITE_ENGAGEMENT_MOJO_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:157:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SITE_ENGAGEMENT_MOJO_JS'[0m
+#define IDR_SITE_ENGAGEMENT_MOJO_JS _Pragma("whitelisted_resource_11249") 11249
+[0;1;32m                                    ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11249
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/engagement/site_engagement_ui.cc:88:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("url/mojom/url.mojom.js", IDR_URL_MOJO_JS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:158:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_URL_MOJO_JS'[0m
+#define IDR_URL_MOJO_JS _Pragma("whitelisted_resource_11250") 11250
+[0;1;32m                        ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11250
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/engagement/site_engagement_ui.cc:89:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SITE_ENGAGEMENT_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:155:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SITE_ENGAGEMENT_HTML'[0m
+#define IDR_SITE_ENGAGEMENT_HTML _Pragma("whitelisted_resource_11247") 11247
+[0;1;32m                                 ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11247
+[0;1;32m ^
+[0m4 warnings generated.

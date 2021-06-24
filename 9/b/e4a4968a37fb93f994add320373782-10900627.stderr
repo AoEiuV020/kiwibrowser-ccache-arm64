@@ -1,0 +1,325 @@
+[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:170:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        rb->GetImageSkiaNamed(IDR_BACK));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:22:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK'[0m
+#define IDR_BACK _Pragma("whitelisted_resource_10223") 10223
+[0;1;32m                 ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10223
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:172:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        rb->GetImageSkiaNamed(IDR_BACK_H));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:24:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK_H'[0m
+#define IDR_BACK_H _Pragma("whitelisted_resource_10225") 10225
+[0;1;32m                   ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10225
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:174:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        rb->GetImageSkiaNamed(IDR_BACK_P));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:25:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK_P'[0m
+#define IDR_BACK_P _Pragma("whitelisted_resource_10226") 10226
+[0;1;32m                   ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10226
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:176:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        rb->GetImageSkiaNamed(IDR_BACK_D));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:23:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK_D'[0m
+#define IDR_BACK_D _Pragma("whitelisted_resource_10224") 10224
+[0;1;32m                   ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10224
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:889:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SYNC_ERROR_USER_MENU_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2317:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_TITLE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_TITLE _Pragma("whitelisted_resource_5964") 5964
+[0;1;32m                                       ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5964
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:952:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_PROFILES_DICE_SYNC_PAUSED_TITLE
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2133:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SYNC_PAUSED_TITLE'[0m
+#define IDS_PROFILES_DICE_SYNC_PAUSED_TITLE _Pragma("whitelisted_resource_5771") 5771
+[0;1;32m                                            ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5771
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:953:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : sync_disabled ? IDS_PROFILES_DICE_SYNC_DISABLED_TITLE
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2132:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SYNC_DISABLED_TITLE'[0m
+#define IDS_PROFILES_DICE_SYNC_DISABLED_TITLE _Pragma("whitelisted_resource_5770") 5770
+[0;1;32m                                              ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5770
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:954:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                              : IDS_SYNC_ERROR_USER_MENU_TITLE),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2317:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_TITLE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_TITLE _Pragma("whitelisted_resource_5964") 5964
+[0;1;32m                                       ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5964
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1019:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? l10n_util::GetStringUTF16(IDS_PROFILES_SYNC_COMPLETE_TITLE)
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2126:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_SYNC_COMPLETE_TITLE'[0m
+#define IDS_PROFILES_SYNC_COMPLETE_TITLE _Pragma("whitelisted_resource_5764") 5764
+[0;1;32m                                         ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5764
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1043:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_PROFILES_PROFILE_MANAGE_ACCOUNTS_BUTTON
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2143:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_PROFILE_MANAGE_ACCOUNTS_BUTTON'[0m
+#define IDS_PROFILES_PROFILE_MANAGE_ACCOUNTS_BUTTON _Pragma("whitelisted_resource_5781") 5781
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5781
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1044:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : IDS_PROFILES_PROFILE_HIDE_MANAGE_ACCOUNTS_BUTTON);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2144:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_PROFILE_HIDE_MANAGE_ACCOUNTS_BUTTON'[0m
+#define IDS_PROFILES_PROFILE_HIDE_MANAGE_ACCOUNTS_BUTTON _Pragma("whitelisted_resource_5782") 5782
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5782
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1051:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROFILES_EDIT_SIGNED_IN_PROFILE_ACCESSIBLE_NAME,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2151:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_EDIT_SIGNED_IN_PROFILE_ACCESSIBLE_NAME'[0m
+#define IDS_PROFILES_EDIT_SIGNED_IN_PROFILE_ACCESSIBLE_NAME _Pragma("whitelisted_resource_5790") 5790
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5790
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1067:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        new views::Label(l10n_util::GetStringUTF16(IDS_PROFILES_SIGNIN_PROMO));
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2141:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_SIGNIN_PROMO'[0m
+#define IDS_PROFILES_SIGNIN_PROMO _Pragma("whitelisted_resource_5779") 5779
+[0;1;32m                                  ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5779
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1080:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_START_SYNC_BUTTON_LABEL,
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2334:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_START_SYNC_BUTTON_LABEL'[0m
+#define IDS_SYNC_START_SYNC_BUTTON_LABEL _Pragma("whitelisted_resource_5982") 5982
+[0;1;32m                                         ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5982
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1081:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      l10n_util::GetStringUTF16(IDS_SHORT_PRODUCT_NAME)));
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHORT_PRODUCT_NAME'[0m
+#define IDS_SHORT_PRODUCT_NAME _Pragma("whitelisted_resource_430") 430
+[0;1;32m                               ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_430
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1094:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PROFILES_EDIT_PROFILE_ACCESSIBLE_NAME, profile_name));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2150:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_EDIT_PROFILE_ACCESSIBLE_NAME'[0m
+#define IDS_PROFILES_EDIT_PROFILE_ACCESSIBLE_NAME _Pragma("whitelisted_resource_5789") 5789
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5789
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1121:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        *rb.GetNativeImageNamed(IDR_PROFILES_DICE_TURN_ON_SYNC).ToImageSkia());
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:87:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILES_DICE_TURN_ON_SYNC'[0m
+#define IDR_PROFILES_DICE_TURN_ON_SYNC _Pragma("whitelisted_resource_10369") 10369
+[0;1;32m                                       ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10369
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1129:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      show_personalized_promo ? IDS_PROFILES_DICE_SYNC_PROMO
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:91:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SYNC_PROMO'[0m
+#define IDS_PROFILES_DICE_SYNC_PROMO _Pragma("whitelisted_resource_538") 538
+[0;1;32m                                     ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_538
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1130:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                              : IDS_PROFILES_DICE_SIGNIN_PROMO));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:90:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_PROMO'[0m
+#define IDS_PROFILES_DICE_SIGNIN_PROMO _Pragma("whitelisted_resource_537") 537
+[0;1;32m                                       ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_537
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1192:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PROFILES_DICE_SIGNIN_WITH_ANOTHER_ACCOUNT_BUTTON),
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2131:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_WITH_ANOTHER_ACCOUNT_BUTTON'[0m
+#define IDS_PROFILES_DICE_SIGNIN_WITH_ANOTHER_ACCOUNT_BUTTON _Pragma("whitelisted_resource_5769") 5769
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5769
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1205:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PROFILES_GUEST_PROFILE_NAME);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2152:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_GUEST_PROFILE_NAME'[0m
+#define IDS_PROFILES_GUEST_PROFILE_NAME _Pragma("whitelisted_resource_5791") 5791
+[0;1;32m                                        ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5791
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1259:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_PROFILES_OPEN_GUEST_PROFILE_BUTTON));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2148:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_OPEN_GUEST_PROFILE_BUTTON'[0m
+#define IDS_PROFILES_OPEN_GUEST_PROFILE_BUTTON _Pragma("whitelisted_resource_5786") 5786
+[0;1;32m                                               ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5786
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1266:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      is_guest ? IDS_PROFILES_EXIT_GUEST : IDS_PROFILES_MANAGE_USERS_BUTTON);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2140:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_EXIT_GUEST'[0m
+#define IDS_PROFILES_EXIT_GUEST _Pragma("whitelisted_resource_5778") 5778
+[0;1;32m                                ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5778
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1266:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      is_guest ? IDS_PROFILES_EXIT_GUEST : IDS_PROFILES_MANAGE_USERS_BUTTON);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2147:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_MANAGE_USERS_BUTTON'[0m
+#define IDS_PROFILES_MANAGE_USERS_BUTTON _Pragma("whitelisted_resource_5785") 5785
+[0;1;32m                                         ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5785
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1282:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PROFILES_PROFILE_SIGNOUT_BUTTON));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2119:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_PROFILE_SIGNOUT_BUTTON'[0m
+#define IDS_PROFILES_PROFILE_SIGNOUT_BUTTON _Pragma("whitelisted_resource_5757") 5757
+[0;1;32m                                            ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5757
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1292:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            ? l10n_util::GetStringFUTF16(IDS_PROFILES_EXIT_PROFILE_BUTTON,
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2120:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_EXIT_PROFILE_BUTTON'[0m
+#define IDS_PROFILES_EXIT_PROFILE_BUTTON _Pragma("whitelisted_resource_5758") 5758
+[0;1;32m                                         ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5758
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1294:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            : l10n_util::GetStringUTF16(IDS_PROFILES_CLOSE_ALL_WINDOWS_BUTTON));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2149:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_CLOSE_ALL_WINDOWS_BUTTON'[0m
+#define IDS_PROFILES_CLOSE_ALL_WINDOWS_BUTTON _Pragma("whitelisted_resource_5787") 5787
+[0;1;32m                                              ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5787
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1357:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PROFILES_PROFILE_ADD_ACCOUNT_BUTTON, avatar_item.name), this);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2142:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_PROFILE_ADD_ACCOUNT_BUTTON'[0m
+#define IDS_PROFILES_PROFILE_ADD_ACCOUNT_BUTTON _Pragma("whitelisted_resource_5780") 5780
+[0;1;32m                                                ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5780
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1378:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb->GetImageNamed(IDR_CLOSE_1).ToImageSkia();
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:94:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_1'[0m
+#define IDR_CLOSE_1 _Pragma("whitelisted_resource_10475") 10475
+[0;1;32m                    ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10475
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1416:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            rb->GetImageSkiaNamed(IDR_CLOSE_1_H));
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:95:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_1_H'[0m
+#define IDR_CLOSE_1_H _Pragma("whitelisted_resource_10476") 10476
+[0;1;32m                      ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10476
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1418:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            rb->GetImageSkiaNamed(IDR_CLOSE_1_P));
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:96:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_1_P'[0m
+#define IDR_CLOSE_1_P _Pragma("whitelisted_resource_10477") 10477
+[0;1;32m                      ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10477
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1461:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PROFILES_SETTINGS_LINK);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2125:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_SETTINGS_LINK'[0m
+#define IDS_PROFILES_SETTINGS_LINK _Pragma("whitelisted_resource_5763") 5763
+[0;1;32m                                   ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5763
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1463:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_PROFILES_PRIMARY_ACCOUNT_REMOVAL_TEXT,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:96:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_PRIMARY_ACCOUNT_REMOVAL_TEXT'[0m
+#define IDS_PROFILES_PRIMARY_ACCOUNT_REMOVAL_TEXT _Pragma("whitelisted_resource_543") 543
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_543
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1474:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PROFILES_ACCOUNT_REMOVAL_TEXT),
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/chromium_strings.h:95:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_ACCOUNT_REMOVAL_TEXT'[0m
+#define IDS_PROFILES_ACCOUNT_REMOVAL_TEXT _Pragma("whitelisted_resource_542") 542
+[0;1;32m                                          ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_542
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1484:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        this, l10n_util::GetStringUTF16(IDS_PROFILES_ACCOUNT_REMOVAL_BUTTON));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2135:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_ACCOUNT_REMOVAL_BUTTON'[0m
+#define IDS_PROFILES_ACCOUNT_REMOVAL_BUTTON _Pragma("whitelisted_resource_5773") 5773
+[0;1;32m                                            ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5773
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/profile_chooser_view.cc:1494:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PROFILES_ACCOUNT_REMOVAL_TITLE),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2124:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_ACCOUNT_REMOVAL_TITLE'[0m
+#define IDS_PROFILES_ACCOUNT_REMOVAL_TITLE _Pragma("whitelisted_resource_5762") 5762
+[0;1;32m                                           ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5762
+[0;1;32m ^
+[0m36 warnings generated.

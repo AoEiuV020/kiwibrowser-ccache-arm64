@@ -1,0 +1,397 @@
+[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:388:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_SUPERVISED_USER_NOT_ALLOWED_BY_POLICY),
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2215:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SUPERVISED_USER_NOT_ALLOWED_BY_POLICY'[0m
+#define IDS_SUPERVISED_USER_NOT_ALLOWED_BY_POLICY _Pragma("whitelisted_resource_5854") 5854
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5854
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:437:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_USER_MANAGER_REMOVE_PROFILE_PROFILES_LOCKED_ERROR)));
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2605:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_REMOVE_PROFILE_PROFILES_LOCKED_ERROR'[0m
+#define IDS_USER_MANAGER_REMOVE_PROFILE_PROFILES_LOCKED_ERROR _Pragma("whitelisted_resource_6373") 6373
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6373
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:643:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SCREEN_LOCK_ACTIVE_USER));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2593:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SCREEN_LOCK_ACTIVE_USER'[0m
+#define IDS_SCREEN_LOCK_ACTIVE_USER _Pragma("whitelisted_resource_6353") 6353
+[0;1;32m                                    ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6353
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:645:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ADD_USER_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2587:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD_USER_BUTTON'[0m
+#define IDS_ADD_USER_BUTTON _Pragma("whitelisted_resource_6346") 6346
+[0;1;32m                            ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6346
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:646:68: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  localized_strings->SetString("cancel", l10n_util::GetStringUTF16(IDS_CANCEL));
+[0;1;32m                                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:648:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "browseAsGuest", l10n_util::GetStringUTF16(IDS_BROWSE_AS_GUEST_BUTTON));
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2591:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSE_AS_GUEST_BUTTON'[0m
+#define IDS_BROWSE_AS_GUEST_BUTTON _Pragma("whitelisted_resource_6351") 6351
+[0;1;32m                                   ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6351
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:650:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SCREEN_LOCK_SIGN_OUT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2590:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SCREEN_LOCK_SIGN_OUT'[0m
+#define IDS_SCREEN_LOCK_SIGN_OUT _Pragma("whitelisted_resource_6349") 6349
+[0;1;32m                                 ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6349
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:652:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CREATE_LEGACY_SUPERVISED_USER_MENU_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2589:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CREATE_LEGACY_SUPERVISED_USER_MENU_LABEL'[0m
+#define IDS_CREATE_LEGACY_SUPERVISED_USER_MENU_LABEL _Pragma("whitelisted_resource_6348") 6348
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6348
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:658:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PRODUCT_NAME));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:34:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRODUCT_NAME'[0m
+#define IDS_PRODUCT_NAME _Pragma("whitelisted_resource_429") 429
+[0;1;32m                         ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_429
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:660:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_EMPTY_PASSWORD_TEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2596:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_EMPTY_PASSWORD_TEXT'[0m
+#define IDS_LOGIN_POD_EMPTY_PASSWORD_TEXT _Pragma("whitelisted_resource_6364") 6364
+[0;1;32m                                          ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6364
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:662:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_SIGNING_IN));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2597:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_SIGNING_IN'[0m
+#define IDS_LOGIN_POD_SIGNING_IN _Pragma("whitelisted_resource_6365") 6365
+[0;1;32m                                 ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6365
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:664:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_MENU_BUTTON_ACCESSIBLE_NAME));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2600:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_MENU_BUTTON_ACCESSIBLE_NAME'[0m
+#define IDS_LOGIN_POD_MENU_BUTTON_ACCESSIBLE_NAME _Pragma("whitelisted_resource_6368") 6368
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6368
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:667:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_LOGIN_POD_MENU_REMOVE_ITEM_ACCESSIBLE_NAME));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2601:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_MENU_REMOVE_ITEM_ACCESSIBLE_NAME'[0m
+#define IDS_LOGIN_POD_MENU_REMOVE_ITEM_ACCESSIBLE_NAME _Pragma("whitelisted_resource_6369") 6369
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6369
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:669:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2588:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_BUTTON'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_BUTTON _Pragma("whitelisted_resource_6347") 6347
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6347
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:671:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_PASSWORD_FIELD_ACCESSIBLE_NAME));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2598:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_PASSWORD_FIELD_ACCESSIBLE_NAME'[0m
+#define IDS_LOGIN_POD_PASSWORD_FIELD_ACCESSIBLE_NAME _Pragma("whitelisted_resource_6366") 6366
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6366
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:675:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2588:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_BUTTON'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_BUTTON _Pragma("whitelisted_resource_6347") 6347
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6347
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:678:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_NONSYNC));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2608:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_NONSYNC'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_NONSYNC _Pragma("whitelisted_resource_6376") 6376
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6376
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:680:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_HISTORY));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2609:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_HISTORY'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_HISTORY _Pragma("whitelisted_resource_6377") 6377
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6377
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:682:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_PASSWORDS));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2610:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_PASSWORDS'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_PASSWORDS _Pragma("whitelisted_resource_6378") 6378
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6378
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:684:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_BOOKMARKS));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2611:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_BOOKMARKS'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_BOOKMARKS _Pragma("whitelisted_resource_6379") 6379
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6379
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:687:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_AUTOFILL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2612:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_AUTOFILL'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_AUTOFILL _Pragma("whitelisted_resource_6380") 6380
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6380
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:689:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_CALCULATING));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2613:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_CALCULATING'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_CALCULATING _Pragma("whitelisted_resource_6381") 6381
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6381
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:692:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_USER_REMOVE_WARNING_SYNC));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:122:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_USER_REMOVE_WARNING_SYNC'[0m
+#define IDS_LOGIN_POD_USER_REMOVE_WARNING_SYNC _Pragma("whitelisted_resource_582") 582
+[0;1;32m                                               ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_582
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:695:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_LOGIN_POD_LEGACY_SUPERVISED_USER_REMOVE_WARNING,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2602:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_LEGACY_SUPERVISED_USER_REMOVE_WARNING'[0m
+#define IDS_LOGIN_POD_LEGACY_SUPERVISED_USER_REMOVE_WARNING _Pragma("whitelisted_resource_6370") 6370
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6370
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:700:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LOGIN_POD_NON_OWNER_USER_REMOVE_WARNING));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2603:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_POD_NON_OWNER_USER_REMOVE_WARNING'[0m
+#define IDS_LOGIN_POD_NON_OWNER_USER_REMOVE_WARNING _Pragma("whitelisted_resource_6371") 6371
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6371
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:704:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_NEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2614:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_NEXT'[0m
+#define IDS_USER_MANAGER_TUTORIAL_NEXT _Pragma("whitelisted_resource_6382") 6382
+[0;1;32m                                       ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6382
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:706:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_DONE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2615:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_DONE'[0m
+#define IDS_USER_MANAGER_TUTORIAL_DONE _Pragma("whitelisted_resource_6383") 6383
+[0;1;32m                                       ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6383
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:708:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_INTRO_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:123:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_INTRO_TITLE'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_INTRO_TITLE _Pragma("whitelisted_resource_583") 583
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_583
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:710:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_INTRO_TEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:124:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_INTRO_TEXT'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_INTRO_TEXT _Pragma("whitelisted_resource_584") 584
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_584
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:713:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_USER_MANAGER_TUTORIAL_SLIDE_YOUR_CHROME_TITLE));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:125:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_YOUR_CHROME_TITLE'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_YOUR_CHROME_TITLE _Pragma("whitelisted_resource_585") 585
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_585
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:715:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_USER_MANAGER_TUTORIAL_SLIDE_YOUR_CHROME_TEXT));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:126:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_YOUR_CHROME_TEXT'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_YOUR_CHROME_TEXT _Pragma("whitelisted_resource_586") 586
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_586
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:717:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_GUEST_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2616:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_GUEST_TITLE'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_GUEST_TITLE _Pragma("whitelisted_resource_6384") 6384
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6384
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:719:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_GUEST_TEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:127:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_GUEST_TEXT'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_GUEST_TEXT _Pragma("whitelisted_resource_587") 587
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_587
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:721:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_FRIENDS_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2617:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_FRIENDS_TITLE'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_FRIENDS_TITLE _Pragma("whitelisted_resource_6385") 6385
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6385
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:723:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_FRIENDS_TEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:128:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_FRIENDS_TEXT'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_FRIENDS_TEXT _Pragma("whitelisted_resource_588") 588
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_588
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:725:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2618:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_TITLE'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_TITLE _Pragma("whitelisted_resource_6386") 6386
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6386
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:727:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_TEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:129:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_TEXT'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_TEXT _Pragma("whitelisted_resource_589") 589
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_589
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:730:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_USER_NOT_FOUND));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2619:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_USER_NOT_FOUND'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_USER_NOT_FOUND _Pragma("whitelisted_resource_6387") 6387
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6387
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:733:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_ADD_USER));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:130:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_ADD_USER'[0m
+#define IDS_USER_MANAGER_TUTORIAL_SLIDE_OUTRO_ADD_USER _Pragma("whitelisted_resource_590") 590
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_590
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:771:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_USER_MANAGER_ADD_PROFILE_PROFILES_LOCKED_ERROR));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2606:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_ADD_PROFILE_PROFILES_LOCKED_ERROR'[0m
+#define IDS_USER_MANAGER_ADD_PROFILE_PROFILES_LOCKED_ERROR _Pragma("whitelisted_resource_6374") 6374
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:163:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6374
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:775:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_USER_MANAGER_GO_GUEST_PROFILES_LOCKED_ERROR));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2604:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_GO_GUEST_PROFILES_LOCKED_ERROR'[0m
+#define IDS_USER_MANAGER_GO_GUEST_PROFILES_LOCKED_ERROR _Pragma("whitelisted_resource_6372") 6372
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6372
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:779:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    prompt_message = l10n_util::GetStringUTF16(IDS_USER_MANAGER_PROMPT_MESSAGE);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2607:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USER_MANAGER_PROMPT_MESSAGE'[0m
+#define IDS_USER_MANAGER_PROMPT_MESSAGE _Pragma("whitelisted_resource_6375") 6375
+[0;1;32m                                        ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6375
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:854:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                ? IDS_LOGIN_ERROR_AUTHENTICATING_OFFLINE
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2595:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_ERROR_AUTHENTICATING_OFFLINE'[0m
+#define IDS_LOGIN_ERROR_AUTHENTICATING_OFFLINE _Pragma("whitelisted_resource_6363") 6363
+[0;1;32m                                               ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6363
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/user_manager_screen_handler.cc:855:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                : IDS_LOGIN_ERROR_AUTHENTICATING)),
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2594:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_ERROR_AUTHENTICATING'[0m
+#define IDS_LOGIN_ERROR_AUTHENTICATING _Pragma("whitelisted_resource_6362") 6362
+[0;1;32m                                       ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6362
+[0;1;32m ^
+[0m44 warnings generated.

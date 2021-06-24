@@ -1,0 +1,199 @@
+[1m../../apps/ui/views/app_window_frame_view.cc:66:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_CLOSE).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE'[0m
+#define IDR_APP_WINDOW_CLOSE _Pragma("whitelisted_resource_10201") 10201
+[0;1;32m                             ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10201
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:69:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_CLOSE_H).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:6:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE_H'[0m
+#define IDR_APP_WINDOW_CLOSE_H _Pragma("whitelisted_resource_10202") 10202
+[0;1;32m                               ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10202
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:72:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_CLOSE_P).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:7:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE_P'[0m
+#define IDR_APP_WINDOW_CLOSE_P _Pragma("whitelisted_resource_10203") 10203
+[0;1;32m                               ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10203
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:74:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_ACCNAME_CLOSE));
+[0;1;32m                                  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:58:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_CLOSE'[0m
+#define IDS_APP_ACCNAME_CLOSE _Pragma("whitelisted_resource_27314") 27314
+[0;1;32m                              ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27314
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:80:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MAXIMIZE_H).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:15:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_H'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_H _Pragma("whitelisted_resource_10211") 10211
+[0;1;32m                                  ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10211
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:83:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MAXIMIZE_P).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:17:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_P'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_P _Pragma("whitelisted_resource_10213") 10213
+[0;1;32m                                  ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10213
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:86:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MAXIMIZE_D).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:14:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_D'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_D _Pragma("whitelisted_resource_10210") 10210
+[0;1;32m                                  ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10210
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:88:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_ACCNAME_MAXIMIZE));
+[0;1;32m                                  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:60:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_MAXIMIZE'[0m
+#define IDS_APP_ACCNAME_MAXIMIZE _Pragma("whitelisted_resource_27316") 27316
+[0;1;32m                                 ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27316
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:93:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_RESTORE_H).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:10:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE_H'[0m
+#define IDR_APP_WINDOW_RESTORE_H _Pragma("whitelisted_resource_10206") 10206
+[0;1;32m                                 ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10206
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:96:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_RESTORE_P).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:12:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE_P'[0m
+#define IDR_APP_WINDOW_RESTORE_P _Pragma("whitelisted_resource_10208") 10208
+[0;1;32m                                 ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10208
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:98:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_ACCNAME_RESTORE));
+[0;1;32m                                  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:61:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_RESTORE'[0m
+#define IDS_APP_ACCNAME_RESTORE _Pragma("whitelisted_resource_27317") 27317
+[0;1;32m                                ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27317
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:103:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MINIMIZE_H).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:19:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE_H'[0m
+#define IDR_APP_WINDOW_MINIMIZE_H _Pragma("whitelisted_resource_10215") 10215
+[0;1;32m                                  ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10215
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:106:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MINIMIZE_P).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:21:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE_P'[0m
+#define IDR_APP_WINDOW_MINIMIZE_P _Pragma("whitelisted_resource_10217") 10217
+[0;1;32m                                  ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10217
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:108:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_ACCNAME_MINIMIZE));
+[0;1;32m                                  ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:59:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_MINIMIZE'[0m
+#define IDS_APP_ACCNAME_MINIMIZE _Pragma("whitelisted_resource_27315") 27315
+[0;1;32m                                 ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27315
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:299:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_CLOSE).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE'[0m
+#define IDR_APP_WINDOW_CLOSE _Pragma("whitelisted_resource_10201") 10201
+[0;1;32m                             ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10201
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:303:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_CLOSE_U).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:8:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE_U'[0m
+#define IDR_APP_WINDOW_CLOSE_U _Pragma("whitelisted_resource_10204") 10204
+[0;1;32m                               ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10204
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:384:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MAXIMIZE_L).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:16:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_L'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_L _Pragma("whitelisted_resource_10212") 10212
+[0;1;32m                                  ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10212
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:387:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_RESTORE_L).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:11:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE_L'[0m
+#define IDR_APP_WINDOW_RESTORE_L _Pragma("whitelisted_resource_10207") 10207
+[0;1;32m                                 ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10207
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:390:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MINIMIZE_L).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:20:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE_L'[0m
+#define IDR_APP_WINDOW_MINIMIZE_L _Pragma("whitelisted_resource_10216") 10216
+[0;1;32m                                  ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10216
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:394:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MAXIMIZE).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:13:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE'[0m
+#define IDR_APP_WINDOW_MAXIMIZE _Pragma("whitelisted_resource_10209") 10209
+[0;1;32m                                ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10209
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:397:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_RESTORE).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:9:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE'[0m
+#define IDR_APP_WINDOW_RESTORE _Pragma("whitelisted_resource_10205") 10205
+[0;1;32m                               ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10205
+[0;1;32m ^
+[0m[1m../../apps/ui/views/app_window_frame_view.cc:400:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        rb.GetNativeImageNamed(IDR_APP_WINDOW_MINIMIZE).ToImageSkia());
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:18:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE'[0m
+#define IDR_APP_WINDOW_MINIMIZE _Pragma("whitelisted_resource_10214") 10214
+[0;1;32m                                ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10214
+[0;1;32m ^
+[0m22 warnings generated.

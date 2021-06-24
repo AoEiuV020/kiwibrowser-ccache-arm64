@@ -1,0 +1,199 @@
+[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:48:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               ? IDS_FEEDBACK_REPORT_PAGE_TITLE_SAD_TAB_FLOW
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1808:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_REPORT_PAGE_TITLE_SAD_TAB_FLOW'[0m
+#define IDS_FEEDBACK_REPORT_PAGE_TITLE_SAD_TAB_FLOW _Pragma("whitelisted_resource_5391") 5391
+[0;1;32m                                                    ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:49:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               : IDS_FEEDBACK_REPORT_PAGE_TITLE);
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1807:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_REPORT_PAGE_TITLE'[0m
+#define IDS_FEEDBACK_REPORT_PAGE_TITLE _Pragma("whitelisted_resource_5390") 5390
+[0;1;32m                                       ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:50:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("additionalInfo", IDS_FEEDBACK_ADDITIONAL_INFO_LABEL);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1828:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_ADDITIONAL_INFO_LABEL'[0m
+#define IDS_FEEDBACK_ADDITIONAL_INFO_LABEL _Pragma("whitelisted_resource_5413") 5413
+[0;1;32m                                           ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:51:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("minimize-btn-label", IDS_FEEDBACK_MINIMIZE_BUTTON_LABEL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1809:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_MINIMIZE_BUTTON_LABEL'[0m
+#define IDS_FEEDBACK_MINIMIZE_BUTTON_LABEL _Pragma("whitelisted_resource_5392") 5392
+[0;1;32m                                           ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:52:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("close-btn-label", IDS_FEEDBACK_CLOSE_BUTTON_LABEL);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1810:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_CLOSE_BUTTON_LABEL'[0m
+#define IDS_FEEDBACK_CLOSE_BUTTON_LABEL _Pragma("whitelisted_resource_5393") 5393
+[0;1;32m                                        ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:53:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("page-url", IDS_FEEDBACK_REPORT_URL_LABEL);
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1811:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_REPORT_URL_LABEL'[0m
+#define IDS_FEEDBACK_REPORT_URL_LABEL _Pragma("whitelisted_resource_5394") 5394
+[0;1;32m                                      ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:54:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("screenshot", IDS_FEEDBACK_SCREENSHOT_LABEL);
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1814:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SCREENSHOT_LABEL'[0m
+#define IDS_FEEDBACK_SCREENSHOT_LABEL _Pragma("whitelisted_resource_5397") 5397
+[0;1;32m                                      ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:55:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("user-email", IDS_FEEDBACK_USER_EMAIL_LABEL);
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1812:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_USER_EMAIL_LABEL'[0m
+#define IDS_FEEDBACK_USER_EMAIL_LABEL _Pragma("whitelisted_resource_5395") 5395
+[0;1;32m                                      ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:56:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("anonymous-user", IDS_FEEDBACK_ANONYMOUS_EMAIL_OPTION);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1813:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_ANONYMOUS_EMAIL_OPTION'[0m
+#define IDS_FEEDBACK_ANONYMOUS_EMAIL_OPTION _Pragma("whitelisted_resource_5396") 5396
+[0;1;32m                                            ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:67:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sys-info", IDS_FEEDBACK_INCLUDE_SYSTEM_INFORMATION_CHKBOX);
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1818:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_INCLUDE_SYSTEM_INFORMATION_CHKBOX'[0m
+#define IDS_FEEDBACK_INCLUDE_SYSTEM_INFORMATION_CHKBOX _Pragma("whitelisted_resource_5401") 5401
+[0;1;32m                                                       ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:69:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("attach-file-label", IDS_FEEDBACK_ATTACH_FILE_LABEL);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1820:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_ATTACH_FILE_LABEL'[0m
+#define IDS_FEEDBACK_ATTACH_FILE_LABEL _Pragma("whitelisted_resource_5405") 5405
+[0;1;32m                                       ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:70:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("attach-file-note", IDS_FEEDBACK_ATTACH_FILE_NOTE);
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1819:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_ATTACH_FILE_NOTE'[0m
+#define IDS_FEEDBACK_ATTACH_FILE_NOTE _Pragma("whitelisted_resource_5404") 5404
+[0;1;32m                                      ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:71:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("attach-file-to-big", IDS_FEEDBACK_ATTACH_FILE_TO_BIG);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1822:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_ATTACH_FILE_TO_BIG'[0m
+#define IDS_FEEDBACK_ATTACH_FILE_TO_BIG _Pragma("whitelisted_resource_5407") 5407
+[0;1;32m                                        ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:72:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("reading-file", IDS_FEEDBACK_READING_FILE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1821:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_READING_FILE'[0m
+#define IDS_FEEDBACK_READING_FILE _Pragma("whitelisted_resource_5406") 5406
+[0;1;32m                                  ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:73:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("send-report", IDS_FEEDBACK_SEND_REPORT);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1825:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SEND_REPORT'[0m
+#define IDS_FEEDBACK_SEND_REPORT _Pragma("whitelisted_resource_5410") 5410
+[0;1;32m                                 ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:74:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("cancel", IDS_CANCEL);
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:75:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("no-description", IDS_FEEDBACK_NO_DESCRIPTION);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1824:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_NO_DESCRIPTION'[0m
+#define IDS_FEEDBACK_NO_DESCRIPTION _Pragma("whitelisted_resource_5409") 5409
+[0;1;32m                                    ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:76:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("privacy-note", IDS_FEEDBACK_PRIVACY_NOTE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1823:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_PRIVACY_NOTE'[0m
+#define IDS_FEEDBACK_PRIVACY_NOTE _Pragma("whitelisted_resource_5408") 5408
+[0;1;32m                                  ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:78:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             IDS_FEEDBACK_INCLUDE_PERFORMANCE_TRACE_CHECKBOX);
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1815:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_INCLUDE_PERFORMANCE_TRACE_CHECKBOX'[0m
+#define IDS_FEEDBACK_INCLUDE_PERFORMANCE_TRACE_CHECKBOX _Pragma("whitelisted_resource_5398") 5398
+[0;1;32m                                                        ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:80:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageTitle", IDS_FEEDBACK_SYSINFO_PAGE_TITLE);
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1826:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SYSINFO_PAGE_TITLE'[0m
+#define IDS_FEEDBACK_SYSINFO_PAGE_TITLE _Pragma("whitelisted_resource_5411") 5411
+[0;1;32m                                        ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:81:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageDescription", IDS_ABOUT_SYS_DESC);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1659:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT_SYS_DESC'[0m
+#define IDS_ABOUT_SYS_DESC _Pragma("whitelisted_resource_5230") 5230
+[0;1;32m                           ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:82:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageTableTitle", IDS_ABOUT_SYS_TABLE_TITLE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1660:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT_SYS_TABLE_TITLE'[0m
+#define IDS_ABOUT_SYS_TABLE_TITLE _Pragma("whitelisted_resource_5231") 5231
+[0;1;32m                                  ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:83:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageExpandAllBtn", IDS_ABOUT_SYS_EXPAND_ALL);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1662:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT_SYS_EXPAND_ALL'[0m
+#define IDS_ABOUT_SYS_EXPAND_ALL _Pragma("whitelisted_resource_5233") 5233
+[0;1;32m                                 ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:84:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageCollapseAllBtn", IDS_ABOUT_SYS_COLLAPSE_ALL);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1663:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT_SYS_COLLAPSE_ALL'[0m
+#define IDS_ABOUT_SYS_COLLAPSE_ALL _Pragma("whitelisted_resource_5234") 5234
+[0;1;32m                                   ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:85:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageExpandBtn", IDS_ABOUT_SYS_EXPAND);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1664:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT_SYS_EXPAND'[0m
+#define IDS_ABOUT_SYS_EXPAND _Pragma("whitelisted_resource_5235") 5235
+[0;1;32m                             ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:86:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageCollapseBtn", IDS_ABOUT_SYS_COLLAPSE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1665:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT_SYS_COLLAPSE'[0m
+#define IDS_ABOUT_SYS_COLLAPSE _Pragma("whitelisted_resource_5236") 5236
+[0;1;32m                               ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:87:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("sysinfoPageStatusLoading", IDS_FEEDBACK_SYSINFO_PAGE_LOADING);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1827:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SYSINFO_PAGE_LOADING'[0m
+#define IDS_FEEDBACK_SYSINFO_PAGE_LOADING _Pragma("whitelisted_resource_5412") 5412
+[0;1;32m                                          ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:89:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("srtPromptBody", IDS_FEEDBACK_SRT_PROMPT_BODY);
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1829:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SRT_PROMPT_BODY'[0m
+#define IDS_FEEDBACK_SRT_PROMPT_BODY _Pragma("whitelisted_resource_5414") 5414
+[0;1;32m                                     ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:90:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("srtPromptAcceptButton", IDS_FEEDBACK_SRT_PROMPT_ACCEPT_BUTTON);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1830:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SRT_PROMPT_ACCEPT_BUTTON'[0m
+#define IDS_FEEDBACK_SRT_PROMPT_ACCEPT_BUTTON _Pragma("whitelisted_resource_5415") 5415
+[0;1;32m                                              ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:91:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SET_STRING("srtPromptDeclineButton", IDS_FEEDBACK_SRT_PROMPT_DECLINE_BUTTON);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1831:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SRT_PROMPT_DECLINE_BUTTON'[0m
+#define IDS_FEEDBACK_SRT_PROMPT_DECLINE_BUTTON _Pragma("whitelisted_resource_5416") 5416
+[0;1;32m                                               ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:179:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      nullptr, l10n_util::GetStringUTF16(IDS_FEEDBACK_OFFLINE_DIALOG_TITLE),
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1816:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_OFFLINE_DIALOG_TITLE'[0m
+#define IDS_FEEDBACK_OFFLINE_DIALOG_TITLE _Pragma("whitelisted_resource_5399") 5399
+[0;1;32m                                          ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5399
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/feedback_private/chrome_feedback_private_delegate.cc:180:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_FEEDBACK_OFFLINE_DIALOG_TEXT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1817:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_OFFLINE_DIALOG_TEXT'[0m
+#define IDS_FEEDBACK_OFFLINE_DIALOG_TEXT _Pragma("whitelisted_resource_5400") 5400
+[0;1;32m                                         ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5400
+[0;1;32m ^
+[0m32 warnings generated.

@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/android/content_settings/popup_blocked_infobar_delegate.cc:87:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetPluralStringFUTF16(IDS_POPUPS_BLOCKED_INFOBAR_TEXT,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1852:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POPUPS_BLOCKED_INFOBAR_TEXT'[0m
+#define IDS_POPUPS_BLOCKED_INFOBAR_TEXT _Pragma("whitelisted_resource_5437") 5437
+[0;1;32m                                        ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5437
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/content_settings/popup_blocked_infobar_delegate.cc:100:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_POPUPS_BLOCKED_INFOBAR_BUTTON_SHOW);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1851:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POPUPS_BLOCKED_INFOBAR_BUTTON_SHOW'[0m
+#define IDS_POPUPS_BLOCKED_INFOBAR_BUTTON_SHOW _Pragma("whitelisted_resource_5436") 5436
+[0;1;32m                                               ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5436
+[0;1;32m ^
+[0m2 warnings generated.

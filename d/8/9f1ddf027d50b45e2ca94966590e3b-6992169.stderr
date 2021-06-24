@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/omnibox/omnibox_ui.cc:21:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("omnibox.css", IDR_OMNIBOX_CSS);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/browser_resources.h:137:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_OMNIBOX_CSS'[0m
+#define IDR_OMNIBOX_CSS _Pragma("whitelisted_resource_11218") 11218
+[0;1;32m                        ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11218
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/omnibox/omnibox_ui.cc:22:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("omnibox.js", IDR_OMNIBOX_JS);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/browser_resources.h:138:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_OMNIBOX_JS'[0m
+#define IDR_OMNIBOX_JS _Pragma("whitelisted_resource_11219") 11219
+[0;1;32m                       ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11219
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/omnibox/omnibox_ui.cc:24:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_OMNIBOX_MOJO_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:139:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_OMNIBOX_MOJO_JS'[0m
+#define IDR_OMNIBOX_MOJO_JS _Pragma("whitelisted_resource_11220") 11220
+[0;1;32m                            ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11220
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/omnibox/omnibox_ui.cc:25:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_OMNIBOX_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:136:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_OMNIBOX_HTML'[0m
+#define IDR_OMNIBOX_HTML _Pragma("whitelisted_resource_11217") 11217
+[0;1;32m                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11217
+[0;1;32m ^
+[0m4 warnings generated.

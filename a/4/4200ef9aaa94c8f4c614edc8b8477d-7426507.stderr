@@ -1,0 +1,289 @@
+[1m../../chrome/browser/ui/webui/components_ui.cc:44:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("componentsTitle", IDS_COMPONENTS_TITLE);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1554:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_TITLE'[0m
+#define IDS_COMPONENTS_TITLE _Pragma("whitelisted_resource_5101") 5101
+[0;1;32m                             ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5101
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:46:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_COMPONENTS_NONE_INSTALLED);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1556:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_NONE_INSTALLED'[0m
+#define IDS_COMPONENTS_NONE_INSTALLED _Pragma("whitelisted_resource_5103") 5103
+[0;1;32m                                      ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5103
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:47:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("componentVersion", IDS_COMPONENTS_VERSION);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1555:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_VERSION'[0m
+#define IDS_COMPONENTS_VERSION _Pragma("whitelisted_resource_5102") 5102
+[0;1;32m                               ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5102
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:48:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("checkUpdate", IDS_COMPONENTS_CHECK_FOR_UPDATE);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1558:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_CHECK_FOR_UPDATE'[0m
+#define IDS_COMPONENTS_CHECK_FOR_UPDATE _Pragma("whitelisted_resource_5105") 5105
+[0;1;32m                                        ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5105
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:49:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("noComponents", IDS_COMPONENTS_NO_COMPONENTS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1557:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_NO_COMPONENTS'[0m
+#define IDS_COMPONENTS_NO_COMPONENTS _Pragma("whitelisted_resource_5104") 5104
+[0;1;32m                                     ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5104
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:50:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("statusLabel", IDS_COMPONENTS_STATUS_LABEL);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1559:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_STATUS_LABEL'[0m
+#define IDS_COMPONENTS_STATUS_LABEL _Pragma("whitelisted_resource_5106") 5106
+[0;1;32m                                    ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5106
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:51:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("checkingLabel", IDS_COMPONENTS_CHECKING_LABEL);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1560:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_CHECKING_LABEL'[0m
+#define IDS_COMPONENTS_CHECKING_LABEL _Pragma("whitelisted_resource_5107") 5107
+[0;1;32m                                      ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5107
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:63:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("components.js", IDR_COMPONENTS_JS);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/browser_resources.h:142:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMPONENTS_JS'[0m
+#define IDR_COMPONENTS_JS _Pragma("whitelisted_resource_11223") 11223
+[0;1;32m                          ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11223
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:64:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_COMPONENTS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:141:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMPONENTS_HTML'[0m
+#define IDR_COMPONENTS_HTML _Pragma("whitelisted_resource_11222") 11222
+[0;1;32m                            ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11222
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:200:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_PLUGINS_FAVICON, scale_factor);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/theme_resources.h:53:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLUGINS_FAVICON'[0m
+#define IDR_PLUGINS_FAVICON _Pragma("whitelisted_resource_10329") 10329
+[0;1;32m                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10329
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:206:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_STARTED);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1573:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_STARTED'[0m
+#define IDS_COMPONENTS_EVT_STATUS_STARTED _Pragma("whitelisted_resource_5120") 5120
+[0;1;32m                                          ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5120
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:208:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_SLEEPING);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1574:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_SLEEPING'[0m
+#define IDS_COMPONENTS_EVT_STATUS_SLEEPING _Pragma("whitelisted_resource_5121") 5121
+[0;1;32m                                           ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5121
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:210:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_FOUND);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1575:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_FOUND'[0m
+#define IDS_COMPONENTS_EVT_STATUS_FOUND _Pragma("whitelisted_resource_5122") 5122
+[0;1;32m                                        ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5122
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:212:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_READY);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1576:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_READY'[0m
+#define IDS_COMPONENTS_EVT_STATUS_READY _Pragma("whitelisted_resource_5123") 5123
+[0;1;32m                                        ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5123
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:214:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_UPDATED);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1577:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_UPDATED'[0m
+#define IDS_COMPONENTS_EVT_STATUS_UPDATED _Pragma("whitelisted_resource_5124") 5124
+[0;1;32m                                          ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5124
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:216:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_NOTUPDATED);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1578:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_NOTUPDATED'[0m
+#define IDS_COMPONENTS_EVT_STATUS_NOTUPDATED _Pragma("whitelisted_resource_5125") 5125
+[0;1;32m                                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5125
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:218:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_UPDATE_ERROR);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1579:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_UPDATE_ERROR'[0m
+#define IDS_COMPONENTS_EVT_STATUS_UPDATE_ERROR _Pragma("whitelisted_resource_5126") 5126
+[0;1;32m                                               ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5126
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:220:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_EVT_STATUS_DOWNLOADING);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1580:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_EVT_STATUS_DOWNLOADING'[0m
+#define IDS_COMPONENTS_EVT_STATUS_DOWNLOADING _Pragma("whitelisted_resource_5127") 5127
+[0;1;32m                                              ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5127
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:222:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_COMPONENTS_UNKNOWN);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1572:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_UNKNOWN'[0m
+#define IDS_COMPONENTS_UNKNOWN _Pragma("whitelisted_resource_5119") 5119
+[0;1;32m                               ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5119
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:230:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_NEW);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1561:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_NEW'[0m
+#define IDS_COMPONENTS_SVC_STATUS_NEW _Pragma("whitelisted_resource_5108") 5108
+[0;1;32m                                      ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5108
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:232:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_CHECKING);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1562:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_CHECKING'[0m
+#define IDS_COMPONENTS_SVC_STATUS_CHECKING _Pragma("whitelisted_resource_5109") 5109
+[0;1;32m                                           ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5109
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:234:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_UPDATE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1563:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_UPDATE'[0m
+#define IDS_COMPONENTS_SVC_STATUS_UPDATE _Pragma("whitelisted_resource_5110") 5110
+[0;1;32m                                         ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5110
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:236:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_DNL_DIFF);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1564:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_DNL_DIFF'[0m
+#define IDS_COMPONENTS_SVC_STATUS_DNL_DIFF _Pragma("whitelisted_resource_5111") 5111
+[0;1;32m                                           ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5111
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:238:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_DNL);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1565:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_DNL'[0m
+#define IDS_COMPONENTS_SVC_STATUS_DNL _Pragma("whitelisted_resource_5112") 5112
+[0;1;32m                                      ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5112
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:240:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_UPDT_DIFF);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1567:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_UPDT_DIFF'[0m
+#define IDS_COMPONENTS_SVC_STATUS_UPDT_DIFF _Pragma("whitelisted_resource_5114") 5114
+[0;1;32m                                            ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5114
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:242:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_UPDATING);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1568:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_UPDATING'[0m
+#define IDS_COMPONENTS_SVC_STATUS_UPDATING _Pragma("whitelisted_resource_5115") 5115
+[0;1;32m                                           ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5115
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:244:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_DOWNLOADED);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1566:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_DOWNLOADED'[0m
+#define IDS_COMPONENTS_SVC_STATUS_DOWNLOADED _Pragma("whitelisted_resource_5113") 5113
+[0;1;32m                                             ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5113
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:246:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_UPDATED);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1569:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_UPDATED'[0m
+#define IDS_COMPONENTS_SVC_STATUS_UPDATED _Pragma("whitelisted_resource_5116") 5116
+[0;1;32m                                          ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5116
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:248:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_UPTODATE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1570:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_UPTODATE'[0m
+#define IDS_COMPONENTS_SVC_STATUS_UPTODATE _Pragma("whitelisted_resource_5117") 5117
+[0;1;32m                                           ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5117
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:250:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_SVC_STATUS_UPDATE_ERROR);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1571:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_SVC_STATUS_UPDATE_ERROR'[0m
+#define IDS_COMPONENTS_SVC_STATUS_UPDATE_ERROR _Pragma("whitelisted_resource_5118") 5118
+[0;1;32m                                               ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5118
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:254:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COMPONENTS_UNKNOWN);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1572:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_UNKNOWN'[0m
+#define IDS_COMPONENTS_UNKNOWN _Pragma("whitelisted_resource_5119") 5119
+[0;1;32m                               ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5119
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/components_ui.cc:256:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_COMPONENTS_UNKNOWN);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1572:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COMPONENTS_UNKNOWN'[0m
+#define IDS_COMPONENTS_UNKNOWN _Pragma("whitelisted_resource_5119") 5119
+[0;1;32m                               ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5119
+[0;1;32m ^
+[0m32 warnings generated.

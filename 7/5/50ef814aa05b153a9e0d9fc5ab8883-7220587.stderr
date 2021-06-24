@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/inspect_ui.cc:547:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("inspect.css", IDR_INSPECT_CSS);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/browser_resources.h:103:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INSPECT_CSS'[0m
+#define IDR_INSPECT_CSS _Pragma("whitelisted_resource_11178") 11178
+[0;1;32m                        ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11178
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/inspect_ui.cc:548:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("inspect.js", IDR_INSPECT_JS);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/browser_resources.h:105:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INSPECT_JS'[0m
+#define IDR_INSPECT_JS _Pragma("whitelisted_resource_11180") 11180
+[0;1;32m                       ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11180
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/inspect_ui.cc:549:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_INSPECT_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:104:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INSPECT_HTML'[0m
+#define IDR_INSPECT_HTML _Pragma("whitelisted_resource_11179") 11179
+[0;1;32m                         ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11179
+[0;1;32m ^
+[0m3 warnings generated.

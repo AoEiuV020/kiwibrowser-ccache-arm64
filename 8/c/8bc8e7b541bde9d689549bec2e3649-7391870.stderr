@@ -1,0 +1,64 @@
+[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:36:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_INLINE_LOGIN_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:99:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INLINE_LOGIN_HTML'[0m
+#define IDR_INLINE_LOGIN_HTML _Pragma("whitelisted_resource_11174") 11174
+[0;1;32m                              ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11174
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:45:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("inline_login.css", IDR_INLINE_LOGIN_CSS);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/browser_resources.h:100:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INLINE_LOGIN_CSS'[0m
+#define IDR_INLINE_LOGIN_CSS _Pragma("whitelisted_resource_11175") 11175
+[0;1;32m                             ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11175
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:46:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("inline_login.js", IDR_INLINE_LOGIN_JS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:101:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INLINE_LOGIN_JS'[0m
+#define IDR_INLINE_LOGIN_JS _Pragma("whitelisted_resource_11176") 11176
+[0;1;32m                            ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11176
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:47:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("gaia_auth_host.js", IDR_GAIA_AUTH_AUTHENTICATOR_JS);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:102:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GAIA_AUTH_AUTHENTICATOR_JS'[0m
+#define IDR_GAIA_AUTH_AUTHENTICATOR_JS _Pragma("whitelisted_resource_11177") 11177
+[0;1;32m                                       ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11177
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:49:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("title", IDS_CHROME_SIGNIN_TITLE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:89:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHROME_SIGNIN_TITLE'[0m
+#define IDS_CHROME_SIGNIN_TITLE _Pragma("whitelisted_resource_536") 536
+[0;1;32m                                ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_536
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:51:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "accessibleCloseButtonLabel", IDS_SIGNIN_ACCESSIBLE_CLOSE_BUTTON);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2263:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ACCESSIBLE_CLOSE_BUTTON'[0m
+#define IDS_SIGNIN_ACCESSIBLE_CLOSE_BUTTON _Pragma("whitelisted_resource_5902") 5902
+[0;1;32m                                           ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5902
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/inline_login_ui.cc:53:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "accessibleBackButtonLabel", IDS_SIGNIN_ACCESSIBLE_BACK_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2264:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ACCESSIBLE_BACK_BUTTON'[0m
+#define IDS_SIGNIN_ACCESSIBLE_BACK_BUTTON _Pragma("whitelisted_resource_5903") 5903
+[0;1;32m                                          ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5903
+[0;1;32m ^
+[0m7 warnings generated.

@@ -1,0 +1,154 @@
+[1m../../components/security_interstitials/content/connection_help_ui.cc:35:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:831:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_TITLE'[0m
+#define IDS_CONNECTION_HELP_TITLE _Pragma("whitelisted_resource_15962") 15962
+[0;1;32m                                  ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15962
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:37:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_HEADING);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:832:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_HEADING'[0m
+#define IDS_CONNECTION_HELP_HEADING _Pragma("whitelisted_resource_15963") 15963
+[0;1;32m                                    ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15963
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:39:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_GENERAL_HELP);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:833:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_GENERAL_HELP'[0m
+#define IDS_CONNECTION_HELP_GENERAL_HELP _Pragma("whitelisted_resource_15964") 15964
+[0;1;32m                                         ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15964
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:41:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_SPECIFIC_ERROR_HEADING);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:834:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_SPECIFIC_ERROR_HEADING'[0m
+#define IDS_CONNECTION_HELP_SPECIFIC_ERROR_HEADING _Pragma("whitelisted_resource_15965") 15965
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15965
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:44:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_CONNECTION_HELP_CONNECTION_NOT_PRIVATE_TITLE);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:835:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_CONNECTION_NOT_PRIVATE_TITLE'[0m
+#define IDS_CONNECTION_HELP_CONNECTION_NOT_PRIVATE_TITLE _Pragma("whitelisted_resource_15966") 15966
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15966
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:47:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_CONNECTION_HELP_CONNECTION_NOT_PRIVATE_DETAILS);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:838:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_CONNECTION_NOT_PRIVATE_DETAILS'[0m
+#define IDS_CONNECTION_HELP_CONNECTION_NOT_PRIVATE_DETAILS _Pragma("whitelisted_resource_15969") 15969
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15969
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:49:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_CONNECT_TO_NETWORK_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:836:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_CONNECT_TO_NETWORK_TITLE'[0m
+#define IDS_CONNECTION_HELP_CONNECT_TO_NETWORK_TITLE _Pragma("whitelisted_resource_15967") 15967
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15967
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:52:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_CONNECTION_HELP_CONNECT_TO_NETWORK_DETAILS);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:839:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_CONNECT_TO_NETWORK_DETAILS'[0m
+#define IDS_CONNECTION_HELP_CONNECT_TO_NETWORK_DETAILS _Pragma("whitelisted_resource_15970") 15970
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15970
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:54:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_INCORRECT_CLOCK_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:837:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_INCORRECT_CLOCK_TITLE'[0m
+#define IDS_CONNECTION_HELP_INCORRECT_CLOCK_TITLE _Pragma("whitelisted_resource_15968") 15968
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15968
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:56:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_INCORRECT_CLOCK_DETAILS);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:840:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_INCORRECT_CLOCK_DETAILS'[0m
+#define IDS_CONNECTION_HELP_INCORRECT_CLOCK_DETAILS _Pragma("whitelisted_resource_15971") 15971
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15971
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:72:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_SHOW_MORE);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:829:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_SHOW_MORE'[0m
+#define IDS_CONNECTION_HELP_SHOW_MORE _Pragma("whitelisted_resource_15960") 15960
+[0;1;32m                                      ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15960
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:74:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONNECTION_HELP_SHOW_LESS);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:830:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONNECTION_HELP_SHOW_LESS'[0m
+#define IDS_CONNECTION_HELP_SHOW_LESS _Pragma("whitelisted_resource_15961") 15961
+[0;1;32m                                      ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15961
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:79:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_SECURITY_INTERSTITIAL_CORE_CSS);
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_resources.h:42:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_CORE_CSS'[0m
+#define IDR_SECURITY_INTERSTITIAL_CORE_CSS _Pragma("whitelisted_resource_17055") 17055
+[0;1;32m                                           ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17055
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:81:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_SECURITY_INTERSTITIAL_COMMON_CSS);
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_resources.h:41:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_COMMON_CSS'[0m
+#define IDR_SECURITY_INTERSTITIAL_COMMON_CSS _Pragma("whitelisted_resource_17054") 17054
+[0;1;32m                                             ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17054
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:83:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_CSS);
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_resources.h:47:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_CSS'[0m
+#define IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_CSS _Pragma("whitelisted_resource_17060") 17060
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17060
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:85:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_JS);
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_resources.h:48:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_JS'[0m
+#define IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_JS _Pragma("whitelisted_resource_17061") 17061
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17061
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/content/connection_help_ui.cc:87:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_HTML);
+[0;1;32m      ^
+[0m[1mgen/components/grit/components_resources.h:46:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_HTML'[0m
+#define IDR_SECURITY_INTERSTITIAL_CONNECTION_HELP_HTML _Pragma("whitelisted_resource_17059") 17059
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17059
+[0;1;32m ^
+[0m17 warnings generated.

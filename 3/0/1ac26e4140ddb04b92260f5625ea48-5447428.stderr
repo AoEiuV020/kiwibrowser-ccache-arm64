@@ -1,0 +1,136 @@
+[1m../../chrome/browser/ui/sad_tab.cc:113:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_SAD_TAB_TITLE;
+[0;1;32m           ^
+[0m[1mgen/components/strings/grit/components_strings.h:322:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_TITLE'[0m
+#define IDS_SAD_TAB_TITLE _Pragma("whitelisted_resource_15425") 15425
+[0;1;32m                          ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15425
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:125:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_SAD_TAB_RELOAD_TITLE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:328:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_RELOAD_TITLE'[0m
+#define IDS_SAD_TAB_RELOAD_TITLE _Pragma("whitelisted_resource_15432") 15432
+[0;1;32m                                 ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15432
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:139:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return AreOtherTabsOpen() ? IDS_SAD_TAB_OOM_MESSAGE_TABS
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:329:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_OOM_MESSAGE_TABS'[0m
+#define IDS_SAD_TAB_OOM_MESSAGE_TABS _Pragma("whitelisted_resource_15433") 15433
+[0;1;32m                                     ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15433
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:140:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  : IDS_SAD_TAB_OOM_MESSAGE_NOTABS;
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:330:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_OOM_MESSAGE_NOTABS'[0m
+#define IDS_SAD_TAB_OOM_MESSAGE_NOTABS _Pragma("whitelisted_resource_15434") 15434
+[0;1;32m                                       ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15434
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:141:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_SAD_TAB_MESSAGE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:323:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_MESSAGE'[0m
+#define IDS_SAD_TAB_MESSAGE _Pragma("whitelisted_resource_15426") 15426
+[0;1;32m                            ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15426
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:144:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return show_feedback_button_ ? IDS_SAD_TAB_RELOAD_TRY
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:331:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_RELOAD_TRY'[0m
+#define IDS_SAD_TAB_RELOAD_TRY _Pragma("whitelisted_resource_15435") 15435
+[0;1;32m                               ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15435
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:145:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                   : IDS_SAD_TAB_MESSAGE;
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:323:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_MESSAGE'[0m
+#define IDS_SAD_TAB_MESSAGE _Pragma("whitelisted_resource_15426") 15426
+[0;1;32m                            ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15426
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:152:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return show_feedback_button_ ? IDS_CRASHED_TAB_FEEDBACK_LINK
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1948:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASHED_TAB_FEEDBACK_LINK'[0m
+#define IDS_CRASHED_TAB_FEEDBACK_LINK _Pragma("whitelisted_resource_5558") 5558
+[0;1;32m                                      ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5558
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:153:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               : IDS_SAD_TAB_RELOAD_LABEL;
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:326:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_RELOAD_LABEL'[0m
+#define IDS_SAD_TAB_RELOAD_LABEL _Pragma("whitelisted_resource_15429") 15429
+[0;1;32m                                 ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15429
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:157:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDS_LEARN_MORE;
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:178:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      std::vector<int> message_ids = {IDS_SAD_TAB_RELOAD_RESTART_BROWSER,
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:333:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_RELOAD_RESTART_BROWSER'[0m
+#define IDS_SAD_TAB_RELOAD_RESTART_BROWSER _Pragma("whitelisted_resource_15439") 15439
+[0;1;32m                                           ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15439
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:179:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      IDS_SAD_TAB_RELOAD_RESTART_DEVICE};
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:334:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_RELOAD_RESTART_DEVICE'[0m
+#define IDS_SAD_TAB_RELOAD_RESTART_DEVICE _Pragma("whitelisted_resource_15440") 15440
+[0;1;32m                                          ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15440
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:182:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_ids.insert(message_ids.begin(), IDS_SAD_TAB_RELOAD_INCOGNITO);
+[0;1;32m                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:332:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAD_TAB_RELOAD_INCOGNITO'[0m
+#define IDS_SAD_TAB_RELOAD_INCOGNITO _Pragma("whitelisted_resource_15436") 15436
+[0;1;32m                                     ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15436
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:233:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                         ? IDS_CRASHED_TAB_FEEDBACK_MESSAGE
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1947:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASHED_TAB_FEEDBACK_MESSAGE'[0m
+#define IDS_CRASHED_TAB_FEEDBACK_MESSAGE _Pragma("whitelisted_resource_5557") 5557
+[0;1;32m                                         ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5557
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/sad_tab.cc:234:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                         : IDS_KILLED_TAB_FEEDBACK_MESSAGE),
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1949:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_KILLED_TAB_FEEDBACK_MESSAGE'[0m
+#define IDS_KILLED_TAB_FEEDBACK_MESSAGE _Pragma("whitelisted_resource_5560") 5560
+[0;1;32m                                        ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5560
+[0;1;32m ^
+[0m15 warnings generated.

@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/views/location_bar/keyword_hint_view.cc:130:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         ? IDS_OMNIBOX_EXTENSION_KEYWORD_HINT_TOUCH
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1676:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_EXTENSION_KEYWORD_HINT_TOUCH'[0m
+#define IDS_OMNIBOX_EXTENSION_KEYWORD_HINT_TOUCH _Pragma("whitelisted_resource_5251") 5251
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5251
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/keyword_hint_view.cc:131:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         : IDS_OMNIBOX_KEYWORD_HINT_TOUCH;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1675:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_KEYWORD_HINT_TOUCH'[0m
+#define IDS_OMNIBOX_KEYWORD_HINT_TOUCH _Pragma("whitelisted_resource_5250") 5250
+[0;1;32m                                       ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5250
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/keyword_hint_view.cc:140:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    chip_label_->SetText(l10n_util::GetStringUTF16(IDS_APP_TAB_KEY));
+[0;1;32m                                                   ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:85:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_TAB_KEY'[0m
+#define IDS_APP_TAB_KEY _Pragma("whitelisted_resource_27341") 27341
+[0;1;32m                        ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27341
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/keyword_hint_view.cc:143:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    int message_id = is_extension_keyword ? IDS_OMNIBOX_EXTENSION_KEYWORD_HINT
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1673:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_EXTENSION_KEYWORD_HINT'[0m
+#define IDS_OMNIBOX_EXTENSION_KEYWORD_HINT _Pragma("whitelisted_resource_5248") 5248
+[0;1;32m                                           ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5248
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/keyword_hint_view.cc:144:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                          : IDS_OMNIBOX_KEYWORD_HINT;
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1672:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_KEYWORD_HINT'[0m
+#define IDS_OMNIBOX_KEYWORD_HINT _Pragma("whitelisted_resource_5247") 5247
+[0;1;32m                                 ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5247
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/keyword_hint_view.cc:154:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_OMNIBOX_KEYWORD_HINT_KEY_ACCNAME);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1674:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_KEYWORD_HINT_KEY_ACCNAME'[0m
+#define IDS_OMNIBOX_KEYWORD_HINT_KEY_ACCNAME _Pragma("whitelisted_resource_5249") 5249
+[0;1;32m                                             ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5249
+[0;1;32m ^
+[0m6 warnings generated.

@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/net_export_ui.cc:63:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath(net_log::kNetExportUIJS, IDR_NET_LOG_NET_EXPORT_JS);
+[0;1;32m                                                   ^
+[0m[1mgen/components/grit/components_resources.h:27:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NET_LOG_NET_EXPORT_JS'[0m
+#define IDR_NET_LOG_NET_EXPORT_JS _Pragma("whitelisted_resource_17032") 17032
+[0;1;32m                                  ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17032
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/net_export_ui.cc:64:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_NET_LOG_NET_EXPORT_HTML);
+[0;1;32m                             ^
+[0m[1mgen/components/grit/components_resources.h:26:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NET_LOG_NET_EXPORT_HTML'[0m
+#define IDR_NET_LOG_NET_EXPORT_HTML _Pragma("whitelisted_resource_17031") 17031
+[0;1;32m                                    ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17031
+[0;1;32m ^
+[0m2 warnings generated.

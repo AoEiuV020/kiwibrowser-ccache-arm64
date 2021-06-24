@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/webapks_ui.cc:25:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("webapks.js", IDR_WEBAPKS_UI_JS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/webapks_ui_resources.h:7:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBAPKS_UI_JS'[0m
+#define IDR_WEBAPKS_UI_JS _Pragma("whitelisted_resource_12802") 12802
+[0;1;32m                          ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12802
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/webapks_ui.cc:26:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("about_webapks.css", IDR_WEBAPKS_UI_CSS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/webapks_ui_resources.h:5:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBAPKS_UI_CSS'[0m
+#define IDR_WEBAPKS_UI_CSS _Pragma("whitelisted_resource_12800") 12800
+[0;1;32m                           ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12800
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/webapks_ui.cc:27:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_WEBAPKS_UI_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/webapks_ui_resources.h:6:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBAPKS_UI_HTML'[0m
+#define IDR_WEBAPKS_UI_HTML _Pragma("whitelisted_resource_12801") 12801
+[0;1;32m                            ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12801
+[0;1;32m ^
+[0m3 warnings generated.

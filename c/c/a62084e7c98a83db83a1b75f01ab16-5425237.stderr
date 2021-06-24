@@ -1,0 +1,532 @@
+[1m../../components/security_state/content/content_utils.cc:68:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_EDITED_NONSECURE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:845:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDITED_NONSECURE'[0m
+#define IDS_EDITED_NONSECURE _Pragma("whitelisted_resource_15978") 15978
+[0;1;32m                             ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15978
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:69:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_EDITED_NONSECURE_DESCRIPTION)));
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:846:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDITED_NONSECURE_DESCRIPTION'[0m
+#define IDS_EDITED_NONSECURE_DESCRIPTION _Pragma("whitelisted_resource_15979") 15979
+[0;1;32m                                         ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15979
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:75:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_PRIVATE_USER_DATA_INPUT),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:841:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRIVATE_USER_DATA_INPUT'[0m
+#define IDS_PRIVATE_USER_DATA_INPUT _Pragma("whitelisted_resource_15974") 15974
+[0;1;32m                                    ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15974
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:76:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_PRIVATE_USER_DATA_INPUT_DESCRIPTION)));
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:842:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRIVATE_USER_DATA_INPUT_DESCRIPTION'[0m
+#define IDS_PRIVATE_USER_DATA_INPUT_DESCRIPTION _Pragma("whitelisted_resource_15975") 15975
+[0;1;32m                                                ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15975
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:81:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_INCOGNITO_NONSECURE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:843:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITO_NONSECURE'[0m
+#define IDS_INCOGNITO_NONSECURE _Pragma("whitelisted_resource_15976") 15976
+[0;1;32m                                ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15976
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:82:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_INCOGNITO_NONSECURE_DESCRIPTION)));
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:844:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITO_NONSECURE_DESCRIPTION'[0m
+#define IDS_INCOGNITO_NONSECURE_DESCRIPTION _Pragma("whitelisted_resource_15977") 15977
+[0;1;32m                                            ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15977
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:95:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_SAFEBROWSING_WARNING);
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:847:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_WARNING'[0m
+#define IDS_SAFEBROWSING_WARNING _Pragma("whitelisted_resource_15980") 15980
+[0;1;32m                                 ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15980
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:98:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_SAFEBROWSING_WARNING_SUMMARY),
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:848:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_WARNING_SUMMARY'[0m
+#define IDS_SAFEBROWSING_WARNING_SUMMARY _Pragma("whitelisted_resource_15981") 15981
+[0;1;32m                                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15981
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:99:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_SAFEBROWSING_WARNING_DESCRIPTION));
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:849:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_WARNING_DESCRIPTION'[0m
+#define IDS_SAFEBROWSING_WARNING_DESCRIPTION _Pragma("whitelisted_resource_15982") 15982
+[0;1;32m                                             ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15982
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:108:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_CERTIFICATE_TITLE),
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:854:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_TITLE'[0m
+#define IDS_CERTIFICATE_TITLE _Pragma("whitelisted_resource_15987") 15987
+[0;1;32m                              ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15987
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:109:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_SHA1),
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:850:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHA1'[0m
+#define IDS_SHA1 _Pragma("whitelisted_resource_15983") 15983
+[0;1;32m                 ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15983
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:110:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_SHA1_DESCRIPTION),
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:851:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHA1_DESCRIPTION'[0m
+#define IDS_SHA1_DESCRIPTION _Pragma("whitelisted_resource_15984") 15984
+[0;1;32m                             ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15984
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:125:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_CERTIFICATE_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:854:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_TITLE'[0m
+#define IDS_CERTIFICATE_TITLE _Pragma("whitelisted_resource_15987") 15987
+[0;1;32m                              ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15987
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:126:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_SUBJECT_ALT_NAME_MISSING),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:852:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SUBJECT_ALT_NAME_MISSING'[0m
+#define IDS_SUBJECT_ALT_NAME_MISSING _Pragma("whitelisted_resource_15985") 15985
+[0;1;32m                                     ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15985
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:127:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_SUBJECT_ALT_NAME_MISSING_DESCRIPTION),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:853:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SUBJECT_ALT_NAME_MISSING_DESCRIPTION'[0m
+#define IDS_SUBJECT_ALT_NAME_MISSING_DESCRIPTION _Pragma("whitelisted_resource_15986") 15986
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15986
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:141:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_CERTIFICATE_TITLE),
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:854:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_TITLE'[0m
+#define IDS_CERTIFICATE_TITLE _Pragma("whitelisted_resource_15987") 15987
+[0;1;32m                              ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15987
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:142:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_CERTIFICATE_CHAIN_ERROR),
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:855:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_CHAIN_ERROR'[0m
+#define IDS_CERTIFICATE_CHAIN_ERROR _Pragma("whitelisted_resource_15988") 15988
+[0;1;32m                                    ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15988
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:144:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_CERTIFICATE_CHAIN_ERROR_DESCRIPTION_FORMAT, error_string),
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:856:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_CHAIN_ERROR_DESCRIPTION_FORMAT'[0m
+#define IDS_CERTIFICATE_CHAIN_ERROR_DESCRIPTION_FORMAT _Pragma("whitelisted_resource_15989") 15989
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15989
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:167:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_PAGE_INFO_SECURITY_TAB_UNKNOWN_PARTY));
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:413:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_SECURITY_TAB_UNKNOWN_PARTY'[0m
+#define IDS_PAGE_INFO_SECURITY_TAB_UNKNOWN_PARTY _Pragma("whitelisted_resource_15521") 15521
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15521
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:173:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF8(IDS_CERTIFICATE_TITLE),
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:854:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_TITLE'[0m
+#define IDS_CERTIFICATE_TITLE _Pragma("whitelisted_resource_15987") 15987
+[0;1;32m                              ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15987
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:174:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF8(IDS_VALID_SERVER_CERTIFICATE),
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:857:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VALID_SERVER_CERTIFICATE'[0m
+#define IDS_VALID_SERVER_CERTIFICATE _Pragma("whitelisted_resource_15990") 15990
+[0;1;32m                                     ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15990
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:176:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_VALID_SERVER_CERTIFICATE_DESCRIPTION, issuer_name),
+[0;1;32m                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:858:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VALID_SERVER_CERTIFICATE_DESCRIPTION'[0m
+#define IDS_VALID_SERVER_CERTIFICATE_DESCRIPTION _Pragma("whitelisted_resource_15991") 15991
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15991
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:186:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_CERTIFICATE_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:854:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_TITLE'[0m
+#define IDS_CERTIFICATE_TITLE _Pragma("whitelisted_resource_15987") 15987
+[0;1;32m                              ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15987
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:187:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_PRIVATE_KEY_PINNING_BYPASSED),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:863:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRIVATE_KEY_PINNING_BYPASSED'[0m
+#define IDS_PRIVATE_KEY_PINNING_BYPASSED _Pragma("whitelisted_resource_15996") 15996
+[0;1;32m                                         ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15996
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:189:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_PRIVATE_KEY_PINNING_BYPASSED_DESCRIPTION)));
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:864:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRIVATE_KEY_PINNING_BYPASSED_DESCRIPTION'[0m
+#define IDS_PRIVATE_KEY_PINNING_BYPASSED_DESCRIPTION _Pragma("whitelisted_resource_15997") 15997
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15997
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:199:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_CERTIFICATE_EXPIRING_SOON),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:859:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_EXPIRING_SOON'[0m
+#define IDS_CERTIFICATE_EXPIRING_SOON _Pragma("whitelisted_resource_15992") 15992
+[0;1;32m                                      ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15992
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:201:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_CERTIFICATE_EXPIRING_SOON_DESCRIPTION)));
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:860:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERTIFICATE_EXPIRING_SOON_DESCRIPTION'[0m
+#define IDS_CERTIFICATE_EXPIRING_SOON_DESCRIPTION _Pragma("whitelisted_resource_15993") 15993
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15993
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:231:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       : l10n_util::GetStringFUTF16(IDS_CIPHER_WITH_MAC,
+[0;1;32m                                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:868:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CIPHER_WITH_MAC'[0m
+#define IDS_CIPHER_WITH_MAC _Pragma("whitelisted_resource_16001") 16001
+[0;1;32m                            ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16001
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:242:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SSL_KEY_EXCHANGE_WITH_GROUP, base::ASCIIToUTF16(key_exchange),
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:875:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_KEY_EXCHANGE_WITH_GROUP'[0m
+#define IDS_SSL_KEY_EXCHANGE_WITH_GROUP _Pragma("whitelisted_resource_16008") 16008
+[0;1;32m                                        ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16008
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:252:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_SSL_CONNECTION_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:861:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_CONNECTION_TITLE'[0m
+#define IDS_SSL_CONNECTION_TITLE _Pragma("whitelisted_resource_15994") 15994
+[0;1;32m                                 ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15994
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:253:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringFUTF8(IDS_STRONG_SSL_SUMMARY, protocol_name),
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:862:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_STRONG_SSL_SUMMARY'[0m
+#define IDS_STRONG_SSL_SUMMARY _Pragma("whitelisted_resource_15995") 15995
+[0;1;32m                               ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15995
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:254:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringFUTF8(IDS_STRONG_SSL_DESCRIPTION, protocol_name,
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:865:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_STRONG_SSL_DESCRIPTION'[0m
+#define IDS_STRONG_SSL_DESCRIPTION _Pragma("whitelisted_resource_15998") 15998
+[0;1;32m                                   ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15998
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:264:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+               ? IDS_SSL_AN_OBSOLETE_PROTOCOL
+[0;1;32m                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:869:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_AN_OBSOLETE_PROTOCOL'[0m
+#define IDS_SSL_AN_OBSOLETE_PROTOCOL _Pragma("whitelisted_resource_16002") 16002
+[0;1;32m                                     ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16002
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:265:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+               : IDS_SSL_A_STRONG_PROTOCOL;
+[0;1;32m                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:870:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_A_STRONG_PROTOCOL'[0m
+#define IDS_SSL_A_STRONG_PROTOCOL _Pragma("whitelisted_resource_16003") 16003
+[0;1;32m                                  ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16003
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:270:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+               ? IDS_SSL_AN_OBSOLETE_KEY_EXCHANGE
+[0;1;32m                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:871:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_AN_OBSOLETE_KEY_EXCHANGE'[0m
+#define IDS_SSL_AN_OBSOLETE_KEY_EXCHANGE _Pragma("whitelisted_resource_16004") 16004
+[0;1;32m                                         ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16004
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:271:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+               : IDS_SSL_A_STRONG_KEY_EXCHANGE;
+[0;1;32m                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:872:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_A_STRONG_KEY_EXCHANGE'[0m
+#define IDS_SSL_A_STRONG_KEY_EXCHANGE _Pragma("whitelisted_resource_16005") 16005
+[0;1;32m                                      ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16005
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:275:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  str_id = (status & net::OBSOLETE_SSL_MASK_CIPHER) ? IDS_SSL_AN_OBSOLETE_CIPHER
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:873:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_AN_OBSOLETE_CIPHER'[0m
+#define IDS_SSL_AN_OBSOLETE_CIPHER _Pragma("whitelisted_resource_16006") 16006
+[0;1;32m                                   ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16006
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:276:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                    : IDS_SSL_A_STRONG_CIPHER;
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:874:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_A_STRONG_CIPHER'[0m
+#define IDS_SSL_A_STRONG_CIPHER _Pragma("whitelisted_resource_16007") 16007
+[0;1;32m                                ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16007
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:282:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF8(IDS_SSL_CONNECTION_TITLE),
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:861:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_CONNECTION_TITLE'[0m
+#define IDS_SSL_CONNECTION_TITLE _Pragma("whitelisted_resource_15994") 15994
+[0;1;32m                                 ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15994
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:283:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF8(IDS_OBSOLETE_SSL_SUMMARY),
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:866:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OBSOLETE_SSL_SUMMARY'[0m
+#define IDS_OBSOLETE_SSL_SUMMARY _Pragma("whitelisted_resource_15999") 15999
+[0;1;32m                                 ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15999
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:285:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringFUTF16(IDS_OBSOLETE_SSL_DESCRIPTION,
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:867:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OBSOLETE_SSL_DESCRIPTION'[0m
+#define IDS_OBSOLETE_SSL_DESCRIPTION _Pragma("whitelisted_resource_16000") 16000
+[0;1;32m                                     ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16000
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:310:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_RESOURCE_SECURITY_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:876:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESOURCE_SECURITY_TITLE'[0m
+#define IDS_RESOURCE_SECURITY_TITLE _Pragma("whitelisted_resource_16009") 16009
+[0;1;32m                                    ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16009
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:311:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_MIXED_ACTIVE_CONTENT_SUMMARY),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:881:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIXED_ACTIVE_CONTENT_SUMMARY'[0m
+#define IDS_MIXED_ACTIVE_CONTENT_SUMMARY _Pragma("whitelisted_resource_16014") 16014
+[0;1;32m                                         ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16014
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:312:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_MIXED_ACTIVE_CONTENT_DESCRIPTION),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:882:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIXED_ACTIVE_CONTENT_DESCRIPTION'[0m
+#define IDS_MIXED_ACTIVE_CONTENT_DESCRIPTION _Pragma("whitelisted_resource_16015") 16015
+[0;1;32m                                             ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16015
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:325:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_RESOURCE_SECURITY_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:876:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESOURCE_SECURITY_TITLE'[0m
+#define IDS_RESOURCE_SECURITY_TITLE _Pragma("whitelisted_resource_16009") 16009
+[0;1;32m                                    ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16009
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:326:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_MIXED_PASSIVE_CONTENT_SUMMARY),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:879:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIXED_PASSIVE_CONTENT_SUMMARY'[0m
+#define IDS_MIXED_PASSIVE_CONTENT_SUMMARY _Pragma("whitelisted_resource_16012") 16012
+[0;1;32m                                          ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16012
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:327:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_MIXED_PASSIVE_CONTENT_DESCRIPTION),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:880:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIXED_PASSIVE_CONTENT_DESCRIPTION'[0m
+#define IDS_MIXED_PASSIVE_CONTENT_DESCRIPTION _Pragma("whitelisted_resource_16013") 16013
+[0;1;32m                                              ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16013
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:337:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_RESOURCE_SECURITY_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:876:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESOURCE_SECURITY_TITLE'[0m
+#define IDS_RESOURCE_SECURITY_TITLE _Pragma("whitelisted_resource_16009") 16009
+[0;1;32m                                    ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16009
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:338:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_NON_SECURE_FORM_SUMMARY),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:887:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NON_SECURE_FORM_SUMMARY'[0m
+#define IDS_NON_SECURE_FORM_SUMMARY _Pragma("whitelisted_resource_16020") 16020
+[0;1;32m                                    ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16020
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:339:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_NON_SECURE_FORM_DESCRIPTION)));
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:888:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NON_SECURE_FORM_DESCRIPTION'[0m
+#define IDS_NON_SECURE_FORM_DESCRIPTION _Pragma("whitelisted_resource_16021") 16021
+[0;1;32m                                        ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16021
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:361:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF8(IDS_RESOURCE_SECURITY_TITLE),
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:876:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESOURCE_SECURITY_TITLE'[0m
+#define IDS_RESOURCE_SECURITY_TITLE _Pragma("whitelisted_resource_16009") 16009
+[0;1;32m                                    ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16009
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:362:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF8(IDS_CERT_ERROR_ACTIVE_CONTENT_SUMMARY),
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:885:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_ACTIVE_CONTENT_SUMMARY'[0m
+#define IDS_CERT_ERROR_ACTIVE_CONTENT_SUMMARY _Pragma("whitelisted_resource_16018") 16018
+[0;1;32m                                              ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16018
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:364:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_CERT_ERROR_ACTIVE_CONTENT_DESCRIPTION)));
+[0;1;32m                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:886:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_ACTIVE_CONTENT_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_ACTIVE_CONTENT_DESCRIPTION _Pragma("whitelisted_resource_16019") 16019
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16019
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:376:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF8(IDS_RESOURCE_SECURITY_TITLE),
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:876:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESOURCE_SECURITY_TITLE'[0m
+#define IDS_RESOURCE_SECURITY_TITLE _Pragma("whitelisted_resource_16009") 16009
+[0;1;32m                                    ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16009
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:377:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF8(IDS_CERT_ERROR_PASSIVE_CONTENT_SUMMARY),
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:883:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_PASSIVE_CONTENT_SUMMARY'[0m
+#define IDS_CERT_ERROR_PASSIVE_CONTENT_SUMMARY _Pragma("whitelisted_resource_16016") 16016
+[0;1;32m                                               ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16016
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:379:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_CERT_ERROR_PASSIVE_CONTENT_DESCRIPTION)));
+[0;1;32m                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:884:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_PASSIVE_CONTENT_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_PASSIVE_CONTENT_DESCRIPTION _Pragma("whitelisted_resource_16017") 16017
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16017
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:387:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_RESOURCE_SECURITY_TITLE),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:876:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESOURCE_SECURITY_TITLE'[0m
+#define IDS_RESOURCE_SECURITY_TITLE _Pragma("whitelisted_resource_16009") 16009
+[0;1;32m                                    ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16009
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:388:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_SECURE_RESOURCES_SUMMARY),
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:877:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SECURE_RESOURCES_SUMMARY'[0m
+#define IDS_SECURE_RESOURCES_SUMMARY _Pragma("whitelisted_resource_16010") 16010
+[0;1;32m                                     ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16010
+[0;1;32m ^
+[0m[1m../../components/security_state/content/content_utils.cc:389:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF8(IDS_SECURE_RESOURCES_DESCRIPTION)));
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:878:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SECURE_RESOURCES_DESCRIPTION'[0m
+#define IDS_SECURE_RESOURCES_DESCRIPTION _Pragma("whitelisted_resource_16011") 16011
+[0;1;32m                                         ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16011
+[0;1;32m ^
+[0m59 warnings generated.

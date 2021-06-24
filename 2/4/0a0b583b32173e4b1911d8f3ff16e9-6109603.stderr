@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/page_info/chosen_object_view.cc:85:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             rb.GetImageSkiaNamed(IDR_CLOSE_2));
+[0;1;32m                                                  ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:5:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2'[0m
+#define IDR_CLOSE_2 _Pragma("whitelisted_resource_26961") 26961
+[0;1;32m                    ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26961
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/chosen_object_view.cc:87:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             rb.GetImageSkiaNamed(IDR_CLOSE_2_H));
+[0;1;32m                                                  ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:6:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2_H'[0m
+#define IDR_CLOSE_2_H _Pragma("whitelisted_resource_26962") 26962
+[0;1;32m                      ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26962
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/chosen_object_view.cc:89:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             rb.GetImageSkiaNamed(IDR_CLOSE_2_P));
+[0;1;32m                                                  ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:8:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_2_P'[0m
+#define IDR_CLOSE_2_P _Pragma("whitelisted_resource_26964") 26964
+[0;1;32m                      ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26964
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/profiles/dice_accounts_menu.cc:90:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PROFILES_DICE_USE_ANOTHER_ACCOUNT_BUTTON),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2134:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_USE_ANOTHER_ACCOUNT_BUTTON'[0m
+#define IDS_PROFILES_DICE_USE_ANOTHER_ACCOUNT_BUTTON _Pragma("whitelisted_resource_5772") 5772
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5772
+[0;1;32m ^
+[0m1 warning generated.

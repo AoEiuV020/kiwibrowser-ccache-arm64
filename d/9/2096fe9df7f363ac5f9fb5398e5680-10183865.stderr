@@ -1,0 +1,73 @@
+[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:205:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2398:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK'[0m
+#define IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_LINK _Pragma("whitelisted_resource_6049") 6049
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6049
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:209:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_HEADER,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2396:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_HEADER'[0m
+#define IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_HEADER _Pragma("whitelisted_resource_6047") 6047
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6047
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:210:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SHORT_PRODUCT_NAME));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/chromium_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHORT_PRODUCT_NAME'[0m
+#define IDS_SHORT_PRODUCT_NAME _Pragma("whitelisted_resource_430") 430
+[0;1;32m                               ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_430
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:212:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_SUB_HEADER, signed_in_link);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2397:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_SUB_HEADER'[0m
+#define IDS_SYNC_PROMO_NOT_SIGNED_IN_STATUS_SUB_HEADER _Pragma("whitelisted_resource_6048") 6048
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6048
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:253:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF16(IDS_SYNC_PROMO_NTP_BUBBLE_MESSAGE,
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2363:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_PROMO_NTP_BUBBLE_MESSAGE'[0m
+#define IDS_SYNC_PROMO_NTP_BUBBLE_MESSAGE _Pragma("whitelisted_resource_6014") 6014
+[0;1;32m                                          ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6014
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:254:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SHORT_PRODUCT_NAME));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/chromium_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHORT_PRODUCT_NAME'[0m
+#define IDS_SHORT_PRODUCT_NAME _Pragma("whitelisted_resource_430") 430
+[0;1;32m                               ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_430
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:261:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SYNC_PROMO_NTP_BUBBLE_ADVANCED));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2365:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_PROMO_NTP_BUBBLE_ADVANCED'[0m
+#define IDS_SYNC_PROMO_NTP_BUBBLE_ADVANCED _Pragma("whitelisted_resource_6016") 6016
+[0;1;32m                                           ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6016
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/app_launcher_login_handler.cc:264:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SYNC_PROMO_NTP_BUBBLE_OK));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2364:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_PROMO_NTP_BUBBLE_OK'[0m
+#define IDS_SYNC_PROMO_NTP_BUBBLE_OK _Pragma("whitelisted_resource_6015") 6015
+[0;1;32m                                     ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6015
+[0;1;32m ^
+[0m8 warnings generated.

@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/views/accessibility/invert_bubble_view.cc:99:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  learn_more->SetTooltipText(l10n_util::GetStringUTF16(IDS_LEARN_MORE));
+[0;1;32m                                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/accessibility/invert_bubble_view.cc:111:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DONE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/accessibility/invert_bubble_view.cc:120:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new views::Label(l10n_util::GetStringUTF16(IDS_HIGH_CONTRAST_HEADER),
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2621:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HIGH_CONTRAST_HEADER'[0m
+#define IDS_HIGH_CONTRAST_HEADER _Pragma("whitelisted_resource_6393") 6393
+[0;1;32m                                 ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6393
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/accessibility/invert_bubble_view.cc:124:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new views::Link(l10n_util::GetStringUTF16(IDS_HIGH_CONTRAST_EXT),
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2622:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HIGH_CONTRAST_EXT'[0m
+#define IDS_HIGH_CONTRAST_EXT _Pragma("whitelisted_resource_6394") 6394
+[0;1;32m                              ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6394
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/accessibility/invert_bubble_view.cc:128:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  dark_theme_ = new views::Link(l10n_util::GetStringUTF16(IDS_DARK_THEME),
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2623:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DARK_THEME'[0m
+#define IDS_DARK_THEME _Pragma("whitelisted_resource_6395") 6395
+[0;1;32m                       ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6395
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/accessibility/invert_bubble_view.cc:150:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_HIGH_CONTRAST_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2620:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HIGH_CONTRAST_TITLE'[0m
+#define IDS_HIGH_CONTRAST_TITLE _Pragma("whitelisted_resource_6392") 6392
+[0;1;32m                                ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6392
+[0;1;32m ^
+[0m6 warnings generated.

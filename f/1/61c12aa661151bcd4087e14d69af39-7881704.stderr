@@ -1,0 +1,190 @@
+[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:96:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_TITLE_HOME_PAGE_BUBBLE);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1534:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_TITLE_HOME_PAGE_BUBBLE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_TITLE_HOME_PAGE_BUBBLE _Pragma("whitelisted_resource_5081") 5081
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5081
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:99:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_TITLE_STARTUP_PAGES_BUBBLE);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1535:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_TITLE_STARTUP_PAGES_BUBBLE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_TITLE_STARTUP_PAGES_BUBBLE _Pragma("whitelisted_resource_5082") 5082
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5082
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:102:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_TITLE_SEARCH_ENGINE_BUBBLE);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1536:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_TITLE_SEARCH_ENGINE_BUBBLE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_TITLE_SEARCH_ENGINE_BUBBLE _Pragma("whitelisted_resource_5083") 5083
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5083
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:131:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_HOME_PAGE_SPECIFIC :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1541:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_HOME_PAGE_SPECIFIC'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_HOME_PAGE_SPECIFIC _Pragma("whitelisted_resource_5088") 5088
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5088
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:132:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_HOME_PAGE;
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1542:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_HOME_PAGE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_HOME_PAGE _Pragma("whitelisted_resource_5089") 5089
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5089
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:135:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_SEARCH;
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:135:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_SEARCH'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_SEARCH _Pragma("whitelisted_resource_595") 595
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_595
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:137:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/chromium_strings.h:133:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES _Pragma("whitelisted_resource_593") 593
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_593
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:139:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1543:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE _Pragma("whitelisted_resource_5090") 5090
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5090
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:144:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_START_PAGES_SPECIFIC :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:131:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_START_PAGES_SPECIFIC'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_START_PAGES_SPECIFIC _Pragma("whitelisted_resource_591") 591
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_591
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:145:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_START_PAGES;
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:132:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_START_PAGES'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_START_PAGES _Pragma("whitelisted_resource_592") 592
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_592
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:148:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_AND_SEARCH;
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1545:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_AND_SEARCH'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_AND_SEARCH _Pragma("whitelisted_resource_5092") 5092
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5092
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:150:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_PAGE;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1544:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_PAGE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_PAGE _Pragma("whitelisted_resource_5091") 5091
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5091
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:152:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1543:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_SEARCH_ENGINE _Pragma("whitelisted_resource_5090") 5090
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5090
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:157:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_SEARCH_ENGINE_SPECIFIC :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1539:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_SEARCH_ENGINE_SPECIFIC'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_SEARCH_ENGINE_SPECIFIC _Pragma("whitelisted_resource_5086") 5086
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5086
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:158:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_SEARCH_ENGINE;
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1540:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_SEARCH_ENGINE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_FIRST_LINE_SEARCH_ENGINE _Pragma("whitelisted_resource_5087") 5087
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5087
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:160:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_HOME;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/chromium_strings.h:134:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_HOME'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_AND_HOME _Pragma("whitelisted_resource_594") 594
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_594
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:162:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/chromium_strings.h:133:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_START_PAGES _Pragma("whitelisted_resource_593") 593
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_593
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:164:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        second_line_id = IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_PAGE;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1544:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_PAGE'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_SECOND_LINE_HOME_PAGE _Pragma("whitelisted_resource_5091") 5091
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5091
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:176:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSIONS_SETTINGS_API_THIRD_LINE_CONFIRMATION);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1549:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SETTINGS_API_THIRD_LINE_CONFIRMATION'[0m
+#define IDS_EXTENSIONS_SETTINGS_API_THIRD_LINE_CONFIRMATION _Pragma("whitelisted_resource_5096") 5096
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5096
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:193:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_CONTROLLED_RESTORE_SETTINGS);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1550:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONTROLLED_RESTORE_SETTINGS'[0m
+#define IDS_EXTENSION_CONTROLLED_RESTORE_SETTINGS _Pragma("whitelisted_resource_5097") 5097
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5097
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/settings_api_bubble_delegate.cc:197:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_CONTROLLED_KEEP_CHANGES);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1551:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONTROLLED_KEEP_CHANGES'[0m
+#define IDS_EXTENSION_CONTROLLED_KEEP_CHANGES _Pragma("whitelisted_resource_5098") 5098
+[0;1;32m                                              ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5098
+[0;1;32m ^
+[0m21 warnings generated.

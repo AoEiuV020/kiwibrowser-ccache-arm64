@@ -1,0 +1,28 @@
+[1m../../content/browser/net/network_errors_listing_ui.cc:86:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_NETWORK_ERROR_LISTING_CSS);
+[0;1;32m                               ^
+[0m[1mgen/content/grit/content_resources.h:33:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NETWORK_ERROR_LISTING_CSS'[0m
+#define IDR_NETWORK_ERROR_LISTING_CSS _Pragma("whitelisted_resource_20428") 20428
+[0;1;32m                                      ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20428
+[0;1;32m ^
+[0m[1m../../content/browser/net/network_errors_listing_ui.cc:88:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_NETWORK_ERROR_LISTING_JS);
+[0;1;32m                               ^
+[0m[1mgen/content/grit/content_resources.h:32:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NETWORK_ERROR_LISTING_JS'[0m
+#define IDR_NETWORK_ERROR_LISTING_JS _Pragma("whitelisted_resource_20427") 20427
+[0;1;32m                                     ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20427
+[0;1;32m ^
+[0m[1m../../content/browser/net/network_errors_listing_ui.cc:89:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_NETWORK_ERROR_LISTING_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/content/grit/content_resources.h:31:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NETWORK_ERROR_LISTING_HTML'[0m
+#define IDR_NETWORK_ERROR_LISTING_HTML _Pragma("whitelisted_resource_20426") 20426
+[0;1;32m                                       ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20426
+[0;1;32m ^
+[0m3 warnings generated.

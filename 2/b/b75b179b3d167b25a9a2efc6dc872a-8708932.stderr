@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/tabs/new_tab_button.cc:79:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  constexpr int kTouchBackgroundId = IDR_THEME_TOOLBAR;
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m1 warning generated.

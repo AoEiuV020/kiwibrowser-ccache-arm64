@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/webshare/webshare_target_picker_view.cc:59:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_WEBSHARE_TARGET_DIALOG_ITEM_TEXT,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1125:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBSHARE_TARGET_DIALOG_ITEM_TEXT'[0m
+#define IDS_WEBSHARE_TARGET_DIALOG_ITEM_TEXT _Pragma("whitelisted_resource_4496") 4496
+[0;1;32m                                             ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4496
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/webshare/webshare_target_picker_view.cc:95:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_WEBSHARE_TARGET_PICKER_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1123:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBSHARE_TARGET_PICKER_LABEL'[0m
+#define IDS_WEBSHARE_TARGET_PICKER_LABEL _Pragma("whitelisted_resource_4494") 4494
+[0;1;32m                                         ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4494
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/webshare/webshare_target_picker_view.cc:133:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_WEBSHARE_TARGET_PICKER_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1122:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBSHARE_TARGET_PICKER_TITLE'[0m
+#define IDS_WEBSHARE_TARGET_PICKER_TITLE _Pragma("whitelisted_resource_4493") 4493
+[0;1;32m                                         ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4493
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/webshare/webshare_target_picker_view.cc:155:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_WEBSHARE_TARGET_PICKER_COMMIT);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1124:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBSHARE_TARGET_PICKER_COMMIT'[0m
+#define IDS_WEBSHARE_TARGET_PICKER_COMMIT _Pragma("whitelisted_resource_4495") 4495
+[0;1;32m                                          ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4495
+[0;1;32m ^
+[0m4 warnings generated.

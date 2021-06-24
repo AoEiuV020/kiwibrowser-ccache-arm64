@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/views/location_bar/zoom_bubble_view.cc:363:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_TOOLTIP_ZOOM_EXTENSION_ICON,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1722:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_ZOOM_EXTENSION_ICON'[0m
+#define IDS_TOOLTIP_ZOOM_EXTENSION_ICON _Pragma("whitelisted_resource_5298") 5298
+[0;1;32m                                        ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5298
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/zoom_bubble_view.cc:386:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      CreateZoomButton(this, kRemoveIcon, IDS_ACCNAME_ZOOM_MINUS2);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:928:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_ZOOM_MINUS2'[0m
+#define IDS_ACCNAME_ZOOM_MINUS2 _Pragma("whitelisted_resource_4271") 4271
+[0;1;32m                                ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4271
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/zoom_bubble_view.cc:394:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      CreateZoomButton(this, kAddIcon, IDS_ACCNAME_ZOOM_PLUS2);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:927:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_ZOOM_PLUS2'[0m
+#define IDS_ACCNAME_ZOOM_PLUS2 _Pragma("whitelisted_resource_4270") 4270
+[0;1;32m                               ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4270
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/zoom_bubble_view.cc:402:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_ZOOM_SET_DEFAULT));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1723:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_SET_DEFAULT'[0m
+#define IDS_ZOOM_SET_DEFAULT _Pragma("whitelisted_resource_5299") 5299
+[0;1;32m                             ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5299
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/zoom_bubble_view.cc:404:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_ZOOM_SET_DEFAULT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1742:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_ZOOM_SET_DEFAULT'[0m
+#define IDS_ACCNAME_ZOOM_SET_DEFAULT _Pragma("whitelisted_resource_5319") 5319
+[0;1;32m                                     ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5319
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/zoom_bubble_view.cc:480:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_EXTENSIONS_FAVICON);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:33:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_FAVICON'[0m
+#define IDR_EXTENSIONS_FAVICON _Pragma("whitelisted_resource_10266") 10266
+[0;1;32m                               ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10266
+[0;1;32m ^
+[0m6 warnings generated.

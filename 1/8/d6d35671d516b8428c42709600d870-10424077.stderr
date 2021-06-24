@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/settings/md_settings_ui.cc:340:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("crisper.js", IDR_MD_SETTINGS_CRISPER_JS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/settings_resources.h:6:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_CRISPER_JS'[0m
+#define IDR_MD_SETTINGS_CRISPER_JS _Pragma("whitelisted_resource_12231") 12231
+[0;1;32m                                   ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12231
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/md_settings_ui.cc:342:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_MD_SETTINGS_LAZY_LOAD_CRISPER_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/settings_resources.h:8:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_LAZY_LOAD_CRISPER_JS'[0m
+#define IDR_MD_SETTINGS_LAZY_LOAD_CRISPER_JS _Pragma("whitelisted_resource_12233") 12233
+[0;1;32m                                             ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12233
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/md_settings_ui.cc:344:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_MD_SETTINGS_LAZY_LOAD_VULCANIZED_HTML);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/settings_resources.h:7:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_LAZY_LOAD_VULCANIZED_HTML'[0m
+#define IDR_MD_SETTINGS_LAZY_LOAD_VULCANIZED_HTML _Pragma("whitelisted_resource_12232") 12232
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12232
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/md_settings_ui.cc:345:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_MD_SETTINGS_VULCANIZED_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/settings_resources.h:5:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_VULCANIZED_HTML'[0m
+#define IDR_MD_SETTINGS_VULCANIZED_HTML _Pragma("whitelisted_resource_12230") 12230
+[0;1;32m                                        ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12230
+[0;1;32m ^
+[0m4 warnings generated.

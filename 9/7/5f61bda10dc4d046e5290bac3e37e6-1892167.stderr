@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/extensions/blocked_action_bubble_delegate.cc:31:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_BLOCKED_ACTION_BUBBLE_HEADING);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1297:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_BLOCKED_ACTION_BUBBLE_HEADING'[0m
+#define IDS_EXTENSION_BLOCKED_ACTION_BUBBLE_HEADING _Pragma("whitelisted_resource_4839") 4839
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4839
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/extensions/blocked_action_bubble_delegate.cc:45:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_BLOCKED_ACTION_BUBBLE_OK_BUTTON);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1298:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_BLOCKED_ACTION_BUBBLE_OK_BUTTON'[0m
+#define IDS_EXTENSION_BLOCKED_ACTION_BUBBLE_OK_BUTTON _Pragma("whitelisted_resource_4840") 4840
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4840
+[0;1;32m ^
+[0m2 warnings generated.

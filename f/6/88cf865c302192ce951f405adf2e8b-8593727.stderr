@@ -1,0 +1,226 @@
+[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:89:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourceEnterpriseDefault", IDS_POLICY_SOURCE_ENTERPRISE_DEFAULT},
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:746:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_ENTERPRISE_DEFAULT'[0m
+#define IDS_POLICY_SOURCE_ENTERPRISE_DEFAULT _Pragma("whitelisted_resource_15876") 15876
+[0;1;32m                                             ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15876
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:90:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourceCloud", IDS_POLICY_SOURCE_CLOUD},
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:747:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_CLOUD'[0m
+#define IDS_POLICY_SOURCE_CLOUD _Pragma("whitelisted_resource_15877") 15877
+[0;1;32m                                ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15877
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:91:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourceActiveDirectory", IDS_POLICY_SOURCE_ACTIVE_DIRECTORY},
+[0;1;32m                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:748:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_ACTIVE_DIRECTORY'[0m
+#define IDS_POLICY_SOURCE_ACTIVE_DIRECTORY _Pragma("whitelisted_resource_15878") 15878
+[0;1;32m                                           ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15878
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:92:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourcePublicSessionOverride", IDS_POLICY_SOURCE_PUBLIC_SESSION_OVERRIDE},
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:750:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_PUBLIC_SESSION_OVERRIDE'[0m
+#define IDS_POLICY_SOURCE_PUBLIC_SESSION_OVERRIDE _Pragma("whitelisted_resource_15880") 15880
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15880
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:93:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourcePlatform", IDS_POLICY_SOURCE_PLATFORM},
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:749:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_PLATFORM'[0m
+#define IDS_POLICY_SOURCE_PLATFORM _Pragma("whitelisted_resource_15879") 15879
+[0;1;32m                                   ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15879
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:102:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringUTF16(IDS_POLICY_ASSOCIATION_STATE_ACTIVE);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:662:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_ASSOCIATION_STATE_ACTIVE'[0m
+#define IDS_POLICY_ASSOCIATION_STATE_ACTIVE _Pragma("whitelisted_resource_15788") 15788
+[0;1;32m                                            ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15788
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:105:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_POLICY_ASSOCIATION_STATE_UNMANAGED);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:663:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_ASSOCIATION_STATE_UNMANAGED'[0m
+#define IDS_POLICY_ASSOCIATION_STATE_UNMANAGED _Pragma("whitelisted_resource_15789") 15789
+[0;1;32m                                               ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15789
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:108:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_POLICY_ASSOCIATION_STATE_DEPROVISIONED);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:664:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_ASSOCIATION_STATE_DEPROVISIONED'[0m
+#define IDS_POLICY_ASSOCIATION_STATE_DEPROVISIONED _Pragma("whitelisted_resource_15790") 15790
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15790
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:114:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_POLICY_ASSOCIATION_STATE_UNMANAGED);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:663:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_ASSOCIATION_STATE_UNMANAGED'[0m
+#define IDS_POLICY_ASSOCIATION_STATE_UNMANAGED _Pragma("whitelisted_resource_15789") 15789
+[0;1;32m                                               ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15789
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:167:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_POLICY_NEVER_FETCHED) :
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:728:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_NEVER_FETCHED'[0m
+#define IDS_POLICY_NEVER_FETCHED _Pragma("whitelisted_resource_15858") 15858
+[0;1;32m                                 ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15858
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:545:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("title", IDS_POLICY_TITLE);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:711:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TITLE'[0m
+#define IDS_POLICY_TITLE _Pragma("whitelisted_resource_15841") 15841
+[0;1;32m                         ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15841
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:546:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("headerScope", IDS_POLICY_HEADER_SCOPE);
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:733:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_HEADER_SCOPE'[0m
+#define IDS_POLICY_HEADER_SCOPE _Pragma("whitelisted_resource_15863") 15863
+[0;1;32m                                ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15863
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:547:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("headerLevel", IDS_POLICY_HEADER_LEVEL);
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:734:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_HEADER_LEVEL'[0m
+#define IDS_POLICY_HEADER_LEVEL _Pragma("whitelisted_resource_15864") 15864
+[0;1;32m                                ^
+[0m[1m<scratch space>:169:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15864
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:548:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("headerName", IDS_POLICY_HEADER_NAME);
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:735:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_HEADER_NAME'[0m
+#define IDS_POLICY_HEADER_NAME _Pragma("whitelisted_resource_15865") 15865
+[0;1;32m                               ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15865
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:549:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("headerValue", IDS_POLICY_HEADER_VALUE);
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:736:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_HEADER_VALUE'[0m
+#define IDS_POLICY_HEADER_VALUE _Pragma("whitelisted_resource_15866") 15866
+[0;1;32m                                ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15866
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:550:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("headerStatus", IDS_POLICY_HEADER_STATUS);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:737:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_HEADER_STATUS'[0m
+#define IDS_POLICY_HEADER_STATUS _Pragma("whitelisted_resource_15867") 15867
+[0;1;32m                                 ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15867
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:551:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("headerSource", IDS_POLICY_HEADER_SOURCE);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:738:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_HEADER_SOURCE'[0m
+#define IDS_POLICY_HEADER_SOURCE _Pragma("whitelisted_resource_15868") 15868
+[0;1;32m                                 ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15868
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:552:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("scopeUser", IDS_POLICY_SCOPE_USER);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:742:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SCOPE_USER'[0m
+#define IDS_POLICY_SCOPE_USER _Pragma("whitelisted_resource_15872") 15872
+[0;1;32m                              ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15872
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:553:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("scopeDevice", IDS_POLICY_SCOPE_DEVICE);
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:743:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SCOPE_DEVICE'[0m
+#define IDS_POLICY_SCOPE_DEVICE _Pragma("whitelisted_resource_15873") 15873
+[0;1;32m                                ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15873
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:554:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("levelRecommended", IDS_POLICY_LEVEL_RECOMMENDED);
+[0;1;32m                                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:744:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_LEVEL_RECOMMENDED'[0m
+#define IDS_POLICY_LEVEL_RECOMMENDED _Pragma("whitelisted_resource_15874") 15874
+[0;1;32m                                     ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15874
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:555:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("levelMandatory", IDS_POLICY_LEVEL_MANDATORY);
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:745:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_LEVEL_MANDATORY'[0m
+#define IDS_POLICY_LEVEL_MANDATORY _Pragma("whitelisted_resource_15875") 15875
+[0;1;32m                                   ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15875
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:556:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("ok", IDS_POLICY_OK);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:688:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OK'[0m
+#define IDS_POLICY_OK _Pragma("whitelisted_resource_15818") 15818
+[0;1;32m                      ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15818
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:557:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("unset", IDS_POLICY_UNSET);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:689:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_UNSET'[0m
+#define IDS_POLICY_UNSET _Pragma("whitelisted_resource_15819") 15819
+[0;1;32m                         ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15819
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:558:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("unknown", IDS_POLICY_UNKNOWN);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:690:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_UNKNOWN'[0m
+#define IDS_POLICY_UNKNOWN _Pragma("whitelisted_resource_15820") 15820
+[0;1;32m                           ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15820
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_ui_handler.cc:559:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("notSpecified", IDS_POLICY_NOT_SPECIFIED);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:727:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_NOT_SPECIFIED'[0m
+#define IDS_POLICY_NOT_SPECIFIED _Pragma("whitelisted_resource_15857") 15857
+[0;1;32m                                 ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15857
+[0;1;32m ^
+[0m25 warnings generated.

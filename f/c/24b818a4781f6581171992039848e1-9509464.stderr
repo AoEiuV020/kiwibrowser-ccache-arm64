@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/passwords/manage_passwords_bubble_model.cc:244:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_CONFIRM_SAVED_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1584:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_CONFIRM_SAVED_TITLE'[0m
+#define IDS_PASSWORD_MANAGER_CONFIRM_SAVED_TITLE _Pragma("whitelisted_resource_5131") 5131
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5131
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_bubble_model.cc:254:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_MANAGE_PASSWORDS_BUTTON);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1591:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_MANAGE_PASSWORDS_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_MANAGE_PASSWORDS_BUTTON _Pragma("whitelisted_resource_5138") 5138
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5138
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_bubble_model.cc:265:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2489:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT'[0m
+#define IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT _Pragma("whitelisted_resource_6239") 6239
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6239
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_bubble_model.cc:482:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_CONFIRM_SAVED_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1584:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_CONFIRM_SAVED_TITLE'[0m
+#define IDS_PASSWORD_MANAGER_CONFIRM_SAVED_TITLE _Pragma("whitelisted_resource_5131") 5131
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5131
+[0;1;32m ^
+[0m4 warnings generated.

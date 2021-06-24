@@ -1,0 +1,64 @@
+[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:70:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PROMPT_NO_RATINGS_ACCESSIBLE_TEXT);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1337:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_NO_RATINGS_ACCESSIBLE_TEXT'[0m
+#define IDS_EXTENSION_PROMPT_NO_RATINGS_ACCESSIBLE_TEXT _Pragma("whitelisted_resource_4879") 4879
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4879
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:74:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_EXTENSION_PROMPT_RATING_ACCESSIBLE_TEXT),
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1336:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_RATING_ACCESSIBLE_TEXT'[0m
+#define IDS_EXTENSION_PROMPT_RATING_ACCESSIBLE_TEXT _Pragma("whitelisted_resource_4878") 4878
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4878
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:282:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          {l10n_util::GetStringUTF16(IDS_EXTENSION_NO_SPECIAL_PERMISSIONS),
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1333:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_NO_SPECIAL_PERMISSIONS'[0m
+#define IDS_EXTENSION_NO_SPECIAL_PERMISSIONS _Pragma("whitelisted_resource_4875") 4875
+[0;1;32m                                             ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4875
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:412:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_EXTENSION_PROMPT_STORE_LINK));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1339:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_STORE_LINK'[0m
+#define IDS_EXTENSION_PROMPT_STORE_LINK _Pragma("whitelisted_resource_4881") 4881
+[0;1;32m                                        ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4881
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:602:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new views::Link(l10n_util::GetStringUTF16(IDS_EXTENSIONS_SHOW_DETAILS));
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1517:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SHOW_DETAILS'[0m
+#define IDS_EXTENSIONS_SHOW_DETAILS _Pragma("whitelisted_resource_5064") 5064
+[0;1;32m                                    ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5064
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:623:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      details_view_->expanded() ? IDS_EXTENSIONS_HIDE_DETAILS
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1518:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_HIDE_DETAILS'[0m
+#define IDS_EXTENSIONS_HIDE_DETAILS _Pragma("whitelisted_resource_5065") 5065
+[0;1;32m                                    ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5065
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/extension_install_dialog_view.cc:624:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                : IDS_EXTENSIONS_SHOW_DETAILS));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1517:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SHOW_DETAILS'[0m
+#define IDS_EXTENSIONS_SHOW_DETAILS _Pragma("whitelisted_resource_5064") 5064
+[0;1;32m                                    ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5064
+[0;1;32m ^
+[0m7 warnings generated.

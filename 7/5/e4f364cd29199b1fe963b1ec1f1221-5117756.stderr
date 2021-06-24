@@ -1,0 +1,19 @@
+[1m../../chrome/browser/extensions/api/messaging/incognito_connectability_infobar_delegate.cc:50:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16((button == BUTTON_OK) ? IDS_PERMISSION_ALLOW
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:804:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PERMISSION_ALLOW'[0m
+#define IDS_PERMISSION_ALLOW _Pragma("whitelisted_resource_4146") 4146
+[0;1;32m                             ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4146
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/messaging/incognito_connectability_infobar_delegate.cc:51:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                         : IDS_PERMISSION_DENY);
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:805:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PERMISSION_DENY'[0m
+#define IDS_PERMISSION_DENY _Pragma("whitelisted_resource_4147") 4147
+[0;1;32m                            ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4147
+[0;1;32m ^
+[0m2 warnings generated.

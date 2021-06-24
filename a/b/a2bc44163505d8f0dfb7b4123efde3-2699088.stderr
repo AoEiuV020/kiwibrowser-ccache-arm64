@@ -1,0 +1,37 @@
+[1m../../chrome/browser/extensions/standard_management_policy_provider.cc:48:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_CANT_MODIFY_POLICY_REQUIRED,
+[0;1;32m        ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:38:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CANT_MODIFY_POLICY_REQUIRED'[0m
+#define IDS_EXTENSION_CANT_MODIFY_POLICY_REQUIRED _Pragma("whitelisted_resource_24653") 24653
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24653
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/standard_management_policy_provider.cc:165:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_DISABLED_UPDATE_REQUIRED_BY_POLICY,
+[0;1;32m          ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:40:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_DISABLED_UPDATE_REQUIRED_BY_POLICY'[0m
+#define IDS_EXTENSION_DISABLED_UPDATE_REQUIRED_BY_POLICY _Pragma("whitelisted_resource_24655") 24655
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24655
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/standard_management_policy_provider.cc:186:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_CANT_UNINSTALL_POLICY_REQUIRED,
+[0;1;32m          ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:39:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CANT_UNINSTALL_POLICY_REQUIRED'[0m
+#define IDS_EXTENSION_CANT_UNINSTALL_POLICY_REQUIRED _Pragma("whitelisted_resource_24654") 24654
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24654
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/standard_management_policy_provider.cc:199:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_CANT_INSTALL_POLICY_BLOCKED,
+[0;1;32m        ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:37:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CANT_INSTALL_POLICY_BLOCKED'[0m
+#define IDS_EXTENSION_CANT_INSTALL_POLICY_BLOCKED _Pragma("whitelisted_resource_24652") 24652
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24652
+[0;1;32m ^
+[0m4 warnings generated.

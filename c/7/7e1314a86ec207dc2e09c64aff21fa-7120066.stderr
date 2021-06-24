@@ -1,0 +1,145 @@
+[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:103:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED);
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:561:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED _Pragma("whitelisted_resource_15687") 15687
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15687
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:126:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED)
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:561:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED _Pragma("whitelisted_resource_15687") 15687
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15687
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:255:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_AUTOFILL_FROM_GOOGLE_ACCOUNT_LONG))
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:103:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FROM_GOOGLE_ACCOUNT_LONG'[0m
+#define IDS_AUTOFILL_FROM_GOOGLE_ACCOUNT_LONG _Pragma("whitelisted_resource_15201") 15201
+[0;1;32m                                              ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15201
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:260:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_AUTOFILL_WALLET_MANAGEMENT_LINK_TEXT);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:102:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_WALLET_MANAGEMENT_LINK_TEXT'[0m
+#define IDS_AUTOFILL_WALLET_MANAGEMENT_LINK_TEXT _Pragma("whitelisted_resource_15200") 15200
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15200
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:310:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_MONTH),
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1957:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_MONTH'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_MONTH _Pragma("whitelisted_resource_5575") 5575
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5575
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:322:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_YEAR),
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1958:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_YEAR'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_YEAR _Pragma("whitelisted_resource_5576") 5576
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5576
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:352:67: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      views::MdTextButton::Create(this, l10n_util::GetStringUTF16(IDS_ADD)));
+[0;1;32m                                                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:1023:17: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD'[0m
+#define IDS_ADD _Pragma("whitelisted_resource_16161") 16161
+[0;1;32m                ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16161
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:369:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_CREDIT_CARD_NUMBER),
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1955:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_CREDIT_CARD_NUMBER'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_CREDIT_CARD_NUMBER _Pragma("whitelisted_resource_5573") 5573
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5573
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:374:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_NAME_ON_CARD),
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1954:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_NAME_ON_CARD'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_NAME_ON_CARD _Pragma("whitelisted_resource_5572") 5572
+[0;1;32m                                              ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5572
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:379:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_DATE),
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1956:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_DATE'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_EXPIRATION_DATE _Pragma("whitelisted_resource_5574") 5574
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5574
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:383:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_BILLING_ADDRESS),
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1959:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_BILLING_ADDRESS'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_BILLING_ADDRESS _Pragma("whitelisted_resource_5577") 5577
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5577
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:604:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAYMENTS_VALIDATION_ALREADY_USED_CREDIT_CARD_NUMBER);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:563:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_ALREADY_USED_CREDIT_CARD_NUMBER'[0m
+#define IDS_PAYMENTS_VALIDATION_ALREADY_USED_CREDIT_CARD_NUMBER _Pragma("whitelisted_resource_15689") 15689
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15689
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:611:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_CARD);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:526:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_CARD'[0m
+#define IDS_PAYMENTS_ADD_CARD _Pragma("whitelisted_resource_15634") 15634
+[0;1;32m                              ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15634
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:618:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return title.empty() ? l10n_util::GetStringUTF16(IDS_PAYMENTS_EDIT_CARD)
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:505:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EDIT_CARD'[0m
+#define IDS_PAYMENTS_EDIT_CARD _Pragma("whitelisted_resource_15613") 15613
+[0;1;32m                               ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15613
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:741:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:577:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE'[0m
+#define IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15703") 15703
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15703
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/credit_card_editor_view_controller.cc:758:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_PAYMENTS_BILLING_ADDRESS_REQUIRED);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:569:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_BILLING_ADDRESS_REQUIRED'[0m
+#define IDS_PAYMENTS_BILLING_ADDRESS_REQUIRED _Pragma("whitelisted_resource_15695") 15695
+[0;1;32m                                              ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15695
+[0;1;32m ^
+[0m16 warnings generated.

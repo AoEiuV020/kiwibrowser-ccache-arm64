@@ -1,0 +1,163 @@
+[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:133:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PAGE_INFO_SITE_SETTINGS_TOOLTIP);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:470:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_SITE_SETTINGS_TOOLTIP'[0m
+#define IDS_PAGE_INFO_SITE_SETTINGS_TOOLTIP _Pragma("whitelisted_resource_15578") 15578
+[0;1;32m                                            ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15578
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:135:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PAGE_INFO_SITE_SETTINGS_LINK));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:469:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_SITE_SETTINGS_LINK'[0m
+#define IDS_PAGE_INFO_SITE_SETTINGS_LINK _Pragma("whitelisted_resource_15577") 15577
+[0;1;32m                                         ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15577
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:271:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  subst.push_back(l10n_util::GetStringUTF16(IDS_LEARN_MORE));
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:290:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PAGE_INFO_INVALID_CERTIFICATE_DESCRIPTION));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:397:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_INVALID_CERTIFICATE_DESCRIPTION'[0m
+#define IDS_PAGE_INFO_INVALID_CERTIFICATE_DESCRIPTION _Pragma("whitelisted_resource_15505") 15505
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15505
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:292:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAGE_INFO_RESET_INVALID_CERTIFICATE_DECISIONS_BUTTON));
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:398:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_RESET_INVALID_CERTIFICATE_DECISIONS_BUTTON'[0m
+#define IDS_PAGE_INFO_RESET_INVALID_CERTIFICATE_DECISIONS_BUTTON _Pragma("whitelisted_resource_15506") 15506
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15506
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:323:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PAGE_INFO_CHANGE_PASSWORD_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:485:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_CHANGE_PASSWORD_BUTTON'[0m
+#define IDS_PAGE_INFO_CHANGE_PASSWORD_BUTTON _Pragma("whitelisted_resource_15593") 15593
+[0;1;32m                                             ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15593
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:329:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_PAGE_INFO_WHITELIST_PASSWORD_REUSE_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:487:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_WHITELIST_PASSWORD_REUSE_BUTTON'[0m
+#define IDS_PAGE_INFO_WHITELIST_PASSWORD_REUSE_BUTTON _Pragma("whitelisted_resource_15595") 15595
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15595
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:381:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int text = IDS_PAGE_INFO_INTERNAL_PAGE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_chromium_strings.h:9:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_INTERNAL_PAGE'[0m
+#define IDS_PAGE_INFO_INTERNAL_PAGE _Pragma("whitelisted_resource_15047") 15047
+[0;1;32m                                    ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15047
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:382:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int icon = IDR_PRODUCT_LOGO_16;
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/theme_resources.h:55:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_16'[0m
+#define IDR_PRODUCT_LOGO_16 _Pragma("whitelisted_resource_10333") 10333
+[0;1;32m                            ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:384:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    text = IDS_PAGE_INFO_EXTENSION_PAGE;
+[0;1;32m           ^
+[0m[1mgen/components/strings/grit/components_strings.h:388:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_EXTENSION_PAGE'[0m
+#define IDS_PAGE_INFO_EXTENSION_PAGE _Pragma("whitelisted_resource_15495") 15495
+[0;1;32m                                     ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15495
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:385:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    icon = IDR_PLUGINS_FAVICON;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/theme_resources.h:53:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLUGINS_FAVICON'[0m
+#define IDR_PLUGINS_FAVICON _Pragma("whitelisted_resource_10329") 10329
+[0;1;32m                            ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10329
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:387:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    text = IDS_PAGE_INFO_VIEW_SOURCE_PAGE;
+[0;1;32m           ^
+[0m[1mgen/components/strings/grit/components_strings.h:389:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_VIEW_SOURCE_PAGE'[0m
+#define IDS_PAGE_INFO_VIEW_SOURCE_PAGE _Pragma("whitelisted_resource_15496") 15496
+[0;1;32m                                       ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15496
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:389:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    icon = IDR_PRODUCT_LOGO_16;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/theme_resources.h:55:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_16'[0m
+#define IDR_PRODUCT_LOGO_16 _Pragma("whitelisted_resource_10333") 10333
+[0;1;32m                            ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:616:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAGE_INFO_NUM_COOKIES_PARENTHESIZED, total_allowed);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:430:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_NUM_COOKIES_PARENTHESIZED'[0m
+#define IDS_PAGE_INFO_NUM_COOKIES_PARENTHESIZED _Pragma("whitelisted_resource_15538") 15538
+[0;1;32m                                                ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15538
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:619:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAGE_INFO_NUM_COOKIES, total_allowed);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:428:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_NUM_COOKIES'[0m
+#define IDS_PAGE_INFO_NUM_COOKIES _Pragma("whitelisted_resource_15536") 15536
+[0;1;32m                                  ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15536
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:640:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAGE_INFO_COOKIES_BUTTON_TEXT, num_cookies_text, &button_text);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:429:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_COOKIES_BUTTON_TEXT'[0m
+#define IDS_PAGE_INFO_COOKIES_BUTTON_TEXT _Pragma("whitelisted_resource_15537") 15537
+[0;1;32m                                          ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15537
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:803:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAGE_INFO_CERTIFICATE_VALID_LINK_TOOLTIP,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:425:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_CERTIFICATE_VALID_LINK_TOOLTIP'[0m
+#define IDS_PAGE_INFO_CERTIFICATE_VALID_LINK_TOOLTIP _Pragma("whitelisted_resource_15533") 15533
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15533
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/page_info/page_info_bubble_view.cc:807:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAGE_INFO_CERTIFICATE_INVALID_LINK_TOOLTIP);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:426:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_CERTIFICATE_INVALID_LINK_TOOLTIP'[0m
+#define IDS_PAGE_INFO_CERTIFICATE_INVALID_LINK_TOOLTIP _Pragma("whitelisted_resource_15534") 15534
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15534
+[0;1;32m ^
+[0m18 warnings generated.

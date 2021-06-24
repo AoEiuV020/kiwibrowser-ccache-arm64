@@ -1,0 +1,73 @@
+[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:59:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PAYMENTS_NAME_FIELD_IN_CONTACT_DETAILS),
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:530:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_NAME_FIELD_IN_CONTACT_DETAILS'[0m
+#define IDS_PAYMENTS_NAME_FIELD_IN_CONTACT_DETAILS _Pragma("whitelisted_resource_15638") 15638
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15638
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:65:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PAYMENTS_PHONE_FIELD_IN_CONTACT_DETAILS),
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:531:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PHONE_FIELD_IN_CONTACT_DETAILS'[0m
+#define IDS_PAYMENTS_PHONE_FIELD_IN_CONTACT_DETAILS _Pragma("whitelisted_resource_15639") 15639
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15639
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:72:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PAYMENTS_EMAIL_FIELD_IN_CONTACT_DETAILS),
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:532:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EMAIL_FIELD_IN_CONTACT_DETAILS'[0m
+#define IDS_PAYMENTS_EMAIL_FIELD_IN_CONTACT_DETAILS _Pragma("whitelisted_resource_15640") 15640
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15640
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:134:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_PAYMENTS_EDIT_CONTACT_DETAILS_LABEL)
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:499:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EDIT_CONTACT_DETAILS_LABEL'[0m
+#define IDS_PAYMENTS_EDIT_CONTACT_DETAILS_LABEL _Pragma("whitelisted_resource_15607") 15607
+[0;1;32m                                                ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15607
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:136:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_PAYMENTS_ADD_CONTACT_DETAILS_LABEL);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:498:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_CONTACT_DETAILS_LABEL'[0m
+#define IDS_PAYMENTS_ADD_CONTACT_DETAILS_LABEL _Pragma("whitelisted_resource_15606") 15606
+[0;1;32m                                               ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15606
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:201:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:577:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE'[0m
+#define IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15703") 15703
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15703
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:213:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_PAYMENTS_PHONE_INVALID_VALIDATION_MESSAGE);
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:564:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PHONE_INVALID_VALIDATION_MESSAGE'[0m
+#define IDS_PAYMENTS_PHONE_INVALID_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15690") 15690
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15690
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/contact_info_editor_view_controller.cc:224:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_PAYMENTS_EMAIL_INVALID_VALIDATION_MESSAGE);
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:565:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EMAIL_INVALID_VALIDATION_MESSAGE'[0m
+#define IDS_PAYMENTS_EMAIL_INVALID_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15691") 15691
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15691
+[0;1;32m ^
+[0m8 warnings generated.

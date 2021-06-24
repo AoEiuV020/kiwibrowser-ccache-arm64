@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/webui/settings/custom_home_pages_table_model.cc:201:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             : l10n_util::GetStringFUTF16(IDS_SETTINGS_ON_STARTUP_PAGE_TOOLTIP,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:315:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_ON_STARTUP_PAGE_TOOLTIP'[0m
+#define IDS_SETTINGS_ON_STARTUP_PAGE_TOOLTIP _Pragma("whitelisted_resource_3276") 3276
+[0;1;32m                                             ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3276
+[0;1;32m ^
+[0m1 warning generated.

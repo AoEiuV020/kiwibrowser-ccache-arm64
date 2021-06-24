@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/local_state/local_state_ui.cc:120:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_LOCAL_STATE_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:123:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_STATE_HTML'[0m
+#define IDR_LOCAL_STATE_HTML _Pragma("whitelisted_resource_11204") 11204
+[0;1;32m                             ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11204
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/local_state/local_state_ui.cc:121:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("local_state.js", IDR_LOCAL_STATE_JS);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:124:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_STATE_JS'[0m
+#define IDR_LOCAL_STATE_JS _Pragma("whitelisted_resource_11205") 11205
+[0;1;32m                           ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11205
+[0;1;32m ^
+[0m2 warnings generated.

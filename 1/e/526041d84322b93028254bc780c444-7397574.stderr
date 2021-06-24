@@ -1,0 +1,145 @@
+[1m../../chrome/browser/ui/tabs/tab_utils.cc:283:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TOOLTIP_TAB_ALERT_STATE_AUDIO_PLAYING));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2668:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_AUDIO_PLAYING'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_AUDIO_PLAYING _Pragma("whitelisted_resource_6497") 6497
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6497
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:287:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TOOLTIP_TAB_ALERT_STATE_AUDIO_MUTING));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2669:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_AUDIO_MUTING'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_AUDIO_MUTING _Pragma("whitelisted_resource_6498") 6498
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6498
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:291:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TOOLTIP_TAB_ALERT_STATE_MEDIA_RECORDING));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2666:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_MEDIA_RECORDING'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_MEDIA_RECORDING _Pragma("whitelisted_resource_6495") 6495
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6495
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:295:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TOOLTIP_TAB_ALERT_STATE_TAB_CAPTURING));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2667:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_TAB_CAPTURING'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_TAB_CAPTURING _Pragma("whitelisted_resource_6496") 6496
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6496
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:299:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TOOLTIP_TAB_ALERT_STATE_BLUETOOTH_CONNECTED));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2670:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_BLUETOOTH_CONNECTED'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_BLUETOOTH_CONNECTED _Pragma("whitelisted_resource_6499") 6499
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6499
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:303:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TOOLTIP_TAB_ALERT_STATE_USB_CONNECTED));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2671:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_USB_CONNECTED'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_USB_CONNECTED _Pragma("whitelisted_resource_6500") 6500
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6500
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:307:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TOOLTIP_TAB_ALERT_STATE_PIP_PLAYING));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2672:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_TAB_ALERT_STATE_PIP_PLAYING'[0m
+#define IDS_TOOLTIP_TAB_ALERT_STATE_PIP_PLAYING _Pragma("whitelisted_resource_6501") 6501
+[0;1;32m                                                ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6501
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:322:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_CRASHED_FORMAT, title);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2681:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_CRASHED_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_CRASHED_FORMAT _Pragma("whitelisted_resource_6510") 6510
+[0;1;32m                                        ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6510
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:326:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_NETWORK_ERROR_FORMAT,
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2680:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_NETWORK_ERROR_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_NETWORK_ERROR_FORMAT _Pragma("whitelisted_resource_6509") 6509
+[0;1;32m                                              ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6509
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:333:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_AUDIO_PLAYING_FORMAT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2676:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_AUDIO_PLAYING_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_AUDIO_PLAYING_FORMAT _Pragma("whitelisted_resource_6505") 6505
+[0;1;32m                                              ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6505
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:336:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_USB_CONNECTED_FORMAT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2679:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_USB_CONNECTED_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_USB_CONNECTED_FORMAT _Pragma("whitelisted_resource_6508") 6508
+[0;1;32m                                              ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6508
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:340:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TAB_AX_LABEL_BLUETOOTH_CONNECTED_FORMAT, title);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2678:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_BLUETOOTH_CONNECTED_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_BLUETOOTH_CONNECTED_FORMAT _Pragma("whitelisted_resource_6507") 6507
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6507
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:342:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_MEDIA_RECORDING_FORMAT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2673:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_MEDIA_RECORDING_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_MEDIA_RECORDING_FORMAT _Pragma("whitelisted_resource_6502") 6502
+[0;1;32m                                                ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6502
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:345:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_AUDIO_MUTING_FORMAT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2677:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_AUDIO_MUTING_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_AUDIO_MUTING_FORMAT _Pragma("whitelisted_resource_6506") 6506
+[0;1;32m                                             ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6506
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:348:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_TAB_CAPTURING_FORMAT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2674:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_TAB_CAPTURING_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_TAB_CAPTURING_FORMAT _Pragma("whitelisted_resource_6503") 6503
+[0;1;32m                                              ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6503
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tabs/tab_utils.cc:351:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TAB_AX_LABEL_PIP_PLAYING_FORMAT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2675:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TAB_AX_LABEL_PIP_PLAYING_FORMAT'[0m
+#define IDS_TAB_AX_LABEL_PIP_PLAYING_FORMAT _Pragma("whitelisted_resource_6504") 6504
+[0;1;32m                                            ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6504
+[0;1;32m ^
+[0m16 warnings generated.

@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/autofill/autofill_dialog_models.cc:31:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTOFILL_DIALOG_PLACEHOLDER_EXPIRY_YEAR));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2003:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_DIALOG_PLACEHOLDER_EXPIRY_YEAR'[0m
+#define IDS_AUTOFILL_DIALOG_PLACEHOLDER_EXPIRY_YEAR _Pragma("whitelisted_resource_5621") 5621
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5621
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/autofill/autofill_dialog_models.cc:70:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTOFILL_DIALOG_PLACEHOLDER_EXPIRY_MONTH) :
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2002:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_DIALOG_PLACEHOLDER_EXPIRY_MONTH'[0m
+#define IDS_AUTOFILL_DIALOG_PLACEHOLDER_EXPIRY_MONTH _Pragma("whitelisted_resource_5620") 5620
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5620
+[0;1;32m ^
+[0m2 warnings generated.

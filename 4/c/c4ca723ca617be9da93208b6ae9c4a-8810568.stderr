@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/payments/order_summary_view_controller.cc:146:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          this, l10n_util::GetStringUTF16(IDS_PAYMENTS_PAY_BUTTON)));
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:524:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PAY_BUTTON'[0m
+#define IDS_PAYMENTS_PAY_BUTTON _Pragma("whitelisted_resource_15632") 15632
+[0;1;32m                                ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15632
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/order_summary_view_controller.cc:155:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PAYMENTS_ORDER_SUMMARY_LABEL);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:511:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ORDER_SUMMARY_LABEL'[0m
+#define IDS_PAYMENTS_ORDER_SUMMARY_LABEL _Pragma("whitelisted_resource_15619") 15619
+[0;1;32m                                         ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15619
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/order_summary_view_controller.cc:190:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENT_REQUEST_ORDER_SUMMARY_SHEET_TOTAL_FORMAT,
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:579:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_ORDER_SUMMARY_SHEET_TOTAL_FORMAT'[0m
+#define IDS_PAYMENT_REQUEST_ORDER_SUMMARY_SHEET_TOTAL_FORMAT _Pragma("whitelisted_resource_15705") 15705
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15705
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_recommended_bubble_view.cc:126:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_RELAUNCH_ACCEPT_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2889:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_ACCEPT_BUTTON'[0m
+#define IDS_RELAUNCH_ACCEPT_BUTTON _Pragma("whitelisted_resource_6748") 6748
+[0;1;32m                                   ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6748
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_recommended_bubble_view.cc:131:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetPluralStringFUTF16(IDS_RELAUNCH_RECOMMENDED_TITLE,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:178:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_RECOMMENDED_TITLE'[0m
+#define IDS_RELAUNCH_RECOMMENDED_TITLE _Pragma("whitelisted_resource_661") 661
+[0;1;32m                                       ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_661
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_recommended_bubble_view.cc:161:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new views::Label(l10n_util::GetStringUTF16(IDS_RELAUNCH_RECOMMENDED_BODY),
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:179:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_RECOMMENDED_BODY'[0m
+#define IDS_RELAUNCH_RECOMMENDED_BODY _Pragma("whitelisted_resource_662") 662
+[0;1;32m                                      ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_662
+[0;1;32m ^
+[0m3 warnings generated.

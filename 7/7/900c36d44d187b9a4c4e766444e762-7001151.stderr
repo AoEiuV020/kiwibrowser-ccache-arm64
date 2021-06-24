@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/webui/interventions_internals/interventions_internals_ui.cc:26:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("index.js", IDR_INTERVENTIONS_INTERNALS_INDEX_JS);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/browser_resources.h:107:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INTERVENTIONS_INTERNALS_INDEX_JS'[0m
+#define IDR_INTERVENTIONS_INTERNALS_INDEX_JS _Pragma("whitelisted_resource_11182") 11182
+[0;1;32m                                             ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11182
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/interventions_internals/interventions_internals_ui.cc:30:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_INTERVENTIONS_INTERNALS_MOJO_INDEX_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:108:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INTERVENTIONS_INTERNALS_MOJO_INDEX_JS'[0m
+#define IDR_INTERVENTIONS_INTERNALS_MOJO_INDEX_JS _Pragma("whitelisted_resource_11183") 11183
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11183
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/interventions_internals/interventions_internals_ui.cc:31:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("url/mojom/url.mojom.js", IDR_URL_MOJO_JS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:158:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_URL_MOJO_JS'[0m
+#define IDR_URL_MOJO_JS _Pragma("whitelisted_resource_11250") 11250
+[0;1;32m                        ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11250
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/interventions_internals/interventions_internals_ui.cc:32:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_INTERVENTIONS_INTERNALS_INDEX_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:106:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INTERVENTIONS_INTERNALS_INDEX_HTML'[0m
+#define IDR_INTERVENTIONS_INTERNALS_INDEX_HTML _Pragma("whitelisted_resource_11181") 11181
+[0;1;32m                                               ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11181
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/interventions_internals/interventions_internals_ui.cc:40:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_INTERVENTIONS_INTERNALS_UNSUPPORTED_PAGE_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:109:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INTERVENTIONS_INTERNALS_UNSUPPORTED_PAGE_HTML'[0m
+#define IDR_INTERVENTIONS_INTERNALS_UNSUPPORTED_PAGE_HTML _Pragma("whitelisted_resource_11184") 11184
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11184
+[0;1;32m ^
+[0m5 warnings generated.

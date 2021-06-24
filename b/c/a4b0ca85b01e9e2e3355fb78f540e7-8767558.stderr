@@ -1,0 +1,352 @@
+[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:108:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_UPGRADE_BUBBLE_MENU_ITEM);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:144:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPGRADE_BUBBLE_MENU_ITEM'[0m
+#define IDS_UPGRADE_BUBBLE_MENU_ITEM _Pragma("whitelisted_resource_613") 613
+[0;1;32m                                     ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_613
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:110:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_UPDATE_NOW);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:88:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPDATE_NOW'[0m
+#define IDS_UPDATE_NOW _Pragma("whitelisted_resource_532") 532
+[0;1;32m                       ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_532
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:123:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringFUTF16(IDS_INSTALL_TO_OS_LAUNCH_SURFACE,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1098:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INSTALL_TO_OS_LAUNCH_SURFACE'[0m
+#define IDS_INSTALL_TO_OS_LAUNCH_SURFACE _Pragma("whitelisted_resource_4466") 4466
+[0;1;32m                                         ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4466
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:128:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_ADD_TO_OS_LAUNCH_SURFACE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1097:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD_TO_OS_LAUNCH_SURFACE'[0m
+#define IDS_ADD_TO_OS_LAUNCH_SURFACE _Pragma("whitelisted_resource_4465") 4465
+[0;1;32m                                     ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4465
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:145:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_ZOOM_PLUS, IDS_ZOOM_PLUS);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:919:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_PLUS'[0m
+#define IDS_ZOOM_PLUS _Pragma("whitelisted_resource_4261") 4261
+[0;1;32m                      ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4261
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:146:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_ZOOM_NORMAL, IDS_ZOOM_NORMAL);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:921:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_NORMAL'[0m
+#define IDS_ZOOM_NORMAL _Pragma("whitelisted_resource_4263") 4263
+[0;1;32m                        ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4263
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:147:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_ZOOM_MINUS, IDS_ZOOM_MINUS);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:922:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_MINUS'[0m
+#define IDS_ZOOM_MINUS _Pragma("whitelisted_resource_4264") 4264
+[0;1;32m                       ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4264
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:207:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_SAVE_PAGE, IDS_SAVE_PAGE);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:914:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_PAGE'[0m
+#define IDS_SAVE_PAGE _Pragma("whitelisted_resource_4256") 4256
+[0;1;32m                      ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4256
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:213:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_CREATE_HOSTED_APP, IDS_ADD_TO_OS_LAUNCH_SURFACE);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1097:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD_TO_OS_LAUNCH_SURFACE'[0m
+#define IDS_ADD_TO_OS_LAUNCH_SURFACE _Pragma("whitelisted_resource_4465") 4465
+[0;1;32m                                     ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4465
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:217:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_CLEAR_BROWSING_DATA, IDS_CLEAR_BROWSING_DATA);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:944:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLEAR_BROWSING_DATA'[0m
+#define IDS_CLEAR_BROWSING_DATA _Pragma("whitelisted_resource_4288") 4288
+[0;1;32m                                ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4288
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:218:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_MANAGE_EXTENSIONS, IDS_SHOW_EXTENSIONS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:946:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHOW_EXTENSIONS'[0m
+#define IDS_SHOW_EXTENSIONS _Pragma("whitelisted_resource_4290") 4290
+[0;1;32m                            ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4290
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:220:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_TASK_MANAGER, IDS_TASK_MANAGER);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:934:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER'[0m
+#define IDS_TASK_MANAGER _Pragma("whitelisted_resource_4277") 4277
+[0;1;32m                         ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4277
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:225:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_DEV_TOOLS, IDS_DEV_TOOLS);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:931:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEV_TOOLS'[0m
+#define IDS_DEV_TOOLS _Pragma("whitelisted_resource_4274") 4274
+[0;1;32m                      ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4274
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:229:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddCheckItemWithStringId(IDC_PROFILING_ENABLED, IDS_PROFILING_ENABLED);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:942:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILING_ENABLED'[0m
+#define IDS_PROFILING_ENABLED _Pragma("whitelisted_resource_4286") 4286
+[0;1;32m                              ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4286
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:733:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VIEW_INCOMPATIBILITIES));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:939:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VIEW_INCOMPATIBILITIES'[0m
+#define IDS_VIEW_INCOMPATIBILITIES _Pragma("whitelisted_resource_4282") 4282
+[0;1;32m                                   ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4282
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:736:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              GetNativeImageNamed(IDR_INPUT_ALERT_MENU));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:46:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INPUT_ALERT_MENU'[0m
+#define IDR_INPUT_ALERT_MENU _Pragma("whitelisted_resource_10303") 10303
+[0;1;32m                             ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10303
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:744:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_NEW_TAB, IDS_NEW_TAB);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:903:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB'[0m
+#define IDS_NEW_TAB _Pragma("whitelisted_resource_4245") 4245
+[0;1;32m                    ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:745:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_NEW_WINDOW, IDS_NEW_WINDOW);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:905:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_WINDOW'[0m
+#define IDS_NEW_WINDOW _Pragma("whitelisted_resource_4247") 4247
+[0;1;32m                       ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4247
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:747:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_NEW_INCOGNITO_WINDOW, IDS_NEW_INCOGNITO_WINDOW);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:906:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_INCOGNITO_WINDOW'[0m
+#define IDS_NEW_INCOGNITO_WINDOW _Pragma("whitelisted_resource_4248") 4248
+[0;1;32m                                 ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4248
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:753:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddSubMenuWithStringId(IDC_RECENT_TABS_MENU, IDS_HISTORY_MENU,
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2305:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_MENU'[0m
+#define IDS_HISTORY_MENU _Pragma("whitelisted_resource_5946") 5946
+[0;1;32m                         ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5946
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:756:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_SHOW_DOWNLOADS, IDS_SHOW_DOWNLOADS);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:945:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHOW_DOWNLOADS'[0m
+#define IDS_SHOW_DOWNLOADS _Pragma("whitelisted_resource_4289") 4289
+[0;1;32m                           ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4289
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:759:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddSubMenuWithStringId(IDC_BOOKMARKS_MENU, IDS_BOOKMARKS_MENU,
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:104:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARKS_MENU'[0m
+#define IDS_BOOKMARKS_MENU _Pragma("whitelisted_resource_906") 906
+[0;1;32m                           ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_906
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:766:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_PRINT, IDS_PRINT);
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:1028:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRINT'[0m
+#define IDS_PRINT _Pragma("whitelisted_resource_16166") 16166
+[0;1;32m                  ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16166
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:769:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_ROUTE_MEDIA, IDS_MEDIA_ROUTER_MENU_ITEM_TITLE);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:110:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_MENU_ITEM_TITLE'[0m
+#define IDS_MEDIA_ROUTER_MENU_ITEM_TITLE _Pragma("whitelisted_resource_2519") 2519
+[0;1;32m                                         ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2519
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:771:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_FIND, IDS_FIND);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:913:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FIND'[0m
+#define IDS_FIND _Pragma("whitelisted_resource_4255") 4255
+[0;1;32m                 ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4255
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:782:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_OPEN_IN_APP_WINDOW,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:926:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OPEN_IN_APP_WINDOW'[0m
+#define IDS_OPEN_IN_APP_WINDOW _Pragma("whitelisted_resource_4268") 4268
+[0;1;32m                               ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4268
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:792:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_DISTILL_PAGE, IDS_DISTILL_PAGE);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:915:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DISTILL_PAGE'[0m
+#define IDS_DISTILL_PAGE _Pragma("whitelisted_resource_4257") 4257
+[0;1;32m                         ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4257
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:795:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDC_MORE_TOOLS_MENU, IDS_MORE_TOOLS_MENU, tools_menu_model_.get());
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:916:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MORE_TOOLS_MENU'[0m
+#define IDS_MORE_TOOLS_MENU _Pragma("whitelisted_resource_4258") 4258
+[0;1;32m                            ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4258
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:800:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_OPTIONS, IDS_SETTINGS);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:947:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS'[0m
+#define IDS_SETTINGS _Pragma("whitelisted_resource_4291") 4291
+[0;1;32m                     ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4291
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:809:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItem(IDC_ABOUT, l10n_util::GetStringUTF16(IDS_ABOUT));
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/chromium_strings.h:87:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT'[0m
+#define IDS_ABOUT _Pragma("whitelisted_resource_531") 531
+[0;1;32m                  ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_531
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:820:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_EXIT, IDS_EXIT);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:952:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXIT'[0m
+#define IDS_EXIT _Pragma("whitelisted_resource_4296") 4296
+[0;1;32m                 ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4296
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:850:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  edit_menu_item_model_.reset(new ui::ButtonMenuItemModel(IDS_EDIT, this));
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:825:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDIT'[0m
+#define IDS_EDIT _Pragma("whitelisted_resource_4167") 4167
+[0;1;32m                 ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4167
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:851:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  edit_menu_item_model_->AddGroupItemWithStringId(IDC_CUT, IDS_CUT);
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:909:17: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CUT'[0m
+#define IDS_CUT _Pragma("whitelisted_resource_4251") 4251
+[0;1;32m                ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4251
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:852:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  edit_menu_item_model_->AddGroupItemWithStringId(IDC_COPY, IDS_COPY);
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:910:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COPY'[0m
+#define IDS_COPY _Pragma("whitelisted_resource_4252") 4252
+[0;1;32m                 ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4252
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:853:62: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  edit_menu_item_model_->AddGroupItemWithStringId(IDC_PASTE, IDS_PASTE);
+[0;1;32m                                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:911:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE'[0m
+#define IDS_PASTE _Pragma("whitelisted_resource_4253") 4253
+[0;1;32m                  ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4253
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:862:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new ui::ButtonMenuItemModel(IDS_ZOOM_MENU, this));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:917:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_MENU'[0m
+#define IDS_ZOOM_MENU _Pragma("whitelisted_resource_4259") 4259
+[0;1;32m                      ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4259
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:864:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                  IDS_ZOOM_MINUS2);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:923:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_MINUS2'[0m
+#define IDS_ZOOM_MINUS2 _Pragma("whitelisted_resource_4265") 4265
+[0;1;32m                        ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4265
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:866:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                  IDS_ZOOM_PLUS2);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:920:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ZOOM_PLUS2'[0m
+#define IDS_ZOOM_PLUS2 _Pragma("whitelisted_resource_4262") 4262
+[0;1;32m                       ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4262
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/app_menu_model.cc:868:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                          IDR_FULLSCREEN_MENU_BUTTON);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:40:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FULLSCREEN_MENU_BUTTON'[0m
+#define IDR_FULLSCREEN_MENU_BUTTON _Pragma("whitelisted_resource_10289") 10289
+[0;1;32m                                   ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10289
+[0;1;32m ^
+[0m39 warnings generated.

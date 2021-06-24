@@ -1,0 +1,19 @@
+[1m../../chrome/browser/extensions/extension_uninstall_dialog.cc:159:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_PROGRAMMATIC_UNINSTALL_PROMPT_HEADING,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1307:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROGRAMMATIC_UNINSTALL_PROMPT_HEADING'[0m
+#define IDS_EXTENSION_PROGRAMMATIC_UNINSTALL_PROMPT_HEADING _Pragma("whitelisted_resource_4849") 4849
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4849
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_uninstall_dialog.cc:163:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringFUTF8(IDS_EXTENSION_UNINSTALL_PROMPT_HEADING,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1306:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_UNINSTALL_PROMPT_HEADING'[0m
+#define IDS_EXTENSION_UNINSTALL_PROMPT_HEADING _Pragma("whitelisted_resource_4848") 4848
+[0;1;32m                                               ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4848
+[0;1;32m ^
+[0m2 warnings generated.

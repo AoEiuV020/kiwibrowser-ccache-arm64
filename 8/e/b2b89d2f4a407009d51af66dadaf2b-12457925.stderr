@@ -1,0 +1,55 @@
+[1m../../content/browser/renderer_host/input/touch_selection_controller_client_child_frame.cc:162:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_CUT:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:75:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CUT'[0m
+#define IDS_APP_CUT _Pragma("whitelisted_resource_27331") 27331
+[0;1;32m                    ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27331
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_selection_controller_client_child_frame.cc:164:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_COPY:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_selection_controller_client_child_frame.cc:166:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_PASTE: {
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:77:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PASTE'[0m
+#define IDS_APP_PASTE _Pragma("whitelisted_resource_27333") 27333
+[0;1;32m                      ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27333
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_selection_controller_client_child_frame.cc:186:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_CUT:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:75:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CUT'[0m
+#define IDS_APP_CUT _Pragma("whitelisted_resource_27331") 27331
+[0;1;32m                    ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27331
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_selection_controller_client_child_frame.cc:189:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_COPY:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_selection_controller_client_child_frame.cc:192:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_PASTE:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:77:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PASTE'[0m
+#define IDS_APP_PASTE _Pragma("whitelisted_resource_27333") 27333
+[0;1;32m                      ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27333
+[0;1;32m ^
+[0m6 warnings generated.

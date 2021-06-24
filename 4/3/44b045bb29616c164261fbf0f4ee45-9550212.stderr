@@ -1,0 +1,118 @@
+[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:159:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  back_->SetTooltipText(l10n_util::GetStringUTF16(IDS_TOOLTIP_BACK));
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1708:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_BACK'[0m
+#define IDS_TOOLTIP_BACK _Pragma("whitelisted_resource_5283") 5283
+[0;1;32m                         ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5283
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:160:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  back_->SetAccessibleName(l10n_util::GetStringUTF16(IDS_ACCNAME_BACK));
+[0;1;32m                                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:1031:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_BACK'[0m
+#define IDS_ACCNAME_BACK _Pragma("whitelisted_resource_16169") 16169
+[0;1;32m                         ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16169
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:162:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_ACCDESCRIPTION_BACK));
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1709:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCDESCRIPTION_BACK'[0m
+#define IDS_ACCDESCRIPTION_BACK _Pragma("whitelisted_resource_5284") 5284
+[0;1;32m                                ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5284
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:174:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  forward_->SetTooltipText(l10n_util::GetStringUTF16(IDS_TOOLTIP_FORWARD));
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1710:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_FORWARD'[0m
+#define IDS_TOOLTIP_FORWARD _Pragma("whitelisted_resource_5285") 5285
+[0;1;32m                            ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5285
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:175:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  forward_->SetAccessibleName(l10n_util::GetStringUTF16(IDS_ACCNAME_FORWARD));
+[0;1;32m                                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:1032:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_FORWARD'[0m
+#define IDS_ACCNAME_FORWARD _Pragma("whitelisted_resource_16170") 16170
+[0;1;32m                            ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16170
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:177:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_ACCDESCRIPTION_FORWARD));
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1711:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCDESCRIPTION_FORWARD'[0m
+#define IDS_ACCDESCRIPTION_FORWARD _Pragma("whitelisted_resource_5286") 5286
+[0;1;32m                                   ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5286
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:186:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  reload_->SetAccessibleName(l10n_util::GetStringUTF16(IDS_ACCNAME_RELOAD));
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1730:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_RELOAD'[0m
+#define IDS_ACCNAME_RELOAD _Pragma("whitelisted_resource_5307") 5307
+[0;1;32m                           ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5307
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:194:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  home_->SetTooltipText(l10n_util::GetStringUTF16(IDS_TOOLTIP_HOME));
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1712:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_HOME'[0m
+#define IDS_TOOLTIP_HOME _Pragma("whitelisted_resource_5287") 5287
+[0;1;32m                         ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5287
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:195:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  home_->SetAccessibleName(l10n_util::GetStringUTF16(IDS_ACCNAME_HOME));
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1729:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_HOME'[0m
+#define IDS_ACCNAME_HOME _Pragma("whitelisted_resource_5306") 5306
+[0;1;32m                         ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5306
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:213:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_APP));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:50:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_APP'[0m
+#define IDS_ACCNAME_APP _Pragma("whitelisted_resource_457") 457
+[0;1;32m                        ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_457
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:215:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_APPMENU_TOOLTIP));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:84:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPMENU_TOOLTIP'[0m
+#define IDS_APPMENU_TOOLTIP _Pragma("whitelisted_resource_528") 528
+[0;1;32m                            ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_528
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:659:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  base::string16 accname_app = l10n_util::GetStringUTF16(IDS_ACCNAME_APP);
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/grit/chromium_strings.h:50:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_APP'[0m
+#define IDS_ACCNAME_APP _Pragma("whitelisted_resource_457") 457
+[0;1;32m                        ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_457
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/toolbar_view.cc:662:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ACCNAME_APP_UPGRADE_RECOMMENDED, accname_app);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1727:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_APP_UPGRADE_RECOMMENDED'[0m
+#define IDS_ACCNAME_APP_UPGRADE_RECOMMENDED _Pragma("whitelisted_resource_5304") 5304
+[0;1;32m                                            ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5304
+[0;1;32m ^
+[0m13 warnings generated.

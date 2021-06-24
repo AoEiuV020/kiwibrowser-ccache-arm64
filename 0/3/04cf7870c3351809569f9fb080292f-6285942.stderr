@@ -1,0 +1,37 @@
+[1m../../components/safe_browsing/web_ui/safe_browsing_ui.cc:288:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_SB_UNDER_CONSTRUCTION);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:766:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SB_UNDER_CONSTRUCTION'[0m
+#define IDS_SB_UNDER_CONSTRUCTION _Pragma("whitelisted_resource_15897") 15897
+[0;1;32m                                  ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15897
+[0;1;32m ^
+[0m[1m../../components/safe_browsing/web_ui/safe_browsing_ui.cc:291:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("safe_browsing.css", IDR_SAFE_BROWSING_CSS);
+[0;1;32m                                                    ^
+[0m[1mgen/components/grit/components_resources.h:39:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SAFE_BROWSING_CSS'[0m
+#define IDR_SAFE_BROWSING_CSS _Pragma("whitelisted_resource_17052") 17052
+[0;1;32m                              ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17052
+[0;1;32m ^
+[0m[1m../../components/safe_browsing/web_ui/safe_browsing_ui.cc:292:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("safe_browsing.js", IDR_SAFE_BROWSING_JS);
+[0;1;32m                                                   ^
+[0m[1mgen/components/grit/components_resources.h:40:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SAFE_BROWSING_JS'[0m
+#define IDR_SAFE_BROWSING_JS _Pragma("whitelisted_resource_17053") 17053
+[0;1;32m                             ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17053
+[0;1;32m ^
+[0m[1m../../components/safe_browsing/web_ui/safe_browsing_ui.cc:293:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_SAFE_BROWSING_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/components/grit/components_resources.h:38:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SAFE_BROWSING_HTML'[0m
+#define IDR_SAFE_BROWSING_HTML _Pragma("whitelisted_resource_17051") 17051
+[0;1;32m                               ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17051
+[0;1;32m ^
+[0m4 warnings generated.

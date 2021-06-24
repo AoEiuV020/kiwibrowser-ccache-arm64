@@ -1,0 +1,10 @@
+[1m../../content/browser/devtools/devtools_http_handler.cc:653:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetContentClient()->GetDataResourceBytes(COMPRESSED_PROTOCOL_JSON);
+[0;1;32m                                               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:5:34: [0m[0;1;30mnote: [0mexpanded from macro 'COMPRESSED_PROTOCOL_JSON'[0m
+#define COMPRESSED_PROTOCOL_JSON _Pragma("whitelisted_resource_28750") 28750
+[0;1;32m                                 ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28750
+[0;1;32m ^
+[0m1 warning generated.

@@ -1,0 +1,10 @@
+[1m../../chrome/browser/extensions/api/identity/web_auth_flow.cc:108:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDR_IDENTITY_API_SCOPE_APPROVAL_MANIFEST,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/browser_resources.h:98:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_API_SCOPE_APPROVAL_MANIFEST'[0m
+#define IDR_IDENTITY_API_SCOPE_APPROVAL_MANIFEST _Pragma("whitelisted_resource_11173") 11173
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11173
+[0;1;32m ^
+[0m1 warning generated.

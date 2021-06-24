@@ -1,0 +1,100 @@
+[1m../../chrome/browser/ui/views/download/download_item_view.cc:172:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      status_text_(l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_STARTING)),
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1014:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_STARTING'[0m
+#define IDS_DOWNLOAD_STATUS_STARTING _Pragma("whitelisted_resource_4358") 4358
+[0;1;32m                                     ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4358
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:195:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_DOWNLOAD_ITEM_DROPDOWN_BUTTON_ACCESSIBLE_TEXT));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1045:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_ITEM_DROPDOWN_BUTTON_ACCESSIBLE_TEXT'[0m
+#define IDS_DOWNLOAD_ITEM_DROPDOWN_BUTTON_ACCESSIBLE_TEXT _Pragma("whitelisted_resource_4397") 4397
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4397
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:312:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_DOWNLOAD_FAILED_ACCESSIBLE_ALERT,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1066:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_FAILED_ACCESSIBLE_ALERT'[0m
+#define IDS_DOWNLOAD_FAILED_ACCESSIBLE_ALERT _Pragma("whitelisted_resource_4418") 4418
+[0;1;32m                                             ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4418
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:325:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_DOWNLOAD_COMPLETE_ACCESSIBLE_ALERT,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1068:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_COMPLETE_ACCESSIBLE_ALERT'[0m
+#define IDS_DOWNLOAD_COMPLETE_ACCESSIBLE_ALERT _Pragma("whitelisted_resource_4420") 4420
+[0;1;32m                                               ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4420
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:342:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_DOWNLOAD_CANCELLED_ACCESSIBLE_ALERT,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1067:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_CANCELLED_ACCESSIBLE_ALERT'[0m
+#define IDS_DOWNLOAD_CANCELLED_ACCESSIBLE_ALERT _Pragma("whitelisted_resource_4419") 4419
+[0;1;32m                                                ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4419
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:697:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_STATUS_OPENING, base::string16());
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1020:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_OPENING'[0m
+#define IDS_DOWNLOAD_STATUS_OPENING _Pragma("whitelisted_resource_4371") 4371
+[0;1;32m                                    ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4371
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:704:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    filename = l10n_util::GetStringFUTF16(IDS_DOWNLOAD_STATUS_OPENING,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1020:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_OPENING'[0m
+#define IDS_DOWNLOAD_STATUS_OPENING _Pragma("whitelisted_resource_4371") 4371
+[0;1;32m                                    ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4371
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:999:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_DISCARD_DOWNLOAD));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1040:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DISCARD_DOWNLOAD'[0m
+#define IDS_DISCARD_DOWNLOAD _Pragma("whitelisted_resource_4392") 4392
+[0;1;32m                             ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4392
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:1157:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_STATUS_TIME_REMAINING_ACCESSIBLE_ALERT, remaining_string);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1065:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_TIME_REMAINING_ACCESSIBLE_ALERT'[0m
+#define IDS_DOWNLOAD_STATUS_TIME_REMAINING_ACCESSIBLE_ALERT _Pragma("whitelisted_resource_4417") 4417
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4417
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:1164:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_STATUS_PERCENT_COMPLETE_ACCESSIBLE_ALERT,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1064:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_PERCENT_COMPLETE_ACCESSIBLE_ALERT'[0m
+#define IDS_DOWNLOAD_STATUS_PERCENT_COMPLETE_ACCESSIBLE_ALERT _Pragma("whitelisted_resource_4416") 4416
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4416
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_item_view.cc:1172:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_DOWNLOAD_STATUS_IN_PROGRESS_ACCESSIBLE_ALERT,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1063:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_IN_PROGRESS_ACCESSIBLE_ALERT'[0m
+#define IDS_DOWNLOAD_STATUS_IN_PROGRESS_ACCESSIBLE_ALERT _Pragma("whitelisted_resource_4415") 4415
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4415
+[0;1;32m ^
+[0m11 warnings generated.

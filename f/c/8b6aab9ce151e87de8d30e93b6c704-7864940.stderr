@@ -1,0 +1,46 @@
+[1m../../chrome/browser/extensions/proxy_overridden_bubble_delegate.cc:82:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSIONS_PROXY_CONTROLLED_TITLE_HOME_PAGE_BUBBLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1538:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_PROXY_CONTROLLED_TITLE_HOME_PAGE_BUBBLE'[0m
+#define IDS_EXTENSIONS_PROXY_CONTROLLED_TITLE_HOME_PAGE_BUBBLE _Pragma("whitelisted_resource_5085") 5085
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5085
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/proxy_overridden_bubble_delegate.cc:90:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSIONS_PROXY_CONTROLLED_FIRST_LINE_EXTENSION_SPECIFIC);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1548:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_PROXY_CONTROLLED_FIRST_LINE_EXTENSION_SPECIFIC'[0m
+#define IDS_EXTENSIONS_PROXY_CONTROLLED_FIRST_LINE_EXTENSION_SPECIFIC _Pragma("whitelisted_resource_5095") 5095
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5095
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/proxy_overridden_bubble_delegate.cc:97:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSIONS_PROXY_CONTROLLED_FIRST_LINE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1547:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_PROXY_CONTROLLED_FIRST_LINE'[0m
+#define IDS_EXTENSIONS_PROXY_CONTROLLED_FIRST_LINE _Pragma("whitelisted_resource_5094") 5094
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5094
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/proxy_overridden_bubble_delegate.cc:114:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_CONTROLLED_RESTORE_SETTINGS);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1550:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONTROLLED_RESTORE_SETTINGS'[0m
+#define IDS_EXTENSION_CONTROLLED_RESTORE_SETTINGS _Pragma("whitelisted_resource_5097") 5097
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5097
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/proxy_overridden_bubble_delegate.cc:118:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_CONTROLLED_KEEP_CHANGES);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1551:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONTROLLED_KEEP_CHANGES'[0m
+#define IDS_EXTENSION_CONTROLLED_KEEP_CHANGES _Pragma("whitelisted_resource_5098") 5098
+[0;1;32m                                              ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5098
+[0;1;32m ^
+[0m5 warnings generated.

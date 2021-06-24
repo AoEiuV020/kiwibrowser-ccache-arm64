@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_header_panel.cc:91:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_WEB_STORE_LINK));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1099:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_WEB_STORE_LINK'[0m
+#define IDS_APPLICATION_INFO_WEB_STORE_LINK _Pragma("whitelisted_resource_4467") 4467
+[0;1;32m                                            ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4467
+[0;1;32m ^
+[0m1 warning generated.

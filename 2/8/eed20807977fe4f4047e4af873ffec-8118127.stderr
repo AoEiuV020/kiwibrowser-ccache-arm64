@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/views/download/download_in_progress_dialog_view.cc:47:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_ABANDON_DOWNLOAD_DIALOG_BROWSER_MESSAGE
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:69:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABANDON_DOWNLOAD_DIALOG_BROWSER_MESSAGE'[0m
+#define IDS_ABANDON_DOWNLOAD_DIALOG_BROWSER_MESSAGE _Pragma("whitelisted_resource_510") 510
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_510
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_in_progress_dialog_view.cc:48:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_ABANDON_DOWNLOAD_DIALOG_INCOGNITO_MESSAGE);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1086:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABANDON_DOWNLOAD_DIALOG_INCOGNITO_MESSAGE'[0m
+#define IDS_ABANDON_DOWNLOAD_DIALOG_INCOGNITO_MESSAGE _Pragma("whitelisted_resource_4450") 4450
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4450
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_in_progress_dialog_view.cc:75:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_ABANDON_DOWNLOAD_DIALOG_EXIT_BUTTON
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1087:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABANDON_DOWNLOAD_DIALOG_EXIT_BUTTON'[0m
+#define IDS_ABANDON_DOWNLOAD_DIALOG_EXIT_BUTTON _Pragma("whitelisted_resource_4451") 4451
+[0;1;32m                                                ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4451
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_in_progress_dialog_view.cc:76:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_ABANDON_DOWNLOAD_DIALOG_CONTINUE_BUTTON);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1085:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABANDON_DOWNLOAD_DIALOG_CONTINUE_BUTTON'[0m
+#define IDS_ABANDON_DOWNLOAD_DIALOG_CONTINUE_BUTTON _Pragma("whitelisted_resource_4449") 4449
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4449
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_in_progress_dialog_view.cc:98:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetPluralStringFUTF16(IDS_ABANDON_DOWNLOAD_DIALOG_TITLE,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1084:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABANDON_DOWNLOAD_DIALOG_TITLE'[0m
+#define IDS_ABANDON_DOWNLOAD_DIALOG_TITLE _Pragma("whitelisted_resource_4448") 4448
+[0;1;32m                                          ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4448
+[0;1;32m ^
+[0m5 warnings generated.

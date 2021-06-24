@@ -1,0 +1,109 @@
+[1m../../chrome/browser/extensions/extension_disabled_ui.cc:178:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1295:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE'[0m
+#define IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE _Pragma("whitelisted_resource_4837") 4837
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4837
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:181:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringFUTF16(IDS_EXTENSION_DISABLED_ERROR_TITLE,
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1296:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_DISABLED_ERROR_TITLE'[0m
+#define IDS_EXTENSION_DISABLED_ERROR_TITLE _Pragma("whitelisted_resource_4838") 4838
+[0;1;32m                                           ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4838
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:197:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1295:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE'[0m
+#define IDS_EXTENSION_DISABLED_REMOTE_INSTALL_ERROR_TITLE _Pragma("whitelisted_resource_4837") 4837
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4837
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:200:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringFUTF16(IDS_EXTENSION_DISABLED_ERROR_TITLE,
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1296:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_DISABLED_ERROR_TITLE'[0m
+#define IDS_EXTENSION_DISABLED_ERROR_TITLE _Pragma("whitelisted_resource_4838") 4838
+[0;1;32m                                           ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4838
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:220:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_EXTENSION_PROMPT_WILL_HAVE_ACCESS_TO));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1329:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WILL_HAVE_ACCESS_TO'[0m
+#define IDS_EXTENSION_PROMPT_WILL_HAVE_ACCESS_TO _Pragma("whitelisted_resource_4871") 4871
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4871
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:225:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_EXTENSION_DISABLED_ERROR_LABEL));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1293:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_DISABLED_ERROR_LABEL'[0m
+#define IDS_EXTENSION_DISABLED_ERROR_LABEL _Pragma("whitelisted_resource_4835") 4835
+[0;1;32m                                           ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4835
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:228:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    messages.push_back(l10n_util::GetStringFUTF16(IDS_EXTENSION_PERMISSION_LINE,
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1334:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PERMISSION_LINE'[0m
+#define IDS_EXTENSION_PERMISSION_LINE _Pragma("whitelisted_resource_4876") 4876
+[0;1;32m                                      ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4876
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:238:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_OK);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:1022:16: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OK'[0m
+#define IDS_OK _Pragma("whitelisted_resource_16160") 16160
+[0;1;32m               ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16160
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:243:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            ? IDS_EXTENSION_PROMPT_REMOTE_INSTALL_BUTTON_APP
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1512:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_REMOTE_INSTALL_BUTTON_APP'[0m
+#define IDS_EXTENSION_PROMPT_REMOTE_INSTALL_BUTTON_APP _Pragma("whitelisted_resource_5059") 5059
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5059
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:244:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            : IDS_EXTENSION_PROMPT_REMOTE_INSTALL_BUTTON_EXTENSION);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1511:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_REMOTE_INSTALL_BUTTON_EXTENSION'[0m
+#define IDS_EXTENSION_PROMPT_REMOTE_INSTALL_BUTTON_EXTENSION _Pragma("whitelisted_resource_5058") 5058
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5058
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:247:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_PROMPT_PERMISSIONS_ACCEPT_BUTTON);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1506:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_PERMISSIONS_ACCEPT_BUTTON'[0m
+#define IDS_EXTENSION_PROMPT_PERMISSIONS_ACCEPT_BUTTON _Pragma("whitelisted_resource_5053") 5053
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5053
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_disabled_ui.cc:257:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1498:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON'[0m
+#define IDS_EXTENSION_PROMPT_UNINSTALL_BUTTON _Pragma("whitelisted_resource_5045") 5045
+[0;1;32m                                              ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5045
+[0;1;32m ^
+[0m12 warnings generated.

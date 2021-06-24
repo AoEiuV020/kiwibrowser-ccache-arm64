@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/policy_tool_ui_handler.cc:337:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    error_message_id = IDS_POLICY_TOOL_SESSION_NOT_EXIST;
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:708:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TOOL_SESSION_NOT_EXIST'[0m
+#define IDS_POLICY_TOOL_SESSION_NOT_EXIST _Pragma("whitelisted_resource_15838") 15838
+[0;1;32m                                          ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15838
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_tool_ui_handler.cc:339:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    error_message_id = IDS_POLICY_TOOL_SESSION_EXIST;
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:709:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TOOL_SESSION_EXIST'[0m
+#define IDS_POLICY_TOOL_SESSION_EXIST _Pragma("whitelisted_resource_15839") 15839
+[0;1;32m                                      ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15839
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_tool_ui_handler.cc:341:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    error_message_id = IDS_POLICY_TOOL_RENAME_FAILED;
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:710:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TOOL_RENAME_FAILED'[0m
+#define IDS_POLICY_TOOL_RENAME_FAILED _Pragma("whitelisted_resource_15840") 15840
+[0;1;32m                                      ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15840
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_tool_ui_handler.cc:361:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDS_POLICY_TOOL_INVALID_SESSION_NAME)));
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:704:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TOOL_INVALID_SESSION_NAME'[0m
+#define IDS_POLICY_TOOL_INVALID_SESSION_NAME _Pragma("whitelisted_resource_15834") 15834
+[0;1;32m                                             ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15834
+[0;1;32m ^
+[0m4 warnings generated.

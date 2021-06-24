@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/android/page_info/connection_info_popup_android.cc:114:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_PAGE_INFO_CERT_INFO_BUTTON);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:415:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_CERT_INFO_BUTTON'[0m
+#define IDS_PAGE_INFO_CERT_INFO_BUTTON _Pragma("whitelisted_resource_15523") 15523
+[0;1;32m                                       ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15523
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/connection_info_popup_android.cc:123:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAGE_INFO_RESET_INVALID_CERTIFICATE_DECISIONS_BUTTON);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:398:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_RESET_INVALID_CERTIFICATE_DECISIONS_BUTTON'[0m
+#define IDS_PAGE_INFO_RESET_INVALID_CERTIFICATE_DECISIONS_BUTTON _Pragma("whitelisted_resource_15506") 15506
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15506
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/connection_info_popup_android.cc:143:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          env, l10n_util::GetStringUTF8(IDS_PAGE_INFO_HELP_CENTER_LINK)));
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:399:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_HELP_CENTER_LINK'[0m
+#define IDS_PAGE_INFO_HELP_CENTER_LINK _Pragma("whitelisted_resource_15507") 15507
+[0;1;32m                                       ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15507
+[0;1;32m ^
+[0m3 warnings generated.

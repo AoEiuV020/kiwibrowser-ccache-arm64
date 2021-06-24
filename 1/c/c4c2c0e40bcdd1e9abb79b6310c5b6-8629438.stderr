@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/passwords/password_auto_sign_in_view.cc:43:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TITLE_MD);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2502:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TITLE_MD'[0m
+#define IDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TITLE_MD _Pragma("whitelisted_resource_6252") 6252
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6252
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_auto_sign_in_view.cc:46:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TITLE, lower_text);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:488:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TITLE'[0m
+#define IDS_MANAGE_PASSWORDS_AUTO_SIGNIN_TITLE _Pragma("whitelisted_resource_15596") 15596
+[0;1;32m                                               ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15596
+[0;1;32m ^
+[0m2 warnings generated.

@@ -1,0 +1,82 @@
+[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:98:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ENTERPRISE_SIGNIN_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:103:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_TITLE'[0m
+#define IDS_ENTERPRISE_SIGNIN_TITLE _Pragma("whitelisted_resource_550") 550
+[0;1;32m                                    ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_550
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:108:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_ENTERPRISE_SIGNIN_CREATE_NEW_PROFILE :
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2033:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_CREATE_NEW_PROFILE'[0m
+#define IDS_ENTERPRISE_SIGNIN_CREATE_NEW_PROFILE _Pragma("whitelisted_resource_5657") 5657
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5657
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:109:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_ENTERPRISE_SIGNIN_CONTINUE);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2034:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_CONTINUE'[0m
+#define IDS_ENTERPRISE_SIGNIN_CONTINUE _Pragma("whitelisted_resource_5658") 5658
+[0;1;32m                                       ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5658
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:111:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_ENTERPRISE_SIGNIN_CANCEL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2032:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_CANCEL'[0m
+#define IDS_ENTERPRISE_SIGNIN_CANCEL _Pragma("whitelisted_resource_5656") 5656
+[0;1;32m                                     ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5656
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:123:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ENTERPRISE_SIGNIN_CONTINUE);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2034:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_CONTINUE'[0m
+#define IDS_ENTERPRISE_SIGNIN_CONTINUE _Pragma("whitelisted_resource_5658") 5658
+[0;1;32m                                       ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5658
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:168:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ENTERPRISE_SIGNIN_ALERT,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2035:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_ALERT'[0m
+#define IDS_ENTERPRISE_SIGNIN_ALERT _Pragma("whitelisted_resource_5659") 5659
+[0;1;32m                                    ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5659
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:190:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_LEARN_MORE);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:193:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ENTERPRISE_SIGNIN_EXPLANATION_WITH_PROFILE_CREATION :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:105:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_EXPLANATION_WITH_PROFILE_CREATION'[0m
+#define IDS_ENTERPRISE_SIGNIN_EXPLANATION_WITH_PROFILE_CREATION _Pragma("whitelisted_resource_552") 552
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_552
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/profile_signin_confirmation_dialog_views.cc:194:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ENTERPRISE_SIGNIN_EXPLANATION_WITHOUT_PROFILE_CREATION,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:104:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ENTERPRISE_SIGNIN_EXPLANATION_WITHOUT_PROFILE_CREATION'[0m
+#define IDS_ENTERPRISE_SIGNIN_EXPLANATION_WITHOUT_PROFILE_CREATION _Pragma("whitelisted_resource_551") 551
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_551
+[0;1;32m ^
+[0m9 warnings generated.

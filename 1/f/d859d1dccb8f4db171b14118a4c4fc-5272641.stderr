@@ -1,0 +1,1072 @@
+[1m../../content/browser/accessibility/browser_accessibility_android.cc:461:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          content_client->GetLocalizedString(IDS_AX_ROLE_HEADING_WITH_LEVEL),
+[0;1;32m                                             ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:114:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_HEADING_WITH_LEVEL'[0m
+#define IDS_AX_ROLE_HEADING_WITH_LEVEL _Pragma("whitelisted_resource_20210") 20210
+[0;1;32m                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20210
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:472:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_ALERT_DIALOG;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:99:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_ALERT_DIALOG'[0m
+#define IDS_AX_ROLE_ALERT_DIALOG _Pragma("whitelisted_resource_20195") 20195
+[0;1;32m                                 ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20195
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:475:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_ALERT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:98:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_ALERT'[0m
+#define IDS_AX_ROLE_ALERT _Pragma("whitelisted_resource_20194") 20194
+[0;1;32m                          ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20194
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:484:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_APPLICATION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:100:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_APPLICATION'[0m
+#define IDS_AX_ROLE_APPLICATION _Pragma("whitelisted_resource_20196") 20196
+[0;1;32m                                ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20196
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:487:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_ARTICLE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:30:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_ARTICLE'[0m
+#define IDS_AX_ROLE_ARTICLE _Pragma("whitelisted_resource_20125") 20125
+[0;1;32m                            ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20125
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:490:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_MEDIA_AUDIO_ELEMENT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:150:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_AUDIO_ELEMENT'[0m
+#define IDS_AX_MEDIA_AUDIO_ELEMENT _Pragma("whitelisted_resource_20246") 20246
+[0;1;32m                                   ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20246
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:493:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_BANNER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:31:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_BANNER'[0m
+#define IDS_AX_ROLE_BANNER _Pragma("whitelisted_resource_20126") 20126
+[0;1;32m                           ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20126
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:496:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_BLOCKQUOTE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:101:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_BLOCKQUOTE'[0m
+#define IDS_AX_ROLE_BLOCKQUOTE _Pragma("whitelisted_resource_20197") 20197
+[0;1;32m                               ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20197
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:499:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_BUTTON;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:102:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_BUTTON'[0m
+#define IDS_AX_ROLE_BUTTON _Pragma("whitelisted_resource_20198") 20198
+[0;1;32m                           ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20198
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:511:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_CELL;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:103:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_CELL'[0m
+#define IDS_AX_ROLE_CELL _Pragma("whitelisted_resource_20199") 20199
+[0;1;32m                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20199
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:514:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_CHECK_BOX;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:33:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_CHECK_BOX'[0m
+#define IDS_AX_ROLE_CHECK_BOX _Pragma("whitelisted_resource_20128") 20128
+[0;1;32m                              ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20128
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:520:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_COLOR_WELL;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:104:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_COLOR_WELL'[0m
+#define IDS_AX_ROLE_COLOR_WELL _Pragma("whitelisted_resource_20200") 20200
+[0;1;32m                               ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20200
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:523:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_COLUMN_HEADER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:105:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_COLUMN_HEADER'[0m
+#define IDS_AX_ROLE_COLUMN_HEADER _Pragma("whitelisted_resource_20201") 20201
+[0;1;32m                                  ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20201
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:535:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_COMPLEMENTARY;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:32:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_COMPLEMENTARY'[0m
+#define IDS_AX_ROLE_COMPLEMENTARY _Pragma("whitelisted_resource_20127") 20127
+[0;1;32m                                  ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20127
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:538:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_CONTENT_INFO;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:34:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_CONTENT_INFO'[0m
+#define IDS_AX_ROLE_CONTENT_INFO _Pragma("whitelisted_resource_20129") 20129
+[0;1;32m                                 ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20129
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:541:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DATE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:107:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DATE'[0m
+#define IDS_AX_ROLE_DATE _Pragma("whitelisted_resource_20203") 20203
+[0;1;32m                         ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20203
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:544:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DATE_TIME;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:108:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DATE_TIME'[0m
+#define IDS_AX_ROLE_DATE_TIME _Pragma("whitelisted_resource_20204") 20204
+[0;1;32m                              ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20204
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:547:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DEFINITION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DEFINITION'[0m
+#define IDS_AX_ROLE_DEFINITION _Pragma("whitelisted_resource_20130") 20130
+[0;1;32m                               ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20130
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:550:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DEFINITION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DEFINITION'[0m
+#define IDS_AX_ROLE_DEFINITION _Pragma("whitelisted_resource_20130") 20130
+[0;1;32m                               ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20130
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:565:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DIALOG;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:109:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DIALOG'[0m
+#define IDS_AX_ROLE_DIALOG _Pragma("whitelisted_resource_20205") 20205
+[0;1;32m                           ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20205
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:568:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DIRECTORY;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:110:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DIRECTORY'[0m
+#define IDS_AX_ROLE_DIRECTORY _Pragma("whitelisted_resource_20206") 20206
+[0;1;32m                              ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20206
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:571:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DISCLOSURE_TRIANGLE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:38:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DISCLOSURE_TRIANGLE'[0m
+#define IDS_AX_ROLE_DISCLOSURE_TRIANGLE _Pragma("whitelisted_resource_20133") 20133
+[0;1;32m                                        ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20133
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:574:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_ABSTRACT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:39:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_ABSTRACT'[0m
+#define IDS_AX_ROLE_DOC_ABSTRACT _Pragma("whitelisted_resource_20134") 20134
+[0;1;32m                                 ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20134
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:577:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_ACKNOWLEDGMENTS;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:40:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_ACKNOWLEDGMENTS'[0m
+#define IDS_AX_ROLE_DOC_ACKNOWLEDGMENTS _Pragma("whitelisted_resource_20135") 20135
+[0;1;32m                                        ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20135
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:580:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_AFTERWORD;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:41:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_AFTERWORD'[0m
+#define IDS_AX_ROLE_DOC_AFTERWORD _Pragma("whitelisted_resource_20136") 20136
+[0;1;32m                                  ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20136
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:583:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_APPENDIX;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:42:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_APPENDIX'[0m
+#define IDS_AX_ROLE_DOC_APPENDIX _Pragma("whitelisted_resource_20137") 20137
+[0;1;32m                                 ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20137
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:586:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_BACKLINK;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:43:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_BACKLINK'[0m
+#define IDS_AX_ROLE_DOC_BACKLINK _Pragma("whitelisted_resource_20138") 20138
+[0;1;32m                                 ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20138
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:589:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_BIBLIO_ENTRY;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:44:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_BIBLIO_ENTRY'[0m
+#define IDS_AX_ROLE_DOC_BIBLIO_ENTRY _Pragma("whitelisted_resource_20139") 20139
+[0;1;32m                                     ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20139
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:592:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_BIBLIOGRAPHY;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:45:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_BIBLIOGRAPHY'[0m
+#define IDS_AX_ROLE_DOC_BIBLIOGRAPHY _Pragma("whitelisted_resource_20140") 20140
+[0;1;32m                                     ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20140
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:595:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_BIBLIO_REF;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:46:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_BIBLIO_REF'[0m
+#define IDS_AX_ROLE_DOC_BIBLIO_REF _Pragma("whitelisted_resource_20141") 20141
+[0;1;32m                                   ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20141
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:598:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_CHAPTER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:47:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_CHAPTER'[0m
+#define IDS_AX_ROLE_DOC_CHAPTER _Pragma("whitelisted_resource_20142") 20142
+[0;1;32m                                ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20142
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:601:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_COLOPHON;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:48:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_COLOPHON'[0m
+#define IDS_AX_ROLE_DOC_COLOPHON _Pragma("whitelisted_resource_20143") 20143
+[0;1;32m                                 ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20143
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:604:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_CONCLUSION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:49:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_CONCLUSION'[0m
+#define IDS_AX_ROLE_DOC_CONCLUSION _Pragma("whitelisted_resource_20144") 20144
+[0;1;32m                                   ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20144
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:607:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_COVER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:50:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_COVER'[0m
+#define IDS_AX_ROLE_DOC_COVER _Pragma("whitelisted_resource_20145") 20145
+[0;1;32m                              ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20145
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:610:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_CREDIT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:51:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_CREDIT'[0m
+#define IDS_AX_ROLE_DOC_CREDIT _Pragma("whitelisted_resource_20146") 20146
+[0;1;32m                               ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20146
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:613:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_CREDITS;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:52:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_CREDITS'[0m
+#define IDS_AX_ROLE_DOC_CREDITS _Pragma("whitelisted_resource_20147") 20147
+[0;1;32m                                ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20147
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:616:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_DEDICATION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:53:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_DEDICATION'[0m
+#define IDS_AX_ROLE_DOC_DEDICATION _Pragma("whitelisted_resource_20148") 20148
+[0;1;32m                                   ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20148
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:619:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_ENDNOTE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:54:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_ENDNOTE'[0m
+#define IDS_AX_ROLE_DOC_ENDNOTE _Pragma("whitelisted_resource_20149") 20149
+[0;1;32m                                ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20149
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:622:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_ENDNOTES;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:55:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_ENDNOTES'[0m
+#define IDS_AX_ROLE_DOC_ENDNOTES _Pragma("whitelisted_resource_20150") 20150
+[0;1;32m                                 ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20150
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:625:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_EPIGRAPH;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:56:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_EPIGRAPH'[0m
+#define IDS_AX_ROLE_DOC_EPIGRAPH _Pragma("whitelisted_resource_20151") 20151
+[0;1;32m                                 ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20151
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:628:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_EPILOGUE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:57:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_EPILOGUE'[0m
+#define IDS_AX_ROLE_DOC_EPILOGUE _Pragma("whitelisted_resource_20152") 20152
+[0;1;32m                                 ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20152
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:631:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_ERRATA;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:58:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_ERRATA'[0m
+#define IDS_AX_ROLE_DOC_ERRATA _Pragma("whitelisted_resource_20153") 20153
+[0;1;32m                               ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20153
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:634:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_EXAMPLE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:59:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_EXAMPLE'[0m
+#define IDS_AX_ROLE_DOC_EXAMPLE _Pragma("whitelisted_resource_20154") 20154
+[0;1;32m                                ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20154
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:637:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_FOOTNOTE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:60:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_FOOTNOTE'[0m
+#define IDS_AX_ROLE_DOC_FOOTNOTE _Pragma("whitelisted_resource_20155") 20155
+[0;1;32m                                 ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20155
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:640:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_FOREWORD;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:61:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_FOREWORD'[0m
+#define IDS_AX_ROLE_DOC_FOREWORD _Pragma("whitelisted_resource_20156") 20156
+[0;1;32m                                 ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20156
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:643:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_GLOSSARY;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:62:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_GLOSSARY'[0m
+#define IDS_AX_ROLE_DOC_GLOSSARY _Pragma("whitelisted_resource_20157") 20157
+[0;1;32m                                 ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20157
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:646:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_GLOSS_REF;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:63:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_GLOSS_REF'[0m
+#define IDS_AX_ROLE_DOC_GLOSS_REF _Pragma("whitelisted_resource_20158") 20158
+[0;1;32m                                  ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20158
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:649:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_INDEX;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:64:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_INDEX'[0m
+#define IDS_AX_ROLE_DOC_INDEX _Pragma("whitelisted_resource_20159") 20159
+[0;1;32m                              ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20159
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:652:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_INTRODUCTION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:65:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_INTRODUCTION'[0m
+#define IDS_AX_ROLE_DOC_INTRODUCTION _Pragma("whitelisted_resource_20160") 20160
+[0;1;32m                                     ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20160
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:655:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_NOTE_REF;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:66:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_NOTE_REF'[0m
+#define IDS_AX_ROLE_DOC_NOTE_REF _Pragma("whitelisted_resource_20161") 20161
+[0;1;32m                                 ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20161
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:658:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_NOTICE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:67:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_NOTICE'[0m
+#define IDS_AX_ROLE_DOC_NOTICE _Pragma("whitelisted_resource_20162") 20162
+[0;1;32m                               ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20162
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:661:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_PAGE_BREAK;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:68:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_PAGE_BREAK'[0m
+#define IDS_AX_ROLE_DOC_PAGE_BREAK _Pragma("whitelisted_resource_20163") 20163
+[0;1;32m                                   ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20163
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:664:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_PAGE_LIST;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:69:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_PAGE_LIST'[0m
+#define IDS_AX_ROLE_DOC_PAGE_LIST _Pragma("whitelisted_resource_20164") 20164
+[0;1;32m                                  ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20164
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:667:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_PART;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:70:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_PART'[0m
+#define IDS_AX_ROLE_DOC_PART _Pragma("whitelisted_resource_20165") 20165
+[0;1;32m                             ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20165
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:670:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_PREFACE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:71:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_PREFACE'[0m
+#define IDS_AX_ROLE_DOC_PREFACE _Pragma("whitelisted_resource_20166") 20166
+[0;1;32m                                ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20166
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:673:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_PROLOGUE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:72:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_PROLOGUE'[0m
+#define IDS_AX_ROLE_DOC_PROLOGUE _Pragma("whitelisted_resource_20167") 20167
+[0;1;32m                                 ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20167
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:676:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_PULLQUOTE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:73:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_PULLQUOTE'[0m
+#define IDS_AX_ROLE_DOC_PULLQUOTE _Pragma("whitelisted_resource_20168") 20168
+[0;1;32m                                  ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20168
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:679:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_QNA;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:74:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_QNA'[0m
+#define IDS_AX_ROLE_DOC_QNA _Pragma("whitelisted_resource_20169") 20169
+[0;1;32m                            ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20169
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:682:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_SUBTITLE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:75:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_SUBTITLE'[0m
+#define IDS_AX_ROLE_DOC_SUBTITLE _Pragma("whitelisted_resource_20170") 20170
+[0;1;32m                                 ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20170
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:685:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_TIP;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:76:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_TIP'[0m
+#define IDS_AX_ROLE_DOC_TIP _Pragma("whitelisted_resource_20171") 20171
+[0;1;32m                            ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20171
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:688:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOC_TOC;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:77:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOC_TOC'[0m
+#define IDS_AX_ROLE_DOC_TOC _Pragma("whitelisted_resource_20172") 20172
+[0;1;32m                            ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20172
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:691:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DOCUMENT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:111:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DOCUMENT'[0m
+#define IDS_AX_ROLE_DOCUMENT _Pragma("whitelisted_resource_20207") 20207
+[0;1;32m                             ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20207
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:694:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_EMBEDDED_OBJECT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:112:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_EMBEDDED_OBJECT'[0m
+#define IDS_AX_ROLE_EMBEDDED_OBJECT _Pragma("whitelisted_resource_20208") 20208
+[0;1;32m                                    ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20208
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:697:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_FEED;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:78:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_FEED'[0m
+#define IDS_AX_ROLE_FEED _Pragma("whitelisted_resource_20173") 20173
+[0;1;32m                         ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20173
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:703:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHIC;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:113:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHIC'[0m
+#define IDS_AX_ROLE_GRAPHIC _Pragma("whitelisted_resource_20209") 20209
+[0;1;32m                            ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20209
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:706:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_FOOTER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:81:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_FOOTER'[0m
+#define IDS_AX_ROLE_FOOTER _Pragma("whitelisted_resource_20176") 20176
+[0;1;32m                           ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20176
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:715:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHICS_DOCUMENT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:82:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHICS_DOCUMENT'[0m
+#define IDS_AX_ROLE_GRAPHICS_DOCUMENT _Pragma("whitelisted_resource_20177") 20177
+[0;1;32m                                      ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20177
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:718:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHICS_OBJECT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:83:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHICS_OBJECT'[0m
+#define IDS_AX_ROLE_GRAPHICS_OBJECT _Pragma("whitelisted_resource_20178") 20178
+[0;1;32m                                    ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20178
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:721:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHICS_SYMBOL;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:84:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHICS_SYMBOL'[0m
+#define IDS_AX_ROLE_GRAPHICS_SYMBOL _Pragma("whitelisted_resource_20179") 20179
+[0;1;32m                                    ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20179
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:724:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TABLE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:136:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TABLE'[0m
+#define IDS_AX_ROLE_TABLE _Pragma("whitelisted_resource_20232") 20232
+[0;1;32m                          ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20232
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:732:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_HEADING;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:87:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_HEADING'[0m
+#define IDS_AX_ROLE_HEADING _Pragma("whitelisted_resource_20183") 20183
+[0;1;32m                            ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20183
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:744:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHIC;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:113:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHIC'[0m
+#define IDS_AX_ROLE_GRAPHIC _Pragma("whitelisted_resource_20209") 20209
+[0;1;32m                            ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20209
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:747:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHIC;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:113:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHIC'[0m
+#define IDS_AX_ROLE_GRAPHIC _Pragma("whitelisted_resource_20209") 20209
+[0;1;32m                            ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20209
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:753:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_INPUT_TIME;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:115:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_INPUT_TIME'[0m
+#define IDS_AX_ROLE_INPUT_TIME _Pragma("whitelisted_resource_20211") 20211
+[0;1;32m                               ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20211
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:771:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_LINK;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:88:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_LINK'[0m
+#define IDS_AX_ROLE_LINK _Pragma("whitelisted_resource_20184") 20184
+[0;1;32m                         ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20184
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:777:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_LIST_BOX;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:116:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_LIST_BOX'[0m
+#define IDS_AX_ROLE_LIST_BOX _Pragma("whitelisted_resource_20212") 20212
+[0;1;32m                             ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20212
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:792:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_LOG;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:117:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_LOG'[0m
+#define IDS_AX_ROLE_LOG _Pragma("whitelisted_resource_20213") 20213
+[0;1;32m                        ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20213
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:795:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MAIN_CONTENT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:89:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MAIN_CONTENT'[0m
+#define IDS_AX_ROLE_MAIN_CONTENT _Pragma("whitelisted_resource_20185") 20185
+[0;1;32m                                 ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20185
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:798:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MARK;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:90:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MARK'[0m
+#define IDS_AX_ROLE_MARK _Pragma("whitelisted_resource_20186") 20186
+[0;1;32m                         ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20186
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:801:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MARQUEE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:118:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MARQUEE'[0m
+#define IDS_AX_ROLE_MARQUEE _Pragma("whitelisted_resource_20214") 20214
+[0;1;32m                            ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20214
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:804:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MATH;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:91:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MATH'[0m
+#define IDS_AX_ROLE_MATH _Pragma("whitelisted_resource_20187") 20187
+[0;1;32m                         ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20187
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:807:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MENU;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:119:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MENU'[0m
+#define IDS_AX_ROLE_MENU _Pragma("whitelisted_resource_20215") 20215
+[0;1;32m                         ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20215
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:810:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MENU_BAR;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:120:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MENU_BAR'[0m
+#define IDS_AX_ROLE_MENU_BAR _Pragma("whitelisted_resource_20216") 20216
+[0;1;32m                             ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20216
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:813:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MENU_BUTTON;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:121:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MENU_BUTTON'[0m
+#define IDS_AX_ROLE_MENU_BUTTON _Pragma("whitelisted_resource_20217") 20217
+[0;1;32m                                ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20217
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:816:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_MENU_ITEM;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:122:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_MENU_ITEM'[0m
+#define IDS_AX_ROLE_MENU_ITEM _Pragma("whitelisted_resource_20218") 20218
+[0;1;32m                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20218
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:819:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_CHECK_BOX;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:33:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_CHECK_BOX'[0m
+#define IDS_AX_ROLE_CHECK_BOX _Pragma("whitelisted_resource_20128") 20128
+[0;1;32m                              ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20128
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:822:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_RADIO;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:127:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_RADIO'[0m
+#define IDS_AX_ROLE_RADIO _Pragma("whitelisted_resource_20223") 20223
+[0;1;32m                          ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20223
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:831:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_METER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:123:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_METER'[0m
+#define IDS_AX_ROLE_METER _Pragma("whitelisted_resource_20219") 20219
+[0;1;32m                          ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20219
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:834:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_NAVIGATIONAL_LINK;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:92:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_NAVIGATIONAL_LINK'[0m
+#define IDS_AX_ROLE_NAVIGATIONAL_LINK _Pragma("whitelisted_resource_20188") 20188
+[0;1;32m                                      ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20188
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:837:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_NOTE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:124:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_NOTE'[0m
+#define IDS_AX_ROLE_NOTE _Pragma("whitelisted_resource_20220") 20220
+[0;1;32m                         ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20220
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:846:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_POP_UP_BUTTON;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:125:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_POP_UP_BUTTON'[0m
+#define IDS_AX_ROLE_POP_UP_BUTTON _Pragma("whitelisted_resource_20221") 20221
+[0;1;32m                                  ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20221
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:855:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_PROGRESS_INDICATOR;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:126:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_PROGRESS_INDICATOR'[0m
+#define IDS_AX_ROLE_PROGRESS_INDICATOR _Pragma("whitelisted_resource_20222") 20222
+[0;1;32m                                       ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20222
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:858:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_RADIO;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:127:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_RADIO'[0m
+#define IDS_AX_ROLE_RADIO _Pragma("whitelisted_resource_20223") 20223
+[0;1;32m                          ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20223
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:861:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_RADIO_GROUP;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:128:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_RADIO_GROUP'[0m
+#define IDS_AX_ROLE_RADIO_GROUP _Pragma("whitelisted_resource_20224") 20224
+[0;1;32m                                ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20224
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:864:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_REGION;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:93:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_REGION'[0m
+#define IDS_AX_ROLE_REGION _Pragma("whitelisted_resource_20189") 20189
+[0;1;32m                           ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20189
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:870:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_ROW_HEADER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:129:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_ROW_HEADER'[0m
+#define IDS_AX_ROLE_ROW_HEADER _Pragma("whitelisted_resource_20225") 20225
+[0;1;32m                               ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20225
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:879:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_GRAPHIC;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:113:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_GRAPHIC'[0m
+#define IDS_AX_ROLE_GRAPHIC _Pragma("whitelisted_resource_20209") 20209
+[0;1;32m                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20209
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:882:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SCROLL_BAR;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:130:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SCROLL_BAR'[0m
+#define IDS_AX_ROLE_SCROLL_BAR _Pragma("whitelisted_resource_20226") 20226
+[0;1;32m                               ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20226
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:888:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SEARCH;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:131:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SEARCH'[0m
+#define IDS_AX_ROLE_SEARCH _Pragma("whitelisted_resource_20227") 20227
+[0;1;32m                           ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20227
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:891:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SEARCH_BOX;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:94:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SEARCH_BOX'[0m
+#define IDS_AX_ROLE_SEARCH_BOX _Pragma("whitelisted_resource_20190") 20190
+[0;1;32m                               ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20190
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:894:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SLIDER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:132:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SLIDER'[0m
+#define IDS_AX_ROLE_SLIDER _Pragma("whitelisted_resource_20228") 20228
+[0;1;32m                           ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20228
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:900:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SPIN_BUTTON;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:133:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SPIN_BUTTON'[0m
+#define IDS_AX_ROLE_SPIN_BUTTON _Pragma("whitelisted_resource_20229") 20229
+[0;1;32m                                ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20229
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:903:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SPLITTER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:134:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SPLITTER'[0m
+#define IDS_AX_ROLE_SPLITTER _Pragma("whitelisted_resource_20230") 20230
+[0;1;32m                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20230
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:909:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_STATUS;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:95:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_STATUS'[0m
+#define IDS_AX_ROLE_STATUS _Pragma("whitelisted_resource_20191") 20191
+[0;1;32m                           ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20191
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:912:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_SWITCH;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:96:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_SWITCH'[0m
+#define IDS_AX_ROLE_SWITCH _Pragma("whitelisted_resource_20192") 20192
+[0;1;32m                           ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20192
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:915:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TAB_LIST;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:137:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TAB_LIST'[0m
+#define IDS_AX_ROLE_TAB_LIST _Pragma("whitelisted_resource_20233") 20233
+[0;1;32m                             ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20233
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:918:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TAB_PANEL;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:138:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TAB_PANEL'[0m
+#define IDS_AX_ROLE_TAB_PANEL _Pragma("whitelisted_resource_20234") 20234
+[0;1;32m                              ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20234
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:921:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TAB;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:135:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TAB'[0m
+#define IDS_AX_ROLE_TAB _Pragma("whitelisted_resource_20231") 20231
+[0;1;32m                        ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20231
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:927:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TABLE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:136:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TABLE'[0m
+#define IDS_AX_ROLE_TABLE _Pragma("whitelisted_resource_20232") 20232
+[0;1;32m                          ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20232
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:930:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_DESCRIPTION_TERM;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:37:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_DESCRIPTION_TERM'[0m
+#define IDS_AX_ROLE_DESCRIPTION_TERM _Pragma("whitelisted_resource_20132") 20132
+[0;1;32m                                     ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20132
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:939:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TIME;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:139:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TIME'[0m
+#define IDS_AX_ROLE_TIME _Pragma("whitelisted_resource_20235") 20235
+[0;1;32m                         ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20235
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:942:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TIMER;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:140:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TIMER'[0m
+#define IDS_AX_ROLE_TIMER _Pragma("whitelisted_resource_20236") 20236
+[0;1;32m                          ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20236
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:948:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TOGGLE_BUTTON;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:86:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TOGGLE_BUTTON'[0m
+#define IDS_AX_ROLE_TOGGLE_BUTTON _Pragma("whitelisted_resource_20182") 20182
+[0;1;32m                                  ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20182
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:951:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TOOLBAR;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:141:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TOOLBAR'[0m
+#define IDS_AX_ROLE_TOOLBAR _Pragma("whitelisted_resource_20237") 20237
+[0;1;32m                            ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20237
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:954:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TREE_GRID;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:144:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TREE_GRID'[0m
+#define IDS_AX_ROLE_TREE_GRID _Pragma("whitelisted_resource_20240") 20240
+[0;1;32m                              ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20240
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:957:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TREE_ITEM;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:145:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TREE_ITEM'[0m
+#define IDS_AX_ROLE_TREE_ITEM _Pragma("whitelisted_resource_20241") 20241
+[0;1;32m                              ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20241
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:960:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TREE;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:143:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TREE'[0m
+#define IDS_AX_ROLE_TREE _Pragma("whitelisted_resource_20239") 20239
+[0;1;32m                         ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20239
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:966:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_ROLE_TOOLTIP;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:142:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_ROLE_TOOLTIP'[0m
+#define IDS_AX_ROLE_TOOLTIP _Pragma("whitelisted_resource_20238") 20238
+[0;1;32m                            ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20238
+[0;1;32m ^
+[0m[1m../../content/browser/accessibility/browser_accessibility_android.cc:969:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_AX_MEDIA_VIDEO_ELEMENT;
+[0;1;32m                   ^
+[0m[1mgen/content/app/strings/grit/content_strings.h:151:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AX_MEDIA_VIDEO_ELEMENT'[0m
+#define IDS_AX_MEDIA_VIDEO_ELEMENT _Pragma("whitelisted_resource_20247") 20247
+[0;1;32m                                   ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20247
+[0;1;32m ^
+[0m119 warnings generated.

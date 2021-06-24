@@ -1,0 +1,361 @@
+[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:98:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (!theme_provider.HasCustomImage(IDR_THEME_NTP_BACKGROUND)) {
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:108:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_BACKGROUND'[0m
+#define IDR_THEME_NTP_BACKGROUND _Pragma("whitelisted_resource_10490") 10490
+[0;1;32m                                 ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10490
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:257:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_NEW_TAB_OTR_SUBTITLE);
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:343:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_OTR_SUBTITLE'[0m
+#define IDS_NEW_TAB_OTR_SUBTITLE _Pragma("whitelisted_resource_15449") 15449
+[0;1;32m                                 ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15449
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:259:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_NEW_TAB_OTR_TITLE);
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:342:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_OTR_TITLE'[0m
+#define IDS_NEW_TAB_OTR_TITLE _Pragma("whitelisted_resource_15448") 15448
+[0;1;32m                              ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15448
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:261:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_NEW_TAB_OTR_VISIBLE);
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:345:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_OTR_VISIBLE'[0m
+#define IDS_NEW_TAB_OTR_VISIBLE _Pragma("whitelisted_resource_15451") 15451
+[0;1;32m                                ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15451
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:263:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_NEW_TAB_OTR_LEARN_MORE_LINK);
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:339:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_OTR_LEARN_MORE_LINK'[0m
+#define IDS_NEW_TAB_OTR_LEARN_MORE_LINK _Pragma("whitelisted_resource_15445") 15445
+[0;1;32m                                        ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15445
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:265:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_NEW_TAB_OTR_NOT_SAVED);
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:344:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_OTR_NOT_SAVED'[0m
+#define IDS_NEW_TAB_OTR_NOT_SAVED _Pragma("whitelisted_resource_15450") 15450
+[0;1;32m                                  ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15450
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:267:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  replacements["title"] = l10n_util::GetStringUTF8(IDS_NEW_TAB_TITLE);
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:336:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_TITLE'[0m
+#define IDS_NEW_TAB_TITLE _Pragma("whitelisted_resource_15442") 15442
+[0;1;32m                          ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15442
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:272:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      tp.HasCustomImage(IDR_THEME_NTP_BACKGROUND) ? "true" : "false";
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:108:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_BACKGROUND'[0m
+#define IDR_THEME_NTP_BACKGROUND _Pragma("whitelisted_resource_10490") 10490
+[0;1;32m                                 ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10490
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:279:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_INCOGNITO_TAB_HTML));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/browser_resources.h:5:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INCOGNITO_TAB_HTML'[0m
+#define IDR_INCOGNITO_TAB_HTML _Pragma("whitelisted_resource_11472") 11472
+[0;1;32m                               ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11472
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:290:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_NEW_TAB_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:336:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_TITLE'[0m
+#define IDS_NEW_TAB_TITLE _Pragma("whitelisted_resource_15442") 15442
+[0;1;32m                          ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15442
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:292:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int guest_tab_ids = IDR_GUEST_TAB_HTML;
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/browser_resources.h:6:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GUEST_TAB_HTML'[0m
+#define IDR_GUEST_TAB_HTML _Pragma("whitelisted_resource_11473") 11473
+[0;1;32m                           ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11473
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:293:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int guest_tab_description_ids = IDS_NEW_TAB_GUEST_SESSION_DESCRIPTION;
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2086:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_GUEST_SESSION_DESCRIPTION'[0m
+#define IDS_NEW_TAB_GUEST_SESSION_DESCRIPTION _Pragma("whitelisted_resource_5714") 5714
+[0;1;32m                                              ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5714
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:294:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int guest_tab_heading_ids = IDS_NEW_TAB_GUEST_SESSION_HEADING;
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2085:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_GUEST_SESSION_HEADING'[0m
+#define IDS_NEW_TAB_GUEST_SESSION_HEADING _Pragma("whitelisted_resource_5713") 5713
+[0;1;32m                                          ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5713
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:295:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int guest_tab_link_ids = IDS_LEARN_MORE;
+[0;1;32m                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:374:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  load_time_data.SetString("title", GetLocalizedString(IDS_NEW_TAB_TITLE));
+[0;1;32m                                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:336:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_TITLE'[0m
+#define IDS_NEW_TAB_TITLE _Pragma("whitelisted_resource_15442") 15442
+[0;1;32m                          ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15442
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:376:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_EXTENSION_WEB_STORE_TITLE));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1515:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEB_STORE_TITLE'[0m
+#define IDS_EXTENSION_WEB_STORE_TITLE _Pragma("whitelisted_resource_5062") 5062
+[0;1;32m                                      ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5062
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:379:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_EXTENSION_WEB_STORE_TITLE_SHORT));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1516:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEB_STORE_TITLE_SHORT'[0m
+#define IDS_EXTENSION_WEB_STORE_TITLE_SHORT _Pragma("whitelisted_resource_5063") 5063
+[0;1;32m                                            ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5063
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:381:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_NEW_TAB_ATTRIBUTION_INTRO));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2091:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_ATTRIBUTION_INTRO'[0m
+#define IDS_NEW_TAB_ATTRIBUTION_INTRO _Pragma("whitelisted_resource_5719") 5719
+[0;1;32m                                      ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5719
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:383:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_EXTENSIONS_UNINSTALL));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/chromium_strings.h:80:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_UNINSTALL'[0m
+#define IDS_EXTENSIONS_UNINSTALL _Pragma("whitelisted_resource_524") 524
+[0;1;32m                                 ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_524
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:385:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_NEW_TAB_APP_OPTIONS));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2108:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_APP_OPTIONS'[0m
+#define IDS_NEW_TAB_APP_OPTIONS _Pragma("whitelisted_resource_5736") 5736
+[0;1;32m                                ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5736
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:387:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_NEW_TAB_APP_DETAILS));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2109:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_APP_DETAILS'[0m
+#define IDS_NEW_TAB_APP_DETAILS _Pragma("whitelisted_resource_5737") 5737
+[0;1;32m                                ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5737
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:389:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_APP_CONTEXT_MENU_SHOW_INFO));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2111:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_SHOW_INFO'[0m
+#define IDS_APP_CONTEXT_MENU_SHOW_INFO _Pragma("whitelisted_resource_5739") 5739
+[0;1;32m                                       ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5739
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:391:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_NEW_TAB_APP_CREATE_SHORTCUT));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2110:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_APP_CREATE_SHORTCUT'[0m
+#define IDS_NEW_TAB_APP_CREATE_SHORTCUT _Pragma("whitelisted_resource_5738") 5738
+[0;1;32m                                        ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5738
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:393:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_APP_DEFAULT_PAGE_NAME));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2083:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_DEFAULT_PAGE_NAME'[0m
+#define IDS_APP_DEFAULT_PAGE_NAME _Pragma("whitelisted_resource_5711") 5711
+[0;1;32m                                  ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5711
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:396:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_APP_CONTEXT_MENU_OPEN_PINNED));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2112:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_PINNED'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_PINNED _Pragma("whitelisted_resource_5740") 5740
+[0;1;32m                                         ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5740
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:399:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_APP_CONTEXT_MENU_OPEN_REGULAR));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2113:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_REGULAR'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_REGULAR _Pragma("whitelisted_resource_5741") 5741
+[0;1;32m                                          ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5741
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:402:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_APP_CONTEXT_MENU_OPEN_WINDOW));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2114:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_WINDOW'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_WINDOW _Pragma("whitelisted_resource_5742") 5742
+[0;1;32m                                         ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5742
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:405:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_APP_CONTEXT_MENU_OPEN_FULLSCREEN));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2115:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_FULLSCREEN'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_FULLSCREEN _Pragma("whitelisted_resource_5743") 5743
+[0;1;32m                                             ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5743
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:407:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "syncpromotext", GetLocalizedString(IDS_SYNC_START_SYNC_BUTTON_LABEL));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2334:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_START_SYNC_BUTTON_LABEL'[0m
+#define IDS_SYNC_START_SYNC_BUTTON_LABEL _Pragma("whitelisted_resource_5982") 5982
+[0;1;32m                                         ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5982
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:409:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           GetLocalizedString(IDS_SYNC_ADVANCED_OPTIONS));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2359:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ADVANCED_OPTIONS'[0m
+#define IDS_SYNC_ADVANCED_OPTIONS _Pragma("whitelisted_resource_6010") 6010
+[0;1;32m                                  ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6010
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:412:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  load_time_data.SetString("learnMore", GetLocalizedString(IDS_LEARN_MORE));
+[0;1;32m                                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:420:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_NEW_TAB_APP_INSTALL_HINT_LABEL));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2088:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_APP_INSTALL_HINT_LABEL'[0m
+#define IDS_NEW_TAB_APP_INSTALL_HINT_LABEL _Pragma("whitelisted_resource_5716") 5716
+[0;1;32m                                           ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5716
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:421:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  load_time_data.SetString("learn_more", GetLocalizedString(IDS_LEARN_MORE));
+[0;1;32m                                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:424:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_NEW_TAB_TILE_GRID_ACCESSIBLE_DESCRIPTION));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2087:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_TILE_GRID_ACCESSIBLE_DESCRIPTION'[0m
+#define IDS_NEW_TAB_TILE_GRID_ACCESSIBLE_DESCRIPTION _Pragma("whitelisted_resource_5715") 5715
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5715
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:427:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_NEW_TAB_PAGE_SWITCHER_CHANGE_TITLE));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2094:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_PAGE_SWITCHER_CHANGE_TITLE'[0m
+#define IDS_NEW_TAB_PAGE_SWITCHER_CHANGE_TITLE _Pragma("whitelisted_resource_5722") 5722
+[0;1;32m                                               ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5722
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:430:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      GetLocalizedString(IDS_NEW_TAB_PAGE_SWITCHER_SAME_TITLE));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2095:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_PAGE_SWITCHER_SAME_TITLE'[0m
+#define IDS_NEW_TAB_PAGE_SWITCHER_SAME_TITLE _Pragma("whitelisted_resource_5723") 5723
+[0;1;32m                                             ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5723
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:465:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_NEW_TAB_4_HTML));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/browser_resources.h:8:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NEW_TAB_4_HTML'[0m
+#define IDR_NEW_TAB_4_HTML _Pragma("whitelisted_resource_11483") 11483
+[0;1;32m                           ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11483
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:492:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_NEW_INCOGNITO_TAB_THEME_CSS));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/browser_resources.h:7:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NEW_INCOGNITO_TAB_THEME_CSS'[0m
+#define IDR_NEW_INCOGNITO_TAB_THEME_CSS _Pragma("whitelisted_resource_11482") 11482
+[0;1;32m                                        ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11482
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:563:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      tp.HasCustomImage(IDR_THEME_NTP_ATTRIBUTION) ? "inline" : "none";
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:107:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_ATTRIBUTION'[0m
+#define IDR_THEME_NTP_ATTRIBUTION _Pragma("whitelisted_resource_10489") 10489
+[0;1;32m                                  ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10489
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/ntp/ntp_resource_cache.cc:568:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_NEW_TAB_4_THEME_CSS));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/browser_resources.h:9:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NEW_TAB_4_THEME_CSS'[0m
+#define IDR_NEW_TAB_4_THEME_CSS _Pragma("whitelisted_resource_11484") 11484
+[0;1;32m                                ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11484
+[0;1;32m ^
+[0m40 warnings generated.

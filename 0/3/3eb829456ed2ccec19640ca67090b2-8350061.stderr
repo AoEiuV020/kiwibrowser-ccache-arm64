@@ -1,0 +1,64 @@
+[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:88:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_RELAUNCH_ACCEPT_BUTTON
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2889:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_ACCEPT_BUTTON'[0m
+#define IDS_RELAUNCH_ACCEPT_BUTTON _Pragma("whitelisted_resource_6748") 6748
+[0;1;32m                                   ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6748
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:89:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_RELAUNCH_REQUIRED_CANCEL_BUTTON);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2890:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_REQUIRED_CANCEL_BUTTON'[0m
+#define IDS_RELAUNCH_REQUIRED_CANCEL_BUTTON _Pragma("whitelisted_resource_6749") 6749
+[0;1;32m                                            ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6749
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:110:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int message_id = IDS_RELAUNCH_REQUIRED_TITLE_SECONDS;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:183:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_REQUIRED_TITLE_SECONDS'[0m
+#define IDS_RELAUNCH_REQUIRED_TITLE_SECONDS _Pragma("whitelisted_resource_666") 666
+[0;1;32m                                            ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_666
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:113:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    message_id = IDS_RELAUNCH_REQUIRED_TITLE_DAYS;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:180:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_REQUIRED_TITLE_DAYS'[0m
+#define IDS_RELAUNCH_REQUIRED_TITLE_DAYS _Pragma("whitelisted_resource_663") 663
+[0;1;32m                                         ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_663
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:116:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    message_id = IDS_RELAUNCH_REQUIRED_TITLE_HOURS;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:181:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_REQUIRED_TITLE_HOURS'[0m
+#define IDS_RELAUNCH_REQUIRED_TITLE_HOURS _Pragma("whitelisted_resource_664") 664
+[0;1;32m                                          ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_664
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:119:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    message_id = IDS_RELAUNCH_REQUIRED_TITLE_MINUTES;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:182:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_REQUIRED_TITLE_MINUTES'[0m
+#define IDS_RELAUNCH_REQUIRED_TITLE_MINUTES _Pragma("whitelisted_resource_665") 665
+[0;1;32m                                            ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_665
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/relaunch_notification/relaunch_required_dialog_view.cc:240:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new views::Label(l10n_util::GetStringUTF16(IDS_RELAUNCH_REQUIRED_BODY),
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:184:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_REQUIRED_BODY'[0m
+#define IDS_RELAUNCH_REQUIRED_BODY _Pragma("whitelisted_resource_667") 667
+[0;1;32m                                   ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_667
+[0;1;32m ^
+[0m7 warnings generated.

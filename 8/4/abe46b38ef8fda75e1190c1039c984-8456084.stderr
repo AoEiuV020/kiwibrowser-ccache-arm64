@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/webui/ntp/app_launcher_handler.cc:377:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     l10n_util::GetStringUTF16(IDS_APP_DEFAULT_PAGE_NAME)));
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2083:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_DEFAULT_PAGE_NAME'[0m
+#define IDS_APP_DEFAULT_PAGE_NAME _Pragma("whitelisted_resource_5711") 5711
+[0;1;32m                                  ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5711
+[0;1;32m ^
+[0m1 warning generated.

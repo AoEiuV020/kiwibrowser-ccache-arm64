@@ -1,0 +1,118 @@
+[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:202:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_IDENTITY_INTERNALS_TOKEN_NOT_FOUND);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2642:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_TOKEN_NOT_FOUND'[0m
+#define IDS_IDENTITY_INTERNALS_TOKEN_NOT_FOUND _Pragma("whitelisted_resource_6434") 6434
+[0;1;32m                                               ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6434
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:205:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_IDENTITY_INTERNALS_TOKEN_PRESENT);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2643:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_TOKEN_PRESENT'[0m
+#define IDS_IDENTITY_INTERNALS_TOKEN_PRESENT _Pragma("whitelisted_resource_6435") 6435
+[0;1;32m                                             ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6435
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:305:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_TOKEN_CACHE_TEXT);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2637:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_TOKEN_CACHE_TEXT'[0m
+#define IDS_IDENTITY_INTERNALS_TOKEN_CACHE_TEXT _Pragma("whitelisted_resource_6429") 6429
+[0;1;32m                                                ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6429
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:307:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_ACCESS_TOKEN);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2638:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_ACCESS_TOKEN'[0m
+#define IDS_IDENTITY_INTERNALS_ACCESS_TOKEN _Pragma("whitelisted_resource_6430") 6430
+[0;1;32m                                            ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6430
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:309:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_EXTENSION_NAME);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2639:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_EXTENSION_NAME'[0m
+#define IDS_IDENTITY_INTERNALS_EXTENSION_NAME _Pragma("whitelisted_resource_6431") 6431
+[0;1;32m                                              ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6431
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:311:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_EXTENSION_ID);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2640:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_EXTENSION_ID'[0m
+#define IDS_IDENTITY_INTERNALS_EXTENSION_ID _Pragma("whitelisted_resource_6432") 6432
+[0;1;32m                                            ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6432
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:313:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_TOKEN_STATUS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2641:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_TOKEN_STATUS'[0m
+#define IDS_IDENTITY_INTERNALS_TOKEN_STATUS _Pragma("whitelisted_resource_6433") 6433
+[0;1;32m                                            ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6433
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:315:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_EXPIRATION_TIME);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2644:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_EXPIRATION_TIME'[0m
+#define IDS_IDENTITY_INTERNALS_EXPIRATION_TIME _Pragma("whitelisted_resource_6436") 6436
+[0;1;32m                                               ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6436
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:317:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_SCOPES);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2645:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_SCOPES'[0m
+#define IDS_IDENTITY_INTERNALS_SCOPES _Pragma("whitelisted_resource_6437") 6437
+[0;1;32m                                      ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6437
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:319:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_IDENTITY_INTERNALS_REVOKE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2646:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IDENTITY_INTERNALS_REVOKE'[0m
+#define IDS_IDENTITY_INTERNALS_REVOKE _Pragma("whitelisted_resource_6438") 6438
+[0;1;32m                                      ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6438
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:324:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_IDENTITY_INTERNALS_CSS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:201:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_INTERNALS_CSS'[0m
+#define IDR_IDENTITY_INTERNALS_CSS _Pragma("whitelisted_resource_11338") 11338
+[0;1;32m                                   ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11338
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:326:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_IDENTITY_INTERNALS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:202:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_INTERNALS_JS'[0m
+#define IDR_IDENTITY_INTERNALS_JS _Pragma("whitelisted_resource_11339") 11339
+[0;1;32m                                  ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11339
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/identity_internals_ui.cc:327:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_IDENTITY_INTERNALS_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:200:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_INTERNALS_HTML'[0m
+#define IDR_IDENTITY_INTERNALS_HTML _Pragma("whitelisted_resource_11337") 11337
+[0;1;32m                                    ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11337
+[0;1;32m ^
+[0m13 warnings generated.

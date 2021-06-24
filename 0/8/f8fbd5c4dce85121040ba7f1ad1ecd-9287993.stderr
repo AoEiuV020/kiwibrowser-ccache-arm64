@@ -1,0 +1,10 @@
+[1m../../chrome/browser/extensions/bookmark_app_helper.cc:119:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_SANS_SERIF_FONT_FAMILY);
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:8:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SANS_SERIF_FONT_FAMILY'[0m
+#define IDS_SANS_SERIF_FONT_FAMILY _Pragma("whitelisted_resource_10103") 10103
+[0;1;32m                                   ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10103
+[0;1;32m ^
+[0m1 warning generated.

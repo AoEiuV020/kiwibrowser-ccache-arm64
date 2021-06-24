@@ -1,0 +1,127 @@
+[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:68:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_CONTEXT_MENU_OPEN_TAB));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2117:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_TAB'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_TAB _Pragma("whitelisted_resource_5745") 5745
+[0;1;32m                                      ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5745
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:73:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_APP_CONTEXT_MENU_OPEN_WINDOW));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2114:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_WINDOW'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_WINDOW _Pragma("whitelisted_resource_5742") 5742
+[0;1;32m                                         ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5742
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:78:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_CONTEXT_MENU_OPEN_REGULAR));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2113:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_REGULAR'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_REGULAR _Pragma("whitelisted_resource_5741") 5741
+[0;1;32m                                          ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5741
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:82:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_CONTEXT_MENU_OPEN_PINNED));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2112:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_PINNED'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_PINNED _Pragma("whitelisted_resource_5740") 5740
+[0;1;32m                                         ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5740
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:87:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_APP_CONTEXT_MENU_OPEN_WINDOW));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2114:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_WINDOW'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_WINDOW _Pragma("whitelisted_resource_5742") 5742
+[0;1;32m                                         ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5742
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:100:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APP_CONTEXT_MENU_OPEN_MAXIMIZED));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2116:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CONTEXT_MENU_OPEN_MAXIMIZED'[0m
+#define IDS_APP_CONTEXT_MENU_OPEN_MAXIMIZED _Pragma("whitelisted_resource_5744") 5744
+[0;1;32m                                            ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5744
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:181:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_HOMEPAGE_LINK));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1100:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_HOMEPAGE_LINK'[0m
+#define IDS_APPLICATION_INFO_HOMEPAGE_LINK _Pragma("whitelisted_resource_4468") 4468
+[0;1;32m                                           ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4468
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:189:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_LICENSES_BUTTON_TEXT));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1105:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_LICENSES_BUTTON_TEXT'[0m
+#define IDS_APPLICATION_INFO_LICENSES_BUTTON_TEXT _Pragma("whitelisted_resource_4473") 4473
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4473
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:209:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_SIZE_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1106:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_SIZE_LABEL'[0m
+#define IDS_APPLICATION_INFO_SIZE_LABEL _Pragma("whitelisted_resource_4474") 4474
+[0;1;32m                                        ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4474
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:213:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_SIZE_LOADING_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1110:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_SIZE_LOADING_LABEL'[0m
+#define IDS_APPLICATION_INFO_SIZE_LOADING_LABEL _Pragma("whitelisted_resource_4478") 4478
+[0;1;32m                                                ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4478
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:222:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_VERSION_LABEL));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1107:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_VERSION_LABEL'[0m
+#define IDS_APPLICATION_INFO_VERSION_LABEL _Pragma("whitelisted_resource_4475") 4475
+[0;1;32m                                           ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4475
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:244:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_LAUNCH_OPTIONS_ACCNAME));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1109:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_LAUNCH_OPTIONS_ACCNAME'[0m
+#define IDS_APPLICATION_INFO_LAUNCH_OPTIONS_ACCNAME _Pragma("whitelisted_resource_4477") 4477
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4477
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:254:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_APP_OVERVIEW_TITLE)));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1102:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_APP_OVERVIEW_TITLE'[0m
+#define IDS_APPLICATION_INFO_APP_OVERVIEW_TITLE _Pragma("whitelisted_resource_4470") 4470
+[0;1;32m                                                ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4470
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_summary_panel.cc:287:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      app_->path(), IDS_APPLICATION_INFO_SIZE_SMALL_LABEL,
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1111:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_SIZE_SMALL_LABEL'[0m
+#define IDS_APPLICATION_INFO_SIZE_SMALL_LABEL _Pragma("whitelisted_resource_4479") 4479
+[0;1;32m                                              ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4479
+[0;1;32m ^
+[0m14 warnings generated.

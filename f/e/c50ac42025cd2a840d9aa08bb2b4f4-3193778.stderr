@@ -1,0 +1,46 @@
+[1m../../content/browser/webui/shared_resources_data_source.cc:75:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    if (resource.value == IDR_MOJO_BINDINGS_JS) {
+[0;1;32m                          ^
+[0m[1mgen/mojo/public/js/grit/mojo_bindings_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_BINDINGS_JS'[0m
+#define IDR_MOJO_BINDINGS_JS _Pragma("whitelisted_resource_24750") 24750
+[0;1;32m                             ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24750
+[0;1;32m ^
+[0m[1m../../content/browser/webui/shared_resources_data_source.cc:116:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (idr == IDR_WEBUI_CSS_TEXT_DEFAULTS) {
+[0;1;32m             ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:122:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_CSS_TEXT_DEFAULTS'[0m
+#define IDR_WEBUI_CSS_TEXT_DEFAULTS _Pragma("whitelisted_resource_27963") 27963
+[0;1;32m                                    ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27963
+[0;1;32m ^
+[0m[1m../../content/browser/webui/shared_resources_data_source.cc:119:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  } else if (idr == IDR_WEBUI_CSS_TEXT_DEFAULTS_MD) {
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:123:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_CSS_TEXT_DEFAULTS_MD'[0m
+#define IDR_WEBUI_CSS_TEXT_DEFAULTS_MD _Pragma("whitelisted_resource_27964") 27964
+[0;1;32m                                       ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27964
+[0;1;32m ^
+[0m[1m../../content/browser/webui/shared_resources_data_source.cc:180:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (idr == IDR_WEBUI_CSS_TEXT_DEFAULTS ||
+[0;1;32m             ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:122:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_CSS_TEXT_DEFAULTS'[0m
+#define IDR_WEBUI_CSS_TEXT_DEFAULTS _Pragma("whitelisted_resource_27963") 27963
+[0;1;32m                                    ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27963
+[0;1;32m ^
+[0m[1m../../content/browser/webui/shared_resources_data_source.cc:181:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      idr == IDR_WEBUI_CSS_TEXT_DEFAULTS_MD) {
+[0;1;32m             ^
+[0m[1mgen/ui/resources/grit/webui_resources.h:123:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBUI_CSS_TEXT_DEFAULTS_MD'[0m
+#define IDR_WEBUI_CSS_TEXT_DEFAULTS_MD _Pragma("whitelisted_resource_27964") 27964
+[0;1;32m                                       ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27964
+[0;1;32m ^
+[0m5 warnings generated.

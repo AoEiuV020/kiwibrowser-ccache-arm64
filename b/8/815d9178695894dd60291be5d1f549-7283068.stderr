@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/predictors/predictors_ui.cc:22:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("predictors.js", IDR_PREDICTORS_JS);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/browser_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PREDICTORS_JS'[0m
+#define IDR_PREDICTORS_JS _Pragma("whitelisted_resource_11187") 11187
+[0;1;32m                          ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11187
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/predictors/predictors_ui.cc:23:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_PREDICTORS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:111:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PREDICTORS_HTML'[0m
+#define IDR_PREDICTORS_HTML _Pragma("whitelisted_resource_11186") 11186
+[0;1;32m                            ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11186
+[0;1;32m ^
+[0m2 warnings generated.

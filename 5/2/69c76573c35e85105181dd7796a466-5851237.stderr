@@ -1,0 +1,10 @@
+[1m../../chrome/browser/extensions/api/autofill_private/autofill_util.cc:103:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTOFILL_ADDRESS_SUMMARY_SEPARATOR);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:34:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_ADDRESS_SUMMARY_SEPARATOR'[0m
+#define IDS_AUTOFILL_ADDRESS_SUMMARY_SEPARATOR _Pragma("whitelisted_resource_15129") 15129
+[0;1;32m                                               ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15129
+[0;1;32m ^
+[0m1 warning generated.

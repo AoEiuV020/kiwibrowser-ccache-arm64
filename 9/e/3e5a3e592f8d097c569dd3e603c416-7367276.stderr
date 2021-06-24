@@ -1,0 +1,55 @@
+[1m../../chrome/browser/extensions/extension_storage_monitor.cc:404:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_STORAGE_MONITOR_BUTTON_DISMISS_APP :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2651:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_STORAGE_MONITOR_BUTTON_DISMISS_APP'[0m
+#define IDS_EXTENSION_STORAGE_MONITOR_BUTTON_DISMISS_APP _Pragma("whitelisted_resource_6443") 6443
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6443
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_storage_monitor.cc:405:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_STORAGE_MONITOR_BUTTON_DISMISS_EXTENSION)));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2652:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_STORAGE_MONITOR_BUTTON_DISMISS_EXTENSION'[0m
+#define IDS_EXTENSION_STORAGE_MONITOR_BUTTON_DISMISS_EXTENSION _Pragma("whitelisted_resource_6444") 6444
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6444
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_storage_monitor.cc:408:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_STORAGE_MONITOR_BUTTON_UNINSTALL_APP :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2653:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_STORAGE_MONITOR_BUTTON_UNINSTALL_APP'[0m
+#define IDS_EXTENSION_STORAGE_MONITOR_BUTTON_UNINSTALL_APP _Pragma("whitelisted_resource_6445") 6445
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6445
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_storage_monitor.cc:409:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_STORAGE_MONITOR_BUTTON_UNINSTALL_EXTENSION)));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2654:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_STORAGE_MONITOR_BUTTON_UNINSTALL_EXTENSION'[0m
+#define IDS_EXTENSION_STORAGE_MONITOR_BUTTON_UNINSTALL_EXTENSION _Pragma("whitelisted_resource_6446") 6446
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6446
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_storage_monitor.cc:420:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_EXTENSION_STORAGE_MONITOR_TITLE),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2649:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_STORAGE_MONITOR_TITLE'[0m
+#define IDS_EXTENSION_STORAGE_MONITOR_TITLE _Pragma("whitelisted_resource_6441") 6441
+[0;1;32m                                            ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6441
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_storage_monitor.cc:422:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_STORAGE_MONITOR_TEXT,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2650:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_STORAGE_MONITOR_TEXT'[0m
+#define IDS_EXTENSION_STORAGE_MONITOR_TEXT _Pragma("whitelisted_resource_6442") 6442
+[0;1;32m                                           ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6442
+[0;1;32m ^
+[0m6 warnings generated.

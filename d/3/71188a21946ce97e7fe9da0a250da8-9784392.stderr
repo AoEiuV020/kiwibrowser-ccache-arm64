@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/browsing_history_handler.cc:99:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  *name = l10n_util::GetStringUTF8(IDS_HISTORY_UNKNOWN_DEVICE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:312:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_UNKNOWN_DEVICE'[0m
+#define IDS_HISTORY_UNKNOWN_DEVICE _Pragma("whitelisted_resource_15415") 15415
+[0;1;32m                                   ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15415
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/browsing_history_handler.cc:194:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_HISTORY_DATE_WITH_RELATIVE_TIME, date_str,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:283:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_DATE_WITH_RELATIVE_TIME'[0m
+#define IDS_HISTORY_DATE_WITH_RELATIVE_TIME _Pragma("whitelisted_resource_15386") 15386
+[0;1;32m                                            ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15386
+[0;1;32m ^
+[0m2 warnings generated.

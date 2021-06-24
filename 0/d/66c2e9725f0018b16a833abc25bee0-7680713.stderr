@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/outdated_upgrade_bubble_view.cc:86:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_UPGRADE_BUBBLE_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:145:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPGRADE_BUBBLE_TITLE'[0m
+#define IDS_UPGRADE_BUBBLE_TITLE _Pragma("whitelisted_resource_614") 614
+[0;1;32m                                 ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_614
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/outdated_upgrade_bubble_view.cc:149:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(auto_update_enabled_ ? IDS_REINSTALL_APP
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:143:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REINSTALL_APP'[0m
+#define IDS_REINSTALL_APP _Pragma("whitelisted_resource_612") 612
+[0;1;32m                          ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_612
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/outdated_upgrade_bubble_view.cc:150:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                        : IDS_REENABLE_UPDATES);
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1878:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REENABLE_UPDATES'[0m
+#define IDS_REENABLE_UPDATES _Pragma("whitelisted_resource_5483") 5483
+[0;1;32m                             ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5483
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/outdated_upgrade_bubble_view.cc:156:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      new views::Label(l10n_util::GetStringUTF16(IDS_UPGRADE_BUBBLE_TEXT));
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:146:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPGRADE_BUBBLE_TEXT'[0m
+#define IDS_UPGRADE_BUBBLE_TEXT _Pragma("whitelisted_resource_615") 615
+[0;1;32m                                ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_615
+[0;1;32m ^
+[0m4 warnings generated.

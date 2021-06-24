@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/login_handler_views.cc:57:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_LOGIN_DIALOG_OK_BUTTON_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:314:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_DIALOG_OK_BUTTON_LABEL'[0m
+#define IDS_LOGIN_DIALOG_OK_BUTTON_LABEL _Pragma("whitelisted_resource_15417") 15417
+[0;1;32m                                         ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15417
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/login_handler_views.cc:62:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_LOGIN_DIALOG_TITLE);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:313:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_DIALOG_TITLE'[0m
+#define IDS_LOGIN_DIALOG_TITLE _Pragma("whitelisted_resource_15416") 15416
+[0;1;32m                               ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15416
+[0;1;32m ^
+[0m2 warnings generated.

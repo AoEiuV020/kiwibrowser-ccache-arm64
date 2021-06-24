@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/autofill/save_card_icon_view.cc:65:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_TOOLTIP_SAVE_CREDIT_CARD);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1719:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_SAVE_CREDIT_CARD'[0m
+#define IDS_TOOLTIP_SAVE_CREDIT_CARD _Pragma("whitelisted_resource_5295") 5295
+[0;1;32m                                     ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5295
+[0;1;32m ^
+[0m1 warning generated.

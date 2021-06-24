@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/webui/policy_indicator_localized_strings_provider.cc:20:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"controlledSettingPolicy", IDS_CONTROLLED_SETTING_POLICY},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1967:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTROLLED_SETTING_POLICY'[0m
+#define IDS_CONTROLLED_SETTING_POLICY _Pragma("whitelisted_resource_5585") 5585
+[0;1;32m                                      ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5585
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_indicator_localized_strings_provider.cc:21:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"controlledSettingRecommendedMatches", IDS_CONTROLLED_SETTING_RECOMMENDED},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1970:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTROLLED_SETTING_RECOMMENDED'[0m
+#define IDS_CONTROLLED_SETTING_RECOMMENDED _Pragma("whitelisted_resource_5588") 5588
+[0;1;32m                                           ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5588
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_indicator_localized_strings_provider.cc:23:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_CONTROLLED_SETTING_HAS_RECOMMENDATION},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1971:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTROLLED_SETTING_HAS_RECOMMENDATION'[0m
+#define IDS_CONTROLLED_SETTING_HAS_RECOMMENDATION _Pragma("whitelisted_resource_5589") 5589
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5589
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_indicator_localized_strings_provider.cc:24:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"controlledSettingExtension", IDS_CONTROLLED_SETTING_EXTENSION},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1968:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTROLLED_SETTING_EXTENSION'[0m
+#define IDS_CONTROLLED_SETTING_EXTENSION _Pragma("whitelisted_resource_5586") 5586
+[0;1;32m                                         ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5586
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/policy_indicator_localized_strings_provider.cc:26:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_CONTROLLED_SETTING_EXTENSION_WITHOUT_NAME},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1969:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTROLLED_SETTING_EXTENSION_WITHOUT_NAME'[0m
+#define IDS_CONTROLLED_SETTING_EXTENSION_WITHOUT_NAME _Pragma("whitelisted_resource_5587") 5587
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5587
+[0;1;32m ^
+[0m5 warnings generated.

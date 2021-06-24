@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/task_manager_view.cc:183:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_TASK_MANAGER_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:39:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_TITLE'[0m
+#define IDS_TASK_MANAGER_TITLE _Pragma("whitelisted_resource_441") 441
+[0;1;32m                               ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_441
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/task_manager_view.cc:212:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_TASK_MANAGER_KILL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1217:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_KILL'[0m
+#define IDS_TASK_MANAGER_KILL _Pragma("whitelisted_resource_4755") 4755
+[0;1;32m                              ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4755
+[0;1;32m ^
+[0m2 warnings generated.

@@ -1,0 +1,119 @@
+[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:336:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_PASTE_AND_GO:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:344:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_PASTE:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:77:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PASTE'[0m
+#define IDS_APP_PASTE _Pragma("whitelisted_resource_27333") 27333
+[0;1;32m                      ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:726:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return command_id == IDS_PASTE_AND_GO;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:730:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  DCHECK_EQ(IDS_PASTE_AND_GO, command_id);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:730:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:732:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      model()->ClassifiesAsSearch(GetClipboardText()) ? IDS_PASTE_AND_SEARCH
+[0;1;32m                                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1671:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_SEARCH'[0m
+#define IDS_PASTE_AND_SEARCH _Pragma("whitelisted_resource_5246") 5246
+[0;1;32m                             ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5246
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:733:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                      : IDS_PASTE_AND_GO);
+[0;1;32m                                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:848:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  node_data->SetName(l10n_util::GetStringUTF8(IDS_ACCNAME_LOCATION));
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:1041:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_LOCATION'[0m
+#define IDS_ACCNAME_LOCATION _Pragma("whitelisted_resource_16179") 16179
+[0;1;32m                             ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16179
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:1053:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (command_id == IDS_APP_PASTE)
+[0;1;32m                    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:77:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PASTE'[0m
+#define IDS_APP_PASTE _Pragma("whitelisted_resource_27333") 27333
+[0;1;32m                      ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:1055:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (command_id == IDS_PASTE_AND_GO)
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:1353:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int paste_position = menu_contents->GetIndexOfCommandId(IDS_APP_PASTE);
+[0;1;32m                                                          ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:77:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_PASTE'[0m
+#define IDS_APP_PASTE _Pragma("whitelisted_resource_27333") 27333
+[0;1;32m                      ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:1356:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      paste_position + 1, IDS_PASTE_AND_GO, IDS_PASTE_AND_GO);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:1356:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      paste_position + 1, IDS_PASTE_AND_GO, IDS_PASTE_AND_GO);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1670:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASTE_AND_GO'[0m
+#define IDS_PASTE_AND_GO _Pragma("whitelisted_resource_5245") 5245
+[0;1;32m                         ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/omnibox/omnibox_view_views.cc:1364:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EDIT_SEARCH_ENGINES);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:954:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDIT_SEARCH_ENGINES'[0m
+#define IDS_EDIT_SEARCH_ENGINES _Pragma("whitelisted_resource_4298") 4298
+[0;1;32m                                ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4298
+[0;1;32m ^
+[0m14 warnings generated.

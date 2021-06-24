@@ -1,0 +1,19 @@
+[1m../../content/browser/gpu/gpu_internals_ui.cc:69:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("gpu_internals.js", IDR_GPU_INTERNALS_JS);
+[0;1;32m                                              ^
+[0m[1mgen/content/grit/content_resources.h:16:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GPU_INTERNALS_JS'[0m
+#define IDR_GPU_INTERNALS_JS _Pragma("whitelisted_resource_20411") 20411
+[0;1;32m                             ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20411
+[0;1;32m ^
+[0m[1m../../content/browser/gpu/gpu_internals_ui.cc:70:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_GPU_INTERNALS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/content/grit/content_resources.h:15:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GPU_INTERNALS_HTML'[0m
+#define IDR_GPU_INTERNALS_HTML _Pragma("whitelisted_resource_20410") 20410
+[0;1;32m                               ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20410
+[0;1;32m ^
+[0m2 warnings generated.

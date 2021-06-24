@@ -1,0 +1,235 @@
+[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:201:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF16(IDS_PAYMENTS_ROW_ACCESSIBLE_NAME_FORMAT,
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:600:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ROW_ACCESSIBLE_NAME_FORMAT'[0m
+#define IDS_PAYMENTS_ROW_ACCESSIBLE_NAME_FORMAT _Pragma("whitelisted_resource_15726") 15726
+[0;1;32m                                                ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15726
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:395:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          this, l10n_util::GetStringUTF16(IDS_PAYMENTS_PAY_BUTTON)));
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:524:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PAY_BUTTON'[0m
+#define IDS_PAYMENTS_PAY_BUTTON _Pragma("whitelisted_resource_15632") 15632
+[0;1;32m                                ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15632
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:403:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CANCEL);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:411:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PAYMENTS_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:494:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_TITLE'[0m
+#define IDS_PAYMENTS_TITLE _Pragma("whitelisted_resource_15602") 15602
+[0;1;32m                           ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15602
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:618:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PAYMENT_REQUEST_ORDER_SUMMARY_MORE_ITEMS, hidden_item_count));
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:580:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_ORDER_SUMMARY_MORE_ITEMS'[0m
+#define IDS_PAYMENT_REQUEST_ORDER_SUMMARY_MORE_ITEMS _Pragma("whitelisted_resource_15706") 15706
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15706
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:623:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_PAYMENT_REQUEST_ORDER_SUMMARY_MULTIPLE_CURRENCY_INDICATOR));
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:581:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_ORDER_SUMMARY_MULTIPLE_CURRENCY_INDICATOR'[0m
+#define IDS_PAYMENT_REQUEST_ORDER_SUMMARY_MULTIPLE_CURRENCY_INDICATOR _Pragma("whitelisted_resource_15707") 15707
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15707
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:645:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_PAYMENTS_ORDER_SUMMARY_LABEL));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:511:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ORDER_SUMMARY_LABEL'[0m
+#define IDS_PAYMENTS_ORDER_SUMMARY_LABEL _Pragma("whitelisted_resource_15619") 15619
+[0;1;32m                                         ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15619
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:692:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      l10n_util::GetStringUTF16(IDS_ADD),
+[0;1;32m                                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1023:17: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD'[0m
+#define IDS_ADD _Pragma("whitelisted_resource_16161") 16161
+[0;1;32m                ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16161
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:700:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      l10n_util::GetStringUTF16(IDS_CHOOSE),
+[0;1;32m                                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:704:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENT_REQUEST_SHIPPING_ADDRESSES_PREVIEW,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:595:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_SHIPPING_ADDRESSES_PREVIEW'[0m
+#define IDS_PAYMENT_REQUEST_SHIPPING_ADDRESSES_PREVIEW _Pragma("whitelisted_resource_15721") 15721
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15721
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:710:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      l10n_util::GetStringUTF16(IDS_CHOOSE),
+[0;1;32m                                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:731:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_PAYMENT_REQUEST_PAYMENT_METHOD_SECTION_NAME));
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:512:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_PAYMENT_METHOD_SECTION_NAME'[0m
+#define IDS_PAYMENT_REQUEST_PAYMENT_METHOD_SECTION_NAME _Pragma("whitelisted_resource_15620") 15620
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15620
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:769:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      l10n_util::GetStringUTF16(IDS_ADD),
+[0;1;32m                                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1023:17: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD'[0m
+#define IDS_ADD _Pragma("whitelisted_resource_16161") 16161
+[0;1;32m                ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16161
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:774:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CHOOSE),
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:778:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENT_REQUEST_PAYMENT_METHODS_PREVIEW,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:594:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_PAYMENT_METHODS_PREVIEW'[0m
+#define IDS_PAYMENT_REQUEST_PAYMENT_METHODS_PREVIEW _Pragma("whitelisted_resource_15720") 15720
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15720
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:783:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CHOOSE),
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:812:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PAYMENT_REQUEST_CONTACT_INFO_SECTION_NAME));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:513:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_CONTACT_INFO_SECTION_NAME'[0m
+#define IDS_PAYMENT_REQUEST_CONTACT_INFO_SECTION_NAME _Pragma("whitelisted_resource_15621") 15621
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15621
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:832:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      l10n_util::GetStringUTF16(IDS_ADD),
+[0;1;32m                                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1023:17: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD'[0m
+#define IDS_ADD _Pragma("whitelisted_resource_16161") 16161
+[0;1;32m                ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16161
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:840:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      l10n_util::GetStringUTF16(IDS_CHOOSE),
+[0;1;32m                                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:848:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENT_REQUEST_CONTACTS_PREVIEW,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:597:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_CONTACTS_PREVIEW'[0m
+#define IDS_PAYMENT_REQUEST_CONTACTS_PREVIEW _Pragma("whitelisted_resource_15723") 15723
+[0;1;32m                                             ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15723
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:852:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CHOOSE), /*button_enabled=*/true);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:903:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_PAYMENT_REQUEST_SHIPPING_OPTIONS_PREVIEW,
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:596:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_SHIPPING_OPTIONS_PREVIEW'[0m
+#define IDS_PAYMENT_REQUEST_SHIPPING_OPTIONS_PREVIEW _Pragma("whitelisted_resource_15722") 15722
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15722
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:906:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_CHOOSE),
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1030:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHOOSE'[0m
+#define IDS_CHOOSE _Pragma("whitelisted_resource_16168") 16168
+[0;1;32m                   ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:934:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:553:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS'[0m
+#define IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS _Pragma("whitelisted_resource_15661") 15661
+[0;1;32m                                               ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15661
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:940:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS_SIGNED_IN,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:554:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS_SIGNED_IN'[0m
+#define IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS_SIGNED_IN _Pragma("whitelisted_resource_15662") 15662
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15662
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/payment_sheet_view_controller.cc:944:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS_SIGNED_OUT);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:555:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS_SIGNED_OUT'[0m
+#define IDS_PAYMENTS_CARD_AND_ADDRESS_SETTINGS_SIGNED_OUT _Pragma("whitelisted_resource_15663") 15663
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15663
+[0;1;32m ^
+[0m26 warnings generated.

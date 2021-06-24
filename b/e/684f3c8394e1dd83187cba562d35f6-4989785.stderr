@@ -1,0 +1,190 @@
+[1m../../chrome/browser/ui/webui/device_log_ui.cc:60:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("titleText", IDS_DEVICE_LOG_TITLE);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2754:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TITLE'[0m
+#define IDS_DEVICE_LOG_TITLE _Pragma("whitelisted_resource_6590") 6590
+[0;1;32m                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6590
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:61:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("autoRefreshText", IDS_DEVICE_AUTO_REFRESH);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2755:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_AUTO_REFRESH'[0m
+#define IDS_DEVICE_AUTO_REFRESH _Pragma("whitelisted_resource_6591") 6591
+[0;1;32m                                ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6591
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:62:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logRefreshText", IDS_DEVICE_LOG_REFRESH);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2756:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_REFRESH'[0m
+#define IDS_DEVICE_LOG_REFRESH _Pragma("whitelisted_resource_6592") 6592
+[0;1;32m                               ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6592
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:64:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logLevelShowText", IDS_DEVICE_LOG_LEVEL_SHOW);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2757:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_LEVEL_SHOW'[0m
+#define IDS_DEVICE_LOG_LEVEL_SHOW _Pragma("whitelisted_resource_6593") 6593
+[0;1;32m                                  ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6593
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:65:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logLevelErrorText", IDS_DEVICE_LOG_LEVEL_ERROR);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2758:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_LEVEL_ERROR'[0m
+#define IDS_DEVICE_LOG_LEVEL_ERROR _Pragma("whitelisted_resource_6594") 6594
+[0;1;32m                                   ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6594
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:66:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logLevelUserText", IDS_DEVICE_LOG_LEVEL_USER);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2759:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_LEVEL_USER'[0m
+#define IDS_DEVICE_LOG_LEVEL_USER _Pragma("whitelisted_resource_6595") 6595
+[0;1;32m                                  ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6595
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:67:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logLevelEventText", IDS_DEVICE_LOG_LEVEL_EVENT);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2760:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_LEVEL_EVENT'[0m
+#define IDS_DEVICE_LOG_LEVEL_EVENT _Pragma("whitelisted_resource_6596") 6596
+[0;1;32m                                   ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6596
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:68:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logLevelDebugText", IDS_DEVICE_LOG_LEVEL_DEBUG);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2761:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_LEVEL_DEBUG'[0m
+#define IDS_DEVICE_LOG_LEVEL_DEBUG _Pragma("whitelisted_resource_6597") 6597
+[0;1;32m                                   ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6597
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:69:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logLevelFileinfoText", IDS_DEVICE_LOG_FILEINFO);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2769:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_FILEINFO'[0m
+#define IDS_DEVICE_LOG_FILEINFO _Pragma("whitelisted_resource_6605") 6605
+[0;1;32m                                ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6605
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:71:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           IDS_DEVICE_LOG_TIME_DETAIL);
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2770:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TIME_DETAIL'[0m
+#define IDS_DEVICE_LOG_TIME_DETAIL _Pragma("whitelisted_resource_6606") 6606
+[0;1;32m                                   ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6606
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:73:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logTypeLoginText", IDS_DEVICE_LOG_TYPE_LOGIN);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2762:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_LOGIN'[0m
+#define IDS_DEVICE_LOG_TYPE_LOGIN _Pragma("whitelisted_resource_6598") 6598
+[0;1;32m                                  ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6598
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:74:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logTypeNetworkText", IDS_DEVICE_LOG_TYPE_NETWORK);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2763:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_NETWORK'[0m
+#define IDS_DEVICE_LOG_TYPE_NETWORK _Pragma("whitelisted_resource_6599") 6599
+[0;1;32m                                    ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6599
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:75:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logTypePowerText", IDS_DEVICE_LOG_TYPE_POWER);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2764:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_POWER'[0m
+#define IDS_DEVICE_LOG_TYPE_POWER _Pragma("whitelisted_resource_6600") 6600
+[0;1;32m                                  ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6600
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:77:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           IDS_DEVICE_LOG_TYPE_BLUETOOTH);
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2765:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_BLUETOOTH'[0m
+#define IDS_DEVICE_LOG_TYPE_BLUETOOTH _Pragma("whitelisted_resource_6601") 6601
+[0;1;32m                                      ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6601
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:78:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logTypeUsbText", IDS_DEVICE_LOG_TYPE_USB);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2766:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_USB'[0m
+#define IDS_DEVICE_LOG_TYPE_USB _Pragma("whitelisted_resource_6602") 6602
+[0;1;32m                                ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6602
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:79:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logTypeHidText", IDS_DEVICE_LOG_TYPE_HID);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2767:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_HID'[0m
+#define IDS_DEVICE_LOG_TYPE_HID _Pragma("whitelisted_resource_6603") 6603
+[0;1;32m                                ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6603
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:80:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logTypePrinterText", IDS_DEVICE_LOG_TYPE_PRINTER);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2768:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_TYPE_PRINTER'[0m
+#define IDS_DEVICE_LOG_TYPE_PRINTER _Pragma("whitelisted_resource_6604") 6604
+[0;1;32m                                    ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6604
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:82:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddLocalizedString("logEntryFormat", IDS_DEVICE_LOG_ENTRY);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2771:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_LOG_ENTRY'[0m
+#define IDS_DEVICE_LOG_ENTRY _Pragma("whitelisted_resource_6607") 6607
+[0;1;32m                             ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6607
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:84:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddResourcePath("device_log_ui.css", IDR_DEVICE_LOG_UI_CSS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:205:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVICE_LOG_UI_CSS'[0m
+#define IDR_DEVICE_LOG_UI_CSS _Pragma("whitelisted_resource_11342") 11342
+[0;1;32m                              ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11342
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:85:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->AddResourcePath("device_log_ui.js", IDR_DEVICE_LOG_UI_JS);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:204:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVICE_LOG_UI_JS'[0m
+#define IDR_DEVICE_LOG_UI_JS _Pragma("whitelisted_resource_11341") 11341
+[0;1;32m                             ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11341
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/device_log_ui.cc:86:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html->SetDefaultResource(IDR_DEVICE_LOG_UI_HTML);
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/browser_resources.h:203:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVICE_LOG_UI_HTML'[0m
+#define IDR_DEVICE_LOG_UI_HTML _Pragma("whitelisted_resource_11340") 11340
+[0;1;32m                               ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11340
+[0;1;32m ^
+[0m21 warnings generated.

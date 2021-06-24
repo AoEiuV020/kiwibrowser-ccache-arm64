@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/webui/theme_source.cc:122:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        resource_id = IDR_PRODUCT_LOGO_32;
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:56:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_32'[0m
+#define IDR_PRODUCT_LOGO_32 _Pragma("whitelisted_resource_10334") 10334
+[0;1;32m                            ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10334
+[0;1;32m ^
+[0m1 warning generated.

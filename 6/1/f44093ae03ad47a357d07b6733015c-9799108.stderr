@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/location_bar/location_bar_view.cc:265:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_OMNIBOX_CLEAR_ALL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1681:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OMNIBOX_CLEAR_ALL'[0m
+#define IDS_OMNIBOX_CLEAR_ALL _Pragma("whitelisted_resource_5256") 5256
+[0;1;32m                              ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5256
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/location_bar_view.cc:943:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SHORT_PRODUCT_NAME);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHORT_PRODUCT_NAME'[0m
+#define IDS_SHORT_PRODUCT_NAME _Pragma("whitelisted_resource_430") 430
+[0;1;32m                               ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_430
+[0;1;32m ^
+[0m2 warnings generated.

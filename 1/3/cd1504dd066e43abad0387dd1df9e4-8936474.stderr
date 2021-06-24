@@ -1,0 +1,73 @@
+[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:772:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      extension->path(), IDS_APPLICATION_INFO_SIZE_SMALL_LABEL,
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1111:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_SIZE_SMALL_LABEL'[0m
+#define IDS_APPLICATION_INFO_SIZE_SMALL_LABEL _Pragma("whitelisted_resource_4479") 4479
+[0;1;32m                                              ^
+[0m[1m<scratch space>:185:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4479
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1095:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  l10n_util::GetStringUTF16(IDS_EXTENSION_LOAD_FROM_DIRECTORY),
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1484:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_FROM_DIRECTORY'[0m
+#define IDS_EXTENSION_LOAD_FROM_DIRECTORY _Pragma("whitelisted_resource_5031") 5031
+[0;1;32m                                          ^
+[0m[1m<scratch space>:187:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5031
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1388:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PACK_DIALOG_ERROR_ROOT_REQUIRED);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1489:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_ERROR_ROOT_REQUIRED'[0m
+#define IDS_EXTENSION_PACK_DIALOG_ERROR_ROOT_REQUIRED _Pragma("whitelisted_resource_5036") 5036
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5036
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1391:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PACK_DIALOG_ERROR_ROOT_INVALID);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1490:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_ERROR_ROOT_INVALID'[0m
+#define IDS_EXTENSION_PACK_DIALOG_ERROR_ROOT_INVALID _Pragma("whitelisted_resource_5037") 5037
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5037
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1399:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_PACK_DIALOG_ERROR_KEY_INVALID);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1491:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_ERROR_KEY_INVALID'[0m
+#define IDS_EXTENSION_PACK_DIALOG_ERROR_KEY_INVALID _Pragma("whitelisted_resource_5038") 5038
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5038
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1664:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    select_title = l10n_util::GetStringUTF16(IDS_EXTENSION_LOAD_FROM_DIRECTORY);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1484:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_FROM_DIRECTORY'[0m
+#define IDS_EXTENSION_LOAD_FROM_DIRECTORY _Pragma("whitelisted_resource_5031") 5031
+[0;1;32m                                          ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5031
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1667:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_PACK_DIALOG_SELECT_KEY);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1487:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_SELECT_KEY'[0m
+#define IDS_EXTENSION_PACK_DIALOG_SELECT_KEY _Pragma("whitelisted_resource_5034") 5034
+[0;1;32m                                             ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5034
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/developer_private_api.cc:1672:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_PACK_DIALOG_KEY_FILE_TYPE_DESCRIPTION));
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1488:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_KEY_FILE_TYPE_DESCRIPTION'[0m
+#define IDS_EXTENSION_PACK_DIALOG_KEY_FILE_TYPE_DESCRIPTION _Pragma("whitelisted_resource_5035") 5035
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5035
+[0;1;32m ^
+[0m8 warnings generated.

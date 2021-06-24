@@ -1,0 +1,145 @@
+[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:70:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DEFAULT_TAB_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:320:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_TAB_TITLE'[0m
+#define IDS_DEFAULT_TAB_TITLE _Pragma("whitelisted_resource_15423") 15423
+[0;1;32m                              ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15423
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:152:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_WAITING_FOR_SOCKET_SLOT);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1884:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_WAITING_FOR_SOCKET_SLOT'[0m
+#define IDS_LOAD_STATE_WAITING_FOR_SOCKET_SLOT _Pragma("whitelisted_resource_5489") 5489
+[0;1;32m                                               ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5489
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:157:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_LOAD_STATE_WAITING_FOR_DELEGATE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1885:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_WAITING_FOR_DELEGATE'[0m
+#define IDS_LOAD_STATE_WAITING_FOR_DELEGATE _Pragma("whitelisted_resource_5490") 5490
+[0;1;32m                                            ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5490
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:162:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_LOAD_STATE_WAITING_FOR_DELEGATE_GENERIC);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1886:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_WAITING_FOR_DELEGATE_GENERIC'[0m
+#define IDS_LOAD_STATE_WAITING_FOR_DELEGATE_GENERIC _Pragma("whitelisted_resource_5491") 5491
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5491
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:167:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_WAITING_FOR_CACHE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1887:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_WAITING_FOR_CACHE'[0m
+#define IDS_LOAD_STATE_WAITING_FOR_CACHE _Pragma("whitelisted_resource_5492") 5492
+[0;1;32m                                         ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5492
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:171:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_WAITING_FOR_APPCACHE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1888:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_WAITING_FOR_APPCACHE'[0m
+#define IDS_LOAD_STATE_WAITING_FOR_APPCACHE _Pragma("whitelisted_resource_5493") 5493
+[0;1;32m                                            ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5493
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:175:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_ESTABLISHING_PROXY_TUNNEL);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1889:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_ESTABLISHING_PROXY_TUNNEL'[0m
+#define IDS_LOAD_STATE_ESTABLISHING_PROXY_TUNNEL _Pragma("whitelisted_resource_5494") 5494
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5494
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:179:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_DOWNLOADING_PAC_FILE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1892:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_DOWNLOADING_PAC_FILE'[0m
+#define IDS_LOAD_STATE_DOWNLOADING_PAC_FILE _Pragma("whitelisted_resource_5497") 5497
+[0;1;32m                                            ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5497
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:183:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_RESOLVING_PROXY_FOR_URL);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1890:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_RESOLVING_PROXY_FOR_URL'[0m
+#define IDS_LOAD_STATE_RESOLVING_PROXY_FOR_URL _Pragma("whitelisted_resource_5495") 5495
+[0;1;32m                                               ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5495
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:187:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_LOAD_STATE_RESOLVING_HOST_IN_PAC_FILE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1891:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_RESOLVING_HOST_IN_PAC_FILE'[0m
+#define IDS_LOAD_STATE_RESOLVING_HOST_IN_PAC_FILE _Pragma("whitelisted_resource_5496") 5496
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5496
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:190:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *status_text = l10n_util::GetStringUTF16(IDS_LOAD_STATE_RESOLVING_HOST);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1893:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_RESOLVING_HOST'[0m
+#define IDS_LOAD_STATE_RESOLVING_HOST _Pragma("whitelisted_resource_5498") 5498
+[0;1;32m                                      ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5498
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:193:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *status_text = l10n_util::GetStringUTF16(IDS_LOAD_STATE_CONNECTING);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1894:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_CONNECTING'[0m
+#define IDS_LOAD_STATE_CONNECTING _Pragma("whitelisted_resource_5499") 5499
+[0;1;32m                                  ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5499
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:196:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *status_text = l10n_util::GetStringUTF16(IDS_LOAD_STATE_SSL_HANDSHAKE);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1895:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_SSL_HANDSHAKE'[0m
+#define IDS_LOAD_STATE_SSL_HANDSHAKE _Pragma("whitelisted_resource_5500") 5500
+[0;1;32m                                     ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5500
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:201:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_LOAD_STATE_SENDING_REQUEST_WITH_PROGRESS,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1897:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_SENDING_REQUEST_WITH_PROGRESS'[0m
+#define IDS_LOAD_STATE_SENDING_REQUEST_WITH_PROGRESS _Pragma("whitelisted_resource_5502") 5502
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5502
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:207:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_LOAD_STATE_SENDING_REQUEST);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1896:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_SENDING_REQUEST'[0m
+#define IDS_LOAD_STATE_SENDING_REQUEST _Pragma("whitelisted_resource_5501") 5501
+[0;1;32m                                       ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5501
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/tab_contents/core_tab_helper.cc:212:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_LOAD_STATE_WAITING_FOR_RESPONSE,
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1898:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOAD_STATE_WAITING_FOR_RESPONSE'[0m
+#define IDS_LOAD_STATE_WAITING_FOR_RESPONSE _Pragma("whitelisted_resource_5503") 5503
+[0;1;32m                                            ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5503
+[0;1;32m ^
+[0m16 warnings generated.

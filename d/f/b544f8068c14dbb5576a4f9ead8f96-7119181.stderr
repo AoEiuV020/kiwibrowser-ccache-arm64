@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/about_ui.cc:430:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    int idr = IDR_ABOUT_UI_CREDITS_HTML;
+[0;1;32m              ^
+[0m[1mgen/components/grit/components_resources.h:5:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_UI_CREDITS_HTML'[0m
+#define IDR_ABOUT_UI_CREDITS_HTML _Pragma("whitelisted_resource_17010") 17010
+[0;1;32m                                  ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17010
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/about_ui.cc:432:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      idr = IDR_ABOUT_UI_CREDITS_JS;
+[0;1;32m            ^
+[0m[1mgen/components/grit/components_resources.h:6:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_UI_CREDITS_JS'[0m
+#define IDR_ABOUT_UI_CREDITS_JS _Pragma("whitelisted_resource_17011") 17011
+[0;1;32m                                ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17011
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/about_ui.cc:437:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    if (idr == IDR_ABOUT_UI_CREDITS_HTML) {
+[0;1;32m               ^
+[0m[1mgen/components/grit/components_resources.h:5:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_UI_CREDITS_HTML'[0m
+#define IDR_ABOUT_UI_CREDITS_HTML _Pragma("whitelisted_resource_17010") 17010
+[0;1;32m                                  ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17010
+[0;1;32m ^
+[0m3 warnings generated.

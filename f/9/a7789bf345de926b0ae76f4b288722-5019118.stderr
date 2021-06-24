@@ -1,0 +1,28 @@
+[1m../../content/browser/process_internals/process_internals_ui.cc:37:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("process_internals.js", IDR_PROCESS_INTERNALS_JS);
+[0;1;32m                                                  ^
+[0m[1mgen/content/grit/content_resources.h:36:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROCESS_INTERNALS_JS'[0m
+#define IDR_PROCESS_INTERNALS_JS _Pragma("whitelisted_resource_20431") 20431
+[0;1;32m                                 ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20431
+[0;1;32m ^
+[0m[1m../../content/browser/process_internals/process_internals_ui.cc:39:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_PROCESS_INTERNALS_MOJO_JS);
+[0;1;32m                          ^
+[0m[1mgen/content/grit/content_resources.h:35:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROCESS_INTERNALS_MOJO_JS'[0m
+#define IDR_PROCESS_INTERNALS_MOJO_JS _Pragma("whitelisted_resource_20430") 20430
+[0;1;32m                                      ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20430
+[0;1;32m ^
+[0m[1m../../content/browser/process_internals/process_internals_ui.cc:40:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_PROCESS_INTERNALS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/content/grit/content_resources.h:34:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROCESS_INTERNALS_HTML'[0m
+#define IDR_PROCESS_INTERNALS_HTML _Pragma("whitelisted_resource_20429") 20429
+[0;1;32m                                   ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20429
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,64 @@
+[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:244:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return profile_to_edit_ ? l10n_util::GetStringUTF16(IDS_PAYMENTS_EDIT_ADDRESS)
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:528:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EDIT_ADDRESS'[0m
+#define IDS_PAYMENTS_EDIT_ADDRESS _Pragma("whitelisted_resource_15636") 15636
+[0;1;32m                                  ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15636
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:245:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          : l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_ADDRESS);
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:527:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_ADDRESS'[0m
+#define IDS_PAYMENTS_ADD_ADDRESS _Pragma("whitelisted_resource_15635") 15635
+[0;1;32m                                 ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15635
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:329:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PAYMENTS_PHONE_INVALID_VALIDATION_MESSAGE);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:564:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PHONE_INVALID_VALIDATION_MESSAGE'[0m
+#define IDS_PAYMENTS_PHONE_INVALID_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15690") 15690
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15690
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:335:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        value == l10n_util::GetStringUTF16(IDS_AUTOFILL_LOADING_REGIONS)) {
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:98:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_LOADING_REGIONS'[0m
+#define IDS_AUTOFILL_LOADING_REGIONS _Pragma("whitelisted_resource_15196") 15196
+[0;1;32m                                     ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15196
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:345:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:577:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE'[0m
+#define IDS_PREF_EDIT_DIALOG_FIELD_REQUIRED_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15703") 15703
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15703
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:470:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_LIBADDRESSINPUT_COUNTRY_OR_REGION_LABEL),
+[0;1;32m                ^
+[0m[1mgen/third_party/libaddressinput/messages.h:5:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_COUNTRY_OR_REGION_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_COUNTRY_OR_REGION_LABEL _Pragma("whitelisted_resource_25800") 25800
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25800
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/shipping_address_editor_view_controller.cc:479:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTOFILL_FIELD_LABEL_PHONE),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1953:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_FIELD_LABEL_PHONE'[0m
+#define IDS_AUTOFILL_FIELD_LABEL_PHONE _Pragma("whitelisted_resource_5571") 5571
+[0;1;32m                                       ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5571
+[0;1;32m ^
+[0m7 warnings generated.

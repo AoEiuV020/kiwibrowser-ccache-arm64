@@ -1,0 +1,209 @@
+[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:90:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SAVE);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:1024:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE'[0m
+#define IDS_SAVE _Pragma("whitelisted_resource_16162") 16162
+[0;1;32m                 ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16162
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:144:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EDITBOOKMARK_DIALOG_WIDTH_CHARS,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/locale_settings.h:8:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDITBOOKMARK_DIALOG_WIDTH_CHARS'[0m
+#define IDS_EDITBOOKMARK_DIALOG_WIDTH_CHARS _Pragma("whitelisted_resource_10008") 10008
+[0;1;32m                                            ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10008
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:145:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EDITBOOKMARK_DIALOG_HEIGHT_LINES));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/locale_settings.h:9:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDITBOOKMARK_DIALOG_HEIGHT_LINES'[0m
+#define IDS_EDITBOOKMARK_DIALOG_HEIGHT_LINES _Pragma("whitelisted_resource_10009") 10009
+[0;1;32m                                             ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10009
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:171:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  node_data->SetName(l10n_util::GetStringUTF8(IDS_BOOKMARK_EDITOR_TITLE));
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:109:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_TITLE'[0m
+#define IDS_BOOKMARK_EDITOR_TITLE _Pragma("whitelisted_resource_15207") 15207
+[0;1;32m                                  ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15207
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:186:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_EDIT:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:825:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDIT'[0m
+#define IDS_EDIT _Pragma("whitelisted_resource_4167") 4167
+[0;1;32m                 ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4167
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:187:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_DELETE:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:912:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DELETE'[0m
+#define IDS_DELETE _Pragma("whitelisted_resource_4254") 4254
+[0;1;32m                   ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4254
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:189:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM _Pragma("whitelisted_resource_850") 850
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_850
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:205:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (command_id == IDS_EDIT) {
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:825:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDIT'[0m
+#define IDS_EDIT _Pragma("whitelisted_resource_4167") 4167
+[0;1;32m                 ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4167
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:207:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  } else if (command_id == IDS_DELETE) {
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:912:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DELETE'[0m
+#define IDS_DELETE _Pragma("whitelisted_resource_4254") 4254
+[0;1;32m                   ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4254
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:224:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    DCHECK_EQ(IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM, command_id);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM _Pragma("whitelisted_resource_850") 850
+[0;1;32m                                                 ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:224:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1mgen/chrome/grit/generated_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM _Pragma("whitelisted_resource_850") 850
+[0;1;32m                                                 ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:311:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_EDITOR_NAME_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:42:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NAME_LABEL'[0m
+#define IDS_BOOKMARK_EDITOR_NAME_LABEL _Pragma("whitelisted_resource_843") 843
+[0;1;32m                                       ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_843
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:319:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    title = l10n_util::GetStringUTF16(IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:110:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME _Pragma("whitelisted_resource_15208") 15208
+[0;1;32m                                            ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15208
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:326:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_AX_EDITOR_NAME_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:43:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_AX_EDITOR_NAME_LABEL'[0m
+#define IDS_BOOKMARK_AX_EDITOR_NAME_LABEL _Pragma("whitelisted_resource_844") 844
+[0;1;32m                                          ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_844
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:337:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_BOOKMARK_EDITOR_NEW_FOLDER_BUTTON)));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:47:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_BUTTON'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_BUTTON _Pragma("whitelisted_resource_849") 849
+[0;1;32m                                              ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_849
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:384:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_BOOKMARK_EDITOR_URL_LABEL));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:45:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_URL_LABEL'[0m
+#define IDS_BOOKMARK_EDITOR_URL_LABEL _Pragma("whitelisted_resource_847") 847
+[0;1;32m                                      ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_847
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:390:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_BOOKMARK_AX_EDITOR_URL_LABEL));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:44:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_AX_EDITOR_URL_LABEL'[0m
+#define IDS_BOOKMARK_AX_EDITOR_URL_LABEL _Pragma("whitelisted_resource_846") 846
+[0;1;32m                                         ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_846
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:478:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME), 0),
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:110:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME _Pragma("whitelisted_resource_15208") 15208
+[0;1;32m                                            ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15208
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:648:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    context_menu_model_->AddItemWithStringId(IDS_EDIT, IDS_EDIT);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:825:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDIT'[0m
+#define IDS_EDIT _Pragma("whitelisted_resource_4167") 4167
+[0;1;32m                 ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4167
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:648:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    context_menu_model_->AddItemWithStringId(IDS_EDIT, IDS_EDIT);
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:825:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EDIT'[0m
+#define IDS_EDIT _Pragma("whitelisted_resource_4167") 4167
+[0;1;32m                 ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4167
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:649:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    context_menu_model_->AddItemWithStringId(IDS_DELETE, IDS_DELETE);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:912:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DELETE'[0m
+#define IDS_DELETE _Pragma("whitelisted_resource_4254") 4254
+[0;1;32m                   ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4254
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:649:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    context_menu_model_->AddItemWithStringId(IDS_DELETE, IDS_DELETE);
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:912:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DELETE'[0m
+#define IDS_DELETE _Pragma("whitelisted_resource_4254") 4254
+[0;1;32m                   ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4254
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:651:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM _Pragma("whitelisted_resource_850") 850
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_850
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_editor_view.cc:652:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_MENU_ITEM _Pragma("whitelisted_resource_850") 850
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_850
+[0;1;32m ^
+[0m24 warnings generated.

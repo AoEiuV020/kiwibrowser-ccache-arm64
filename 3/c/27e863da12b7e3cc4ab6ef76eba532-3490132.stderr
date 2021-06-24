@@ -1,0 +1,64 @@
+[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:16:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          prompt->multiple() ? IDS_DEVICE_PERMISSIONS_PROMPT_MULTIPLE_SELECTION
+[0;1;32m                               ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:51:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_PERMISSIONS_PROMPT_MULTIPLE_SELECTION'[0m
+#define IDS_DEVICE_PERMISSIONS_PROMPT_MULTIPLE_SELECTION _Pragma("whitelisted_resource_24666") 24666
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24666
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:17:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             : IDS_DEVICE_PERMISSIONS_PROMPT_SINGLE_SELECTION,
+[0;1;32m                               ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:50:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_PERMISSIONS_PROMPT_SINGLE_SELECTION'[0m
+#define IDS_DEVICE_PERMISSIONS_PROMPT_SINGLE_SELECTION _Pragma("whitelisted_resource_24665") 24665
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24665
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:18:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          prompt->multiple() ? IDS_DEVICE_PERMISSIONS_PROMPT_MULTIPLE_SELECTION
+[0;1;32m                               ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:51:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_PERMISSIONS_PROMPT_MULTIPLE_SELECTION'[0m
+#define IDS_DEVICE_PERMISSIONS_PROMPT_MULTIPLE_SELECTION _Pragma("whitelisted_resource_24666") 24666
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24666
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:19:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             : IDS_DEVICE_PERMISSIONS_PROMPT_SINGLE_SELECTION),
+[0;1;32m                               ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:50:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_PERMISSIONS_PROMPT_SINGLE_SELECTION'[0m
+#define IDS_DEVICE_PERMISSIONS_PROMPT_SINGLE_SELECTION _Pragma("whitelisted_resource_24665") 24665
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24665
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:37:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2807:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT'[0m
+#define IDS_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT _Pragma("whitelisted_resource_6648") 6648
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6648
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:41:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DEVICE_PERMISSIONS_DIALOG_SELECT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2753:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_PERMISSIONS_DIALOG_SELECT'[0m
+#define IDS_DEVICE_PERMISSIONS_DIALOG_SELECT _Pragma("whitelisted_resource_6589") 6589
+[0;1;32m                                             ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6589
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/device_permissions_dialog_controller.cc:56:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID, device_name,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2806:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID'[0m
+#define IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID _Pragma("whitelisted_resource_6647") 6647
+[0;1;32m                                               ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6647
+[0;1;32m ^
+[0m7 warnings generated.

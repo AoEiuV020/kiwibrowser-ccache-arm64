@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/domain_reliability_internals_ui.cc:26:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_DOMAIN_RELIABILITY_INTERNALS_CSS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:57:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOMAIN_RELIABILITY_INTERNALS_CSS'[0m
+#define IDR_DOMAIN_RELIABILITY_INTERNALS_CSS _Pragma("whitelisted_resource_11044") 11044
+[0;1;32m                                             ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11044
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/domain_reliability_internals_ui.cc:28:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_DOMAIN_RELIABILITY_INTERNALS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:58:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOMAIN_RELIABILITY_INTERNALS_JS'[0m
+#define IDR_DOMAIN_RELIABILITY_INTERNALS_JS _Pragma("whitelisted_resource_11045") 11045
+[0;1;32m                                            ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11045
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/domain_reliability_internals_ui.cc:29:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_DOMAIN_RELIABILITY_INTERNALS_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:56:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOMAIN_RELIABILITY_INTERNALS_HTML'[0m
+#define IDR_DOMAIN_RELIABILITY_INTERNALS_HTML _Pragma("whitelisted_resource_11043") 11043
+[0;1;32m                                              ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11043
+[0;1;32m ^
+[0m3 warnings generated.

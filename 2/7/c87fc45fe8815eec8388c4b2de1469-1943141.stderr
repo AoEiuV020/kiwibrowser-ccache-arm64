@@ -1,0 +1,19 @@
+[1m../../chrome/browser/extensions/pack_extension_job.cc:119:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_PACK_DIALOG_SUCCESS_BODY_UPDATE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1493:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_SUCCESS_BODY_UPDATE'[0m
+#define IDS_EXTENSION_PACK_DIALOG_SUCCESS_BODY_UPDATE _Pragma("whitelisted_resource_5040") 5040
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5040
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/pack_extension_job.cc:123:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_PACK_DIALOG_SUCCESS_BODY_NEW,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1492:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_SUCCESS_BODY_NEW'[0m
+#define IDS_EXTENSION_PACK_DIALOG_SUCCESS_BODY_NEW _Pragma("whitelisted_resource_5039") 5039
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5039
+[0;1;32m ^
+[0m2 warnings generated.

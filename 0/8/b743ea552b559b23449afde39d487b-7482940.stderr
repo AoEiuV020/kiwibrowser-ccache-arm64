@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/media_router/media_router_file_dialog.cc:62:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_ROUTER_FILE_DIALOG_AUDIO_VIDEO_FILTER));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:165:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_FILE_DIALOG_AUDIO_VIDEO_FILTER'[0m
+#define IDS_MEDIA_ROUTER_FILE_DIALOG_AUDIO_VIDEO_FILTER _Pragma("whitelisted_resource_2574") 2574
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2574
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/media_router/media_router_file_dialog.cc:249:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_ROUTER_ISSUE_FILE_CAST_ERROR, GetFileName(file_info));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:144:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_FILE_CAST_ERROR'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_FILE_CAST_ERROR _Pragma("whitelisted_resource_2553") 2553
+[0;1;32m                                               ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2553
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/media_router/media_router_file_dialog.cc:258:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_ROUTER_ISSUE_FILE_CAST_GENERIC_ERROR);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:143:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_FILE_CAST_GENERIC_ERROR'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_FILE_CAST_GENERIC_ERROR _Pragma("whitelisted_resource_2552") 2552
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2552
+[0;1;32m ^
+[0m3 warnings generated.

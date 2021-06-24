@@ -1,0 +1,208 @@
+[1m../../components/omnibox/browser/autocomplete_match_type.cc:69:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_HISTORY,  // HISTORY_URL
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:70:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_HISTORY,  // HISTORY_TITLE
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:71:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_HISTORY,  // HISTORY_BODY
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:77:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SEARCH,            // SEARCH_WHAT_YOU_TYPED
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:376:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SEARCH _Pragma("whitelisted_resource_15483") 15483
+[0;1;32m                                    ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15483
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:78:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SEARCH_HISTORY,    // SEARCH_HISTORY
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:375:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SEARCH_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_SEARCH_HISTORY _Pragma("whitelisted_resource_15482") 15482
+[0;1;32m                                            ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15482
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:79:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH,  // SEARCH_SUGGEST
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:377:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH _Pragma("whitelisted_resource_15484") 15484
+[0;1;32m                                              ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15484
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:80:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH,  // SEARCH_SUGGEST_ENTITY
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:377:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH _Pragma("whitelisted_resource_15484") 15484
+[0;1;32m                                              ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15484
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:81:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH,  // SEARCH_SUGGEST_TAIL
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:377:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH _Pragma("whitelisted_resource_15484") 15484
+[0;1;32m                                              ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15484
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:85:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_HISTORY,           // SEARCH_SUGGEST_PERSONALIZED
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:86:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH,  // SEARCH_SUGGEST_PROFILE
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:377:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH _Pragma("whitelisted_resource_15484") 15484
+[0;1;32m                                              ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15484
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:87:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_SEARCH,            // SEARCH_OTHER_ENGINE
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:376:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SEARCH _Pragma("whitelisted_resource_15483") 15483
+[0;1;32m                                    ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15483
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:90:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_BOOKMARK,          // BOOKMARK_TITLE
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:379:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_BOOKMARK'[0m
+#define IDS_ACC_AUTOCOMPLETE_BOOKMARK _Pragma("whitelisted_resource_15486") 15486
+[0;1;32m                                      ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15486
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:94:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_HISTORY,    // NAVSUGGEST_PERSONALIZED
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:96:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_CLIPBOARD,  // CLIPBOARD
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:380:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_CLIPBOARD'[0m
+#define IDS_ACC_AUTOCOMPLETE_CLIPBOARD _Pragma("whitelisted_resource_15487") 15487
+[0;1;32m                                       ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15487
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:100:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_ACC_AUTOCOMPLETE_HISTORY,    // TAB_SEARCH_DEPRECATED
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:117:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_ACC_AUTOCOMPLETE_SEARCH_HISTORY:
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:375:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SEARCH_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_SEARCH_HISTORY _Pragma("whitelisted_resource_15482") 15482
+[0;1;32m                                            ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15482
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:118:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_ACC_AUTOCOMPLETE_SEARCH:
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:376:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SEARCH _Pragma("whitelisted_resource_15483") 15483
+[0;1;32m                                    ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15483
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:119:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH:
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:377:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH'[0m
+#define IDS_ACC_AUTOCOMPLETE_SUGGESTED_SEARCH _Pragma("whitelisted_resource_15484") 15484
+[0;1;32m                                              ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15484
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:126:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message = IDS_ACC_AUTOCOMPLETE_QUICK_ANSWER;
+[0;1;32m                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:378:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_QUICK_ANSWER'[0m
+#define IDS_ACC_AUTOCOMPLETE_QUICK_ANSWER _Pragma("whitelisted_resource_15485") 15485
+[0;1;32m                                          ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15485
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:130:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_ACC_AUTOCOMPLETE_HISTORY:
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:374:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_HISTORY'[0m
+#define IDS_ACC_AUTOCOMPLETE_HISTORY _Pragma("whitelisted_resource_15481") 15481
+[0;1;32m                                     ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15481
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:131:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_ACC_AUTOCOMPLETE_BOOKMARK:
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:379:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_BOOKMARK'[0m
+#define IDS_ACC_AUTOCOMPLETE_BOOKMARK _Pragma("whitelisted_resource_15486") 15486
+[0;1;32m                                      ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15486
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:132:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_ACC_AUTOCOMPLETE_CLIPBOARD:
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:380:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_CLIPBOARD'[0m
+#define IDS_ACC_AUTOCOMPLETE_CLIPBOARD _Pragma("whitelisted_resource_15487") 15487
+[0;1;32m                                       ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15487
+[0;1;32m ^
+[0m[1m../../components/omnibox/browser/autocomplete_match_type.cc:168:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringFUTF16(IDS_ACC_AUTOCOMPLETE_N_OF_M, result,
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:381:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACC_AUTOCOMPLETE_N_OF_M'[0m
+#define IDS_ACC_AUTOCOMPLETE_N_OF_M _Pragma("whitelisted_resource_15488") 15488
+[0;1;32m                                    ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15488
+[0;1;32m ^
+[0m23 warnings generated.

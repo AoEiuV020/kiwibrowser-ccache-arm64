@@ -1,0 +1,109 @@
+[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:263:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      blacklist_text = IDS_EXTENSIONS_BLACKLISTED_MALWARE;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1976:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_BLACKLISTED_MALWARE'[0m
+#define IDS_EXTENSIONS_BLACKLISTED_MALWARE _Pragma("whitelisted_resource_5594") 5594
+[0;1;32m                                           ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5594
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:266:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      blacklist_text = IDS_EXTENSIONS_BLACKLISTED_SECURITY_VULNERABILITY;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1977:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_BLACKLISTED_SECURITY_VULNERABILITY'[0m
+#define IDS_EXTENSIONS_BLACKLISTED_SECURITY_VULNERABILITY _Pragma("whitelisted_resource_5595") 5595
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5595
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:269:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      blacklist_text = IDS_EXTENSIONS_BLACKLISTED_CWS_POLICY_VIOLATION;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1978:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_BLACKLISTED_CWS_POLICY_VIOLATION'[0m
+#define IDS_EXTENSIONS_BLACKLISTED_CWS_POLICY_VIOLATION _Pragma("whitelisted_resource_5596") 5596
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5596
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:272:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      blacklist_text = IDS_EXTENSIONS_BLACKLISTED_POTENTIALLY_UNWANTED;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1979:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_BLACKLISTED_POTENTIALLY_UNWANTED'[0m
+#define IDS_EXTENSIONS_BLACKLISTED_POTENTIALLY_UNWANTED _Pragma("whitelisted_resource_5597") 5597
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5597
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:291:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF8(IDS_EXTENSIONS_INSTALL_LOCATION_ENTERPRISE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1974:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALL_LOCATION_ENTERPRISE'[0m
+#define IDS_EXTENSIONS_INSTALL_LOCATION_ENTERPRISE _Pragma("whitelisted_resource_5592") 5592
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5592
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:295:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_INSTALLED_BY_CHILD_CUSTODIAN);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1482:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALLED_BY_CHILD_CUSTODIAN'[0m
+#define IDS_EXTENSIONS_INSTALLED_BY_CHILD_CUSTODIAN _Pragma("whitelisted_resource_5029") 5029
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5029
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:300:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_INSTALLED_BY_SUPERVISED_USER_CUSTODIAN);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1483:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALLED_BY_SUPERVISED_USER_CUSTODIAN'[0m
+#define IDS_EXTENSIONS_INSTALLED_BY_SUPERVISED_USER_CUSTODIAN _Pragma("whitelisted_resource_5030") 5030
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5030
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:406:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    location_text = IDS_EXTENSIONS_INSTALL_LOCATION_UNKNOWN;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1972:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALL_LOCATION_UNKNOWN'[0m
+#define IDS_EXTENSIONS_INSTALL_LOCATION_UNKNOWN _Pragma("whitelisted_resource_5590") 5590
+[0;1;32m                                                ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5590
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:408:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    location_text = IDS_EXTENSIONS_INSTALL_LOCATION_3RD_PARTY;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1973:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALL_LOCATION_3RD_PARTY'[0m
+#define IDS_EXTENSIONS_INSTALL_LOCATION_3RD_PARTY _Pragma("whitelisted_resource_5591") 5591
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5591
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:410:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    location_text = IDS_EXTENSIONS_INSTALL_LOCATION_SHARED_MODULE;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1975:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALL_LOCATION_SHARED_MODULE'[0m
+#define IDS_EXTENSIONS_INSTALL_LOCATION_SHARED_MODULE _Pragma("whitelisted_resource_5593") 5593
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5593
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:543:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            is_app ? IDR_APP_DEFAULT_ICON : IDR_EXTENSION_DEFAULT_ICON));
+[0;1;32m                     ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_DEFAULT_ICON'[0m
+#define IDR_APP_DEFAULT_ICON _Pragma("whitelisted_resource_24450") 24450
+[0;1;32m                             ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24450
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/developer_private/extension_info_generator.cc:543:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            is_app ? IDR_APP_DEFAULT_ICON : IDR_EXTENSION_DEFAULT_ICON));
+[0;1;32m                                            ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:6:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_DEFAULT_ICON'[0m
+#define IDR_EXTENSION_DEFAULT_ICON _Pragma("whitelisted_resource_24451") 24451
+[0;1;32m                                   ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24451
+[0;1;32m ^
+[0m12 warnings generated.

@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/payments/payment_request_sheet_controller.cc:356:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PAYMENTS_CANCEL_PAYMENT);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:529:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CANCEL_PAYMENT'[0m
+#define IDS_PAYMENTS_CANCEL_PAYMENT _Pragma("whitelisted_resource_15637") 15637
+[0;1;32m                                    ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15637
+[0;1;32m ^
+[0m1 warning generated.

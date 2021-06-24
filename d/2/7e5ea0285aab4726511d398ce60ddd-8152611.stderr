@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/login_view.cc:69:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      layout, l10n_util::GetStringUTF16(IDS_LOGIN_DIALOG_USERNAME_FIELD),
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:318:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_DIALOG_USERNAME_FIELD'[0m
+#define IDS_LOGIN_DIALOG_USERNAME_FIELD _Pragma("whitelisted_resource_15421") 15421
+[0;1;32m                                        ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15421
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/login_view.cc:72:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      layout, l10n_util::GetStringUTF16(IDS_LOGIN_DIALOG_PASSWORD_FIELD),
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:319:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LOGIN_DIALOG_PASSWORD_FIELD'[0m
+#define IDS_LOGIN_DIALOG_PASSWORD_FIELD _Pragma("whitelisted_resource_15422") 15422
+[0;1;32m                                        ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15422
+[0;1;32m ^
+[0m2 warnings generated.

@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/update_recommended_message_box.cc:38:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UPDATE_RECOMMENDED));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:141:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPDATE_RECOMMENDED'[0m
+#define IDS_UPDATE_RECOMMENDED _Pragma("whitelisted_resource_610") 610
+[0;1;32m                               ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_610
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/update_recommended_message_box.cc:57:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_RELAUNCH_AND_UPDATE : IDS_NOT_NOW);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:142:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RELAUNCH_AND_UPDATE'[0m
+#define IDS_RELAUNCH_AND_UPDATE _Pragma("whitelisted_resource_611") 611
+[0;1;32m                                ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_611
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/update_recommended_message_box.cc:57:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_RELAUNCH_AND_UPDATE : IDS_NOT_NOW);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1026:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NOT_NOW'[0m
+#define IDS_NOT_NOW _Pragma("whitelisted_resource_16164") 16164
+[0;1;32m                    ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16164
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/update_recommended_message_box.cc:76:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_UPDATE_RECOMMENDED_DIALOG_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:140:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPDATE_RECOMMENDED_DIALOG_TITLE'[0m
+#define IDS_UPDATE_RECOMMENDED_DIALOG_TITLE _Pragma("whitelisted_resource_609") 609
+[0;1;32m                                            ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_609
+[0;1;32m ^
+[0m4 warnings generated.

@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/webui/usb_internals/usb_internals_ui.cc:18:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("usb_internals.css", IDR_USB_INTERNALS_CSS);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:172:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USB_INTERNALS_CSS'[0m
+#define IDR_USB_INTERNALS_CSS _Pragma("whitelisted_resource_11264") 11264
+[0;1;32m                              ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11264
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/usb_internals/usb_internals_ui.cc:19:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("usb_internals.js", IDR_USB_INTERNALS_JS);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/browser_resources.h:174:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USB_INTERNALS_JS'[0m
+#define IDR_USB_INTERNALS_JS _Pragma("whitelisted_resource_11266") 11266
+[0;1;32m                             ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11266
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/usb_internals/usb_internals_ui.cc:22:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_USB_INTERNALS_MOJO_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:175:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USB_INTERNALS_MOJO_JS'[0m
+#define IDR_USB_INTERNALS_MOJO_JS _Pragma("whitelisted_resource_11267") 11267
+[0;1;32m                                  ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11267
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/usb_internals/usb_internals_ui.cc:23:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("url/mojom/origin.mojom.js", IDR_ORIGIN_MOJO_JS);
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/grit/browser_resources.h:140:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ORIGIN_MOJO_JS'[0m
+#define IDR_ORIGIN_MOJO_JS _Pragma("whitelisted_resource_11221") 11221
+[0;1;32m                           ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11221
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/usb_internals/usb_internals_ui.cc:24:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("url/mojom/url.mojom.js", IDR_URL_MOJO_JS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:158:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_URL_MOJO_JS'[0m
+#define IDR_URL_MOJO_JS _Pragma("whitelisted_resource_11250") 11250
+[0;1;32m                        ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11250
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/usb_internals/usb_internals_ui.cc:25:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_USB_INTERNALS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:173:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USB_INTERNALS_HTML'[0m
+#define IDR_USB_INTERNALS_HTML _Pragma("whitelisted_resource_11265") 11265
+[0;1;32m                               ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11265
+[0;1;32m ^
+[0m6 warnings generated.

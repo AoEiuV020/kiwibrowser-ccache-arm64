@@ -1,0 +1,73 @@
+[1m../../chrome/browser/extensions/external_install_error.cc:57:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_APP;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1522:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_APP'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_APP _Pragma("whitelisted_resource_5069") 5069
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5069
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:59:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_THEME;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1523:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_THEME'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_THEME _Pragma("whitelisted_resource_5070") 5070
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5070
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:61:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_EXTENSION;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1521:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_EXTENSION'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_EXTENSION _Pragma("whitelisted_resource_5068") 5068
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5068
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:240:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_TITLE,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1524:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_TITLE'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_TITLE _Pragma("whitelisted_resource_5071") 5071
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5071
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:248:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_EXTENSION;
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1526:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_EXTENSION'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_EXTENSION _Pragma("whitelisted_resource_5073") 5073
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5073
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:250:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    heading_id = IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_APP;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1525:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_APP'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_APP _Pragma("whitelisted_resource_5072") 5072
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5072
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:252:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    heading_id = IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_THEME;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1527:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_THEME'[0m
+#define IDS_EXTENSION_EXTERNAL_INSTALL_ALERT_BUBBLE_HEADING_THEME _Pragma("whitelisted_resource_5074") 5074
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5074
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/external_install_error.cc:259:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PERMISSION_LINE, prompt_->GetPermission(i)));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1334:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PERMISSION_LINE'[0m
+#define IDS_EXTENSION_PERMISSION_LINE _Pragma("whitelisted_resource_4876") 4876
+[0;1;32m                                      ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4876
+[0;1;32m ^
+[0m8 warnings generated.

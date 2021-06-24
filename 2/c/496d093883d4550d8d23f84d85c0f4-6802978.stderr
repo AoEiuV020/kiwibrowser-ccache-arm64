@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/passwords/manage_passwords_icon_views.cc:102:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_PASSWORD_MANAGER_TOOLTIP_SAVE
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1789:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_TOOLTIP_SAVE'[0m
+#define IDS_PASSWORD_MANAGER_TOOLTIP_SAVE _Pragma("whitelisted_resource_5367") 5367
+[0;1;32m                                          ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5367
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/manage_passwords_icon_views.cc:103:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_PASSWORD_MANAGER_TOOLTIP_MANAGE);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1790:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_TOOLTIP_MANAGE'[0m
+#define IDS_PASSWORD_MANAGER_TOOLTIP_MANAGE _Pragma("whitelisted_resource_5368") 5368
+[0;1;32m                                            ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5368
+[0;1;32m ^
+[0m2 warnings generated.

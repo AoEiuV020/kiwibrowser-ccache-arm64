@@ -1,0 +1,145 @@
+[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:66:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("control_bar.html", IDR_MD_CONTROL_BAR_HTML);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/browser_resources.h:184:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_CONTROL_BAR_HTML'[0m
+#define IDR_MD_CONTROL_BAR_HTML _Pragma("whitelisted_resource_11320") 11320
+[0;1;32m                                ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11320
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:67:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("control_bar.js", IDR_MD_CONTROL_BAR_JS);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:185:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_CONTROL_BAR_JS'[0m
+#define IDR_MD_CONTROL_BAR_JS _Pragma("whitelisted_resource_11321") 11321
+[0;1;32m                              ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11321
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:68:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("create_profile.html", IDR_MD_CREATE_PROFILE_HTML);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:186:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_CREATE_PROFILE_HTML'[0m
+#define IDR_MD_CREATE_PROFILE_HTML _Pragma("whitelisted_resource_11322") 11322
+[0;1;32m                                   ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11322
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:69:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("create_profile.js", IDR_MD_CREATE_PROFILE_JS);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:187:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_CREATE_PROFILE_JS'[0m
+#define IDR_MD_CREATE_PROFILE_JS _Pragma("whitelisted_resource_11323") 11323
+[0;1;32m                                 ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11323
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:70:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("error_dialog.html", IDR_MD_ERROR_DIALOG_HTML);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:188:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_ERROR_DIALOG_HTML'[0m
+#define IDR_MD_ERROR_DIALOG_HTML _Pragma("whitelisted_resource_11324") 11324
+[0;1;32m                                 ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11324
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:71:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("error_dialog.js", IDR_MD_ERROR_DIALOG_JS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:189:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_ERROR_DIALOG_JS'[0m
+#define IDR_MD_ERROR_DIALOG_JS _Pragma("whitelisted_resource_11325") 11325
+[0;1;32m                               ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11325
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:73:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_PROFILE_BROWSER_PROXY_HTML);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:190:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_PROFILE_BROWSER_PROXY_HTML'[0m
+#define IDR_MD_PROFILE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_11326") 11326
+[0;1;32m                                          ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11326
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:75:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_PROFILE_BROWSER_PROXY_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:191:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_PROFILE_BROWSER_PROXY_JS'[0m
+#define IDR_MD_PROFILE_BROWSER_PROXY_JS _Pragma("whitelisted_resource_11327") 11327
+[0;1;32m                                        ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11327
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:77:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_USER_MANAGER_SHARED_STYLES_HTML);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:196:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_SHARED_STYLES_HTML'[0m
+#define IDR_MD_USER_MANAGER_SHARED_STYLES_HTML _Pragma("whitelisted_resource_11332") 11332
+[0;1;32m                                               ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11332
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:78:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("strings.html", IDR_MD_USER_MANAGER_STRINGS_HTML);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:197:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_STRINGS_HTML'[0m
+#define IDR_MD_USER_MANAGER_STRINGS_HTML _Pragma("whitelisted_resource_11333") 11333
+[0;1;32m                                         ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:79:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("user_manager.js", IDR_MD_USER_MANAGER_JS);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:193:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_JS'[0m
+#define IDR_MD_USER_MANAGER_JS _Pragma("whitelisted_resource_11329") 11329
+[0;1;32m                               ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11329
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:81:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_USER_MANAGER_PAGES_HTML);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:194:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_PAGES_HTML'[0m
+#define IDR_MD_USER_MANAGER_PAGES_HTML _Pragma("whitelisted_resource_11330") 11330
+[0;1;32m                                       ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11330
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:83:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_USER_MANAGER_PAGES_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:195:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_PAGES_JS'[0m
+#define IDR_MD_USER_MANAGER_PAGES_JS _Pragma("whitelisted_resource_11331") 11331
+[0;1;32m                                     ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11331
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:85:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_USER_MANAGER_TUTORIAL_HTML);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:198:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_TUTORIAL_HTML'[0m
+#define IDR_MD_USER_MANAGER_TUTORIAL_HTML _Pragma("whitelisted_resource_11334") 11334
+[0;1;32m                                          ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11334
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:87:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_USER_MANAGER_TUTORIAL_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:199:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_TUTORIAL_JS'[0m
+#define IDR_MD_USER_MANAGER_TUTORIAL_JS _Pragma("whitelisted_resource_11335") 11335
+[0;1;32m                                        ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11335
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/md_user_manager_ui.cc:89:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_MD_USER_MANAGER_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:192:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_USER_MANAGER_HTML'[0m
+#define IDR_MD_USER_MANAGER_HTML _Pragma("whitelisted_resource_11328") 11328
+[0;1;32m                                 ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11328
+[0;1;32m ^
+[0m16 warnings generated.

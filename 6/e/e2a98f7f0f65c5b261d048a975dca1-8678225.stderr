@@ -1,0 +1,64 @@
+[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:177:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int frame_image_id = active ? IDR_THEME_FRAME : IDR_THEME_FRAME_INACTIVE;
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:101:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME'[0m
+#define IDR_THEME_FRAME _Pragma("whitelisted_resource_10483") 10483
+[0;1;32m                        ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10483
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:177:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int frame_image_id = active ? IDR_THEME_FRAME : IDR_THEME_FRAME_INACTIVE;
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:102:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INACTIVE'[0m
+#define IDR_THEME_FRAME_INACTIVE _Pragma("whitelisted_resource_10484") 10484
+[0;1;32m                                 ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10484
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:179:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                   tp->HasCustomImage(IDR_THEME_FRAME))
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:101:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME'[0m
+#define IDR_THEME_FRAME _Pragma("whitelisted_resource_10483") 10483
+[0;1;32m                        ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10483
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:191:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      active ? IDR_THEME_FRAME_OVERLAY : IDR_THEME_FRAME_OVERLAY_INACTIVE;
+[0;1;32m               ^
+[0m[1mgen/chrome/grit/theme_resources.h:105:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_OVERLAY'[0m
+#define IDR_THEME_FRAME_OVERLAY _Pragma("whitelisted_resource_10487") 10487
+[0;1;32m                                ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10487
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:191:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      active ? IDR_THEME_FRAME_OVERLAY : IDR_THEME_FRAME_OVERLAY_INACTIVE;
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/theme_resources.h:106:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_OVERLAY_INACTIVE'[0m
+#define IDR_THEME_FRAME_OVERLAY_INACTIVE _Pragma("whitelisted_resource_10488") 10488
+[0;1;32m                                         ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10488
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:289:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (tp->HasCustomImage(IDR_THEME_TOOLBAR)) {
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_non_client_frame_view.cc:290:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    canvas->TileImageInt(*tp->GetImageSkiaNamed(IDR_THEME_TOOLBAR),
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m7 warnings generated.

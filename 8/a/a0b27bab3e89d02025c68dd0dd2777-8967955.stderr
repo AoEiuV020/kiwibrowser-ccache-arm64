@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/download/download_shelf_view.cc:113:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_SHOW_ALL_DOWNLOADS));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:963:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHOW_ALL_DOWNLOADS'[0m
+#define IDS_SHOW_ALL_DOWNLOADS _Pragma("whitelisted_resource_4307") 4307
+[0;1;32m                               ^
+[0m[1m<scratch space>:3:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4307
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_shelf_view.cc:117:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_CLOSE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1037:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_CLOSE'[0m
+#define IDS_ACCNAME_CLOSE _Pragma("whitelisted_resource_16175") 16175
+[0;1;32m                          ^
+[0m[1m<scratch space>:5:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16175
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_shelf_view.cc:127:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_DOWNLOADS_BAR));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:961:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_DOWNLOADS_BAR'[0m
+#define IDS_ACCNAME_DOWNLOADS_BAR _Pragma("whitelisted_resource_4305") 4305
+[0;1;32m                                  ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4305
+[0;1;32m ^
+[0m3 warnings generated.

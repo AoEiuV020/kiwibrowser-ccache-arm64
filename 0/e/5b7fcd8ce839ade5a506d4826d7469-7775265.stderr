@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/toolbar/media_router_action.cc:101:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MEDIA_ROUTER_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:108:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_TITLE'[0m
+#define IDS_MEDIA_ROUTER_TITLE _Pragma("whitelisted_resource_2517") 2517
+[0;1;32m                               ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2517
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_action.cc:111:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MEDIA_ROUTER_ICON_TOOLTIP_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:109:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ICON_TOOLTIP_TEXT'[0m
+#define IDS_MEDIA_ROUTER_ICON_TOOLTIP_TEXT _Pragma("whitelisted_resource_2518") 2518
+[0;1;32m                                           ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2518
+[0;1;32m ^
+[0m2 warnings generated.

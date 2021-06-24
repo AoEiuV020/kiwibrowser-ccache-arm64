@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/external_protocol_dialog_delegate.cc:42:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringFUTF16(IDS_EXTERNAL_PROTOCOL_OK_BUTTON_TEXT,
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2277:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTERNAL_PROTOCOL_OK_BUTTON_TEXT'[0m
+#define IDS_EXTERNAL_PROTOCOL_OK_BUTTON_TEXT _Pragma("whitelisted_resource_5917") 5917
+[0;1;32m                                             ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5917
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/external_protocol_dialog_delegate.cc:45:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTERNAL_PROTOCOL_CANCEL_BUTTON_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2278:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTERNAL_PROTOCOL_CANCEL_BUTTON_TEXT'[0m
+#define IDS_EXTERNAL_PROTOCOL_CANCEL_BUTTON_TEXT _Pragma("whitelisted_resource_5918") 5918
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5918
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/external_protocol_dialog_delegate.cc:53:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTERNAL_PROTOCOL_CHECKBOX_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2279:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTERNAL_PROTOCOL_CHECKBOX_TEXT'[0m
+#define IDS_EXTERNAL_PROTOCOL_CHECKBOX_TEXT _Pragma("whitelisted_resource_5919") 5919
+[0;1;32m                                            ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5919
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/external_protocol_dialog_delegate.cc:57:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringFUTF16(IDS_EXTERNAL_PROTOCOL_TITLE,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2276:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTERNAL_PROTOCOL_TITLE'[0m
+#define IDS_EXTERNAL_PROTOCOL_TITLE _Pragma("whitelisted_resource_5916") 5916
+[0;1;32m                                    ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5916
+[0;1;32m ^
+[0m4 warnings generated.

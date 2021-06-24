@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/feature_promos/incognito_window_promo_bubble_view.cc:28:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_INCOGNITOWINDOW_PROMO_0, IDS_INCOGNITOWINDOW_PROMO_1,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1758:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITOWINDOW_PROMO_0'[0m
+#define IDS_INCOGNITOWINDOW_PROMO_0 _Pragma("whitelisted_resource_5335") 5335
+[0;1;32m                                    ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5335
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/feature_promos/incognito_window_promo_bubble_view.cc:28:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_INCOGNITOWINDOW_PROMO_0, IDS_INCOGNITOWINDOW_PROMO_1,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1759:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITOWINDOW_PROMO_1'[0m
+#define IDS_INCOGNITOWINDOW_PROMO_1 _Pragma("whitelisted_resource_5336") 5336
+[0;1;32m                                    ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5336
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/feature_promos/incognito_window_promo_bubble_view.cc:29:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_INCOGNITOWINDOW_PROMO_2, IDS_INCOGNITOWINDOW_PROMO_3};
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1760:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITOWINDOW_PROMO_2'[0m
+#define IDS_INCOGNITOWINDOW_PROMO_2 _Pragma("whitelisted_resource_5337") 5337
+[0;1;32m                                    ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5337
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/feature_promos/incognito_window_promo_bubble_view.cc:29:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_INCOGNITOWINDOW_PROMO_2, IDS_INCOGNITOWINDOW_PROMO_3};
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1761:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INCOGNITOWINDOW_PROMO_3'[0m
+#define IDS_INCOGNITOWINDOW_PROMO_3 _Pragma("whitelisted_resource_5338") 5338
+[0;1;32m                                    ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5338
+[0;1;32m ^
+[0m4 warnings generated.

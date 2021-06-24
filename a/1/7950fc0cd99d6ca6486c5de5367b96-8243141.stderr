@@ -1,0 +1,82 @@
+[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:60:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ABOUT);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:125:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ABOUT'[0m
+#define IDS_MEDIA_ROUTER_ABOUT _Pragma("whitelisted_resource_2534") 2534
+[0;1;32m                               ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2534
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:62:64: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu_model_.AddItemWithStringId(IDC_MEDIA_ROUTER_LEARN_MORE, IDS_LEARN_MORE);
+[0;1;32m                                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:64:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_HELP);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:127:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_HELP'[0m
+#define IDS_MEDIA_ROUTER_HELP _Pragma("whitelisted_resource_2536") 2536
+[0;1;32m                              ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2536
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:67:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_MEDIA_ROUTER_SHOWN_BY_POLICY);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:131:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_SHOWN_BY_POLICY'[0m
+#define IDS_MEDIA_ROUTER_SHOWN_BY_POLICY _Pragma("whitelisted_resource_2540") 2540
+[0;1;32m                                         ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2540
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:75:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_MEDIA_ROUTER_ALWAYS_SHOW_TOOLBAR_ACTION);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:128:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ALWAYS_SHOW_TOOLBAR_ACTION'[0m
+#define IDS_MEDIA_ROUTER_ALWAYS_SHOW_TOOLBAR_ACTION _Pragma("whitelisted_resource_2537") 2537
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2537
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:88:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_MEDIA_ROUTER_CLOUD_SERVICES_TOGGLE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:126:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_CLOUD_SERVICES_TOGGLE'[0m
+#define IDS_MEDIA_ROUTER_CLOUD_SERVICES_TOGGLE _Pragma("whitelisted_resource_2535") 2535
+[0;1;32m                                               ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2535
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:90:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_MEDIA_ROUTER_REPORT_ISSUE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:129:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_REPORT_ISSUE'[0m
+#define IDS_MEDIA_ROUTER_REPORT_ISSUE _Pragma("whitelisted_resource_2538") 2538
+[0;1;32m                                      ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2538
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:204:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return is_action_in_toolbar_ ? IDS_EXTENSIONS_HIDE_BUTTON_IN_MENU
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:77:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_HIDE_BUTTON_IN_MENU'[0m
+#define IDS_EXTENSIONS_HIDE_BUTTON_IN_MENU _Pragma("whitelisted_resource_521") 521
+[0;1;32m                                           ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_521
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/media_router_contextual_menu.cc:205:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               : IDS_EXTENSIONS_SHOW_BUTTON_IN_TOOLBAR;
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1478:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SHOW_BUTTON_IN_TOOLBAR'[0m
+#define IDS_EXTENSIONS_SHOW_BUTTON_IN_TOOLBAR _Pragma("whitelisted_resource_5025") 5025
+[0;1;32m                                              ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5025
+[0;1;32m ^
+[0m9 warnings generated.

@@ -1,0 +1,91 @@
+[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:26:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SIGNIN_EMAIL_CONFIRMATION_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:168:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_EMAIL_CONFIRMATION_HTML'[0m
+#define IDR_SIGNIN_EMAIL_CONFIRMATION_HTML _Pragma("whitelisted_resource_11260") 11260
+[0;1;32m                                           ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11260
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:28:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SIGNIN_EMAIL_CONFIRMATION_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:169:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_EMAIL_CONFIRMATION_JS'[0m
+#define IDR_SIGNIN_EMAIL_CONFIRMATION_JS _Pragma("whitelisted_resource_11261") 11261
+[0;1;32m                                         ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11261
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:29:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("signin_shared_css.html", IDR_SIGNIN_SHARED_CSS_HTML);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:10:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_SHARED_CSS_HTML'[0m
+#define IDR_SIGNIN_SHARED_CSS_HTML _Pragma("whitelisted_resource_11500") 11500
+[0;1;32m                                   ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11500
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:31:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_SIGNIN_EMAIL_CONFIRMATION_TITLE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/chromium_strings.h:108:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_TITLE'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_TITLE _Pragma("whitelisted_resource_555") 555
+[0;1;32m                                            ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_555
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:34:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SIGNIN_EMAIL_CONFIRMATION_CREATE_PROFILE_RADIO_BUTTON_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2265:73: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_CREATE_PROFILE_RADIO_BUTTON_TITLE'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_CREATE_PROFILE_RADIO_BUTTON_TITLE _Pragma("whitelisted_resource_5904") 5904
+[0;1;32m                                                                        ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5904
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:37:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SIGNIN_EMAIL_CONFIRMATION_CREATE_PROFILE_RADIO_BUTTON_SUBTITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2266:76: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_CREATE_PROFILE_RADIO_BUTTON_SUBTITLE'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_CREATE_PROFILE_RADIO_BUTTON_SUBTITLE _Pragma("whitelisted_resource_5905") 5905
+[0;1;32m                                                                           ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5905
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:40:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SIGNIN_EMAIL_CONFIRMATION_START_SYNC_RADIO_BUTTON_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2267:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_START_SYNC_RADIO_BUTTON_TITLE'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_START_SYNC_RADIO_BUTTON_TITLE _Pragma("whitelisted_resource_5906") 5906
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5906
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:43:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SIGNIN_EMAIL_CONFIRMATION_START_SYNC_RADIO_BUTTON_SUBTITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2268:72: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_START_SYNC_RADIO_BUTTON_SUBTITLE'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_START_SYNC_RADIO_BUTTON_SUBTITLE _Pragma("whitelisted_resource_5907") 5907
+[0;1;32m                                                                       ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5907
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:46:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SIGNIN_EMAIL_CONFIRMATION_CONFIRM_BUTTON_LABEL);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2270:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_CONFIRM_BUTTON_LABEL'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_CONFIRM_BUTTON_LABEL _Pragma("whitelisted_resource_5909") 5909
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5909
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/signin_email_confirmation_ui.cc:48:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_SIGNIN_EMAIL_CONFIRMATION_CLOSE_BUTTON_LABEL);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2269:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_EMAIL_CONFIRMATION_CLOSE_BUTTON_LABEL'[0m
+#define IDS_SIGNIN_EMAIL_CONFIRMATION_CLOSE_BUTTON_LABEL _Pragma("whitelisted_resource_5908") 5908
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5908
+[0;1;32m ^
+[0m10 warnings generated.

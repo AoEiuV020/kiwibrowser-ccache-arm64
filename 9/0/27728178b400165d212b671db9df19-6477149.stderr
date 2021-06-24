@@ -1,0 +1,64 @@
+[1m../../chrome/browser/extensions/component_loader.cc:363:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  Add(IDR_NETWORK_SPEECH_SYNTHESIS_MANIFEST,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:110:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NETWORK_SPEECH_SYNTHESIS_MANIFEST'[0m
+#define IDR_NETWORK_SPEECH_SYNTHESIS_MANIFEST _Pragma("whitelisted_resource_11185") 11185
+[0;1;32m                                              ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11185
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/component_loader.cc:425:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_WEBSTORE_MANIFEST, base::FilePath(FILE_PATH_LITERAL("web_store")),
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:181:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_MANIFEST'[0m
+#define IDR_WEBSTORE_MANIFEST _Pragma("whitelisted_resource_11273") 11273
+[0;1;32m                              ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11273
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/component_loader.cc:426:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_WEBSTORE_NAME_STORE),
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2648:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBSTORE_NAME_STORE'[0m
+#define IDS_WEBSTORE_NAME_STORE _Pragma("whitelisted_resource_6440") 6440
+[0;1;32m                                ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6440
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/component_loader.cc:427:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_WEBSTORE_APP_DESCRIPTION));
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/chromium_strings.h:136:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_WEBSTORE_APP_DESCRIPTION'[0m
+#define IDS_WEBSTORE_APP_DESCRIPTION _Pragma("whitelisted_resource_596") 596
+[0;1;32m                                     ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_596
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/component_loader.cc:472:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  Add(IDR_CLOUDPRINT_MANIFEST,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:52:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOUDPRINT_MANIFEST'[0m
+#define IDR_CLOUDPRINT_MANIFEST _Pragma("whitelisted_resource_11039") 11039
+[0;1;32m                                ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11039
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/component_loader.cc:546:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      Add(IDR_FEEDBACK_MANIFEST, base::FilePath(FILE_PATH_LITERAL("feedback")));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/browser_resources.h:71:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FEEDBACK_MANIFEST'[0m
+#define IDR_FEEDBACK_MANIFEST _Pragma("whitelisted_resource_11074") 11074
+[0;1;32m                              ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11074
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/component_loader.cc:588:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  Add(IDR_CRYPTOTOKEN_MANIFEST,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:182:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_MANIFEST'[0m
+#define IDR_CRYPTOTOKEN_MANIFEST _Pragma("whitelisted_resource_11274") 11274
+[0;1;32m                                 ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11274
+[0;1;32m ^
+[0m7 warnings generated.

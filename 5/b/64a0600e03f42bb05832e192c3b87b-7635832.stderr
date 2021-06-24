@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/crashes_ui.cc:56:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_SHORT_PRODUCT_NAME);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/chromium_strings.h:35:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHORT_PRODUCT_NAME'[0m
+#define IDS_SHORT_PRODUCT_NAME _Pragma("whitelisted_resource_430") 430
+[0;1;32m                               ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_430
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/crashes_ui.cc:58:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath(crash::kCrashesUICrashesJS, IDR_CRASH_CRASHES_JS);
+[0;1;32m                                                      ^
+[0m[1mgen/components/grit/components_resources.h:8:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRASH_CRASHES_JS'[0m
+#define IDR_CRASH_CRASHES_JS _Pragma("whitelisted_resource_17013") 17013
+[0;1;32m                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17013
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/crashes_ui.cc:59:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_CRASH_CRASHES_HTML);
+[0;1;32m                             ^
+[0m[1mgen/components/grit/components_resources.h:7:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRASH_CRASHES_HTML'[0m
+#define IDR_CRASH_CRASHES_HTML _Pragma("whitelisted_resource_17012") 17012
+[0;1;32m                               ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17012
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/crashes_ui.cc:243:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_CRASH_SAD_FAVICON, scale_factor);
+[0;1;32m      ^
+[0m[1mgen/components/grit/components_scaled_resources.h:27:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRASH_SAD_FAVICON'[0m
+#define IDR_CRASH_SAD_FAVICON _Pragma("whitelisted_resource_17224") 17224
+[0;1;32m                              ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17224
+[0;1;32m ^
+[0m4 warnings generated.

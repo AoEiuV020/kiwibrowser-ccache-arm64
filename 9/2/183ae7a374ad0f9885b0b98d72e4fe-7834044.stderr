@@ -1,0 +1,172 @@
+[1m../../chrome/browser/extensions/crx_installer.cc:320:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_EXTENSION_INSTALL_UNEXPECTED_ID,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1441:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_UNEXPECTED_ID'[0m
+#define IDS_EXTENSION_INSTALL_UNEXPECTED_ID _Pragma("whitelisted_resource_4985") 4985
+[0;1;32m                                            ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4985
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:330:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_INSTALL_UNEXPECTED_VERSION,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1443:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_UNEXPECTED_VERSION'[0m
+#define IDS_EXTENSION_INSTALL_UNEXPECTED_VERSION _Pragma("whitelisted_resource_4987") 4987
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4987
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:340:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_INSTALL_UNEXPECTED_VERSION,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1443:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_UNEXPECTED_VERSION'[0m
+#define IDS_EXTENSION_INSTALL_UNEXPECTED_VERSION _Pragma("whitelisted_resource_4987") 4987
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4987
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:380:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_EXTENSION_MANIFEST_INVALID));
+[0;1;32m                                    ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:21:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_MANIFEST_INVALID'[0m
+#define IDS_EXTENSION_MANIFEST_INVALID _Pragma("whitelisted_resource_24636") 24636
+[0;1;32m                                       ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24636
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:397:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_EXTENSION_INSTALL_NOT_ENABLED));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1438:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_NOT_ENABLED'[0m
+#define IDS_EXTENSION_INSTALL_NOT_ENABLED _Pragma("whitelisted_resource_4982") 4982
+[0;1;32m                                          ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4982
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:411:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_EXTENSION_INSTALL_DISALLOWED_ON_SITE));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1442:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_DISALLOWED_ON_SITE'[0m
+#define IDS_EXTENSION_INSTALL_DISALLOWED_ON_SITE _Pragma("whitelisted_resource_4986") 4986
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4986
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:426:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_EXTENSION_INSTALL_INCORRECT_APP_CONTENT_TYPE,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1439:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_INCORRECT_APP_CONTENT_TYPE'[0m
+#define IDS_EXTENSION_INSTALL_INCORRECT_APP_CONTENT_TYPE _Pragma("whitelisted_resource_4983") 4983
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4983
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:442:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_EXTENSION_INSTALL_GALLERY_ONLY,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1447:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_GALLERY_ONLY'[0m
+#define IDS_EXTENSION_INSTALL_GALLERY_ONLY _Pragma("whitelisted_resource_4991") 4991
+[0;1;32m                                           ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4991
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:443:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                l10n_util::GetStringUTF16(IDS_EXTENSION_WEB_STORE_TITLE)));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1515:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEB_STORE_TITLE'[0m
+#define IDS_EXTENSION_WEB_STORE_TITLE _Pragma("whitelisted_resource_5062") 5062
+[0;1;32m                                      ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5062
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:461:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_EXTENSION_INSTALL_INCORRECT_INSTALL_HOST));
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1440:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_INCORRECT_INSTALL_HOST'[0m
+#define IDS_EXTENSION_INSTALL_INCORRECT_INSTALL_HOST _Pragma("whitelisted_resource_4984") 4984
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4984
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:551:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_SHARED_MODULE,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1445:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_SHARED_MODULE'[0m
+#define IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_SHARED_MODULE _Pragma("whitelisted_resource_4989") 4989
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4989
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:562:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_EXTENSION_INSTALL_DEPENDENCY_OLD_VERSION,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1444:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_DEPENDENCY_OLD_VERSION'[0m
+#define IDS_EXTENSION_INSTALL_DEPENDENCY_OLD_VERSION _Pragma("whitelisted_resource_4988") 4988
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4988
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:574:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_WHITELISTED,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1446:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_WHITELISTED'[0m
+#define IDS_EXTENSION_INSTALL_DEPENDENCY_NOT_WHITELISTED _Pragma("whitelisted_resource_4990") 4990
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4990
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:641:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_EXTENSION_IS_BLACKLISTED,
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1294:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_IS_BLACKLISTED'[0m
+#define IDS_EXTENSION_IS_BLACKLISTED _Pragma("whitelisted_resource_4836") 4836
+[0;1;32m                                     ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4836
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:683:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_EXTENSION_INSTALL_KIOSK_MODE_ONLY)));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1448:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALL_KIOSK_MODE_ONLY'[0m
+#define IDS_EXTENSION_INSTALL_KIOSK_MODE_ONLY _Pragma("whitelisted_resource_4992") 4992
+[0;1;32m                                              ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4992
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:703:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDS_EXTENSION_OVERLAPPING_WEB_EXTENT,
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1449:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_OVERLAPPING_WEB_EXTENT'[0m
+#define IDS_EXTENSION_OVERLAPPING_WEB_EXTENT _Pragma("whitelisted_resource_4993") 4993
+[0;1;32m                                             ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4993
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:808:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      ? IDS_APP_CANT_DOWNGRADE_VERSION
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1436:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CANT_DOWNGRADE_VERSION'[0m
+#define IDS_APP_CANT_DOWNGRADE_VERSION _Pragma("whitelisted_resource_4978") 4978
+[0;1;32m                                       ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4978
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:809:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      : IDS_EXTENSION_CANT_DOWNGRADE_VERSION)));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1435:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CANT_DOWNGRADE_VERSION'[0m
+#define IDS_EXTENSION_CANT_DOWNGRADE_VERSION _Pragma("whitelisted_resource_4977") 4977
+[0;1;32m                                             ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4977
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/crx_installer.cc:839:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDS_EXTENSION_MOVE_DIRECTORY_TO_PROFILE_FAILED)));
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1437:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_MOVE_DIRECTORY_TO_PROFILE_FAILED'[0m
+#define IDS_EXTENSION_MOVE_DIRECTORY_TO_PROFILE_FAILED _Pragma("whitelisted_resource_4981") 4981
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4981
+[0;1;32m ^
+[0m19 warnings generated.

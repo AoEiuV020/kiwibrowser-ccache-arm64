@@ -1,0 +1,73 @@
+[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:580:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    node_data->SetName(l10n_util::GetStringUTF8(IDS_ACCNAME_SEPARATOR));
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1735:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_SEPARATOR'[0m
+#define IDS_ACCNAME_SEPARATOR _Pragma("whitelisted_resource_5312") 5312
+[0;1;32m                              ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5312
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1233:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  node_data->SetName(l10n_util::GetStringUTF8(IDS_ACCNAME_BOOKMARKS));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1732:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_BOOKMARKS'[0m
+#define IDS_ACCNAME_BOOKMARKS _Pragma("whitelisted_resource_5309") 5309
+[0;1;32m                              ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5309
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1399:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        icon = image.IsEmpty() ? *GetImageSkiaNamed(IDR_DEFAULT_FAVICON)
+[0;1;32m                                                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:16:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON'[0m
+#define IDR_DEFAULT_FAVICON _Pragma("whitelisted_resource_26972") 26972
+[0;1;32m                            ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26972
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1689:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_BOOKMARKS_CHEVRON));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1733:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_BOOKMARKS_CHEVRON'[0m
+#define IDS_ACCNAME_BOOKMARKS_CHEVRON _Pragma("whitelisted_resource_5310") 5310
+[0;1;32m                                      ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5310
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1708:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_APPS_SHORTCUT_NAME));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:13:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_APPS_SHORTCUT_NAME'[0m
+#define IDS_BOOKMARK_BAR_APPS_SHORTCUT_NAME _Pragma("whitelisted_resource_810") 810
+[0;1;32m                                            ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_810
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1710:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BOOKMARK_BAR_APPS_SHORTCUT_TOOLTIP));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:14:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_APPS_SHORTCUT_TOOLTIP'[0m
+#define IDS_BOOKMARK_BAR_APPS_SHORTCUT_TOOLTIP _Pragma("whitelisted_resource_811") 811
+[0;1;32m                                               ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_811
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1713:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *GetImageSkiaNamed(IDR_BOOKMARK_BAR_APPS_SHORTCUT));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:27:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BOOKMARK_BAR_APPS_SHORTCUT'[0m
+#define IDR_BOOKMARK_BAR_APPS_SHORTCUT _Pragma("whitelisted_resource_10235") 10235
+[0;1;32m                                       ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10235
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bar_view.cc:1755:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        favicon = *GetImageSkiaNamed(IDR_DEFAULT_FAVICON);
+[0;1;32m                                     ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:16:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON'[0m
+#define IDR_DEFAULT_FAVICON _Pragma("whitelisted_resource_26972") 26972
+[0;1;32m                            ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26972
+[0;1;32m ^
+[0m8 warnings generated.

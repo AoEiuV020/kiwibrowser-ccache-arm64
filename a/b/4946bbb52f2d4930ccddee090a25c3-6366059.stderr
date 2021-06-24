@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/location_bar/star_view.cc:88:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(active() ? IDS_TOOLTIP_STARRED
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:107:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_STARRED'[0m
+#define IDS_TOOLTIP_STARRED _Pragma("whitelisted_resource_909") 909
+[0;1;32m                            ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_909
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/location_bar/star_view.cc:89:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                            : IDS_TOOLTIP_STAR);
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:114:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_STAR'[0m
+#define IDS_TOOLTIP_STAR _Pragma("whitelisted_resource_15213") 15213
+[0;1;32m                         ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15213
+[0;1;32m ^
+[0m2 warnings generated.

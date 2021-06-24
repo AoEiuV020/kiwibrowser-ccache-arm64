@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/confirm_bubble_model.cc:22:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16((button == BUTTON_OK) ? IDS_OK : IDS_CANCEL);
+[0;1;32m                                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:1022:16: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OK'[0m
+#define IDS_OK _Pragma("whitelisted_resource_16160") 16160
+[0;1;32m               ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16160
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/confirm_bubble_model.cc:22:69: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16((button == BUTTON_OK) ? IDS_OK : IDS_CANCEL);
+[0;1;32m                                                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m2 warnings generated.

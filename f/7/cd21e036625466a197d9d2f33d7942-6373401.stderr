@@ -1,0 +1,91 @@
+[1m../../chrome/browser/ui/views/certificate_selector.cc:99:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_CERT_SELECTOR_SUBJECT_COLUMN:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1185:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_SUBJECT_COLUMN'[0m
+#define IDS_CERT_SELECTOR_SUBJECT_COLUMN _Pragma("whitelisted_resource_4556") 4556
+[0;1;32m                                         ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4556
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:101:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_CERT_SELECTOR_ISSUER_COLUMN:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1186:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_ISSUER_COLUMN'[0m
+#define IDS_CERT_SELECTOR_ISSUER_COLUMN _Pragma("whitelisted_resource_4557") 4557
+[0;1;32m                                        ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4557
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:103:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_CERT_SELECTOR_PROVIDER_COLUMN:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1187:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_PROVIDER_COLUMN'[0m
+#define IDS_CERT_SELECTOR_PROVIDER_COLUMN _Pragma("whitelisted_resource_4558") 4558
+[0;1;32m                                          ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4558
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:105:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_CERT_SELECTOR_SERIAL_COLUMN:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1188:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_SERIAL_COLUMN'[0m
+#define IDS_CERT_SELECTOR_SERIAL_COLUMN _Pragma("whitelisted_resource_4559") 4559
+[0;1;32m                                        ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4559
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:221:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  columns.push_back(ui::TableColumn(IDS_CERT_SELECTOR_SUBJECT_COLUMN,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1185:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_SUBJECT_COLUMN'[0m
+#define IDS_CERT_SELECTOR_SUBJECT_COLUMN _Pragma("whitelisted_resource_4556") 4556
+[0;1;32m                                         ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4556
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:223:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  columns.push_back(ui::TableColumn(IDS_CERT_SELECTOR_ISSUER_COLUMN,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1186:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_ISSUER_COLUMN'[0m
+#define IDS_CERT_SELECTOR_ISSUER_COLUMN _Pragma("whitelisted_resource_4557") 4557
+[0;1;32m                                        ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4557
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:226:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    columns.push_back(ui::TableColumn(IDS_CERT_SELECTOR_PROVIDER_COLUMN,
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1187:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_PROVIDER_COLUMN'[0m
+#define IDS_CERT_SELECTOR_PROVIDER_COLUMN _Pragma("whitelisted_resource_4558") 4558
+[0;1;32m                                          ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4558
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:229:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  columns.push_back(ui::TableColumn(IDS_CERT_SELECTOR_SERIAL_COLUMN,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1188:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_SELECTOR_SERIAL_COLUMN'[0m
+#define IDS_CERT_SELECTOR_SERIAL_COLUMN _Pragma("whitelisted_resource_4559") 4559
+[0;1;32m                                        ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4559
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:269:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CLIENT_CERT_DIALOG_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1937:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLIENT_CERT_DIALOG_TITLE'[0m
+#define IDS_CLIENT_CERT_DIALOG_TITLE _Pragma("whitelisted_resource_5542") 5542
+[0;1;32m                                     ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5542
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/certificate_selector.cc:284:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_PAGE_INFO_CERT_INFO_BUTTON));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:415:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_CERT_INFO_BUTTON'[0m
+#define IDS_PAGE_INFO_CERT_INFO_BUTTON _Pragma("whitelisted_resource_15523") 15523
+[0;1;32m                                       ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15523
+[0;1;32m ^
+[0m10 warnings generated.

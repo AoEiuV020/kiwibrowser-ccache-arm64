@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/exclusive_access_bubble_views.cc:180:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    accelerator = l10n_util::GetStringUTF16(IDS_APP_ESC_KEY);
+[0;1;32m                                            ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:84:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ESC_KEY'[0m
+#define IDS_APP_ESC_KEY _Pragma("whitelisted_resource_27340") 27340
+[0;1;32m                        ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27340
+[0;1;32m ^
+[0m1 warning generated.

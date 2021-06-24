@@ -1,0 +1,118 @@
+[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:25:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_INDEX_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:53:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_INDEX_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_INDEX_JS _Pragma("whitelisted_resource_17066") 17066
+[0;1;32m                                                ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17066
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:27:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_CHROME_SYNC_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:54:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_CHROME_SYNC_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_CHROME_SYNC_JS _Pragma("whitelisted_resource_17067") 17067
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17067
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:29:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_TYPES_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:55:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_TYPES_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_TYPES_JS _Pragma("whitelisted_resource_17068") 17068
+[0;1;32m                                                ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17068
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:31:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_LOG_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:56:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_LOG_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_LOG_JS _Pragma("whitelisted_resource_17069") 17069
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17069
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:33:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_NODE_BROWSER_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:57:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_NODE_BROWSER_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_NODE_BROWSER_JS _Pragma("whitelisted_resource_17070") 17070
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17070
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:35:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_SEARCH_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:58:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_SEARCH_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_SYNC_SEARCH_JS _Pragma("whitelisted_resource_17071") 17071
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17071
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:37:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_ABOUT_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:59:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_ABOUT_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_ABOUT_JS _Pragma("whitelisted_resource_17072") 17072
+[0;1;32m                                                ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17072
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:39:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_DATA_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:60:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_DATA_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_DATA_JS _Pragma("whitelisted_resource_17073") 17073
+[0;1;32m                                               ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17073
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:41:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_EVENTS_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:61:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_EVENTS_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_EVENTS_JS _Pragma("whitelisted_resource_17074") 17074
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17074
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:43:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_SEARCH_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:62:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_SEARCH_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_SEARCH_JS _Pragma("whitelisted_resource_17075") 17075
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17075
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:45:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_USER_EVENTS_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:63:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_USER_EVENTS_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_USER_EVENTS_JS _Pragma("whitelisted_resource_17076") 17076
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17076
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:47:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SYNC_DRIVER_SYNC_INTERNALS_TRAFFIC_LOG_JS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:64:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_TRAFFIC_LOG_JS'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_TRAFFIC_LOG_JS _Pragma("whitelisted_resource_17077") 17077
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17077
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_internals_ui.cc:48:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SYNC_DRIVER_SYNC_INTERNALS_INDEX_HTML);
+[0;1;32m                             ^
+[0m[1mgen/components/grit/components_resources.h:52:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_DRIVER_SYNC_INTERNALS_INDEX_HTML'[0m
+#define IDR_SYNC_DRIVER_SYNC_INTERNALS_INDEX_HTML _Pragma("whitelisted_resource_17065") 17065
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17065
+[0;1;32m ^
+[0m13 warnings generated.

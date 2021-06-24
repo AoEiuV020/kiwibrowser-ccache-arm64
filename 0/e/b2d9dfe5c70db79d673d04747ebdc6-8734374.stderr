@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/profiles/avatar_button.cc:115:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        *theme->GetImageSkiaNamed(IDR_THEME_WINDOW_CONTROL_BACKGROUND), 0, 0,
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:113:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_WINDOW_CONTROL_BACKGROUND'[0m
+#define IDR_THEME_WINDOW_CONTROL_BACKGROUND _Pragma("whitelisted_resource_10497") 10497
+[0;1;32m                                            ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10497
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/profiles/avatar_button.cc:487:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? l10n_util::GetStringUTF16(IDS_GENERIC_USER_AVATAR_LABEL)
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1842:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GENERIC_USER_AVATAR_LABEL'[0m
+#define IDS_GENERIC_USER_AVATAR_LABEL _Pragma("whitelisted_resource_5427") 5427
+[0;1;32m                                      ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5427
+[0;1;32m ^
+[0m2 warnings generated.

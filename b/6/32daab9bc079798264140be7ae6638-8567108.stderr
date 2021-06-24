@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/hung_renderer_view.cc:335:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BROWSER_HANGMONITOR_RENDERER_TITLE,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1765:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER_TITLE'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER_TITLE _Pragma("whitelisted_resource_5343") 5343
+[0;1;32m                                               ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5343
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/hung_renderer_view.cc:356:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BROWSER_HANGMONITOR_RENDERER_END,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1771:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER_END'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER_END _Pragma("whitelisted_resource_5349") 5349
+[0;1;32m                                             ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5349
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/hung_renderer_view.cc:359:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_BROWSER_HANGMONITOR_RENDERER_WAIT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1770:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER_WAIT'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER_WAIT _Pragma("whitelisted_resource_5348") 5348
+[0;1;32m                                              ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5348
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/hung_renderer_view.cc:469:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BROWSER_HANGMONITOR_RENDERER, hung_pages_table_model_->RowCount()));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1766:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER _Pragma("whitelisted_resource_5344") 5344
+[0;1;32m                                         ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5344
+[0;1;32m ^
+[0m4 warnings generated.

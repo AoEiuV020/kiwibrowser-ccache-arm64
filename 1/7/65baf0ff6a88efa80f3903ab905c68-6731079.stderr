@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/autofill/password_generation_popup_controller_impl.cc:91:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_SMART_LOCK);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:492:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SMART_LOCK'[0m
+#define IDS_PASSWORD_MANAGER_SMART_LOCK _Pragma("whitelisted_resource_15600") 15600
+[0;1;32m                                        ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15600
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/autofill/password_generation_popup_controller_impl.cc:94:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF16(IDS_PASSWORD_GENERATION_PROMPT, link, &offset);
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/chromium_strings.h:58:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_GENERATION_PROMPT'[0m
+#define IDS_PASSWORD_GENERATION_PROMPT _Pragma("whitelisted_resource_472") 472
+[0;1;32m                                       ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_472
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/autofill/password_generation_popup_controller_impl.cc:306:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PASSWORD_GENERATION_SUGGESTION);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:59:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_GENERATION_SUGGESTION'[0m
+#define IDS_PASSWORD_GENERATION_SUGGESTION _Pragma("whitelisted_resource_473") 473
+[0;1;32m                                           ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_473
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/collected_cookies_infobar_delegate.cc:40:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_INFOBAR_MESSAGE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2023:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_INFOBAR_MESSAGE'[0m
+#define IDS_COLLECTED_COOKIES_INFOBAR_MESSAGE _Pragma("whitelisted_resource_5647") 5647
+[0;1;32m                                              ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5647
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/collected_cookies_infobar_delegate.cc:50:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_INFOBAR_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2024:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_INFOBAR_BUTTON'[0m
+#define IDS_COLLECTED_COOKIES_INFOBAR_BUTTON _Pragma("whitelisted_resource_5648") 5648
+[0;1;32m                                             ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5648
+[0;1;32m ^
+[0m2 warnings generated.

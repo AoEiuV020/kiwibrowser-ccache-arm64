@@ -1,0 +1,10 @@
+[1m../../chrome/browser/web_applications/web_app.cc:96:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDR_APP_DEFAULT_ICON);
+[0;1;32m            ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_DEFAULT_ICON'[0m
+#define IDR_APP_DEFAULT_ICON _Pragma("whitelisted_resource_24450") 24450
+[0;1;32m                             ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24450
+[0;1;32m ^
+[0m1 warning generated.

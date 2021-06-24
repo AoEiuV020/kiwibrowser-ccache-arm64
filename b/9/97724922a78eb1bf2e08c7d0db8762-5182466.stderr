@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/hung_renderer/hung_renderer_core.cc:97:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringFUTF16(IDS_BROWSER_HANGMONITOR_IFRAME_TITLE,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1768:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_IFRAME_TITLE'[0m
+#define IDS_BROWSER_HANGMONITOR_IFRAME_TITLE _Pragma("whitelisted_resource_5346") 5346
+[0;1;32m                                             ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5346
+[0;1;32m ^
+[0m1 warning generated.

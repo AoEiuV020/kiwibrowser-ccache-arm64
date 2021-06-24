@@ -1,0 +1,388 @@
+[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:37:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("signin_shared_css.html", IDR_SIGNIN_SHARED_CSS_HTML);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:10:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNIN_SHARED_CSS_HTML'[0m
+#define IDR_SIGNIN_SHARED_CSS_HTML _Pragma("whitelisted_resource_11500") 11500
+[0;1;32m                                   ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11500
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:43:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->SetDefaultResource(IDR_DICE_SYNC_CONFIRMATION_HTML);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:162:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DICE_SYNC_CONFIRMATION_HTML'[0m
+#define IDR_DICE_SYNC_CONFIRMATION_HTML _Pragma("whitelisted_resource_11254") 11254
+[0;1;32m                                        ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11254
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:45:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDR_DICE_SYNC_CONFIRMATION_BROWSER_PROXY_HTML);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:164:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DICE_SYNC_CONFIRMATION_BROWSER_PROXY_HTML'[0m
+#define IDR_DICE_SYNC_CONFIRMATION_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_11256") 11256
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11256
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:47:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDR_DICE_SYNC_CONFIRMATION_BROWSER_PROXY_JS);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:165:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DICE_SYNC_CONFIRMATION_BROWSER_PROXY_JS'[0m
+#define IDR_DICE_SYNC_CONFIRMATION_BROWSER_PROXY_JS _Pragma("whitelisted_resource_11257") 11257
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11257
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:49:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDR_DICE_SYNC_CONFIRMATION_APP_HTML);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:166:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DICE_SYNC_CONFIRMATION_APP_HTML'[0m
+#define IDR_DICE_SYNC_CONFIRMATION_APP_HTML _Pragma("whitelisted_resource_11258") 11258
+[0;1;32m                                            ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11258
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:51:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDR_DICE_SYNC_CONFIRMATION_APP_JS);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:167:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DICE_SYNC_CONFIRMATION_APP_JS'[0m
+#define IDR_DICE_SYNC_CONFIRMATION_APP_JS _Pragma("whitelisted_resource_11259") 11259
+[0;1;32m                                          ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11259
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:53:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDR_DICE_SYNC_CONFIRMATION_JS);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:163:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DICE_SYNC_CONFIRMATION_JS'[0m
+#define IDR_DICE_SYNC_CONFIRMATION_JS _Pragma("whitelisted_resource_11255") 11255
+[0;1;32m                                      ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11255
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:56:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_DICE_CHROME_SYNC_MESSAGE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2240:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_CHROME_SYNC_MESSAGE'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_CHROME_SYNC_MESSAGE _Pragma("whitelisted_resource_5879") 5879
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5879
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:58:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_DICE_PERSONALIZE_SERVICES_BODY);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2243:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_PERSONALIZE_SERVICES_BODY'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_PERSONALIZE_SERVICES_BODY _Pragma("whitelisted_resource_5882") 5882
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5882
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:60:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_DICE_GOOGLE_SERVICES_BODY);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2245:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_GOOGLE_SERVICES_BODY'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_GOOGLE_SERVICES_BODY _Pragma("whitelisted_resource_5884") 5884
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5884
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:62:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_DICE_SYNC_SETTINGS_LINK_BODY);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2247:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_SYNC_SETTINGS_LINK_BODY'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_SYNC_SETTINGS_LINK_BODY _Pragma("whitelisted_resource_5886") 5886
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5886
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:64:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_DICE_SYNC_SETTINGS_DESCRIPTION);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2248:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_SYNC_SETTINGS_DESCRIPTION'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_SYNC_SETTINGS_DESCRIPTION _Pragma("whitelisted_resource_5887") 5887
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5887
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:66:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_DICE_SETTINGS_BUTTON_LABEL);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2252:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_SETTINGS_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_SETTINGS_BUTTON_LABEL _Pragma("whitelisted_resource_5891") 5891
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5891
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:69:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_BUTTON_LABEL);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2228:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_BUTTON_LABEL _Pragma("whitelisted_resource_5867") 5867
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5867
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:71:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_TITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2229:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_TITLE _Pragma("whitelisted_resource_5868") 5868
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5868
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:73:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_SUBTITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2230:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_SUBTITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_MORE_OPTIONS_SUBTITLE _Pragma("whitelisted_resource_5869") 5869
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5869
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:76:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_REVIEW_SETTINGS_TITLE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2231:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_REVIEW_SETTINGS_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_REVIEW_SETTINGS_TITLE _Pragma("whitelisted_resource_5870") 5870
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5870
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:79:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_MAKE_NO_CHANGES_TITLE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2232:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_MAKE_NO_CHANGES_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_MAKE_NO_CHANGES_TITLE _Pragma("whitelisted_resource_5871") 5871
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5871
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:82:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_MAKE_NO_CHANGES_SUBTITLE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2233:70: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_MAKE_NO_CHANGES_SUBTITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_MAKE_NO_CHANGES_SUBTITLE _Pragma("whitelisted_resource_5872") 5872
+[0;1;32m                                                                     ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5872
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:84:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_USE_DEFAULT_TITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2234:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_USE_DEFAULT_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_USE_DEFAULT_TITLE _Pragma("whitelisted_resource_5873") 5873
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5873
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:86:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_USE_DEFAULT_SUBTITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2235:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_USE_DEFAULT_SUBTITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_USE_DEFAULT_SUBTITLE _Pragma("whitelisted_resource_5874") 5874
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5874
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:88:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_CONFIRM_BUTTON_LABEL);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2236:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_CONFIRM_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_CONFIRM_BUTTON_LABEL _Pragma("whitelisted_resource_5875") 5875
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5875
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:90:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_BACK_BUTTON_LABEL);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2237:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_BACK_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_OPTIONS_BACK_BUTTON_LABEL _Pragma("whitelisted_resource_5876") 5876
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5876
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:92:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_UNITY_CONSENT_BUMP_TITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2227:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_CONSENT_BUMP_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_CONSENT_BUMP_TITLE _Pragma("whitelisted_resource_5866") 5866
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5866
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:107:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    title_ids = IDS_SYNC_CONFIRMATION_UNITY_TITLE;
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2226:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNITY_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_UNITY_TITLE _Pragma("whitelisted_resource_5865") 5865
+[0;1;32m                                          ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5865
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:108:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    confirm_button_ids = IDS_SYNC_CONFIRMATION_DICE_CONFIRM_BUTTON_LABEL;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2250:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_CONFIRM_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_CONFIRM_BUTTON_LABEL _Pragma("whitelisted_resource_5889") 5889
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5889
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:109:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    undo_button_ids = IDS_CANCEL;
+[0;1;32m                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:111:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->SetDefaultResource(IDR_SYNC_CONFIRMATION_HTML);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:160:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_CONFIRMATION_HTML'[0m
+#define IDR_SYNC_CONFIRMATION_HTML _Pragma("whitelisted_resource_11252") 11252
+[0;1;32m                                   ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11252
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:112:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->AddResourcePath("sync_confirmation.css", IDR_SYNC_CONFIRMATION_CSS);
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/grit/browser_resources.h:159:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_CONFIRMATION_CSS'[0m
+#define IDR_SYNC_CONFIRMATION_CSS _Pragma("whitelisted_resource_11251") 11251
+[0;1;32m                                  ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11251
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:113:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->AddResourcePath("sync_confirmation.js", IDR_SYNC_CONFIRMATION_JS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:161:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_CONFIRMATION_JS'[0m
+#define IDR_SYNC_CONFIRMATION_JS _Pragma("whitelisted_resource_11253") 11253
+[0;1;32m                                 ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11253
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:118:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_CHROME_SYNC_TITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2238:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_CHROME_SYNC_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_CHROME_SYNC_TITLE _Pragma("whitelisted_resource_5877") 5877
+[0;1;32m                                                ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5877
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:120:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_CHROME_SYNC_MESSAGE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2239:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_CHROME_SYNC_MESSAGE'[0m
+#define IDS_SYNC_CONFIRMATION_CHROME_SYNC_MESSAGE _Pragma("whitelisted_resource_5878") 5878
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5878
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:122:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_TITLE);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2241:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_TITLE _Pragma("whitelisted_resource_5880") 5880
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5880
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:124:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_BODY);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2242:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_BODY'[0m
+#define IDS_SYNC_CONFIRMATION_PERSONALIZE_SERVICES_BODY _Pragma("whitelisted_resource_5881") 5881
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5881
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:126:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_CONFIRMATION_SYNC_SETTINGS_LINK_BODY);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2246:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_SYNC_SETTINGS_LINK_BODY'[0m
+#define IDS_SYNC_CONFIRMATION_SYNC_SETTINGS_LINK_BODY _Pragma("whitelisted_resource_5885") 5885
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5885
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:128:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                      IDS_SYNC_DISABLED_CONFIRMATION_DETAILS);
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2254:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_DISABLED_CONFIRMATION_DETAILS'[0m
+#define IDS_SYNC_DISABLED_CONFIRMATION_DETAILS _Pragma("whitelisted_resource_5893") 5893
+[0;1;32m                                               ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5893
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:131:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    ? IDS_SYNC_CONFIRMATION_DICE_TITLE
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2225:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_DICE_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_DICE_TITLE _Pragma("whitelisted_resource_5864") 5864
+[0;1;32m                                         ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5864
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:132:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    : IDS_SYNC_CONFIRMATION_TITLE;
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2224:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_TITLE'[0m
+#define IDS_SYNC_CONFIRMATION_TITLE _Pragma("whitelisted_resource_5863") 5863
+[0;1;32m                                    ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5863
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:133:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    confirm_button_ids = IDS_SYNC_CONFIRMATION_CONFIRM_BUTTON_LABEL;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2249:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_CONFIRM_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_CONFIRM_BUTTON_LABEL _Pragma("whitelisted_resource_5888") 5888
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5888
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:134:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    undo_button_ids = IDS_SYNC_CONFIRMATION_UNDO_BUTTON_LABEL;
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2251:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_CONFIRMATION_UNDO_BUTTON_LABEL'[0m
+#define IDS_SYNC_CONFIRMATION_UNDO_BUTTON_LABEL _Pragma("whitelisted_resource_5890") 5890
+[0;1;32m                                                ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5890
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:136:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      title_ids = IDS_SYNC_DISABLED_CONFIRMATION_CHROME_SYNC_TITLE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2253:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_DISABLED_CONFIRMATION_CHROME_SYNC_TITLE'[0m
+#define IDS_SYNC_DISABLED_CONFIRMATION_CHROME_SYNC_TITLE _Pragma("whitelisted_resource_5892") 5892
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5892
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:137:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      confirm_button_ids = IDS_SYNC_DISABLED_CONFIRMATION_CONFIRM_BUTTON_LABEL;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2255:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_DISABLED_CONFIRMATION_CONFIRM_BUTTON_LABEL'[0m
+#define IDS_SYNC_DISABLED_CONFIRMATION_CONFIRM_BUTTON_LABEL _Pragma("whitelisted_resource_5894") 5894
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5894
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/signin/sync_confirmation_ui.cc:138:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      undo_button_ids = IDS_SYNC_DISABLED_CONFIRMATION_UNDO_BUTTON_LABEL;
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2256:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_DISABLED_CONFIRMATION_UNDO_BUTTON_LABEL'[0m
+#define IDS_SYNC_DISABLED_CONFIRMATION_UNDO_BUTTON_LABEL _Pragma("whitelisted_resource_5895") 5895
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5895
+[0;1;32m ^
+[0m43 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/feature_promos/bookmark_promo_bubble_view.cc:27:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  static constexpr int kTextIds[] = {IDS_BOOKMARK_PROMO_0, IDS_BOOKMARK_PROMO_1,
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1755:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_PROMO_0'[0m
+#define IDS_BOOKMARK_PROMO_0 _Pragma("whitelisted_resource_5332") 5332
+[0;1;32m                             ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5332
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/feature_promos/bookmark_promo_bubble_view.cc:27:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  static constexpr int kTextIds[] = {IDS_BOOKMARK_PROMO_0, IDS_BOOKMARK_PROMO_1,
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1756:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_PROMO_1'[0m
+#define IDS_BOOKMARK_PROMO_1 _Pragma("whitelisted_resource_5333") 5333
+[0;1;32m                             ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5333
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/feature_promos/bookmark_promo_bubble_view.cc:28:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                     IDS_BOOKMARK_PROMO_2};
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1757:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_PROMO_2'[0m
+#define IDS_BOOKMARK_PROMO_2 _Pragma("whitelisted_resource_5334") 5334
+[0;1;32m                             ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5334
+[0;1;32m ^
+[0m3 warnings generated.

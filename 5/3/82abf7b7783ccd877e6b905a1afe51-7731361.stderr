@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/webui/interstitials/interstitial_ui.cc:482:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+               .GetRawDataResource(IDR_SECURITY_INTERSTITIAL_UI_HTML)
+[0;1;32m                                   ^
+[0m[1mgen/components/grit/components_resources.h:43:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_UI_HTML'[0m
+#define IDR_SECURITY_INTERSTITIAL_UI_HTML _Pragma("whitelisted_resource_17056") 17056
+[0;1;32m                                          ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17056
+[0;1;32m ^
+[0m1 warning generated.

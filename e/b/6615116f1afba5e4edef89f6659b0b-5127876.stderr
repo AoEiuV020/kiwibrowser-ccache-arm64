@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/startup/default_browser_infobar_delegate.cc:83:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DEFAULT_BROWSER_INFOBAR_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:61:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_BROWSER_INFOBAR_TEXT'[0m
+#define IDS_DEFAULT_BROWSER_INFOBAR_TEXT _Pragma("whitelisted_resource_493") 493
+[0;1;32m                                         ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_493
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/startup/default_browser_infobar_delegate.cc:93:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DEFAULT_BROWSER_INFOBAR_OK_BUTTON_LABEL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2307:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_BROWSER_INFOBAR_OK_BUTTON_LABEL'[0m
+#define IDS_DEFAULT_BROWSER_INFOBAR_OK_BUTTON_LABEL _Pragma("whitelisted_resource_5949") 5949
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5949
+[0;1;32m ^
+[0m2 warnings generated.

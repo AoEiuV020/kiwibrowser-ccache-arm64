@@ -1,0 +1,19 @@
+[1m../../chrome/browser/extensions/install_verifier.cc:446:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_ADDED_WITHOUT_KNOWLEDGE,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1531:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_ADDED_WITHOUT_KNOWLEDGE'[0m
+#define IDS_EXTENSIONS_ADDED_WITHOUT_KNOWLEDGE _Pragma("whitelisted_resource_5078") 5078
+[0;1;32m                                               ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5078
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/install_verifier.cc:447:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_EXTENSION_WEB_STORE_TITLE));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1515:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEB_STORE_TITLE'[0m
+#define IDS_EXTENSION_WEB_STORE_TITLE _Pragma("whitelisted_resource_5062") 5062
+[0;1;32m                                      ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5062
+[0;1;32m ^
+[0m2 warnings generated.

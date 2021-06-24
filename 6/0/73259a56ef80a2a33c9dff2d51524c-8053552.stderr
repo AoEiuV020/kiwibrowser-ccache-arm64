@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/webui/media_router/media_router_ui.cc:556:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF8(IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:138:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT _Pragma("whitelisted_resource_2547") 2547
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2547
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_ui.cc:561:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_TAB);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:140:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_TAB'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_TAB _Pragma("whitelisted_resource_2549") 2549
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2549
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_ui.cc:565:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_DESKTOP);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:139:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_DESKTOP'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_DESKTOP _Pragma("whitelisted_resource_2548") 2548
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2548
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_ui.cc:581:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_MEDIA_ROUTER_ISSUE_UNABLE_TO_CAST_DESKTOP)
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:142:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_UNABLE_TO_CAST_DESKTOP'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_UNABLE_TO_CAST_DESKTOP _Pragma("whitelisted_resource_2551") 2551
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2551
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_ui.cc:583:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_TAB);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:140:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_TAB'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_CREATE_ROUTE_TIMEOUT_FOR_TAB _Pragma("whitelisted_resource_2549") 2549
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2549
+[0;1;32m ^
+[0m5 warnings generated.

@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/webui/flash_ui.cc:71:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("loadingMessage", IDS_FLASH_LOADING_MESSAGE);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1667:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FLASH_LOADING_MESSAGE'[0m
+#define IDS_FLASH_LOADING_MESSAGE _Pragma("whitelisted_resource_5238") 5238
+[0;1;32m                                  ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5238
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flash_ui.cc:72:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("flashLongTitle", IDS_FLASH_TITLE_MESSAGE);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1668:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FLASH_TITLE_MESSAGE'[0m
+#define IDS_FLASH_TITLE_MESSAGE _Pragma("whitelisted_resource_5239") 5239
+[0;1;32m                                ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5239
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flash_ui.cc:74:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("about_flash.js", IDR_ABOUT_FLASH_JS);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:21:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_FLASH_JS'[0m
+#define IDR_ABOUT_FLASH_JS _Pragma("whitelisted_resource_11007") 11007
+[0;1;32m                           ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11007
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flash_ui.cc:75:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_ABOUT_FLASH_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:20:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_FLASH_HTML'[0m
+#define IDR_ABOUT_FLASH_HTML _Pragma("whitelisted_resource_11006") 11006
+[0;1;32m                             ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11006
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flash_ui.cc:249:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      list.get(), l10n_util::GetStringUTF16(IDS_PRODUCT_NAME),
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:34:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRODUCT_NAME'[0m
+#define IDS_PRODUCT_NAME _Pragma("whitelisted_resource_429") 429
+[0;1;32m                         ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_429
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flash_ui.cc:272:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddPair(list.get(), l10n_util::GetStringUTF16(IDS_VERSION_UI_OS), os_label);
+[0;1;32m                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1009:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VERSION_UI_OS'[0m
+#define IDS_VERSION_UI_OS _Pragma("whitelisted_resource_16143") 16143
+[0;1;32m                          ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16143
+[0;1;32m ^
+[0m6 warnings generated.

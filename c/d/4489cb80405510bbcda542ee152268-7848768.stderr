@@ -1,0 +1,55 @@
+[1m../../chrome/browser/extensions/suspicious_extension_bubble_delegate.cc:76:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSIONS_UNSUPPORTED_DISABLED_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1528:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_UNSUPPORTED_DISABLED_TITLE'[0m
+#define IDS_EXTENSIONS_UNSUPPORTED_DISABLED_TITLE _Pragma("whitelisted_resource_5075") 5075
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5075
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/suspicious_extension_bubble_delegate.cc:83:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSIONS_SINGLE_UNSUPPORTED_DISABLED_BODY :
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:83:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_SINGLE_UNSUPPORTED_DISABLED_BODY'[0m
+#define IDS_EXTENSIONS_SINGLE_UNSUPPORTED_DISABLED_BODY _Pragma("whitelisted_resource_527") 527
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_527
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/suspicious_extension_bubble_delegate.cc:84:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_EXTENSIONS_MULTIPLE_UNSUPPORTED_DISABLED_BODY;
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:82:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_MULTIPLE_UNSUPPORTED_DISABLED_BODY'[0m
+#define IDS_EXTENSIONS_MULTIPLE_UNSUPPORTED_DISABLED_BODY _Pragma("whitelisted_resource_526") 526
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_526
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/suspicious_extension_bubble_delegate.cc:86:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id, l10n_util::GetStringUTF16(IDS_EXTENSION_WEB_STORE_TITLE));
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1515:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEB_STORE_TITLE'[0m
+#define IDS_EXTENSION_WEB_STORE_TITLE _Pragma("whitelisted_resource_5062") 5062
+[0;1;32m                                      ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5062
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/suspicious_extension_bubble_delegate.cc:92:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSIONS_DISABLED_AND_N_MORE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1529:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_DISABLED_AND_N_MORE'[0m
+#define IDS_EXTENSIONS_DISABLED_AND_N_MORE _Pragma("whitelisted_resource_5076") 5076
+[0;1;32m                                           ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5076
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/suspicious_extension_bubble_delegate.cc:107:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSIONS_UNSUPPORTED_DISABLED_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1530:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_UNSUPPORTED_DISABLED_BUTTON'[0m
+#define IDS_EXTENSIONS_UNSUPPORTED_DISABLED_BUTTON _Pragma("whitelisted_resource_5077") 5077
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5077
+[0;1;32m ^
+[0m6 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/favicon_source.cc:198:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      resource_id = IDR_DEFAULT_FAVICON_64;
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:18:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON_64'[0m
+#define IDR_DEFAULT_FAVICON_64 _Pragma("whitelisted_resource_26974") 26974
+[0;1;32m                               ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26974
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/favicon_source.cc:201:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      resource_id = IDR_DEFAULT_FAVICON_32;
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:17:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON_32'[0m
+#define IDR_DEFAULT_FAVICON_32 _Pragma("whitelisted_resource_26973") 26973
+[0;1;32m                               ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26973
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/favicon_source.cc:204:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      resource_id = IDR_DEFAULT_FAVICON;
+[0;1;32m                    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:16:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON'[0m
+#define IDR_DEFAULT_FAVICON _Pragma("whitelisted_resource_26972") 26972
+[0;1;32m                            ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26972
+[0;1;32m ^
+[0m3 warnings generated.

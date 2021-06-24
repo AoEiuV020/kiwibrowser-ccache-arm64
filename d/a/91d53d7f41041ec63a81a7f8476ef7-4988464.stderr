@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/views/sync/dice_signin_button_view.cc:35:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2129:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON'[0m
+#define IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON _Pragma("whitelisted_resource_5767") 5767
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5767
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/dice_signin_button_view.cc:40:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2129:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON'[0m
+#define IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON _Pragma("whitelisted_resource_5767") 5767
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5767
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/dice_signin_button_view.cc:44:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON_NO_NAME);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2130:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON_NO_NAME'[0m
+#define IDS_PROFILES_DICE_SIGNIN_FIRST_ACCOUNT_BUTTON_NO_NAME _Pragma("whitelisted_resource_5768") 5768
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5768
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/dice_signin_button_view.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PROFILES_DICE_SIGNIN_BUTTON),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2128:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_BUTTON'[0m
+#define IDS_PROFILES_DICE_SIGNIN_BUTTON _Pragma("whitelisted_resource_5766") 5766
+[0;1;32m                                        ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5766
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/sync/dice_signin_button_view.cc:115:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PROFILES_DICE_SIGNIN_WITH_ANOTHER_ACCOUNT_BUTTON));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2131:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DICE_SIGNIN_WITH_ANOTHER_ACCOUNT_BUTTON'[0m
+#define IDS_PROFILES_DICE_SIGNIN_WITH_ANOTHER_ACCOUNT_BUTTON _Pragma("whitelisted_resource_5769") 5769
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5769
+[0;1;32m ^
+[0m5 warnings generated.

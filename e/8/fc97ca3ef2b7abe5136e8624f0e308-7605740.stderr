@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_footer_panel.cc:58:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_APPLICATION_INFO_CREATE_SHORTCUTS_BUTTON_TEXT));
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1108:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_CREATE_SHORTCUTS_BUTTON_TEXT'[0m
+#define IDS_APPLICATION_INFO_CREATE_SHORTCUTS_BUTTON_TEXT _Pragma("whitelisted_resource_4476") 4476
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4476
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/apps/app_info_dialog/app_info_footer_panel.cc:73:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_APPLICATION_INFO_UNINSTALL_BUTTON_TEXT));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1104:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPLICATION_INFO_UNINSTALL_BUTTON_TEXT'[0m
+#define IDS_APPLICATION_INFO_UNINSTALL_BUTTON_TEXT _Pragma("whitelisted_resource_4472") 4472
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4472
+[0;1;32m ^
+[0m2 warnings generated.

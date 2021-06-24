@@ -1,0 +1,424 @@
+[1m../../chrome/browser/ui/webui/md_history_ui.cc:59:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("bookmarked", IDS_HISTORY_ENTRY_BOOKMARKED);
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:289:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_ENTRY_BOOKMARKED'[0m
+#define IDS_HISTORY_ENTRY_BOOKMARKED _Pragma("whitelisted_resource_15392") 15392
+[0;1;32m                                     ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15392
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:60:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("cancel", IDS_CANCEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:62:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_CLEAR_BROWSING_DATA_TITLE);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1832:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLEAR_BROWSING_DATA_TITLE'[0m
+#define IDS_CLEAR_BROWSING_DATA_TITLE _Pragma("whitelisted_resource_5417") 5417
+[0;1;32m                                      ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5417
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:63:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("clearSearch", IDS_MD_HISTORY_CLEAR_SEARCH);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:812:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_CLEAR_SEARCH'[0m
+#define IDS_MD_HISTORY_CLEAR_SEARCH _Pragma("whitelisted_resource_4154") 4154
+[0;1;32m                                    ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4154
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:64:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("closeMenuPromo", IDS_MD_HISTORY_CLOSE_MENU_PROMO);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:823:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_CLOSE_MENU_PROMO'[0m
+#define IDS_MD_HISTORY_CLOSE_MENU_PROMO _Pragma("whitelisted_resource_4165") 4165
+[0;1;32m                                        ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4165
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:66:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_OTHER_SESSIONS_COLLAPSE_SESSION);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:298:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_OTHER_SESSIONS_COLLAPSE_SESSION'[0m
+#define IDS_HISTORY_OTHER_SESSIONS_COLLAPSE_SESSION _Pragma("whitelisted_resource_15401") 15401
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15401
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:67:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("delete", IDS_MD_HISTORY_DELETE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:813:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_DELETE'[0m
+#define IDS_MD_HISTORY_DELETE _Pragma("whitelisted_resource_4155") 4155
+[0;1;32m                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4155
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:69:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_DELETE_PRIOR_VISITS_CONFIRM_BUTTON);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:284:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_DELETE_PRIOR_VISITS_CONFIRM_BUTTON'[0m
+#define IDS_HISTORY_DELETE_PRIOR_VISITS_CONFIRM_BUTTON _Pragma("whitelisted_resource_15387") 15387
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15387
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:71:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_OTHER_SESSIONS_HIDE_FOR_NOW);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:300:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_OTHER_SESSIONS_HIDE_FOR_NOW'[0m
+#define IDS_HISTORY_OTHER_SESSIONS_HIDE_FOR_NOW _Pragma("whitelisted_resource_15403") 15403
+[0;1;32m                                                ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15403
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:73:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_DELETE_PRIOR_VISITS_WARNING);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:285:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_DELETE_PRIOR_VISITS_WARNING'[0m
+#define IDS_HISTORY_DELETE_PRIOR_VISITS_WARNING _Pragma("whitelisted_resource_15388") 15388
+[0;1;32m                                                ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15388
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:74:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("entrySummary", IDS_HISTORY_ENTRY_SUMMARY);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:290:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_ENTRY_SUMMARY'[0m
+#define IDS_HISTORY_ENTRY_SUMMARY _Pragma("whitelisted_resource_15393") 15393
+[0;1;32m                                  ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15393
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:76:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_OTHER_SESSIONS_EXPAND_SESSION);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:299:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_OTHER_SESSIONS_EXPAND_SESSION'[0m
+#define IDS_HISTORY_OTHER_SESSIONS_EXPAND_SESSION _Pragma("whitelisted_resource_15402") 15402
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15402
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:78:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_FOUND_SEARCH_RESULTS);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:291:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_FOUND_SEARCH_RESULTS'[0m
+#define IDS_HISTORY_FOUND_SEARCH_RESULTS _Pragma("whitelisted_resource_15394") 15394
+[0;1;32m                                         ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15394
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:80:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_MD_HISTORY_HISTORY_MENU_DESCRIPTION);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:815:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_HISTORY_MENU_DESCRIPTION'[0m
+#define IDS_MD_HISTORY_HISTORY_MENU_DESCRIPTION _Pragma("whitelisted_resource_4157") 4157
+[0;1;32m                                                ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4157
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:82:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_MD_HISTORY_HISTORY_MENU_ITEM);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:816:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_HISTORY_MENU_ITEM'[0m
+#define IDS_MD_HISTORY_HISTORY_MENU_ITEM _Pragma("whitelisted_resource_4158") 4158
+[0;1;32m                                         ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:83:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("itemsSelected", IDS_MD_HISTORY_ITEMS_SELECTED);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:814:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_ITEMS_SELECTED'[0m
+#define IDS_MD_HISTORY_ITEMS_SELECTED _Pragma("whitelisted_resource_4156") 4156
+[0;1;32m                                      ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:84:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("loading", IDS_HISTORY_LOADING);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:293:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_LOADING'[0m
+#define IDS_HISTORY_LOADING _Pragma("whitelisted_resource_15396") 15396
+[0;1;32m                            ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15396
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:85:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("menuPromo", IDS_MD_HISTORY_MENU_PROMO);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:822:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_MENU_PROMO'[0m
+#define IDS_MD_HISTORY_MENU_PROMO _Pragma("whitelisted_resource_4164") 4164
+[0;1;32m                                  ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4164
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:87:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_ACTION_MENU_DESCRIPTION);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:281:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_ACTION_MENU_DESCRIPTION'[0m
+#define IDS_HISTORY_ACTION_MENU_DESCRIPTION _Pragma("whitelisted_resource_15384") 15384
+[0;1;32m                                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15384
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:88:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("moreFromSite", IDS_HISTORY_MORE_FROM_SITE);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:294:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_MORE_FROM_SITE'[0m
+#define IDS_HISTORY_MORE_FROM_SITE _Pragma("whitelisted_resource_15397") 15397
+[0;1;32m                                   ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15397
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:89:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("openAll", IDS_HISTORY_OTHER_SESSIONS_OPEN_ALL);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:301:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_OTHER_SESSIONS_OPEN_ALL'[0m
+#define IDS_HISTORY_OTHER_SESSIONS_OPEN_ALL _Pragma("whitelisted_resource_15404") 15404
+[0;1;32m                                            ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15404
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:91:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_MD_HISTORY_OPEN_TABS_MENU_ITEM);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:818:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_OPEN_TABS_MENU_ITEM'[0m
+#define IDS_MD_HISTORY_OPEN_TABS_MENU_ITEM _Pragma("whitelisted_resource_4160") 4160
+[0;1;32m                                           ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4160
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:92:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("noResults", IDS_HISTORY_NO_RESULTS);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:295:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_NO_RESULTS'[0m
+#define IDS_HISTORY_NO_RESULTS _Pragma("whitelisted_resource_15398") 15398
+[0;1;32m                               ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15398
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:93:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("noSearchResults", IDS_HISTORY_NO_SEARCH_RESULTS);
+[0;1;32m                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:296:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_NO_SEARCH_RESULTS'[0m
+#define IDS_HISTORY_NO_SEARCH_RESULTS _Pragma("whitelisted_resource_15399") 15399
+[0;1;32m                                      ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15399
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:95:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_MD_HISTORY_NO_SYNCED_RESULTS);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:817:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_NO_SYNCED_RESULTS'[0m
+#define IDS_MD_HISTORY_NO_SYNCED_RESULTS _Pragma("whitelisted_resource_4159") 4159
+[0;1;32m                                         ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:96:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("removeBookmark", IDS_HISTORY_REMOVE_BOOKMARK);
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:302:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_REMOVE_BOOKMARK'[0m
+#define IDS_HISTORY_REMOVE_BOOKMARK _Pragma("whitelisted_resource_15405") 15405
+[0;1;32m                                    ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15405
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:97:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("removeFromHistory", IDS_HISTORY_REMOVE_PAGE);
+[0;1;32m                                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:303:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_REMOVE_PAGE'[0m
+#define IDS_HISTORY_REMOVE_PAGE _Pragma("whitelisted_resource_15406") 15406
+[0;1;32m                                ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15406
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:99:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_HISTORY_REMOVE_SELECTED_ITEMS);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:304:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_REMOVE_SELECTED_ITEMS'[0m
+#define IDS_HISTORY_REMOVE_SELECTED_ITEMS _Pragma("whitelisted_resource_15407") 15407
+[0;1;32m                                          ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15407
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:100:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("searchPrompt", IDS_MD_HISTORY_SEARCH_PROMPT);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:811:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_SEARCH_PROMPT'[0m
+#define IDS_MD_HISTORY_SEARCH_PROMPT _Pragma("whitelisted_resource_4153") 4153
+[0;1;32m                                     ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4153
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:101:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("searchResult", IDS_HISTORY_SEARCH_RESULT);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:306:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_SEARCH_RESULT'[0m
+#define IDS_HISTORY_SEARCH_RESULT _Pragma("whitelisted_resource_15409") 15409
+[0;1;32m                                  ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15409
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:102:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("searchResults", IDS_HISTORY_SEARCH_RESULTS);
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:307:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_SEARCH_RESULTS'[0m
+#define IDS_HISTORY_SEARCH_RESULTS _Pragma("whitelisted_resource_15410") 15410
+[0;1;32m                                   ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15410
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:103:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("signInButton", IDS_MD_HISTORY_SIGN_IN_BUTTON);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:819:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_SIGN_IN_BUTTON'[0m
+#define IDS_MD_HISTORY_SIGN_IN_BUTTON _Pragma("whitelisted_resource_4161") 4161
+[0;1;32m                                      ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4161
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:104:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddLocalizedString("signInPromo", IDS_MD_HISTORY_SIGN_IN_PROMO);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:820:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_SIGN_IN_PROMO'[0m
+#define IDS_MD_HISTORY_SIGN_IN_PROMO _Pragma("whitelisted_resource_4162") 4162
+[0;1;32m                                     ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4162
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:106:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_MD_HISTORY_SIGN_IN_PROMO_DESC);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:821:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_HISTORY_SIGN_IN_PROMO_DESC'[0m
+#define IDS_MD_HISTORY_SIGN_IN_PROMO_DESC _Pragma("whitelisted_resource_4163") 4163
+[0;1;32m                                          ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4163
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:110:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    source->AddLocalizedString("title", IDS_HISTORY_TITLE);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:311:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_TITLE'[0m
+#define IDS_HISTORY_TITLE _Pragma("whitelisted_resource_15414") 15414
+[0;1;32m                          ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15414
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:115:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_HISTORY_OTHER_FORMS_OF_HISTORY,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:292:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_OTHER_FORMS_OF_HISTORY'[0m
+#define IDS_HISTORY_OTHER_FORMS_OF_HISTORY _Pragma("whitelisted_resource_15395") 15395
+[0;1;32m                                           ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15395
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:117:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_SETTINGS_CLEAR_DATA_MYACTIVITY_URL_IN_HISTORY)));
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/locale_settings.h:20:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_CLEAR_DATA_MYACTIVITY_URL_IN_HISTORY'[0m
+#define IDS_SETTINGS_CLEAR_DATA_MYACTIVITY_URL_IN_HISTORY _Pragma("whitelisted_resource_10027") 10027
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10027
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:134:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"constants.html", IDR_MD_HISTORY_CONSTANTS_HTML},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/browser_resources.h:87:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_CONSTANTS_HTML'[0m
+#define IDR_MD_HISTORY_CONSTANTS_HTML _Pragma("whitelisted_resource_11136") 11136
+[0;1;32m                                      ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11136
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:135:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"constants.js", IDR_MD_HISTORY_CONSTANTS_JS},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/browser_resources.h:88:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_CONSTANTS_JS'[0m
+#define IDR_MD_HISTORY_CONSTANTS_JS _Pragma("whitelisted_resource_11137") 11137
+[0;1;32m                                    ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11137
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:136:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"history.js", IDR_MD_HISTORY_HISTORY_JS},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/browser_resources.h:90:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_HISTORY_JS'[0m
+#define IDR_MD_HISTORY_HISTORY_JS _Pragma("whitelisted_resource_11139") 11139
+[0;1;32m                                  ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11139
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:138:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_MD_HISTORY_IMAGES_100_SIGN_IN_PROMO_JPG},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/browser_resources.h:91:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_IMAGES_100_SIGN_IN_PROMO_JPG'[0m
+#define IDR_MD_HISTORY_IMAGES_100_SIGN_IN_PROMO_JPG _Pragma("whitelisted_resource_11140") 11140
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11140
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:140:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDR_MD_HISTORY_IMAGES_200_SIGN_IN_PROMO_JPG},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/browser_resources.h:92:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_IMAGES_200_SIGN_IN_PROMO_JPG'[0m
+#define IDR_MD_HISTORY_IMAGES_200_SIGN_IN_PROMO_JPG _Pragma("whitelisted_resource_11141") 11141
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11141
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:180:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_HISTORY_APP_VULCANIZED_HTML);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:93:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_APP_VULCANIZED_HTML'[0m
+#define IDR_MD_HISTORY_APP_VULCANIZED_HTML _Pragma("whitelisted_resource_11142") 11142
+[0;1;32m                                           ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11142
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:182:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_HISTORY_APP_CRISPER_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:94:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_APP_CRISPER_JS'[0m
+#define IDR_MD_HISTORY_APP_CRISPER_JS _Pragma("whitelisted_resource_11143") 11143
+[0;1;32m                                      ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11143
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:184:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_HISTORY_LAZY_LOAD_VULCANIZED_HTML);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:95:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_LAZY_LOAD_VULCANIZED_HTML'[0m
+#define IDR_MD_HISTORY_LAZY_LOAD_VULCANIZED_HTML _Pragma("whitelisted_resource_11144") 11144
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11144
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:186:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_MD_HISTORY_LAZY_LOAD_CRISPER_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:96:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_LAZY_LOAD_CRISPER_JS'[0m
+#define IDR_MD_HISTORY_LAZY_LOAD_CRISPER_JS _Pragma("whitelisted_resource_11145") 11145
+[0;1;32m                                            ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11145
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/md_history_ui.cc:189:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_MD_HISTORY_HISTORY_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:89:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_HISTORY_HISTORY_HTML'[0m
+#define IDR_MD_HISTORY_HISTORY_HTML _Pragma("whitelisted_resource_11138") 11138
+[0;1;32m                                    ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11138
+[0;1;32m ^
+[0m47 warnings generated.

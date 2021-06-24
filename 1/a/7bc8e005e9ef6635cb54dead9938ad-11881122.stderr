@@ -1,0 +1,64 @@
+[1m../../content/browser/service_manager/service_manager_context.cc:407:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {mojom::kBrowserServiceName, IDR_MOJO_CONTENT_BROWSER_MANIFEST},
+[0;1;32m                                     ^
+[0m[1mgen/content/grit/content_resources.h:25:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CONTENT_BROWSER_MANIFEST'[0m
+#define IDR_MOJO_CONTENT_BROWSER_MANIFEST _Pragma("whitelisted_resource_20420") 20420
+[0;1;32m                                          ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20420
+[0;1;32m ^
+[0m[1m../../content/browser/service_manager/service_manager_context.cc:408:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {mojom::kGpuServiceName, IDR_MOJO_CONTENT_GPU_MANIFEST},
+[0;1;32m                                 ^
+[0m[1mgen/content/grit/content_resources.h:26:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CONTENT_GPU_MANIFEST'[0m
+#define IDR_MOJO_CONTENT_GPU_MANIFEST _Pragma("whitelisted_resource_20421") 20421
+[0;1;32m                                      ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20421
+[0;1;32m ^
+[0m[1m../../content/browser/service_manager/service_manager_context.cc:410:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+         IDR_MOJO_CONTENT_PACKAGED_SERVICES_MANIFEST},
+[0;1;32m         ^
+[0m[1mgen/content/grit/content_resources.h:27:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CONTENT_PACKAGED_SERVICES_MANIFEST'[0m
+#define IDR_MOJO_CONTENT_PACKAGED_SERVICES_MANIFEST _Pragma("whitelisted_resource_20422") 20422
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20422
+[0;1;32m ^
+[0m[1m../../content/browser/service_manager/service_manager_context.cc:411:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {mojom::kPluginServiceName, IDR_MOJO_CONTENT_PLUGIN_MANIFEST},
+[0;1;32m                                    ^
+[0m[1mgen/content/grit/content_resources.h:28:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CONTENT_PLUGIN_MANIFEST'[0m
+#define IDR_MOJO_CONTENT_PLUGIN_MANIFEST _Pragma("whitelisted_resource_20423") 20423
+[0;1;32m                                         ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20423
+[0;1;32m ^
+[0m[1m../../content/browser/service_manager/service_manager_context.cc:412:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {mojom::kRendererServiceName, IDR_MOJO_CONTENT_RENDERER_MANIFEST},
+[0;1;32m                                      ^
+[0m[1mgen/content/grit/content_resources.h:29:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CONTENT_RENDERER_MANIFEST'[0m
+#define IDR_MOJO_CONTENT_RENDERER_MANIFEST _Pragma("whitelisted_resource_20424") 20424
+[0;1;32m                                           ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20424
+[0;1;32m ^
+[0m[1m../../content/browser/service_manager/service_manager_context.cc:413:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {mojom::kUtilityServiceName, IDR_MOJO_CONTENT_UTILITY_MANIFEST},
+[0;1;32m                                     ^
+[0m[1mgen/content/grit/content_resources.h:30:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CONTENT_UTILITY_MANIFEST'[0m
+#define IDR_MOJO_CONTENT_UTILITY_MANIFEST _Pragma("whitelisted_resource_20425") 20425
+[0;1;32m                                          ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20425
+[0;1;32m ^
+[0m[1m../../content/browser/service_manager/service_manager_context.cc:414:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {catalog::mojom::kServiceName, IDR_MOJO_CATALOG_MANIFEST},
+[0;1;32m                                       ^
+[0m[1mgen/content/grit/content_resources.h:24:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOJO_CATALOG_MANIFEST'[0m
+#define IDR_MOJO_CATALOG_MANIFEST _Pragma("whitelisted_resource_20419") 20419
+[0;1;32m                                  ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20419
+[0;1;32m ^
+[0m7 warnings generated.

@@ -1,0 +1,1162 @@
+[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:12:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"../../${compressed_protocol_file}", COMPRESSED_PROTOCOL_JSON},
+[0;1;32m                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:5:34: [0m[0;1;30mnote: [0mexpanded from macro 'COMPRESSED_PROTOCOL_JSON'[0m
+#define COMPRESSED_PROTOCOL_JSON _Pragma("whitelisted_resource_28750") 28750
+[0;1;32m                                 ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28750
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:13:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"audits2_worker.js", AUDITS2_WORKER_JS},
+[0;1;32m                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:6:27: [0m[0;1;30mnote: [0mexpanded from macro 'AUDITS2_WORKER_JS'[0m
+#define AUDITS2_WORKER_JS _Pragma("whitelisted_resource_28751") 28751
+[0;1;32m                          ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28751
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:14:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"devtools_app.html", DEVTOOLS_APP_HTML},
+[0;1;32m                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:7:27: [0m[0;1;30mnote: [0mexpanded from macro 'DEVTOOLS_APP_HTML'[0m
+#define DEVTOOLS_APP_HTML _Pragma("whitelisted_resource_28752") 28752
+[0;1;32m                          ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28752
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:15:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"devtools_app.js", DEVTOOLS_APP_JS},
+[0;1;32m                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:8:25: [0m[0;1;30mnote: [0mexpanded from macro 'DEVTOOLS_APP_JS'[0m
+#define DEVTOOLS_APP_JS _Pragma("whitelisted_resource_28753") 28753
+[0;1;32m                        ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28753
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:16:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"formatter_worker.js", FORMATTER_WORKER_JS},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:9:29: [0m[0;1;30mnote: [0mexpanded from macro 'FORMATTER_WORKER_JS'[0m
+#define FORMATTER_WORKER_JS _Pragma("whitelisted_resource_28754") 28754
+[0;1;32m                            ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28754
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:17:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"heap_snapshot_worker.js", HEAP_SNAPSHOT_WORKER_JS},
+[0;1;32m                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:10:33: [0m[0;1;30mnote: [0mexpanded from macro 'HEAP_SNAPSHOT_WORKER_JS'[0m
+#define HEAP_SNAPSHOT_WORKER_JS _Pragma("whitelisted_resource_28755") 28755
+[0;1;32m                                ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28755
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:18:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"inspector.html", INSPECTOR_HTML},
+[0;1;32m                     ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:11:24: [0m[0;1;30mnote: [0mexpanded from macro 'INSPECTOR_HTML'[0m
+#define INSPECTOR_HTML _Pragma("whitelisted_resource_28756") 28756
+[0;1;32m                       ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28756
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:19:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"inspector.js", INSPECTOR_JS},
+[0;1;32m                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:12:22: [0m[0;1;30mnote: [0mexpanded from macro 'INSPECTOR_JS'[0m
+#define INSPECTOR_JS _Pragma("whitelisted_resource_28757") 28757
+[0;1;32m                     ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28757
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:20:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"js_app.html", JS_APP_HTML},
+[0;1;32m                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:13:21: [0m[0;1;30mnote: [0mexpanded from macro 'JS_APP_HTML'[0m
+#define JS_APP_HTML _Pragma("whitelisted_resource_28758") 28758
+[0;1;32m                    ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28758
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:21:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"js_app.js", JS_APP_JS},
+[0;1;32m                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:14:19: [0m[0;1;30mnote: [0mexpanded from macro 'JS_APP_JS'[0m
+#define JS_APP_JS _Pragma("whitelisted_resource_28759") 28759
+[0;1;32m                  ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28759
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:22:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"node_app.html", NODE_APP_HTML},
+[0;1;32m                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:15:23: [0m[0;1;30mnote: [0mexpanded from macro 'NODE_APP_HTML'[0m
+#define NODE_APP_HTML _Pragma("whitelisted_resource_28760") 28760
+[0;1;32m                      ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28760
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:23:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"node_app.js", NODE_APP_JS},
+[0;1;32m                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:16:21: [0m[0;1;30mnote: [0mexpanded from macro 'NODE_APP_JS'[0m
+#define NODE_APP_JS _Pragma("whitelisted_resource_28761") 28761
+[0;1;32m                    ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28761
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:24:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"shell.js", SHELL_JS},
+[0;1;32m               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:17:18: [0m[0;1;30mnote: [0mexpanded from macro 'SHELL_JS'[0m
+#define SHELL_JS _Pragma("whitelisted_resource_28762") 28762
+[0;1;32m                 ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28762
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:25:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"toolbox.html", TOOLBOX_HTML},
+[0;1;32m                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:18:22: [0m[0;1;30mnote: [0mexpanded from macro 'TOOLBOX_HTML'[0m
+#define TOOLBOX_HTML _Pragma("whitelisted_resource_28763") 28763
+[0;1;32m                     ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28763
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:26:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"toolbox.js", TOOLBOX_JS},
+[0;1;32m                 ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:19:20: [0m[0;1;30mnote: [0mexpanded from macro 'TOOLBOX_JS'[0m
+#define TOOLBOX_JS _Pragma("whitelisted_resource_28764") 28764
+[0;1;32m                   ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28764
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:27:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"worker_app.html", WORKER_APP_HTML},
+[0;1;32m                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:20:25: [0m[0;1;30mnote: [0mexpanded from macro 'WORKER_APP_HTML'[0m
+#define WORKER_APP_HTML _Pragma("whitelisted_resource_28765") 28765
+[0;1;32m                        ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28765
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:28:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"worker_app.js", WORKER_APP_JS},
+[0;1;32m                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:21:23: [0m[0;1;30mnote: [0mexpanded from macro 'WORKER_APP_JS'[0m
+#define WORKER_APP_JS _Pragma("whitelisted_resource_28766") 28766
+[0;1;32m                      ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28766
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:29:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"animation/animation_module.js", ANIMATION_ANIMATION_MODULE_JS},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:22:39: [0m[0;1;30mnote: [0mexpanded from macro 'ANIMATION_ANIMATION_MODULE_JS'[0m
+#define ANIMATION_ANIMATION_MODULE_JS _Pragma("whitelisted_resource_28767") 28767
+[0;1;32m                                      ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28767
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:30:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"audits2/audits2_module.js", AUDITS2_AUDITS2_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:23:35: [0m[0;1;30mnote: [0mexpanded from macro 'AUDITS2_AUDITS2_MODULE_JS'[0m
+#define AUDITS2_AUDITS2_MODULE_JS _Pragma("whitelisted_resource_28768") 28768
+[0;1;32m                                  ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28768
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:31:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"browser_console/browser_console_module.js", BROWSER_CONSOLE_BROWSER_CONSOLE_MODULE_JS},
+[0;1;32m                                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:24:51: [0m[0;1;30mnote: [0mexpanded from macro 'BROWSER_CONSOLE_BROWSER_CONSOLE_MODULE_JS'[0m
+#define BROWSER_CONSOLE_BROWSER_CONSOLE_MODULE_JS _Pragma("whitelisted_resource_28769") 28769
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28769
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:32:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"browser_debugger/browser_debugger_module.js", BROWSER_DEBUGGER_BROWSER_DEBUGGER_MODULE_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:25:53: [0m[0;1;30mnote: [0mexpanded from macro 'BROWSER_DEBUGGER_BROWSER_DEBUGGER_MODULE_JS'[0m
+#define BROWSER_DEBUGGER_BROWSER_DEBUGGER_MODULE_JS _Pragma("whitelisted_resource_28770") 28770
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28770
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:33:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"changes/changes_module.js", CHANGES_CHANGES_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:26:35: [0m[0;1;30mnote: [0mexpanded from macro 'CHANGES_CHANGES_MODULE_JS'[0m
+#define CHANGES_CHANGES_MODULE_JS _Pragma("whitelisted_resource_28771") 28771
+[0;1;32m                                  ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28771
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:34:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"protocol_monitor/protocol_monitor_module.js", PROTOCOL_MONITOR_PROTOCOL_MONITOR_MODULE_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:27:53: [0m[0;1;30mnote: [0mexpanded from macro 'PROTOCOL_MONITOR_PROTOCOL_MONITOR_MODULE_JS'[0m
+#define PROTOCOL_MONITOR_PROTOCOL_MONITOR_MODULE_JS _Pragma("whitelisted_resource_28772") 28772
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28772
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:35:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cm/cm_module.js", CM_CM_MODULE_JS},
+[0;1;32m                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:28:25: [0m[0;1;30mnote: [0mexpanded from macro 'CM_CM_MODULE_JS'[0m
+#define CM_CM_MODULE_JS _Pragma("whitelisted_resource_28773") 28773
+[0;1;32m                        ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28773
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:36:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"color_picker/color_picker_module.js", COLOR_PICKER_COLOR_PICKER_MODULE_JS},
+[0;1;32m                                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:29:45: [0m[0;1;30mnote: [0mexpanded from macro 'COLOR_PICKER_COLOR_PICKER_MODULE_JS'[0m
+#define COLOR_PICKER_COLOR_PICKER_MODULE_JS _Pragma("whitelisted_resource_28774") 28774
+[0;1;32m                                            ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28774
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:37:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"console/console_module.js", CONSOLE_CONSOLE_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:30:35: [0m[0;1;30mnote: [0mexpanded from macro 'CONSOLE_CONSOLE_MODULE_JS'[0m
+#define CONSOLE_CONSOLE_MODULE_JS _Pragma("whitelisted_resource_28775") 28775
+[0;1;32m                                  ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28775
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:38:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cookie_table/cookie_table_module.js", COOKIE_TABLE_COOKIE_TABLE_MODULE_JS},
+[0;1;32m                                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:31:45: [0m[0;1;30mnote: [0mexpanded from macro 'COOKIE_TABLE_COOKIE_TABLE_MODULE_JS'[0m
+#define COOKIE_TABLE_COOKIE_TABLE_MODULE_JS _Pragma("whitelisted_resource_28776") 28776
+[0;1;32m                                            ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28776
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:39:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"coverage/coverage_module.js", COVERAGE_COVERAGE_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:32:37: [0m[0;1;30mnote: [0mexpanded from macro 'COVERAGE_COVERAGE_MODULE_JS'[0m
+#define COVERAGE_COVERAGE_MODULE_JS _Pragma("whitelisted_resource_28777") 28777
+[0;1;32m                                    ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28777
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:40:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"data_grid/data_grid_module.js", DATA_GRID_DATA_GRID_MODULE_JS},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:33:39: [0m[0;1;30mnote: [0mexpanded from macro 'DATA_GRID_DATA_GRID_MODULE_JS'[0m
+#define DATA_GRID_DATA_GRID_MODULE_JS _Pragma("whitelisted_resource_28778") 28778
+[0;1;32m                                      ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28778
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:41:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"devices/devices_module.js", DEVICES_DEVICES_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:34:35: [0m[0;1;30mnote: [0mexpanded from macro 'DEVICES_DEVICES_MODULE_JS'[0m
+#define DEVICES_DEVICES_MODULE_JS _Pragma("whitelisted_resource_28779") 28779
+[0;1;32m                                  ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28779
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:42:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"diff/diff_module.js", DIFF_DIFF_MODULE_JS},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:35:29: [0m[0;1;30mnote: [0mexpanded from macro 'DIFF_DIFF_MODULE_JS'[0m
+#define DIFF_DIFF_MODULE_JS _Pragma("whitelisted_resource_28780") 28780
+[0;1;32m                            ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28780
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:43:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"elements/elements_module.js", ELEMENTS_ELEMENTS_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:36:37: [0m[0;1;30mnote: [0mexpanded from macro 'ELEMENTS_ELEMENTS_MODULE_JS'[0m
+#define ELEMENTS_ELEMENTS_MODULE_JS _Pragma("whitelisted_resource_28781") 28781
+[0;1;32m                                    ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28781
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:44:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"event_listeners/event_listeners_module.js", EVENT_LISTENERS_EVENT_LISTENERS_MODULE_JS},
+[0;1;32m                                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:37:51: [0m[0;1;30mnote: [0mexpanded from macro 'EVENT_LISTENERS_EVENT_LISTENERS_MODULE_JS'[0m
+#define EVENT_LISTENERS_EVENT_LISTENERS_MODULE_JS _Pragma("whitelisted_resource_28782") 28782
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28782
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:45:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"formatter/formatter_module.js", FORMATTER_FORMATTER_MODULE_JS},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:38:39: [0m[0;1;30mnote: [0mexpanded from macro 'FORMATTER_FORMATTER_MODULE_JS'[0m
+#define FORMATTER_FORMATTER_MODULE_JS _Pragma("whitelisted_resource_28783") 28783
+[0;1;32m                                      ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28783
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:46:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"har_importer/har_importer_module.js", HAR_IMPORTER_HAR_IMPORTER_MODULE_JS},
+[0;1;32m                                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:39:45: [0m[0;1;30mnote: [0mexpanded from macro 'HAR_IMPORTER_HAR_IMPORTER_MODULE_JS'[0m
+#define HAR_IMPORTER_HAR_IMPORTER_MODULE_JS _Pragma("whitelisted_resource_28784") 28784
+[0;1;32m                                            ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28784
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:47:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"heap_snapshot_model/heap_snapshot_model_module.js", HEAP_SNAPSHOT_MODEL_HEAP_SNAPSHOT_MODEL_MODULE_JS},
+[0;1;32m                                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:40:59: [0m[0;1;30mnote: [0mexpanded from macro 'HEAP_SNAPSHOT_MODEL_HEAP_SNAPSHOT_MODEL_MODULE_JS'[0m
+#define HEAP_SNAPSHOT_MODEL_HEAP_SNAPSHOT_MODEL_MODULE_JS _Pragma("whitelisted_resource_28785") 28785
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28785
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:48:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"help/help_module.js", HELP_HELP_MODULE_JS},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:41:29: [0m[0;1;30mnote: [0mexpanded from macro 'HELP_HELP_MODULE_JS'[0m
+#define HELP_HELP_MODULE_JS _Pragma("whitelisted_resource_28786") 28786
+[0;1;32m                            ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28786
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:49:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"inline_editor/inline_editor_module.js", INLINE_EDITOR_INLINE_EDITOR_MODULE_JS},
+[0;1;32m                                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:42:47: [0m[0;1;30mnote: [0mexpanded from macro 'INLINE_EDITOR_INLINE_EDITOR_MODULE_JS'[0m
+#define INLINE_EDITOR_INLINE_EDITOR_MODULE_JS _Pragma("whitelisted_resource_28787") 28787
+[0;1;32m                                              ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28787
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:50:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"javascript_metadata/javascript_metadata_module.js", JAVASCRIPT_METADATA_JAVASCRIPT_METADATA_MODULE_JS},
+[0;1;32m                                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:43:59: [0m[0;1;30mnote: [0mexpanded from macro 'JAVASCRIPT_METADATA_JAVASCRIPT_METADATA_MODULE_JS'[0m
+#define JAVASCRIPT_METADATA_JAVASCRIPT_METADATA_MODULE_JS _Pragma("whitelisted_resource_28788") 28788
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28788
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:51:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"js_profiler/js_profiler_module.js", JS_PROFILER_JS_PROFILER_MODULE_JS},
+[0;1;32m                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:44:43: [0m[0;1;30mnote: [0mexpanded from macro 'JS_PROFILER_JS_PROFILER_MODULE_JS'[0m
+#define JS_PROFILER_JS_PROFILER_MODULE_JS _Pragma("whitelisted_resource_28789") 28789
+[0;1;32m                                          ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28789
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:52:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"layer_viewer/layer_viewer_module.js", LAYER_VIEWER_LAYER_VIEWER_MODULE_JS},
+[0;1;32m                                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:45:45: [0m[0;1;30mnote: [0mexpanded from macro 'LAYER_VIEWER_LAYER_VIEWER_MODULE_JS'[0m
+#define LAYER_VIEWER_LAYER_VIEWER_MODULE_JS _Pragma("whitelisted_resource_28790") 28790
+[0;1;32m                                            ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28790
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:53:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"layers/layers_module.js", LAYERS_LAYERS_MODULE_JS},
+[0;1;32m                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:46:33: [0m[0;1;30mnote: [0mexpanded from macro 'LAYERS_LAYERS_MODULE_JS'[0m
+#define LAYERS_LAYERS_MODULE_JS _Pragma("whitelisted_resource_28791") 28791
+[0;1;32m                                ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28791
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:54:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"network/network_module.js", NETWORK_NETWORK_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:47:35: [0m[0;1;30mnote: [0mexpanded from macro 'NETWORK_NETWORK_MODULE_JS'[0m
+#define NETWORK_NETWORK_MODULE_JS _Pragma("whitelisted_resource_28792") 28792
+[0;1;32m                                  ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28792
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:55:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"node_debugger/node_debugger_module.js", NODE_DEBUGGER_NODE_DEBUGGER_MODULE_JS},
+[0;1;32m                                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:48:47: [0m[0;1;30mnote: [0mexpanded from macro 'NODE_DEBUGGER_NODE_DEBUGGER_MODULE_JS'[0m
+#define NODE_DEBUGGER_NODE_DEBUGGER_MODULE_JS _Pragma("whitelisted_resource_28793") 28793
+[0;1;32m                                              ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28793
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:56:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"object_ui/object_ui_module.js", OBJECT_UI_OBJECT_UI_MODULE_JS},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:49:39: [0m[0;1;30mnote: [0mexpanded from macro 'OBJECT_UI_OBJECT_UI_MODULE_JS'[0m
+#define OBJECT_UI_OBJECT_UI_MODULE_JS _Pragma("whitelisted_resource_28794") 28794
+[0;1;32m                                      ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28794
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:57:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"perf_ui/perf_ui_module.js", PERF_UI_PERF_UI_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:50:35: [0m[0;1;30mnote: [0mexpanded from macro 'PERF_UI_PERF_UI_MODULE_JS'[0m
+#define PERF_UI_PERF_UI_MODULE_JS _Pragma("whitelisted_resource_28795") 28795
+[0;1;32m                                  ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28795
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:58:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"performance_monitor/performance_monitor_module.js", PERFORMANCE_MONITOR_PERFORMANCE_MONITOR_MODULE_JS},
+[0;1;32m                                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:51:59: [0m[0;1;30mnote: [0mexpanded from macro 'PERFORMANCE_MONITOR_PERFORMANCE_MONITOR_MODULE_JS'[0m
+#define PERFORMANCE_MONITOR_PERFORMANCE_MONITOR_MODULE_JS _Pragma("whitelisted_resource_28796") 28796
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28796
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:59:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"profiler/profiler_module.js", PROFILER_PROFILER_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:52:37: [0m[0;1;30mnote: [0mexpanded from macro 'PROFILER_PROFILER_MODULE_JS'[0m
+#define PROFILER_PROFILER_MODULE_JS _Pragma("whitelisted_resource_28797") 28797
+[0;1;32m                                    ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28797
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:60:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"quick_open/quick_open_module.js", QUICK_OPEN_QUICK_OPEN_MODULE_JS},
+[0;1;32m                                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:53:41: [0m[0;1;30mnote: [0mexpanded from macro 'QUICK_OPEN_QUICK_OPEN_MODULE_JS'[0m
+#define QUICK_OPEN_QUICK_OPEN_MODULE_JS _Pragma("whitelisted_resource_28798") 28798
+[0;1;32m                                        ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28798
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:61:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"resources/resources_module.js", RESOURCES_RESOURCES_MODULE_JS},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:54:39: [0m[0;1;30mnote: [0mexpanded from macro 'RESOURCES_RESOURCES_MODULE_JS'[0m
+#define RESOURCES_RESOURCES_MODULE_JS _Pragma("whitelisted_resource_28799") 28799
+[0;1;32m                                      ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28799
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:62:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search/search_module.js", SEARCH_SEARCH_MODULE_JS},
+[0;1;32m                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:55:33: [0m[0;1;30mnote: [0mexpanded from macro 'SEARCH_SEARCH_MODULE_JS'[0m
+#define SEARCH_SEARCH_MODULE_JS _Pragma("whitelisted_resource_28800") 28800
+[0;1;32m                                ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28800
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:63:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"security/security_module.js", SECURITY_SECURITY_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:56:37: [0m[0;1;30mnote: [0mexpanded from macro 'SECURITY_SECURITY_MODULE_JS'[0m
+#define SECURITY_SECURITY_MODULE_JS _Pragma("whitelisted_resource_28801") 28801
+[0;1;32m                                    ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28801
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:64:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings/settings_module.js", SETTINGS_SETTINGS_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:57:37: [0m[0;1;30mnote: [0mexpanded from macro 'SETTINGS_SETTINGS_MODULE_JS'[0m
+#define SETTINGS_SETTINGS_MODULE_JS _Pragma("whitelisted_resource_28802") 28802
+[0;1;32m                                    ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28802
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:65:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"snippets/snippets_module.js", SNIPPETS_SNIPPETS_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:58:37: [0m[0;1;30mnote: [0mexpanded from macro 'SNIPPETS_SNIPPETS_MODULE_JS'[0m
+#define SNIPPETS_SNIPPETS_MODULE_JS _Pragma("whitelisted_resource_28803") 28803
+[0;1;32m                                    ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28803
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:66:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"source_frame/source_frame_module.js", SOURCE_FRAME_SOURCE_FRAME_MODULE_JS},
+[0;1;32m                                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:59:45: [0m[0;1;30mnote: [0mexpanded from macro 'SOURCE_FRAME_SOURCE_FRAME_MODULE_JS'[0m
+#define SOURCE_FRAME_SOURCE_FRAME_MODULE_JS _Pragma("whitelisted_resource_28804") 28804
+[0;1;32m                                            ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28804
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:67:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"sources/sources_module.js", SOURCES_SOURCES_MODULE_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:60:35: [0m[0;1;30mnote: [0mexpanded from macro 'SOURCES_SOURCES_MODULE_JS'[0m
+#define SOURCES_SOURCES_MODULE_JS _Pragma("whitelisted_resource_28805") 28805
+[0;1;32m                                  ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28805
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:68:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"text_editor/text_editor_module.js", TEXT_EDITOR_TEXT_EDITOR_MODULE_JS},
+[0;1;32m                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:61:43: [0m[0;1;30mnote: [0mexpanded from macro 'TEXT_EDITOR_TEXT_EDITOR_MODULE_JS'[0m
+#define TEXT_EDITOR_TEXT_EDITOR_MODULE_JS _Pragma("whitelisted_resource_28806") 28806
+[0;1;32m                                          ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28806
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:69:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"timeline_model/timeline_model_module.js", TIMELINE_MODEL_TIMELINE_MODEL_MODULE_JS},
+[0;1;32m                                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:62:49: [0m[0;1;30mnote: [0mexpanded from macro 'TIMELINE_MODEL_TIMELINE_MODEL_MODULE_JS'[0m
+#define TIMELINE_MODEL_TIMELINE_MODEL_MODULE_JS _Pragma("whitelisted_resource_28807") 28807
+[0;1;32m                                                ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28807
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:70:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"timeline/timeline_module.js", TIMELINE_TIMELINE_MODULE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:63:37: [0m[0;1;30mnote: [0mexpanded from macro 'TIMELINE_TIMELINE_MODULE_JS'[0m
+#define TIMELINE_TIMELINE_MODULE_JS _Pragma("whitelisted_resource_28808") 28808
+[0;1;32m                                    ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28808
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:71:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"workspace_diff/workspace_diff_module.js", WORKSPACE_DIFF_WORKSPACE_DIFF_MODULE_JS},
+[0;1;32m                                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:64:49: [0m[0;1;30mnote: [0mexpanded from macro 'WORKSPACE_DIFF_WORKSPACE_DIFF_MODULE_JS'[0m
+#define WORKSPACE_DIFF_WORKSPACE_DIFF_MODULE_JS _Pragma("whitelisted_resource_28809") 28809
+[0;1;32m                                                ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28809
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:72:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"devtools_compatibility.js", DEVTOOLS_COMPATIBILITY_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:65:35: [0m[0;1;30mnote: [0mexpanded from macro 'DEVTOOLS_COMPATIBILITY_JS'[0m
+#define DEVTOOLS_COMPATIBILITY_JS _Pragma("whitelisted_resource_28810") 28810
+[0;1;32m                                  ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28810
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:73:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Tests.js", TESTS_JS},
+[0;1;32m               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:66:18: [0m[0;1;30mnote: [0mexpanded from macro 'TESTS_JS'[0m
+#define TESTS_JS _Pragma("whitelisted_resource_28811") 28811
+[0;1;32m                 ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28811
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:74:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"devtools_extension_api.js", DEVTOOLS_EXTENSION_API_JS},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:67:35: [0m[0;1;30mnote: [0mexpanded from macro 'DEVTOOLS_EXTENSION_API_JS'[0m
+#define DEVTOOLS_EXTENSION_API_JS _Pragma("whitelisted_resource_28812") 28812
+[0;1;32m                                  ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28812
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:75:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/accelerometer-back.png", IMAGES_ACCELEROMETER_BACK_PNG},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:68:39: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ACCELEROMETER_BACK_PNG'[0m
+#define IMAGES_ACCELEROMETER_BACK_PNG _Pragma("whitelisted_resource_28813") 28813
+[0;1;32m                                      ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28813
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:76:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/accelerometer-bottom.png", IMAGES_ACCELEROMETER_BOTTOM_PNG},
+[0;1;32m                                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:69:41: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ACCELEROMETER_BOTTOM_PNG'[0m
+#define IMAGES_ACCELEROMETER_BOTTOM_PNG _Pragma("whitelisted_resource_28814") 28814
+[0;1;32m                                        ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28814
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:77:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/accelerometer-front.png", IMAGES_ACCELEROMETER_FRONT_PNG},
+[0;1;32m                                     ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:70:40: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ACCELEROMETER_FRONT_PNG'[0m
+#define IMAGES_ACCELEROMETER_FRONT_PNG _Pragma("whitelisted_resource_28815") 28815
+[0;1;32m                                       ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28815
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:78:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/accelerometer-left.png", IMAGES_ACCELEROMETER_LEFT_PNG},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:71:39: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ACCELEROMETER_LEFT_PNG'[0m
+#define IMAGES_ACCELEROMETER_LEFT_PNG _Pragma("whitelisted_resource_28816") 28816
+[0;1;32m                                      ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28816
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:79:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/accelerometer-right.png", IMAGES_ACCELEROMETER_RIGHT_PNG},
+[0;1;32m                                     ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:72:40: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ACCELEROMETER_RIGHT_PNG'[0m
+#define IMAGES_ACCELEROMETER_RIGHT_PNG _Pragma("whitelisted_resource_28817") 28817
+[0;1;32m                                       ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28817
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:80:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/accelerometer-top.png", IMAGES_ACCELEROMETER_TOP_PNG},
+[0;1;32m                                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:73:38: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ACCELEROMETER_TOP_PNG'[0m
+#define IMAGES_ACCELEROMETER_TOP_PNG _Pragma("whitelisted_resource_28818") 28818
+[0;1;32m                                     ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28818
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:81:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/audits_logo.svg", IMAGES_AUDITS_LOGO_SVG},
+[0;1;32m                             ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:74:32: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_AUDITS_LOGO_SVG'[0m
+#define IMAGES_AUDITS_LOGO_SVG _Pragma("whitelisted_resource_28819") 28819
+[0;1;32m                               ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28819
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:82:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/breakpoint.png", IMAGES_BREAKPOINT_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:75:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_BREAKPOINT_PNG'[0m
+#define IMAGES_BREAKPOINT_PNG _Pragma("whitelisted_resource_28820") 28820
+[0;1;32m                              ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28820
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:83:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/breakpointConditional.png", IMAGES_BREAKPOINTCONDITIONAL_PNG},
+[0;1;32m                                       ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:76:42: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_BREAKPOINTCONDITIONAL_PNG'[0m
+#define IMAGES_BREAKPOINTCONDITIONAL_PNG _Pragma("whitelisted_resource_28821") 28821
+[0;1;32m                                         ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28821
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:84:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/breakpointConditional_2x.png", IMAGES_BREAKPOINTCONDITIONAL_2X_PNG},
+[0;1;32m                                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:77:45: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_BREAKPOINTCONDITIONAL_2X_PNG'[0m
+#define IMAGES_BREAKPOINTCONDITIONAL_2X_PNG _Pragma("whitelisted_resource_28822") 28822
+[0;1;32m                                            ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28822
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:85:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/breakpoint_2x.png", IMAGES_BREAKPOINT_2X_PNG},
+[0;1;32m                               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:78:34: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_BREAKPOINT_2X_PNG'[0m
+#define IMAGES_BREAKPOINT_2X_PNG _Pragma("whitelisted_resource_28823") 28823
+[0;1;32m                                 ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28823
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:86:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/checkboxCheckmark.png", IMAGES_CHECKBOXCHECKMARK_PNG},
+[0;1;32m                                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:79:38: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHECKBOXCHECKMARK_PNG'[0m
+#define IMAGES_CHECKBOXCHECKMARK_PNG _Pragma("whitelisted_resource_28824") 28824
+[0;1;32m                                     ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28824
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:87:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/checkboxCheckmark_2x.png", IMAGES_CHECKBOXCHECKMARK_2X_PNG},
+[0;1;32m                                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:80:41: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHECKBOXCHECKMARK_2X_PNG'[0m
+#define IMAGES_CHECKBOXCHECKMARK_2X_PNG _Pragma("whitelisted_resource_28825") 28825
+[0;1;32m                                        ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28825
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:88:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/checker.png", IMAGES_CHECKER_PNG},
+[0;1;32m                         ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:81:28: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHECKER_PNG'[0m
+#define IMAGES_CHECKER_PNG _Pragma("whitelisted_resource_28826") 28826
+[0;1;32m                           ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28826
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:89:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chevrons.png", IMAGES_CHEVRONS_PNG},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:82:29: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHEVRONS_PNG'[0m
+#define IMAGES_CHEVRONS_PNG _Pragma("whitelisted_resource_28827") 28827
+[0;1;32m                            ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28827
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:90:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chevrons_2x.png", IMAGES_CHEVRONS_2X_PNG},
+[0;1;32m                             ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:83:32: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHEVRONS_2X_PNG'[0m
+#define IMAGES_CHEVRONS_2X_PNG _Pragma("whitelisted_resource_28828") 28828
+[0;1;32m                               ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28828
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:91:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeDisabledSelect.png", IMAGES_CHROMEDISABLEDSELECT_PNG},
+[0;1;32m                                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:84:41: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMEDISABLEDSELECT_PNG'[0m
+#define IMAGES_CHROMEDISABLEDSELECT_PNG _Pragma("whitelisted_resource_28829") 28829
+[0;1;32m                                        ^
+[0m[1m<scratch space>:214:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28829
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:92:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeDisabledSelect_2x.png", IMAGES_CHROMEDISABLEDSELECT_2X_PNG},
+[0;1;32m                                         ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:85:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMEDISABLEDSELECT_2X_PNG'[0m
+#define IMAGES_CHROMEDISABLEDSELECT_2X_PNG _Pragma("whitelisted_resource_28830") 28830
+[0;1;32m                                           ^
+[0m[1m<scratch space>:216:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28830
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:93:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeLeft.png", IMAGES_CHROMELEFT_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:86:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMELEFT_PNG'[0m
+#define IMAGES_CHROMELEFT_PNG _Pragma("whitelisted_resource_28831") 28831
+[0;1;32m                              ^
+[0m[1m<scratch space>:218:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28831
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:94:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeMiddle.png", IMAGES_CHROMEMIDDLE_PNG},
+[0;1;32m                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:87:33: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMEMIDDLE_PNG'[0m
+#define IMAGES_CHROMEMIDDLE_PNG _Pragma("whitelisted_resource_28832") 28832
+[0;1;32m                                ^
+[0m[1m<scratch space>:220:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28832
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:95:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeRight.png", IMAGES_CHROMERIGHT_PNG},
+[0;1;32m                             ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:88:32: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMERIGHT_PNG'[0m
+#define IMAGES_CHROMERIGHT_PNG _Pragma("whitelisted_resource_28833") 28833
+[0;1;32m                               ^
+[0m[1m<scratch space>:222:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28833
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:96:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeSelect.png", IMAGES_CHROMESELECT_PNG},
+[0;1;32m                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:89:33: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMESELECT_PNG'[0m
+#define IMAGES_CHROMESELECT_PNG _Pragma("whitelisted_resource_28834") 28834
+[0;1;32m                                ^
+[0m[1m<scratch space>:224:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28834
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:97:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/chromeSelect_2x.png", IMAGES_CHROMESELECT_2X_PNG},
+[0;1;32m                                 ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:90:36: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_CHROMESELECT_2X_PNG'[0m
+#define IMAGES_CHROMESELECT_2X_PNG _Pragma("whitelisted_resource_28835") 28835
+[0;1;32m                                   ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28835
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:98:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/deleteIcon.png", IMAGES_DELETEICON_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:91:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_DELETEICON_PNG'[0m
+#define IMAGES_DELETEICON_PNG _Pragma("whitelisted_resource_28836") 28836
+[0;1;32m                              ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28836
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:99:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/errorWave.png", IMAGES_ERRORWAVE_PNG},
+[0;1;32m                           ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:92:30: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ERRORWAVE_PNG'[0m
+#define IMAGES_ERRORWAVE_PNG _Pragma("whitelisted_resource_28837") 28837
+[0;1;32m                             ^
+[0m[1m<scratch space>:230:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28837
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:100:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/errorWave_2x.png", IMAGES_ERRORWAVE_2X_PNG},
+[0;1;32m                              ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:93:33: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_ERRORWAVE_2X_PNG'[0m
+#define IMAGES_ERRORWAVE_2X_PNG _Pragma("whitelisted_resource_28838") 28838
+[0;1;32m                                ^
+[0m[1m<scratch space>:232:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28838
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:101:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/ic_info_black_18dp.svg", IMAGES_IC_INFO_BLACK_18DP_SVG},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:94:39: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_IC_INFO_BLACK_18DP_SVG'[0m
+#define IMAGES_IC_INFO_BLACK_18DP_SVG _Pragma("whitelisted_resource_28839") 28839
+[0;1;32m                                      ^
+[0m[1m<scratch space>:234:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28839
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:102:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/ic_warning_black_18dp.svg", IMAGES_IC_WARNING_BLACK_18DP_SVG},
+[0;1;32m                                       ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:95:42: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_IC_WARNING_BLACK_18DP_SVG'[0m
+#define IMAGES_IC_WARNING_BLACK_18DP_SVG _Pragma("whitelisted_resource_28840") 28840
+[0;1;32m                                         ^
+[0m[1m<scratch space>:236:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28840
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:103:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/largeIcons.png", IMAGES_LARGEICONS_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:96:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_LARGEICONS_PNG'[0m
+#define IMAGES_LARGEICONS_PNG _Pragma("whitelisted_resource_28841") 28841
+[0;1;32m                              ^
+[0m[1m<scratch space>:238:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28841
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:104:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/largeIcons_2x.png", IMAGES_LARGEICONS_2X_PNG},
+[0;1;32m                               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:97:34: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_LARGEICONS_2X_PNG'[0m
+#define IMAGES_LARGEICONS_2X_PNG _Pragma("whitelisted_resource_28842") 28842
+[0;1;32m                                 ^
+[0m[1m<scratch space>:240:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28842
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:105:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/mediumIcons.png", IMAGES_MEDIUMICONS_PNG},
+[0;1;32m                             ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:98:32: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_MEDIUMICONS_PNG'[0m
+#define IMAGES_MEDIUMICONS_PNG _Pragma("whitelisted_resource_28843") 28843
+[0;1;32m                               ^
+[0m[1m<scratch space>:242:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28843
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:106:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/mediumIcons_2x.png", IMAGES_MEDIUMICONS_2X_PNG},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:99:35: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_MEDIUMICONS_2X_PNG'[0m
+#define IMAGES_MEDIUMICONS_2X_PNG _Pragma("whitelisted_resource_28844") 28844
+[0;1;32m                                  ^
+[0m[1m<scratch space>:244:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28844
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:107:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/navigationControls.png", IMAGES_NAVIGATIONCONTROLS_PNG},
+[0;1;32m                                    ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:100:39: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_NAVIGATIONCONTROLS_PNG'[0m
+#define IMAGES_NAVIGATIONCONTROLS_PNG _Pragma("whitelisted_resource_28845") 28845
+[0;1;32m                                      ^
+[0m[1m<scratch space>:246:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28845
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:108:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/navigationControls_2x.png", IMAGES_NAVIGATIONCONTROLS_2X_PNG},
+[0;1;32m                                       ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:101:42: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_NAVIGATIONCONTROLS_2X_PNG'[0m
+#define IMAGES_NAVIGATIONCONTROLS_2X_PNG _Pragma("whitelisted_resource_28846") 28846
+[0;1;32m                                         ^
+[0m[1m<scratch space>:248:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28846
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:109:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/nodeIcon.png", IMAGES_NODEICON_PNG},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:102:29: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_NODEICON_PNG'[0m
+#define IMAGES_NODEICON_PNG _Pragma("whitelisted_resource_28847") 28847
+[0;1;32m                            ^
+[0m[1m<scratch space>:250:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28847
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:110:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/popoverArrows.png", IMAGES_POPOVERARROWS_PNG},
+[0;1;32m                               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:103:34: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_POPOVERARROWS_PNG'[0m
+#define IMAGES_POPOVERARROWS_PNG _Pragma("whitelisted_resource_28848") 28848
+[0;1;32m                                 ^
+[0m[1m<scratch space>:252:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28848
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:111:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/profileGroupIcon.png", IMAGES_PROFILEGROUPICON_PNG},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:104:37: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_PROFILEGROUPICON_PNG'[0m
+#define IMAGES_PROFILEGROUPICON_PNG _Pragma("whitelisted_resource_28849") 28849
+[0;1;32m                                    ^
+[0m[1m<scratch space>:254:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28849
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:112:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/profileIcon.png", IMAGES_PROFILEICON_PNG},
+[0;1;32m                             ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:105:32: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_PROFILEICON_PNG'[0m
+#define IMAGES_PROFILEICON_PNG _Pragma("whitelisted_resource_28850") 28850
+[0;1;32m                               ^
+[0m[1m<scratch space>:256:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28850
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:113:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/profileSmallIcon.png", IMAGES_PROFILESMALLICON_PNG},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:106:37: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_PROFILESMALLICON_PNG'[0m
+#define IMAGES_PROFILESMALLICON_PNG _Pragma("whitelisted_resource_28851") 28851
+[0;1;32m                                    ^
+[0m[1m<scratch space>:258:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28851
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:114:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/radioDot.png", IMAGES_RADIODOT_PNG},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:107:29: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RADIODOT_PNG'[0m
+#define IMAGES_RADIODOT_PNG _Pragma("whitelisted_resource_28852") 28852
+[0;1;32m                            ^
+[0m[1m<scratch space>:260:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28852
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:115:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resizeDiagonal.png", IMAGES_RESIZEDIAGONAL_PNG},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:108:35: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESIZEDIAGONAL_PNG'[0m
+#define IMAGES_RESIZEDIAGONAL_PNG _Pragma("whitelisted_resource_28853") 28853
+[0;1;32m                                  ^
+[0m[1m<scratch space>:262:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28853
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:116:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resizeDiagonal_2x.png", IMAGES_RESIZEDIAGONAL_2X_PNG},
+[0;1;32m                                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:109:38: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESIZEDIAGONAL_2X_PNG'[0m
+#define IMAGES_RESIZEDIAGONAL_2X_PNG _Pragma("whitelisted_resource_28854") 28854
+[0;1;32m                                     ^
+[0m[1m<scratch space>:264:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28854
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:117:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resizeHorizontal.png", IMAGES_RESIZEHORIZONTAL_PNG},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:110:37: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESIZEHORIZONTAL_PNG'[0m
+#define IMAGES_RESIZEHORIZONTAL_PNG _Pragma("whitelisted_resource_28855") 28855
+[0;1;32m                                    ^
+[0m[1m<scratch space>:266:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28855
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:118:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resizeHorizontal_2x.png", IMAGES_RESIZEHORIZONTAL_2X_PNG},
+[0;1;32m                                     ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:111:40: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESIZEHORIZONTAL_2X_PNG'[0m
+#define IMAGES_RESIZEHORIZONTAL_2X_PNG _Pragma("whitelisted_resource_28856") 28856
+[0;1;32m                                       ^
+[0m[1m<scratch space>:268:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28856
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:119:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resizeVertical.png", IMAGES_RESIZEVERTICAL_PNG},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:112:35: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESIZEVERTICAL_PNG'[0m
+#define IMAGES_RESIZEVERTICAL_PNG _Pragma("whitelisted_resource_28857") 28857
+[0;1;32m                                  ^
+[0m[1m<scratch space>:270:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28857
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:120:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resizeVertical_2x.png", IMAGES_RESIZEVERTICAL_2X_PNG},
+[0;1;32m                                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:113:38: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESIZEVERTICAL_2X_PNG'[0m
+#define IMAGES_RESIZEVERTICAL_2X_PNG _Pragma("whitelisted_resource_28858") 28858
+[0;1;32m                                     ^
+[0m[1m<scratch space>:272:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28858
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:121:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourceCSSIcon.png", IMAGES_RESOURCECSSICON_PNG},
+[0;1;32m                                 ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:114:36: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCECSSICON_PNG'[0m
+#define IMAGES_RESOURCECSSICON_PNG _Pragma("whitelisted_resource_28859") 28859
+[0;1;32m                                   ^
+[0m[1m<scratch space>:274:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28859
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:122:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourceDocumentIcon.png", IMAGES_RESOURCEDOCUMENTICON_PNG},
+[0;1;32m                                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:115:41: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCEDOCUMENTICON_PNG'[0m
+#define IMAGES_RESOURCEDOCUMENTICON_PNG _Pragma("whitelisted_resource_28860") 28860
+[0;1;32m                                        ^
+[0m[1m<scratch space>:276:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28860
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:123:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourceDocumentIconSmall.png", IMAGES_RESOURCEDOCUMENTICONSMALL_PNG},
+[0;1;32m                                           ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:116:46: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCEDOCUMENTICONSMALL_PNG'[0m
+#define IMAGES_RESOURCEDOCUMENTICONSMALL_PNG _Pragma("whitelisted_resource_28861") 28861
+[0;1;32m                                             ^
+[0m[1m<scratch space>:278:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28861
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:124:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourceJSIcon.png", IMAGES_RESOURCEJSICON_PNG},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:117:35: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCEJSICON_PNG'[0m
+#define IMAGES_RESOURCEJSICON_PNG _Pragma("whitelisted_resource_28862") 28862
+[0;1;32m                                  ^
+[0m[1m<scratch space>:280:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28862
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:125:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourcePlainIcon.png", IMAGES_RESOURCEPLAINICON_PNG},
+[0;1;32m                                   ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:118:38: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCEPLAINICON_PNG'[0m
+#define IMAGES_RESOURCEPLAINICON_PNG _Pragma("whitelisted_resource_28863") 28863
+[0;1;32m                                     ^
+[0m[1m<scratch space>:282:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28863
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:126:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourcePlainIconSmall.png", IMAGES_RESOURCEPLAINICONSMALL_PNG},
+[0;1;32m                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:119:43: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCEPLAINICONSMALL_PNG'[0m
+#define IMAGES_RESOURCEPLAINICONSMALL_PNG _Pragma("whitelisted_resource_28864") 28864
+[0;1;32m                                          ^
+[0m[1m<scratch space>:284:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28864
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:127:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/resourcesTimeGraphIcon.png", IMAGES_RESOURCESTIMEGRAPHICON_PNG},
+[0;1;32m                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:120:43: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_RESOURCESTIMEGRAPHICON_PNG'[0m
+#define IMAGES_RESOURCESTIMEGRAPHICON_PNG _Pragma("whitelisted_resource_28865") 28865
+[0;1;32m                                          ^
+[0m[1m<scratch space>:286:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28865
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:128:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/searchNext.png", IMAGES_SEARCHNEXT_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:121:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SEARCHNEXT_PNG'[0m
+#define IMAGES_SEARCHNEXT_PNG _Pragma("whitelisted_resource_28866") 28866
+[0;1;32m                              ^
+[0m[1m<scratch space>:288:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28866
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:129:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/searchPrev.png", IMAGES_SEARCHPREV_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:122:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SEARCHPREV_PNG'[0m
+#define IMAGES_SEARCHPREV_PNG _Pragma("whitelisted_resource_28867") 28867
+[0;1;32m                              ^
+[0m[1m<scratch space>:290:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28867
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:130:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/securityIcons.png", IMAGES_SECURITYICONS_PNG},
+[0;1;32m                               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:123:34: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SECURITYICONS_PNG'[0m
+#define IMAGES_SECURITYICONS_PNG _Pragma("whitelisted_resource_28868") 28868
+[0;1;32m                                 ^
+[0m[1m<scratch space>:292:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28868
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:131:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/securityIcons_2x.png", IMAGES_SECURITYICONS_2X_PNG},
+[0;1;32m                                  ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:124:37: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SECURITYICONS_2X_PNG'[0m
+#define IMAGES_SECURITYICONS_2X_PNG _Pragma("whitelisted_resource_28869") 28869
+[0;1;32m                                    ^
+[0m[1m<scratch space>:294:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28869
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:132:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/smallIcons.png", IMAGES_SMALLICONS_PNG},
+[0;1;32m                            ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:125:31: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SMALLICONS_PNG'[0m
+#define IMAGES_SMALLICONS_PNG _Pragma("whitelisted_resource_28870") 28870
+[0;1;32m                              ^
+[0m[1m<scratch space>:296:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28870
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:133:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/smallIcons_2x.png", IMAGES_SMALLICONS_2X_PNG},
+[0;1;32m                               ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:126:34: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SMALLICONS_2X_PNG'[0m
+#define IMAGES_SMALLICONS_2X_PNG _Pragma("whitelisted_resource_28871") 28871
+[0;1;32m                                 ^
+[0m[1m<scratch space>:298:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28871
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:134:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/speech.png", IMAGES_SPEECH_PNG},
+[0;1;32m                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:127:27: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_SPEECH_PNG'[0m
+#define IMAGES_SPEECH_PNG _Pragma("whitelisted_resource_28872") 28872
+[0;1;32m                          ^
+[0m[1m<scratch space>:300:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28872
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:135:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/toolbarResizerVertical.png", IMAGES_TOOLBARRESIZERVERTICAL_PNG},
+[0;1;32m                                        ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:128:43: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_TOOLBARRESIZERVERTICAL_PNG'[0m
+#define IMAGES_TOOLBARRESIZERVERTICAL_PNG _Pragma("whitelisted_resource_28873") 28873
+[0;1;32m                                          ^
+[0m[1m<scratch space>:302:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28873
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:136:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/touchCursor.png", IMAGES_TOUCHCURSOR_PNG},
+[0;1;32m                             ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:129:32: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_TOUCHCURSOR_PNG'[0m
+#define IMAGES_TOUCHCURSOR_PNG _Pragma("whitelisted_resource_28874") 28874
+[0;1;32m                               ^
+[0m[1m<scratch space>:304:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28874
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:137:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/touchCursor_2x.png", IMAGES_TOUCHCURSOR_2X_PNG},
+[0;1;32m                                ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:130:35: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_TOUCHCURSOR_2X_PNG'[0m
+#define IMAGES_TOUCHCURSOR_2X_PNG _Pragma("whitelisted_resource_28875") 28875
+[0;1;32m                                  ^
+[0m[1m<scratch space>:306:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28875
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:138:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/treeoutlineTriangles.png", IMAGES_TREEOUTLINETRIANGLES_PNG},
+[0;1;32m                                      ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:131:41: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_TREEOUTLINETRIANGLES_PNG'[0m
+#define IMAGES_TREEOUTLINETRIANGLES_PNG _Pragma("whitelisted_resource_28876") 28876
+[0;1;32m                                        ^
+[0m[1m<scratch space>:308:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28876
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:139:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/treeoutlineTriangles_2x.png", IMAGES_TREEOUTLINETRIANGLES_2X_PNG},
+[0;1;32m                                         ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:132:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_TREEOUTLINETRIANGLES_2X_PNG'[0m
+#define IMAGES_TREEOUTLINETRIANGLES_2X_PNG _Pragma("whitelisted_resource_28877") 28877
+[0;1;32m                                           ^
+[0m[1m<scratch space>:310:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28877
+[0;1;32m ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources_map.cc:140:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"Images/whatsnew.png", IMAGES_WHATSNEW_PNG},
+[0;1;32m                          ^
+[0m[1mgen/content/browser/devtools/grit/devtools_resources.h:133:29: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGES_WHATSNEW_PNG'[0m
+#define IMAGES_WHATSNEW_PNG _Pragma("whitelisted_resource_28878") 28878
+[0;1;32m                            ^
+[0m[1m<scratch space>:312:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_28878
+[0;1;32m ^
+[0m129 warnings generated.

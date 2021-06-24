@@ -1,0 +1,37 @@
+[1m../../content/browser/renderer_host/input/touch_emulator.cc:153:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      use_2x ? IDR_DEVTOOLS_TOUCH_CURSOR_ICON_2X :
+[0;1;32m               ^
+[0m[1mgen/content/grit/content_resources.h:14:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVTOOLS_TOUCH_CURSOR_ICON_2X'[0m
+#define IDR_DEVTOOLS_TOUCH_CURSOR_ICON_2X _Pragma("whitelisted_resource_20409") 20409
+[0;1;32m                                          ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20409
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_emulator.cc:154:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_DEVTOOLS_TOUCH_CURSOR_ICON);
+[0;1;32m          ^
+[0m[1mgen/content/grit/content_resources.h:13:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVTOOLS_TOUCH_CURSOR_ICON'[0m
+#define IDR_DEVTOOLS_TOUCH_CURSOR_ICON _Pragma("whitelisted_resource_20408") 20408
+[0;1;32m                                       ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20408
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_emulator.cc:157:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      use_2x ? IDR_DEVTOOLS_PINCH_CURSOR_ICON_2X :
+[0;1;32m               ^
+[0m[1mgen/content/grit/content_resources.h:12:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVTOOLS_PINCH_CURSOR_ICON_2X'[0m
+#define IDR_DEVTOOLS_PINCH_CURSOR_ICON_2X _Pragma("whitelisted_resource_20407") 20407
+[0;1;32m                                          ^
+[0m[1m<scratch space>:230:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20407
+[0;1;32m ^
+[0m[1m../../content/browser/renderer_host/input/touch_emulator.cc:158:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_DEVTOOLS_PINCH_CURSOR_ICON);
+[0;1;32m          ^
+[0m[1mgen/content/grit/content_resources.h:11:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEVTOOLS_PINCH_CURSOR_ICON'[0m
+#define IDR_DEVTOOLS_PINCH_CURSOR_ICON _Pragma("whitelisted_resource_20406") 20406
+[0;1;32m                                       ^
+[0m[1m<scratch space>:232:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20406
+[0;1;32m ^
+[0m4 warnings generated.

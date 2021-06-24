@@ -1,0 +1,19 @@
+[1m../../chrome/browser/media/router/providers/wired_display/wired_display_media_route_provider.cc:42:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF8(IDS_MEDIA_ROUTER_WIRED_DISPLAY_SINK_NAME,
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:167:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_WIRED_DISPLAY_SINK_NAME'[0m
+#define IDS_MEDIA_ROUTER_WIRED_DISPLAY_SINK_NAME _Pragma("whitelisted_resource_2576") 2576
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2576
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/router/providers/wired_display/wired_display_media_route_provider.cc:82:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_WIRED_DISPLAY_ROUTE_DESCRIPTION,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:166:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_WIRED_DISPLAY_ROUTE_DESCRIPTION'[0m
+#define IDS_MEDIA_ROUTER_WIRED_DISPLAY_ROUTE_DESCRIPTION _Pragma("whitelisted_resource_2575") 2575
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2575
+[0;1;32m ^
+[0m2 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/quota_internals/quota_internals_ui.cc:28:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "event_handler.js", IDR_QUOTA_INTERNALS_EVENT_HANDLER_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/quota_internals_resources.h:6:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_QUOTA_INTERNALS_EVENT_HANDLER_JS'[0m
+#define IDR_QUOTA_INTERNALS_EVENT_HANDLER_JS _Pragma("whitelisted_resource_12211") 12211
+[0;1;32m                                             ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12211
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/quota_internals/quota_internals_ui.cc:30:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "message_dispatcher.js", IDR_QUOTA_INTERNALS_MESSAGE_DISPATCHER_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/quota_internals_resources.h:7:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_QUOTA_INTERNALS_MESSAGE_DISPATCHER_JS'[0m
+#define IDR_QUOTA_INTERNALS_MESSAGE_DISPATCHER_JS _Pragma("whitelisted_resource_12212") 12212
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12212
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/quota_internals/quota_internals_ui.cc:31:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_QUOTA_INTERNALS_MAIN_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/quota_internals_resources.h:5:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_QUOTA_INTERNALS_MAIN_HTML'[0m
+#define IDR_QUOTA_INTERNALS_MAIN_HTML _Pragma("whitelisted_resource_12210") 12210
+[0;1;32m                                      ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12210
+[0;1;32m ^
+[0m3 warnings generated.

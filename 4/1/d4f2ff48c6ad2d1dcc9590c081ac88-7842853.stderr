@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/proximity_auth/proximity_auth_error_bubble_view.cc:123:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  warning_icon->SetImage(*bundle.GetImageSkiaNamed(IDR_WARNING));
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/theme_resources.h:115:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WARNING'[0m
+#define IDR_WARNING _Pragma("whitelisted_resource_10503") 10503
+[0;1;32m                    ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10503
+[0;1;32m ^
+[0m1 warning generated.

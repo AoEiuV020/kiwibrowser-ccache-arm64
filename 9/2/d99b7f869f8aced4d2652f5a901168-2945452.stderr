@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/toolbar/bookmark_sub_menu_model.cc:33:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_BOOKMARK_PAGE, IDS_BOOKMARK_THIS_PAGE);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:105:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_THIS_PAGE'[0m
+#define IDS_BOOKMARK_THIS_PAGE _Pragma("whitelisted_resource_907") 907
+[0;1;32m                               ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_907
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/bookmark_sub_menu_model.cc:34:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddItemWithStringId(IDC_BOOKMARK_ALL_TABS, IDS_BOOKMARK_OPEN_PAGES);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:106:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_OPEN_PAGES'[0m
+#define IDS_BOOKMARK_OPEN_PAGES _Pragma("whitelisted_resource_908") 908
+[0;1;32m                                ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_908
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/bookmark_sub_menu_model.cc:41:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddCheckItemWithStringId(IDC_SHOW_BOOKMARK_BAR, IDS_SHOW_BOOKMARK_BAR);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:29:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SHOW_BOOKMARK_BAR'[0m
+#define IDS_SHOW_BOOKMARK_BAR _Pragma("whitelisted_resource_826") 826
+[0;1;32m                              ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_826
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/bookmark_sub_menu_model.cc:42:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_SHOW_BOOKMARK_MANAGER, IDS_BOOKMARK_MANAGER);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:54:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER'[0m
+#define IDS_BOOKMARK_MANAGER _Pragma("whitelisted_resource_856") 856
+[0;1;32m                             ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_856
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/toolbar/bookmark_sub_menu_model.cc:44:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddItemWithStringId(IDC_IMPORT_SETTINGS, IDS_IMPORT_SETTINGS_MENU_LABEL);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:941:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IMPORT_SETTINGS_MENU_LABEL'[0m
+#define IDS_IMPORT_SETTINGS_MENU_LABEL _Pragma("whitelisted_resource_4285") 4285
+[0;1;32m                                       ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4285
+[0;1;32m ^
+[0m5 warnings generated.

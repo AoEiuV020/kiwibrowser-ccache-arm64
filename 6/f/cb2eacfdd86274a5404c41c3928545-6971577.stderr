@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/settings/settings_media_devices_selection_handler.cc:157:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      facing_info = l10n_util::GetStringUTF8(IDS_CAMERA_FACING_USER);
+[0;1;32m                                             ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:52:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAMERA_FACING_USER'[0m
+#define IDS_CAMERA_FACING_USER _Pragma("whitelisted_resource_24667") 24667
+[0;1;32m                               ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24667
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_media_devices_selection_handler.cc:160:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      facing_info = l10n_util::GetStringUTF8(IDS_CAMERA_FACING_ENVIRONMENT);
+[0;1;32m                                             ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:53:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAMERA_FACING_ENVIRONMENT'[0m
+#define IDS_CAMERA_FACING_ENVIRONMENT _Pragma("whitelisted_resource_24668") 24668
+[0;1;32m                                      ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24668
+[0;1;32m ^
+[0m2 warnings generated.

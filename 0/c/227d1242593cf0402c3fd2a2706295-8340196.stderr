@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/webui/net_internals/net_internals_ui.cc:180:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_NET_INTERNALS_INDEX_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/net_internals_resources.h:5:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NET_INTERNALS_INDEX_HTML'[0m
+#define IDR_NET_INTERNALS_INDEX_HTML _Pragma("whitelisted_resource_12000") 12000
+[0;1;32m                                     ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12000
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/net_internals/net_internals_ui.cc:181:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("index.js", IDR_NET_INTERNALS_INDEX_JS);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/net_internals_resources.h:6:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NET_INTERNALS_INDEX_JS'[0m
+#define IDR_NET_INTERNALS_INDEX_JS _Pragma("whitelisted_resource_12001") 12001
+[0;1;32m                                   ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12001
+[0;1;32m ^
+[0m2 warnings generated.

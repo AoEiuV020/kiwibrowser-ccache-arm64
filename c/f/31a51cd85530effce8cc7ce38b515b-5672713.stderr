@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/webui/page_not_available_for_guest/page_not_available_for_guest_ui.cc:26:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    page_title = l10n_util::GetStringUTF16(IDS_MD_BOOKMARK_MANAGER_TITLE);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:97:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_BOOKMARK_MANAGER_TITLE'[0m
+#define IDS_MD_BOOKMARK_MANAGER_TITLE _Pragma("whitelisted_resource_899") 899
+[0;1;32m                                      ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_899
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/page_not_available_for_guest/page_not_available_for_guest_ui.cc:28:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    page_title = l10n_util::GetStringUTF16(IDS_HISTORY_TITLE);
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:311:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HISTORY_TITLE'[0m
+#define IDS_HISTORY_TITLE _Pragma("whitelisted_resource_15414") 15414
+[0;1;32m                          ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15414
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/page_not_available_for_guest/page_not_available_for_guest_ui.cc:30:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    page_title = l10n_util::GetStringUTF16(IDS_MD_EXTENSIONS_TOOLBAR_TITLE);
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:771:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_TITLE'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_TITLE _Pragma("whitelisted_resource_3999") 3999
+[0;1;32m                                        ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3999
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/page_not_available_for_guest/page_not_available_for_guest_ui.cc:36:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAGE_NOT_AVAILABLE_FOR_GUEST_HEADING, page_title);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:694:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_NOT_AVAILABLE_FOR_GUEST_HEADING'[0m
+#define IDS_PAGE_NOT_AVAILABLE_FOR_GUEST_HEADING _Pragma("whitelisted_resource_3922") 3922
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3922
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/page_not_available_for_guest/page_not_available_for_guest_ui.cc:39:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_PAGE_NOT_AVAILABLE_FOR_GUEST_APP_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:97:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PAGE_NOT_AVAILABLE_FOR_GUEST_APP_HTML'[0m
+#define IDR_PAGE_NOT_AVAILABLE_FOR_GUEST_APP_HTML _Pragma("whitelisted_resource_11172") 11172
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11172
+[0;1;32m ^
+[0m5 warnings generated.

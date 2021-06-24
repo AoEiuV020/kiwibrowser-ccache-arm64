@@ -1,0 +1,64 @@
+[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:28:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SYNC_FILE_SYSTEM_INTERNALS_UTILS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:5:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_UTILS_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_UTILS_JS _Pragma("whitelisted_resource_12740") 12740
+[0;1;32m                                                ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12740
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:31:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SYNC_FILE_SYSTEM_INTERNALS_EXTENSION_STATUSES_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:6:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_EXTENSION_STATUSES_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_EXTENSION_STATUSES_JS _Pragma("whitelisted_resource_12741") 12741
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12741
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:33:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "file_metadata.js", IDR_SYNC_FILE_SYSTEM_INTERNALS_FILE_METADATA_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:7:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_FILE_METADATA_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_FILE_METADATA_JS _Pragma("whitelisted_resource_12742") 12742
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12742
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:35:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "sync_service.js", IDR_SYNC_FILE_SYSTEM_INTERNALS_SYNC_SERVICE_JS);
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:10:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_SYNC_SERVICE_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_SYNC_SERVICE_JS _Pragma("whitelisted_resource_12745") 12745
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12745
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:37:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "task_log.js", IDR_SYNC_FILE_SYSTEM_INTERNALS_TASK_LOG_JS);
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:11:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_TASK_LOG_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_TASK_LOG_JS _Pragma("whitelisted_resource_12746") 12746
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12746
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:39:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "dump_database.js", IDR_SYNC_FILE_SYSTEM_INTERNALS_DUMP_DATABASE_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:8:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_DUMP_DATABASE_JS'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_DUMP_DATABASE_JS _Pragma("whitelisted_resource_12743") 12743
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12743
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/sync_file_system_internals/sync_file_system_internals_ui.cc:40:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SYNC_FILE_SYSTEM_INTERNALS_MAIN_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/sync_file_system_internals_resources.h:9:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SYNC_FILE_SYSTEM_INTERNALS_MAIN_HTML'[0m
+#define IDR_SYNC_FILE_SYSTEM_INTERNALS_MAIN_HTML _Pragma("whitelisted_resource_12744") 12744
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12744
+[0;1;32m ^
+[0m7 warnings generated.

@@ -1,0 +1,118 @@
+[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:119:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_DONE
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:120:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_BOOKMARK_BUBBLE_REMOVE_BOOKMARK);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:111:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BUBBLE_REMOVE_BOOKMARK'[0m
+#define IDS_BOOKMARK_BUBBLE_REMOVE_BOOKMARK _Pragma("whitelisted_resource_15209") 15209
+[0;1;32m                                            ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15209
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:137:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_BOOKMARK_BUBBLE_PAGE_BOOKMARKED
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:31:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BUBBLE_PAGE_BOOKMARKED'[0m
+#define IDS_BOOKMARK_BUBBLE_PAGE_BOOKMARKED _Pragma("whitelisted_resource_828") 828
+[0;1;32m                                            ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_828
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:138:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_BOOKMARK_BUBBLE_PAGE_BOOKMARK);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:32:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BUBBLE_PAGE_BOOKMARK'[0m
+#define IDS_BOOKMARK_BUBBLE_PAGE_BOOKMARK _Pragma("whitelisted_resource_829") 829
+[0;1;32m                                          ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_829
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:172:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_BOOKMARK_BUBBLE_OPTIONS));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:37:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BUBBLE_OPTIONS'[0m
+#define IDS_BOOKMARK_BUBBLE_OPTIONS _Pragma("whitelisted_resource_834") 834
+[0;1;32m                                    ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_834
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:201:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BOOKMARK_DICE_PROMO_SIGNIN_MESSAGE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:40:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_DICE_PROMO_SIGNIN_MESSAGE'[0m
+#define IDS_BOOKMARK_DICE_PROMO_SIGNIN_MESSAGE _Pragma("whitelisted_resource_837") 837
+[0;1;32m                                               ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_837
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:202:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BOOKMARK_DICE_PROMO_SYNC_MESSAGE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:41:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_DICE_PROMO_SYNC_MESSAGE'[0m
+#define IDS_BOOKMARK_DICE_PROMO_SYNC_MESSAGE _Pragma("whitelisted_resource_838") 838
+[0;1;32m                                             ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_838
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:208:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BOOKMARK_SYNC_PROMO_LINK, IDS_BOOKMARK_SYNC_PROMO_MESSAGE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/chromium_strings.h:38:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_SYNC_PROMO_LINK'[0m
+#define IDS_BOOKMARK_SYNC_PROMO_LINK _Pragma("whitelisted_resource_440") 440
+[0;1;32m                                     ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_440
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:208:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BOOKMARK_SYNC_PROMO_LINK, IDS_BOOKMARK_SYNC_PROMO_MESSAGE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:39:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_SYNC_PROMO_MESSAGE'[0m
+#define IDS_BOOKMARK_SYNC_PROMO_MESSAGE _Pragma("whitelisted_resource_836") 836
+[0;1;32m                                        ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_836
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:302:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      layout, l10n_util::GetStringUTF16(IDS_BOOKMARK_BUBBLE_NAME_LABEL),
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:33:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BUBBLE_NAME_LABEL'[0m
+#define IDS_BOOKMARK_BUBBLE_NAME_LABEL _Pragma("whitelisted_resource_830") 830
+[0;1;32m                                       ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_830
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:306:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_AX_BUBBLE_NAME_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:34:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_AX_BUBBLE_NAME_LABEL'[0m
+#define IDS_BOOKMARK_AX_BUBBLE_NAME_LABEL _Pragma("whitelisted_resource_831") 831
+[0;1;32m                                          ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_831
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:313:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      layout, l10n_util::GetStringUTF16(IDS_BOOKMARK_BUBBLE_FOLDER_LABEL),
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:35:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BUBBLE_FOLDER_LABEL'[0m
+#define IDS_BOOKMARK_BUBBLE_FOLDER_LABEL _Pragma("whitelisted_resource_832") 832
+[0;1;32m                                         ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_832
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/bookmarks/bookmark_bubble_view.cc:317:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_AX_BUBBLE_FOLDER_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:36:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_AX_BUBBLE_FOLDER_LABEL'[0m
+#define IDS_BOOKMARK_AX_BUBBLE_FOLDER_LABEL _Pragma("whitelisted_resource_833") 833
+[0;1;32m                                            ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_833
+[0;1;32m ^
+[0m13 warnings generated.

@@ -1,0 +1,154 @@
+[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:61:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PASSWORDS_VIA_FEDERATION,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1777:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORDS_VIA_FEDERATION'[0m
+#define IDS_PASSWORDS_VIA_FEDERATION _Pragma("whitelisted_resource_5355") 5355
+[0;1;32m                                     ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5355
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:90:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      title_id = IDS_SAVE_PASSWORD;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1585:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_PASSWORD'[0m
+#define IDS_SAVE_PASSWORD _Pragma("whitelisted_resource_5132") 5132
+[0;1;32m                          ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5132
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:93:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      title_id = IDS_SAVE_ACCOUNT;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1586:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_ACCOUNT'[0m
+#define IDS_SAVE_ACCOUNT _Pragma("whitelisted_resource_5133") 5133
+[0;1;32m                         ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5133
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:96:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      title_id = IDS_UPDATE_PASSWORD;
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:1587:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPDATE_PASSWORD'[0m
+#define IDS_UPDATE_PASSWORD _Pragma("whitelisted_resource_5134") 5134
+[0;1;32m                            ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5134
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:107:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   ? IDS_UPDATE_PASSWORD_DIFFERENT_DOMAINS_TITLE
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1589:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UPDATE_PASSWORD_DIFFERENT_DOMAINS_TITLE'[0m
+#define IDS_UPDATE_PASSWORD_DIFFERENT_DOMAINS_TITLE _Pragma("whitelisted_resource_5136") 5136
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5136
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:108:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   : IDS_SAVE_PASSWORD_DIFFERENT_DOMAINS_TITLE;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1588:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_PASSWORD_DIFFERENT_DOMAINS_TITLE'[0m
+#define IDS_SAVE_PASSWORD_DIFFERENT_DOMAINS_TITLE _Pragma("whitelisted_resource_5135") 5135
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5135
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:116:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_SMART_LOCK);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:492:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SMART_LOCK'[0m
+#define IDS_PASSWORD_MANAGER_SMART_LOCK _Pragma("whitelisted_resource_15600") 15600
+[0;1;32m                                        ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15600
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:129:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_TITLE_BRAND));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/chromium_strings.h:60:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_TITLE_BRAND'[0m
+#define IDS_PASSWORD_MANAGER_TITLE_BRAND _Pragma("whitelisted_resource_474") 474
+[0;1;32m                                         ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_474
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:147:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            ? IDS_MANAGE_PASSWORDS_DIFFERENT_DOMAIN_TITLE
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2494:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_DIFFERENT_DOMAIN_TITLE'[0m
+#define IDS_MANAGE_PASSWORDS_DIFFERENT_DOMAIN_TITLE _Pragma("whitelisted_resource_6244") 6244
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6244
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:148:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            : IDS_MANAGE_PASSWORDS_DIFFERENT_DOMAIN_NO_PASSWORDS_TITLE,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2495:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_DIFFERENT_DOMAIN_NO_PASSWORDS_TITLE'[0m
+#define IDS_MANAGE_PASSWORDS_DIFFERENT_DOMAIN_NO_PASSWORDS_TITLE _Pragma("whitelisted_resource_6245") 6245
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6245
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:152:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        has_credentials ? IDS_MANAGE_PASSWORDS_TITLE
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2492:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_TITLE'[0m
+#define IDS_MANAGE_PASSWORDS_TITLE _Pragma("whitelisted_resource_6242") 6242
+[0;1;32m                                   ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6242
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:153:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        : IDS_MANAGE_PASSWORDS_NO_PASSWORDS_TITLE);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2493:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_NO_PASSWORDS_TITLE'[0m
+#define IDS_MANAGE_PASSWORDS_NO_PASSWORDS_TITLE _Pragma("whitelisted_resource_6243") 6243
+[0;1;32m                                                ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6243
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:163:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      ? IDS_PASSWORD_MANAGER_ACCOUNT_CHOOSER_TITLE_MANY_ACCOUNTS
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1582:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_ACCOUNT_CHOOSER_TITLE_MANY_ACCOUNTS'[0m
+#define IDS_PASSWORD_MANAGER_ACCOUNT_CHOOSER_TITLE_MANY_ACCOUNTS _Pragma("whitelisted_resource_5129") 5129
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5129
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:164:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      : IDS_PASSWORD_MANAGER_ACCOUNT_CHOOSER_TITLE_ONE_ACCOUNT;
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1583:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_ACCOUNT_CHOOSER_TITLE_ONE_ACCOUNT'[0m
+#define IDS_PASSWORD_MANAGER_ACCOUNT_CHOOSER_TITLE_ONE_ACCOUNT _Pragma("whitelisted_resource_5130") 5130
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5130
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:178:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_SMART_LOCK);
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:492:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SMART_LOCK'[0m
+#define IDS_PASSWORD_MANAGER_SMART_LOCK _Pragma("whitelisted_resource_15600") 15600
+[0;1;32m                                        ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15600
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:185:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_TITLE_BRAND));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/chromium_strings.h:60:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_TITLE_BRAND'[0m
+#define IDS_PASSWORD_MANAGER_TITLE_BRAND _Pragma("whitelisted_resource_474") 474
+[0;1;32m                                         ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_474
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/passwords/manage_passwords_view_utils.cc:192:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             ? l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_EMPTY_LOGIN)
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:489:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_EMPTY_LOGIN'[0m
+#define IDS_PASSWORD_MANAGER_EMPTY_LOGIN _Pragma("whitelisted_resource_15597") 15597
+[0;1;32m                                         ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15597
+[0;1;32m ^
+[0m17 warnings generated.

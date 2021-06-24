@@ -1,0 +1,73 @@
+[1m../../chrome/browser/ui/views/find_bar_view.cc:124:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  find_text_->SetAccessibleName(l10n_util::GetStringUTF16(IDS_ACCNAME_FIND));
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1731:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_FIND'[0m
+#define IDS_ACCNAME_FIND _Pragma("whitelisted_resource_5308") 5308
+[0;1;32m                         ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5308
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:131:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_FIND_IN_PAGE_PREVIOUS_TOOLTIP));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:278:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FIND_IN_PAGE_PREVIOUS_TOOLTIP'[0m
+#define IDS_FIND_IN_PAGE_PREVIOUS_TOOLTIP _Pragma("whitelisted_resource_15381") 15381
+[0;1;32m                                          ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15381
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:133:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_PREVIOUS));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1039:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_PREVIOUS'[0m
+#define IDS_ACCNAME_PREVIOUS _Pragma("whitelisted_resource_16177") 16177
+[0;1;32m                             ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16177
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:139:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_FIND_IN_PAGE_NEXT_TOOLTIP));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:279:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FIND_IN_PAGE_NEXT_TOOLTIP'[0m
+#define IDS_FIND_IN_PAGE_NEXT_TOOLTIP _Pragma("whitelisted_resource_15382") 15382
+[0;1;32m                                      ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15382
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:141:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_NEXT));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1040:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_NEXT'[0m
+#define IDS_ACCNAME_NEXT _Pragma("whitelisted_resource_16178") 16178
+[0;1;32m                         ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16178
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:147:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_FIND_IN_PAGE_CLOSE_TOOLTIP));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:280:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FIND_IN_PAGE_CLOSE_TOOLTIP'[0m
+#define IDS_FIND_IN_PAGE_CLOSE_TOOLTIP _Pragma("whitelisted_resource_15383") 15383
+[0;1;32m                                       ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15383
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:149:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ACCNAME_CLOSE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1037:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_CLOSE'[0m
+#define IDS_ACCNAME_CLOSE _Pragma("whitelisted_resource_16175") 16175
+[0;1;32m                          ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16175
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/find_bar_view.cc:266:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_FIND_IN_PAGE_COUNT, base::FormatNumber(result.active_match_ordinal()),
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:277:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FIND_IN_PAGE_COUNT'[0m
+#define IDS_FIND_IN_PAGE_COUNT _Pragma("whitelisted_resource_15380") 15380
+[0;1;32m                               ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15380
+[0;1;32m ^
+[0m8 warnings generated.

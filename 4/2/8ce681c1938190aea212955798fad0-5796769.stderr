@@ -1,0 +1,163 @@
+[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:34:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "window-title", IDS_EXTENSION_CONFIRM_PERMISSIONS);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1303:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONFIRM_PERMISSIONS'[0m
+#define IDS_EXTENSION_CONFIRM_PERMISSIONS _Pragma("whitelisted_resource_4845") 4845
+[0;1;32m                                          ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4845
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:38:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "passwordDialogTitle", IDS_PDF_PASSWORD_DIALOG_TITLE);
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:605:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_PASSWORD_DIALOG_TITLE'[0m
+#define IDS_PDF_PASSWORD_DIALOG_TITLE _Pragma("whitelisted_resource_15731") 15731
+[0;1;32m                                      ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15731
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:39:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "passwordPrompt", IDS_PDF_NEED_PASSWORD);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:604:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_NEED_PASSWORD'[0m
+#define IDS_PDF_NEED_PASSWORD _Pragma("whitelisted_resource_15730") 15730
+[0;1;32m                              ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15730
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:40:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "passwordSubmit", IDS_PDF_PASSWORD_SUBMIT);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:606:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_PASSWORD_SUBMIT'[0m
+#define IDS_PDF_PASSWORD_SUBMIT _Pragma("whitelisted_resource_15732") 15732
+[0;1;32m                                ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15732
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:41:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "passwordInvalid", IDS_PDF_PASSWORD_INVALID);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:607:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_PASSWORD_INVALID'[0m
+#define IDS_PDF_PASSWORD_INVALID _Pragma("whitelisted_resource_15733") 15733
+[0;1;32m                                 ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15733
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:42:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "pageLoading", IDS_PDF_PAGE_LOADING);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:608:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_PAGE_LOADING'[0m
+#define IDS_PDF_PAGE_LOADING _Pragma("whitelisted_resource_15734") 15734
+[0;1;32m                             ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15734
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:43:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "pageLoadFailed", IDS_PDF_PAGE_LOAD_FAILED);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:610:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_PAGE_LOAD_FAILED'[0m
+#define IDS_PDF_PAGE_LOAD_FAILED _Pragma("whitelisted_resource_15736") 15736
+[0;1;32m                                 ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15736
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:44:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "errorDialogTitle", IDS_PDF_ERROR_DIALOG_TITLE);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:609:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_ERROR_DIALOG_TITLE'[0m
+#define IDS_PDF_ERROR_DIALOG_TITLE _Pragma("whitelisted_resource_15735") 15735
+[0;1;32m                                   ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15735
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:45:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "pageReload", IDS_PDF_PAGE_RELOAD_BUTTON);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:611:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_PAGE_RELOAD_BUTTON'[0m
+#define IDS_PDF_PAGE_RELOAD_BUTTON _Pragma("whitelisted_resource_15737") 15737
+[0;1;32m                                   ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15737
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:46:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "bookmarks", IDS_PDF_BOOKMARKS);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:612:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_BOOKMARKS'[0m
+#define IDS_PDF_BOOKMARKS _Pragma("whitelisted_resource_15738") 15738
+[0;1;32m                          ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15738
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:47:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "labelPageNumber", IDS_PDF_LABEL_PAGE_NUMBER);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:620:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_LABEL_PAGE_NUMBER'[0m
+#define IDS_PDF_LABEL_PAGE_NUMBER _Pragma("whitelisted_resource_15746") 15746
+[0;1;32m                                  ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15746
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:48:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipRotateCW", IDS_PDF_TOOLTIP_ROTATE_CW);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:613:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_ROTATE_CW'[0m
+#define IDS_PDF_TOOLTIP_ROTATE_CW _Pragma("whitelisted_resource_15739") 15739
+[0;1;32m                                  ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15739
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:49:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipDownload", IDS_PDF_TOOLTIP_DOWNLOAD);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:614:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_DOWNLOAD'[0m
+#define IDS_PDF_TOOLTIP_DOWNLOAD _Pragma("whitelisted_resource_15740") 15740
+[0;1;32m                                 ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15740
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:50:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipPrint", IDS_PDF_TOOLTIP_PRINT);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:615:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_PRINT'[0m
+#define IDS_PDF_TOOLTIP_PRINT _Pragma("whitelisted_resource_15741") 15741
+[0;1;32m                              ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15741
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:51:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipFitToPage", IDS_PDF_TOOLTIP_FIT_PAGE);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:616:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_FIT_PAGE'[0m
+#define IDS_PDF_TOOLTIP_FIT_PAGE _Pragma("whitelisted_resource_15742") 15742
+[0;1;32m                                 ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15742
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:52:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipFitToWidth", IDS_PDF_TOOLTIP_FIT_WIDTH);
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:617:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_FIT_WIDTH'[0m
+#define IDS_PDF_TOOLTIP_FIT_WIDTH _Pragma("whitelisted_resource_15743") 15743
+[0;1;32m                                  ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15743
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:53:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipZoomIn", IDS_PDF_TOOLTIP_ZOOM_IN);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:618:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_ZOOM_IN'[0m
+#define IDS_PDF_TOOLTIP_ZOOM_IN _Pragma("whitelisted_resource_15744") 15744
+[0;1;32m                                ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15744
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/resources_private/resources_private_api.cc:54:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetL10nString(dict, "tooltipZoomOut", IDS_PDF_TOOLTIP_ZOOM_OUT);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:619:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PDF_TOOLTIP_ZOOM_OUT'[0m
+#define IDS_PDF_TOOLTIP_ZOOM_OUT _Pragma("whitelisted_resource_15745") 15745
+[0;1;32m                                 ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15745
+[0;1;32m ^
+[0m18 warnings generated.

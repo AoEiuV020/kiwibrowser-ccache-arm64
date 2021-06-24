@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/views/download/download_feedback_dialog_view.cc:88:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_FEEDBACK_SERVICE_DIALOG_EXPLANATION,
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/chromium_strings.h:159:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SERVICE_DIALOG_EXPLANATION'[0m
+#define IDS_FEEDBACK_SERVICE_DIALOG_EXPLANATION _Pragma("whitelisted_resource_628") 628
+[0;1;32m                                                ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_628
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_feedback_dialog_view.cc:89:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_FEEDBACK_SERVICE_DIALOG_EXPLANATION_SCOUT))))),
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/chromium_strings.h:160:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SERVICE_DIALOG_EXPLANATION_SCOUT'[0m
+#define IDS_FEEDBACK_SERVICE_DIALOG_EXPLANATION_SCOUT _Pragma("whitelisted_resource_629") 629
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_629
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_feedback_dialog_view.cc:91:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SAFE_BROWSING_PRIVACY_POLICY_PAGE))),
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:814:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFE_BROWSING_PRIVACY_POLICY_PAGE'[0m
+#define IDS_SAFE_BROWSING_PRIVACY_POLICY_PAGE _Pragma("whitelisted_resource_15945") 15945
+[0;1;32m                                              ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15945
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_feedback_dialog_view.cc:92:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      title_text_(l10n_util::GetStringUTF16(IDS_FEEDBACK_SERVICE_DIALOG_TITLE)),
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/chromium_strings.h:158:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SERVICE_DIALOG_TITLE'[0m
+#define IDS_FEEDBACK_SERVICE_DIALOG_TITLE _Pragma("whitelisted_resource_627") 627
+[0;1;32m                                          ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_627
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_feedback_dialog_view.cc:94:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FEEDBACK_SERVICE_DIALOG_OK_BUTTON_LABEL)),
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1088:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SERVICE_DIALOG_OK_BUTTON_LABEL'[0m
+#define IDS_FEEDBACK_SERVICE_DIALOG_OK_BUTTON_LABEL _Pragma("whitelisted_resource_4452") 4452
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4452
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/download/download_feedback_dialog_view.cc:96:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_FEEDBACK_SERVICE_DIALOG_CANCEL_BUTTON_LABEL)) {
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1089:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FEEDBACK_SERVICE_DIALOG_CANCEL_BUTTON_LABEL'[0m
+#define IDS_FEEDBACK_SERVICE_DIALOG_CANCEL_BUTTON_LABEL _Pragma("whitelisted_resource_4453") 4453
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4453
+[0;1;32m ^
+[0m6 warnings generated.

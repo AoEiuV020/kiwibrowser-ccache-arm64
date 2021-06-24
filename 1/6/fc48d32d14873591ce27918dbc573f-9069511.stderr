@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/snippets_internals/snippets_internals_ui.cc:22:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("snippets_internals.css", IDR_SNIPPETS_INTERNALS_CSS);
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/grit/browser_resources.h:77:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SNIPPETS_INTERNALS_CSS'[0m
+#define IDR_SNIPPETS_INTERNALS_CSS _Pragma("whitelisted_resource_11080") 11080
+[0;1;32m                                   ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11080
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/snippets_internals/snippets_internals_ui.cc:23:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("snippets_internals.js", IDR_SNIPPETS_INTERNALS_JS);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/browser_resources.h:78:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SNIPPETS_INTERNALS_JS'[0m
+#define IDR_SNIPPETS_INTERNALS_JS _Pragma("whitelisted_resource_11081") 11081
+[0;1;32m                                  ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11081
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/snippets_internals/snippets_internals_ui.cc:25:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_SNIPPETS_INTERNALS_MOJO_JS);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/browser_resources.h:79:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SNIPPETS_INTERNALS_MOJO_JS'[0m
+#define IDR_SNIPPETS_INTERNALS_MOJO_JS _Pragma("whitelisted_resource_11082") 11082
+[0;1;32m                                       ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11082
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/snippets_internals/snippets_internals_ui.cc:26:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_SNIPPETS_INTERNALS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/browser_resources.h:76:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SNIPPETS_INTERNALS_HTML'[0m
+#define IDR_SNIPPETS_INTERNALS_HTML _Pragma("whitelisted_resource_11079") 11079
+[0;1;32m                                    ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11079
+[0;1;32m ^
+[0m4 warnings generated.

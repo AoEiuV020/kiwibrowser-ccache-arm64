@@ -1,0 +1,91 @@
+[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:40:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ALLOW);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:456:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ALLOW'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ALLOW _Pragma("whitelisted_resource_15564") 15564
+[0;1;32m                                              ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15564
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:43:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_DEFAULT_BLOCK);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:457:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_DEFAULT_BLOCK'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_DEFAULT_BLOCK _Pragma("whitelisted_resource_15565") 15565
+[0;1;32m                                              ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15565
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:46:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ASK);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:458:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ASK'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ASK _Pragma("whitelisted_resource_15566") 15566
+[0;1;32m                                            ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15566
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:54:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ASK
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:458:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ASK'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_DEFAULT_ASK _Pragma("whitelisted_resource_15566") 15566
+[0;1;32m                                            ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15566
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:55:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : IDS_PAGE_INFO_MENU_ITEM_DEFAULT_DETECT_IMPORTANT_CONTENT);
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:459:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_DEFAULT_DETECT_IMPORTANT_CONTENT'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_DEFAULT_DETECT_IMPORTANT_CONTENT _Pragma("whitelisted_resource_15567") 15567
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15567
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:77:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_ALLOW);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:460:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_ALLOW'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_ALLOW _Pragma("whitelisted_resource_15568") 15568
+[0;1;32m                                      ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15568
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:92:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAGE_INFO_MENU_ITEM_DETECT_IMPORTANT_CONTENT);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:463:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_DETECT_IMPORTANT_CONTENT'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_DETECT_IMPORTANT_CONTENT _Pragma("whitelisted_resource_15571") 15571
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15571
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:97:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_BLOCK);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:461:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_BLOCK'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_BLOCK _Pragma("whitelisted_resource_15569") 15569
+[0;1;32m                                      ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15569
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:99:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_ADS_BLOCK);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:464:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_ADS_BLOCK'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_ADS_BLOCK _Pragma("whitelisted_resource_15572") 15572
+[0;1;32m                                          ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15572
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/page_info/permission_menu_model.cc:111:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    label = l10n_util::GetStringUTF16(IDS_PAGE_INFO_MENU_ITEM_ASK);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:462:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAGE_INFO_MENU_ITEM_ASK'[0m
+#define IDS_PAGE_INFO_MENU_ITEM_ASK _Pragma("whitelisted_resource_15570") 15570
+[0;1;32m                                    ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15570
+[0;1;32m ^
+[0m10 warnings generated.

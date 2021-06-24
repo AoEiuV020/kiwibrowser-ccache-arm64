@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/media_router/media_cast_mode.cc:18:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF8(IDS_MEDIA_ROUTER_PRESENTATION_CAST_MODE,
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:117:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_PRESENTATION_CAST_MODE'[0m
+#define IDS_MEDIA_ROUTER_PRESENTATION_CAST_MODE _Pragma("whitelisted_resource_2526") 2526
+[0;1;32m                                                ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2526
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/media_router/media_cast_mode.cc:21:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF8(IDS_MEDIA_ROUTER_TAB_MIRROR_CAST_MODE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:119:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_TAB_MIRROR_CAST_MODE'[0m
+#define IDS_MEDIA_ROUTER_TAB_MIRROR_CAST_MODE _Pragma("whitelisted_resource_2528") 2528
+[0;1;32m                                              ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2528
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/media_router/media_cast_mode.cc:24:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_ROUTER_DESKTOP_MIRROR_CAST_MODE);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:118:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_DESKTOP_MIRROR_CAST_MODE'[0m
+#define IDS_MEDIA_ROUTER_DESKTOP_MIRROR_CAST_MODE _Pragma("whitelisted_resource_2527") 2527
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2527
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/media_router/media_cast_mode.cc:26:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF8(IDS_MEDIA_ROUTER_LOCAL_FILE_CAST_MODE);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:120:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_LOCAL_FILE_CAST_MODE'[0m
+#define IDS_MEDIA_ROUTER_LOCAL_FILE_CAST_MODE _Pragma("whitelisted_resource_2529") 2529
+[0;1;32m                                              ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2529
+[0;1;32m ^
+[0m4 warnings generated.

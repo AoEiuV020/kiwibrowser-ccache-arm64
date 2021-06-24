@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/tabs/tab_close_button.cc:39:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  SetAccessibleName(l10n_util::GetStringUTF16(IDS_ACCNAME_CLOSE));
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:1037:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_CLOSE'[0m
+#define IDS_ACCNAME_CLOSE _Pragma("whitelisted_resource_16175") 16175
+[0;1;32m                          ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16175
+[0;1;32m ^
+[0m1 warning generated.

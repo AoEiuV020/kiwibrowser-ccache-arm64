@@ -1,0 +1,37 @@
+[1m../../chrome/browser/extensions/dev_mode_bubble_delegate.cc:54:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSIONS_DISABLE_DEVELOPER_MODE_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1532:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_DISABLE_DEVELOPER_MODE_TITLE'[0m
+#define IDS_EXTENSIONS_DISABLE_DEVELOPER_MODE_TITLE _Pragma("whitelisted_resource_5079") 5079
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5079
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/dev_mode_bubble_delegate.cc:60:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSIONS_DISABLE_DEVELOPER_MODE_BODY);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1533:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_DISABLE_DEVELOPER_MODE_BODY'[0m
+#define IDS_EXTENSIONS_DISABLE_DEVELOPER_MODE_BODY _Pragma("whitelisted_resource_5080") 5080
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5080
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/dev_mode_bubble_delegate.cc:66:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSIONS_DISABLED_AND_N_MORE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1529:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_DISABLED_AND_N_MORE'[0m
+#define IDS_EXTENSIONS_DISABLED_AND_N_MORE _Pragma("whitelisted_resource_5076") 5076
+[0;1;32m                                           ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5076
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/dev_mode_bubble_delegate.cc:75:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DISABLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:827:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DISABLE'[0m
+#define IDS_DISABLE _Pragma("whitelisted_resource_4169") 4169
+[0;1;32m                    ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4169
+[0;1;32m ^
+[0m4 warnings generated.

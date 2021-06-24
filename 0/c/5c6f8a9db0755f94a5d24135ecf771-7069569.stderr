@@ -1,0 +1,1063 @@
+[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:124:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"add", IDS_ADD},
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:1023:17: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD'[0m
+#define IDS_ADD _Pragma("whitelisted_resource_16161") 16161
+[0;1;32m                ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16161
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:125:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"back", IDS_ACCNAME_BACK},
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:1031:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCNAME_BACK'[0m
+#define IDS_ACCNAME_BACK _Pragma("whitelisted_resource_16169") 16169
+[0;1;32m                         ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16169
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:126:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"cancel", IDS_CANCEL},
+[0;1;32m               ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:127:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"close", IDS_CLOSE},
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:1019:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLOSE'[0m
+#define IDS_CLOSE _Pragma("whitelisted_resource_16157") 16157
+[0;1;32m                  ^
+[0m[1m<scratch space>:163:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16157
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:128:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"confirm", IDS_CONFIRM},
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:826:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM'[0m
+#define IDS_CONFIRM _Pragma("whitelisted_resource_4168") 4168
+[0;1;32m                    ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4168
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:129:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"controlledSettingPolicy", IDS_CONTROLLED_SETTING_POLICY},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1967:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTROLLED_SETTING_POLICY'[0m
+#define IDS_CONTROLLED_SETTING_POLICY _Pragma("whitelisted_resource_5585") 5585
+[0;1;32m                                      ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5585
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:130:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"done", IDS_DONE},
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:169:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:131:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"learnMore", IDS_LEARN_MORE},
+[0;1;32m                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:171:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:132:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"noSearchResults", IDS_SEARCH_NO_RESULTS},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:829:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_NO_RESULTS'[0m
+#define IDS_SEARCH_NO_RESULTS _Pragma("whitelisted_resource_4171") 4171
+[0;1;32m                              ^
+[0m[1m<scratch space>:173:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4171
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:133:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"ok", IDS_OK},
+[0;1;32m           ^
+[0m[1mgen/components/strings/grit/components_strings.h:1022:16: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OK'[0m
+#define IDS_OK _Pragma("whitelisted_resource_16160") 16160
+[0;1;32m               ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16160
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:134:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"searchResults", IDS_SEARCH_RESULTS},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:828:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_RESULTS'[0m
+#define IDS_SEARCH_RESULTS _Pragma("whitelisted_resource_4170") 4170
+[0;1;32m                           ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4170
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:137:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"title", IDS_MANAGE_EXTENSIONS_SETTING_WINDOWS_TITLE},
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1961:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_EXTENSIONS_SETTING_WINDOWS_TITLE'[0m
+#define IDS_MANAGE_EXTENSIONS_SETTING_WINDOWS_TITLE _Pragma("whitelisted_resource_5579") 5579
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5579
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:138:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarTitle", IDS_MD_EXTENSIONS_TOOLBAR_TITLE},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:771:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_TITLE'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_TITLE _Pragma("whitelisted_resource_3999") 3999
+[0;1;32m                                        ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3999
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:139:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"mainMenu", IDS_MD_EXTENSIONS_MENU_BUTTON_LABEL},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:714:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_MENU_BUTTON_LABEL'[0m
+#define IDS_MD_EXTENSIONS_MENU_BUTTON_LABEL _Pragma("whitelisted_resource_3942") 3942
+[0;1;32m                                            ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3942
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:140:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"search", IDS_MD_EXTENSIONS_SEARCH},
+[0;1;32m               ^
+[0m[1mgen/chrome/grit/generated_resources.h:772:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SEARCH'[0m
+#define IDS_MD_EXTENSIONS_SEARCH _Pragma("whitelisted_resource_4000") 4000
+[0;1;32m                                 ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4000
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:142:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"clearSearch", IDS_DOWNLOAD_CLEAR_SEARCH},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1043:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_CLEAR_SEARCH'[0m
+#define IDS_DOWNLOAD_CLEAR_SEARCH _Pragma("whitelisted_resource_4395") 4395
+[0;1;32m                                  ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4395
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:143:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sidebarExtensions", IDS_MD_EXTENSIONS_SIDEBAR_EXTENSIONS},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:777:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SIDEBAR_EXTENSIONS'[0m
+#define IDS_MD_EXTENSIONS_SIDEBAR_EXTENSIONS _Pragma("whitelisted_resource_4005") 4005
+[0;1;32m                                             ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4005
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:144:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"appsTitle", IDS_MD_EXTENSIONS_APPS_TITLE},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:776:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_APPS_TITLE'[0m
+#define IDS_MD_EXTENSIONS_APPS_TITLE _Pragma("whitelisted_resource_4004") 4004
+[0;1;32m                                     ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4004
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:145:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"noExtensionsOrApps", IDS_MD_EXTENSIONS_NO_INSTALLED_ITEMS},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:761:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_NO_INSTALLED_ITEMS'[0m
+#define IDS_MD_EXTENSIONS_NO_INSTALLED_ITEMS _Pragma("whitelisted_resource_3989") 3989
+[0;1;32m                                             ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3989
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:146:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"noDescription", IDS_MD_EXTENSIONS_NO_DESCRIPTION},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:762:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_NO_DESCRIPTION'[0m
+#define IDS_MD_EXTENSIONS_NO_DESCRIPTION _Pragma("whitelisted_resource_3990") 3990
+[0;1;32m                                         ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3990
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:147:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewInStore", IDS_MD_EXTENSIONS_ITEM_CHROME_WEB_STORE},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:744:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_CHROME_WEB_STORE'[0m
+#define IDS_MD_EXTENSIONS_ITEM_CHROME_WEB_STORE _Pragma("whitelisted_resource_3972") 3972
+[0;1;32m                                                ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3972
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:148:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"extensionWebsite", IDS_MD_EXTENSIONS_ITEM_EXTENSION_WEBSITE},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:743:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_EXTENSION_WEBSITE'[0m
+#define IDS_MD_EXTENSIONS_ITEM_EXTENSION_WEBSITE _Pragma("whitelisted_resource_3971") 3971
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3971
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:149:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"dropToInstall", IDS_EXTENSIONS_INSTALL_DROP_TARGET},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:701:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALL_DROP_TARGET'[0m
+#define IDS_EXTENSIONS_INSTALL_DROP_TARGET _Pragma("whitelisted_resource_3929") 3929
+[0;1;32m                                           ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3929
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:150:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"errorsPageHeading", IDS_MD_EXTENSIONS_ERROR_PAGE_HEADING},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:715:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_PAGE_HEADING'[0m
+#define IDS_MD_EXTENSIONS_ERROR_PAGE_HEADING _Pragma("whitelisted_resource_3943") 3943
+[0;1;32m                                             ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3943
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:151:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"clearAll", IDS_MD_EXTENSIONS_ERROR_CLEAR_ALL},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:719:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_CLEAR_ALL'[0m
+#define IDS_MD_EXTENSIONS_ERROR_CLEAR_ALL _Pragma("whitelisted_resource_3947") 3947
+[0;1;32m                                          ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3947
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:152:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"clearEntry", IDS_MD_EXTENSIONS_A11Y_CLEAR_ENTRY},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:720:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_A11Y_CLEAR_ENTRY'[0m
+#define IDS_MD_EXTENSIONS_A11Y_CLEAR_ENTRY _Pragma("whitelisted_resource_3948") 3948
+[0;1;32m                                           ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3948
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:153:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"logLevel", IDS_EXTENSIONS_LOG_LEVEL_INFO},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:704:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_LOG_LEVEL_INFO'[0m
+#define IDS_EXTENSIONS_LOG_LEVEL_INFO _Pragma("whitelisted_resource_3932") 3932
+[0;1;32m                                      ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3932
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:154:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"warnLevel", IDS_EXTENSIONS_LOG_LEVEL_WARN},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:705:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_LOG_LEVEL_WARN'[0m
+#define IDS_EXTENSIONS_LOG_LEVEL_WARN _Pragma("whitelisted_resource_3933") 3933
+[0;1;32m                                      ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3933
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:155:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"errorLevel", IDS_EXTENSIONS_LOG_LEVEL_ERROR},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:703:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_LOG_LEVEL_ERROR'[0m
+#define IDS_EXTENSIONS_LOG_LEVEL_ERROR _Pragma("whitelisted_resource_3931") 3931
+[0;1;32m                                       ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3931
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:156:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"anonymousFunction", IDS_MD_EXTENSIONS_ERROR_ANONYMOUS_FUNCTION},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:716:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_ANONYMOUS_FUNCTION'[0m
+#define IDS_MD_EXTENSIONS_ERROR_ANONYMOUS_FUNCTION _Pragma("whitelisted_resource_3944") 3944
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3944
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:157:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"errorContext", IDS_MD_EXTENSIONS_ERROR_CONTEXT},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:717:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_CONTEXT'[0m
+#define IDS_MD_EXTENSIONS_ERROR_CONTEXT _Pragma("whitelisted_resource_3945") 3945
+[0;1;32m                                        ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3945
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:158:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"errorContextUnknown", IDS_MD_EXTENSIONS_ERROR_CONTEXT_UNKNOWN},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:718:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_CONTEXT_UNKNOWN'[0m
+#define IDS_MD_EXTENSIONS_ERROR_CONTEXT_UNKNOWN _Pragma("whitelisted_resource_3946") 3946
+[0;1;32m                                                ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3946
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:159:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"stackTrace", IDS_MD_EXTENSIONS_ERROR_STACK_TRACE},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:721:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_STACK_TRACE'[0m
+#define IDS_MD_EXTENSIONS_ERROR_STACK_TRACE _Pragma("whitelisted_resource_3949") 3949
+[0;1;32m                                            ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3949
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:161:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"openChromeWebStore", IDS_MD_EXTENSIONS_SIDEBAR_OPEN_CHROME_WEB_STORE},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:778:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SIDEBAR_OPEN_CHROME_WEB_STORE'[0m
+#define IDS_MD_EXTENSIONS_SIDEBAR_OPEN_CHROME_WEB_STORE _Pragma("whitelisted_resource_4006") 4006
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4006
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:162:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"keyboardShortcuts", IDS_MD_EXTENSIONS_SIDEBAR_KEYBOARD_SHORTCUTS},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:779:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SIDEBAR_KEYBOARD_SHORTCUTS'[0m
+#define IDS_MD_EXTENSIONS_SIDEBAR_KEYBOARD_SHORTCUTS _Pragma("whitelisted_resource_4007") 4007
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4007
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:163:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"incognitoInfoWarning", IDS_EXTENSIONS_INCOGNITO_WARNING},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/chromium_strings.h:79:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INCOGNITO_WARNING'[0m
+#define IDS_EXTENSIONS_INCOGNITO_WARNING _Pragma("whitelisted_resource_523") 523
+[0;1;32m                                         ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_523
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:164:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemId", IDS_MD_EXTENSIONS_ITEM_ID},
+[0;1;32m               ^
+[0m[1mgen/chrome/grit/generated_resources.h:726:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_ID'[0m
+#define IDS_MD_EXTENSIONS_ITEM_ID _Pragma("whitelisted_resource_3954") 3954
+[0;1;32m                                  ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3954
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:165:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemInspectViews", IDS_MD_EXTENSIONS_ITEM_INSPECT_VIEWS},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:727:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_INSPECT_VIEWS'[0m
+#define IDS_MD_EXTENSIONS_ITEM_INSPECT_VIEWS _Pragma("whitelisted_resource_3955") 3955
+[0;1;32m                                             ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3955
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:170:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemInspectViewsExtra", IDS_MD_EXTENSIONS_ITEM_INSPECT_VIEWS_EXTRA},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:728:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_INSPECT_VIEWS_EXTRA'[0m
+#define IDS_MD_EXTENSIONS_ITEM_INSPECT_VIEWS_EXTRA _Pragma("whitelisted_resource_3956") 3956
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3956
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:171:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"noActiveViews", IDS_MD_EXTENSIONS_ITEM_NO_ACTIVE_VIEWS},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:729:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_NO_ACTIVE_VIEWS'[0m
+#define IDS_MD_EXTENSIONS_ITEM_NO_ACTIVE_VIEWS _Pragma("whitelisted_resource_3957") 3957
+[0;1;32m                                               ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3957
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:172:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemAllowIncognito", IDS_MD_EXTENSIONS_ITEM_ALLOW_INCOGNITO},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:730:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_ALLOW_INCOGNITO'[0m
+#define IDS_MD_EXTENSIONS_ITEM_ALLOW_INCOGNITO _Pragma("whitelisted_resource_3958") 3958
+[0;1;32m                                               ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3958
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:173:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemDescriptionLabel", IDS_MD_EXTENSIONS_ITEM_DESCRIPTION},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:733:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_DESCRIPTION'[0m
+#define IDS_MD_EXTENSIONS_ITEM_DESCRIPTION _Pragma("whitelisted_resource_3961") 3961
+[0;1;32m                                           ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3961
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:174:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemDependencies", IDS_MD_EXTENSIONS_ITEM_DEPENDENCIES},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:731:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_DEPENDENCIES'[0m
+#define IDS_MD_EXTENSIONS_ITEM_DEPENDENCIES _Pragma("whitelisted_resource_3959") 3959
+[0;1;32m                                            ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3959
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:175:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemDependentEntry", IDS_MD_EXTENSIONS_DEPENDENT_ENTRY},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:732:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_DEPENDENT_ENTRY'[0m
+#define IDS_MD_EXTENSIONS_DEPENDENT_ENTRY _Pragma("whitelisted_resource_3960") 3960
+[0;1;32m                                          ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3960
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:176:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemDetails", IDS_MD_EXTENSIONS_ITEM_DETAILS},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:734:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_DETAILS'[0m
+#define IDS_MD_EXTENSIONS_ITEM_DETAILS _Pragma("whitelisted_resource_3962") 3962
+[0;1;32m                                       ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3962
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:177:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemErrors", IDS_MD_EXTENSIONS_ITEM_ERRORS},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:723:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_ERRORS'[0m
+#define IDS_MD_EXTENSIONS_ITEM_ERRORS _Pragma("whitelisted_resource_3951") 3951
+[0;1;32m                                      ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3951
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:178:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"accessibilityErrorLine", IDS_MD_EXTENSIONS_ACCESSIBILITY_ERROR_LINE},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:724:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ACCESSIBILITY_ERROR_LINE'[0m
+#define IDS_MD_EXTENSIONS_ACCESSIBILITY_ERROR_LINE _Pragma("whitelisted_resource_3952") 3952
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3952
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:180:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_MD_EXTENSIONS_ACCESSIBILITY_ERROR_MULTI_LINE},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:725:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ACCESSIBILITY_ERROR_MULTI_LINE'[0m
+#define IDS_MD_EXTENSIONS_ACCESSIBILITY_ERROR_MULTI_LINE _Pragma("whitelisted_resource_3953") 3953
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3953
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:181:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"appIcon", IDS_MD_EXTENSIONS_APP_ICON},
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:736:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_APP_ICON'[0m
+#define IDS_MD_EXTENSIONS_APP_ICON _Pragma("whitelisted_resource_3964") 3964
+[0;1;32m                                   ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3964
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:182:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"extensionIcon", IDS_MD_EXTENSIONS_EXTENSION_ICON},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:737:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_EXTENSION_ICON'[0m
+#define IDS_MD_EXTENSIONS_EXTENSION_ICON _Pragma("whitelisted_resource_3965") 3965
+[0;1;32m                                         ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3965
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:183:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"extensionA11yAssociation", IDS_MD_EXTENSIONS_EXTENSION_A11Y_ASSOCIATION},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:735:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_EXTENSION_A11Y_ASSOCIATION'[0m
+#define IDS_MD_EXTENSIONS_EXTENSION_A11Y_ASSOCIATION _Pragma("whitelisted_resource_3963") 3963
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3963
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:184:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemIdHeading", IDS_MD_EXTENSIONS_ITEM_ID_HEADING},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:738:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_ID_HEADING'[0m
+#define IDS_MD_EXTENSIONS_ITEM_ID_HEADING _Pragma("whitelisted_resource_3966") 3966
+[0;1;32m                                          ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3966
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:185:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"extensionEnabled", IDS_MD_EXTENSIONS_EXTENSION_ENABLED},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:739:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_EXTENSION_ENABLED'[0m
+#define IDS_MD_EXTENSIONS_EXTENSION_ENABLED _Pragma("whitelisted_resource_3967") 3967
+[0;1;32m                                            ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3967
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:186:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"appEnabled", IDS_MD_EXTENSIONS_APP_ENABLED},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:740:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_APP_ENABLED'[0m
+#define IDS_MD_EXTENSIONS_APP_ENABLED _Pragma("whitelisted_resource_3968") 3968
+[0;1;32m                                      ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3968
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:187:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"installWarnings", IDS_EXTENSIONS_INSTALL_WARNINGS},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:702:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_INSTALL_WARNINGS'[0m
+#define IDS_EXTENSIONS_INSTALL_WARNINGS _Pragma("whitelisted_resource_3930") 3930
+[0;1;32m                                        ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3930
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:188:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemExtensionPath", IDS_EXTENSIONS_PATH},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:706:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_PATH'[0m
+#define IDS_EXTENSIONS_PATH _Pragma("whitelisted_resource_3934") 3934
+[0;1;32m                            ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3934
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:189:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemOff", IDS_MD_EXTENSIONS_ITEM_OFF},
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:741:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_OFF'[0m
+#define IDS_MD_EXTENSIONS_ITEM_OFF _Pragma("whitelisted_resource_3969") 3969
+[0;1;32m                                   ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3969
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:190:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemOn", IDS_MD_EXTENSIONS_ITEM_ON},
+[0;1;32m               ^
+[0m[1mgen/chrome/grit/generated_resources.h:742:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_ON'[0m
+#define IDS_MD_EXTENSIONS_ITEM_ON _Pragma("whitelisted_resource_3970") 3970
+[0;1;32m                                  ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3970
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:191:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemOptions", IDS_MD_EXTENSIONS_ITEM_OPTIONS},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:745:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_OPTIONS'[0m
+#define IDS_MD_EXTENSIONS_ITEM_OPTIONS _Pragma("whitelisted_resource_3973") 3973
+[0;1;32m                                       ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3973
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:192:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemPermissions", IDS_MD_EXTENSIONS_ITEM_PERMISSIONS},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:746:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_PERMISSIONS'[0m
+#define IDS_MD_EXTENSIONS_ITEM_PERMISSIONS _Pragma("whitelisted_resource_3974") 3974
+[0;1;32m                                           ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3974
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:193:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemPermissionsEmpty", IDS_MD_EXTENSIONS_ITEM_PERMISSIONS_EMPTY},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:747:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_PERMISSIONS_EMPTY'[0m
+#define IDS_MD_EXTENSIONS_ITEM_PERMISSIONS_EMPTY _Pragma("whitelisted_resource_3975") 3975
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3975
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:194:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemRemove", IDS_MD_EXTENSIONS_ITEM_REMOVE},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:748:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_REMOVE'[0m
+#define IDS_MD_EXTENSIONS_ITEM_REMOVE _Pragma("whitelisted_resource_3976") 3976
+[0;1;32m                                      ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3976
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:195:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemRemoveExtension", IDS_MD_EXTENSIONS_ITEM_REMOVE_EXTENSION},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:749:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_REMOVE_EXTENSION'[0m
+#define IDS_MD_EXTENSIONS_ITEM_REMOVE_EXTENSION _Pragma("whitelisted_resource_3977") 3977
+[0;1;32m                                                ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3977
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:196:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemSource", IDS_MD_EXTENSIONS_ITEM_SOURCE},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:750:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_SOURCE'[0m
+#define IDS_MD_EXTENSIONS_ITEM_SOURCE _Pragma("whitelisted_resource_3978") 3978
+[0;1;32m                                      ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3978
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:197:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemSourcePolicy", IDS_MD_EXTENSIONS_ITEM_SOURCE_POLICY},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:751:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_SOURCE_POLICY'[0m
+#define IDS_MD_EXTENSIONS_ITEM_SOURCE_POLICY _Pragma("whitelisted_resource_3979") 3979
+[0;1;32m                                             ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3979
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:198:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemSourceSideloaded", IDS_MD_EXTENSIONS_ITEM_SOURCE_SIDELOADED},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:752:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_SOURCE_SIDELOADED'[0m
+#define IDS_MD_EXTENSIONS_ITEM_SOURCE_SIDELOADED _Pragma("whitelisted_resource_3980") 3980
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3980
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:199:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemSourceUnpacked", IDS_MD_EXTENSIONS_ITEM_SOURCE_UNPACKED},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:753:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_SOURCE_UNPACKED'[0m
+#define IDS_MD_EXTENSIONS_ITEM_SOURCE_UNPACKED _Pragma("whitelisted_resource_3981") 3981
+[0;1;32m                                               ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3981
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:200:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemSourceWebstore", IDS_MD_EXTENSIONS_ITEM_SOURCE_WEBSTORE},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:754:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_SOURCE_WEBSTORE'[0m
+#define IDS_MD_EXTENSIONS_ITEM_SOURCE_WEBSTORE _Pragma("whitelisted_resource_3982") 3982
+[0;1;32m                                               ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3982
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:201:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemVersion", IDS_MD_EXTENSIONS_ITEM_VERSION},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:755:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ITEM_VERSION'[0m
+#define IDS_MD_EXTENSIONS_ITEM_VERSION _Pragma("whitelisted_resource_3983") 3983
+[0;1;32m                                       ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3983
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:203:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemSize", IDS_DIRECTORY_LISTING_SIZE},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2283:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_SIZE'[0m
+#define IDS_DIRECTORY_LISTING_SIZE _Pragma("whitelisted_resource_5923") 5923
+[0;1;32m                                   ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5923
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:204:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemAllowOnFileUrls", IDS_EXTENSIONS_ALLOW_FILE_ACCESS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:695:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_ALLOW_FILE_ACCESS'[0m
+#define IDS_EXTENSIONS_ALLOW_FILE_ACCESS _Pragma("whitelisted_resource_3923") 3923
+[0;1;32m                                         ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3923
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:205:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemAllowOnAllSites", IDS_EXTENSIONS_ALLOW_ON_ALL_URLS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:696:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_ALLOW_ON_ALL_URLS'[0m
+#define IDS_EXTENSIONS_ALLOW_ON_ALL_URLS _Pragma("whitelisted_resource_3924") 3924
+[0;1;32m                                         ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3924
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:206:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemCollectErrors", IDS_EXTENSIONS_ENABLE_ERROR_COLLECTION},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:699:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_ENABLE_ERROR_COLLECTION'[0m
+#define IDS_EXTENSIONS_ENABLE_ERROR_COLLECTION _Pragma("whitelisted_resource_3927") 3927
+[0;1;32m                                               ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3927
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:207:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemCorruptInstall", IDS_EXTENSIONS_CORRUPTED_EXTENSION},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:698:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_CORRUPTED_EXTENSION'[0m
+#define IDS_EXTENSIONS_CORRUPTED_EXTENSION _Pragma("whitelisted_resource_3926") 3926
+[0;1;32m                                           ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3926
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:208:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemRepair", IDS_EXTENSIONS_REPAIR_CORRUPTED},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:708:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_REPAIR_CORRUPTED'[0m
+#define IDS_EXTENSIONS_REPAIR_CORRUPTED _Pragma("whitelisted_resource_3936") 3936
+[0;1;32m                                        ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3936
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:209:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"itemReload", IDS_EXTENSIONS_RELOAD_TERMINATED},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:707:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_RELOAD_TERMINATED'[0m
+#define IDS_EXTENSIONS_RELOAD_TERMINATED _Pragma("whitelisted_resource_3935") 3935
+[0;1;32m                                         ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3935
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:211:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_MD_EXTENSIONS_LOAD_ERROR_COULD_NOT_LOAD_MANIFEST},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:759:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_LOAD_ERROR_COULD_NOT_LOAD_MANIFEST'[0m
+#define IDS_MD_EXTENSIONS_LOAD_ERROR_COULD_NOT_LOAD_MANIFEST _Pragma("whitelisted_resource_3987") 3987
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3987
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:212:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"loadErrorHeading", IDS_MD_EXTENSIONS_LOAD_ERROR_HEADING},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:756:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_LOAD_ERROR_HEADING'[0m
+#define IDS_MD_EXTENSIONS_LOAD_ERROR_HEADING _Pragma("whitelisted_resource_3984") 3984
+[0;1;32m                                             ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3984
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:213:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"loadErrorFileLabel", IDS_MD_EXTENSIONS_LOAD_ERROR_FILE_LABEL},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:758:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_LOAD_ERROR_FILE_LABEL'[0m
+#define IDS_MD_EXTENSIONS_LOAD_ERROR_FILE_LABEL _Pragma("whitelisted_resource_3986") 3986
+[0;1;32m                                                ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3986
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:214:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"loadErrorErrorLabel", IDS_MD_EXTENSIONS_LOAD_ERROR_ERROR_LABEL},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:757:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_LOAD_ERROR_ERROR_LABEL'[0m
+#define IDS_MD_EXTENSIONS_LOAD_ERROR_ERROR_LABEL _Pragma("whitelisted_resource_3985") 3985
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3985
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:215:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"loadErrorRetry", IDS_MD_EXTENSIONS_LOAD_ERROR_RETRY},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:760:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_LOAD_ERROR_RETRY'[0m
+#define IDS_MD_EXTENSIONS_LOAD_ERROR_RETRY _Pragma("whitelisted_resource_3988") 3988
+[0;1;32m                                           ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3988
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:216:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"noErrorsToShow", IDS_EXTENSIONS_ERROR_NO_ERRORS_CODE_MESSAGE},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:700:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_ERROR_NO_ERRORS_CODE_MESSAGE'[0m
+#define IDS_EXTENSIONS_ERROR_NO_ERRORS_CODE_MESSAGE _Pragma("whitelisted_resource_3928") 3928
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3928
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:217:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogTitle", IDS_MD_EXTENSIONS_PACK_DIALOG_TITLE},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:763:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_TITLE'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_TITLE _Pragma("whitelisted_resource_3991") 3991
+[0;1;32m                                            ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3991
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:218:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogWarningTitle", IDS_MD_EXTENSIONS_PACK_DIALOG_WARNING_TITLE},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:764:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_WARNING_TITLE'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_WARNING_TITLE _Pragma("whitelisted_resource_3992") 3992
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3992
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:219:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogErrorTitle", IDS_MD_EXTENSIONS_PACK_DIALOG_ERROR_TITLE},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:765:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_ERROR_TITLE'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_ERROR_TITLE _Pragma("whitelisted_resource_3993") 3993
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3993
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:220:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogProceedAnyway", IDS_MD_EXTENSIONS_PACK_DIALOG_PROCEED_ANYWAY},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:766:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_PROCEED_ANYWAY'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_PROCEED_ANYWAY _Pragma("whitelisted_resource_3994") 3994
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3994
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:221:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogBrowse", IDS_MD_EXTENSIONS_PACK_DIALOG_BROWSE_BUTTON},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:767:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_BROWSE_BUTTON'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_BROWSE_BUTTON _Pragma("whitelisted_resource_3995") 3995
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3995
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:223:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_MD_EXTENSIONS_PACK_DIALOG_EXTENSION_ROOT_LABEL},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:768:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_EXTENSION_ROOT_LABEL'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_EXTENSION_ROOT_LABEL _Pragma("whitelisted_resource_3996") 3996
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3996
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:224:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogKeyFile", IDS_MD_EXTENSIONS_PACK_DIALOG_KEY_FILE_LABEL},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:769:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_KEY_FILE_LABEL'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_KEY_FILE_LABEL _Pragma("whitelisted_resource_3997") 3997
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3997
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:225:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogContent", IDS_EXTENSION_PACK_DIALOG_HEADING},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1486:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PACK_DIALOG_HEADING'[0m
+#define IDS_EXTENSION_PACK_DIALOG_HEADING _Pragma("whitelisted_resource_5033") 5033
+[0;1;32m                                          ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5033
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:226:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"packDialogConfirm", IDS_MD_EXTENSIONS_PACK_DIALOG_CONFIRM_BUTTON},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:770:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_PACK_DIALOG_CONFIRM_BUTTON'[0m
+#define IDS_MD_EXTENSIONS_PACK_DIALOG_CONFIRM_BUTTON _Pragma("whitelisted_resource_3998") 3998
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3998
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:227:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutNotSet", IDS_MD_EXTENSIONS_SHORTCUT_NOT_SET},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:773:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SHORTCUT_NOT_SET'[0m
+#define IDS_MD_EXTENSIONS_SHORTCUT_NOT_SET _Pragma("whitelisted_resource_4001") 4001
+[0;1;32m                                           ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4001
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:228:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutScopeGlobal", IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_GLOBAL},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:775:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_GLOBAL'[0m
+#define IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_GLOBAL _Pragma("whitelisted_resource_4003") 4003
+[0;1;32m                                                ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4003
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:229:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutScopeLabel", IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_LABEL},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:774:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_LABEL'[0m
+#define IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_LABEL _Pragma("whitelisted_resource_4002") 4002
+[0;1;32m                                               ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4002
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:230:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutScopeInChrome", IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_IN_CHROME},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/chromium_strings.h:81:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_IN_CHROME'[0m
+#define IDS_MD_EXTENSIONS_SHORTCUT_SCOPE_IN_CHROME _Pragma("whitelisted_resource_525") 525
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_525
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:231:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutTypeAShortcut", IDS_MD_EXTENSIONS_TYPE_A_SHORTCUT},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:786:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TYPE_A_SHORTCUT'[0m
+#define IDS_MD_EXTENSIONS_TYPE_A_SHORTCUT _Pragma("whitelisted_resource_4014") 4014
+[0;1;32m                                          ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4014
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:232:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutIncludeStartModifier", IDS_MD_EXTENSIONS_INCLUDE_START_MODIFIER},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:787:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_INCLUDE_START_MODIFIER'[0m
+#define IDS_MD_EXTENSIONS_INCLUDE_START_MODIFIER _Pragma("whitelisted_resource_4015") 4015
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4015
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:233:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutTooManyModifiers", IDS_MD_EXTENSIONS_TOO_MANY_MODIFIERS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:788:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOO_MANY_MODIFIERS'[0m
+#define IDS_MD_EXTENSIONS_TOO_MANY_MODIFIERS _Pragma("whitelisted_resource_4016") 4016
+[0;1;32m                                             ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4016
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:234:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"shortcutNeedCharacter", IDS_MD_EXTENSIONS_NEED_CHARACTER},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:789:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_NEED_CHARACTER'[0m
+#define IDS_MD_EXTENSIONS_NEED_CHARACTER _Pragma("whitelisted_resource_4017") 4017
+[0;1;32m                                         ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4017
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:235:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarDevMode", IDS_MD_EXTENSIONS_DEVELOPER_MODE},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:712:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_DEVELOPER_MODE'[0m
+#define IDS_MD_EXTENSIONS_DEVELOPER_MODE _Pragma("whitelisted_resource_3940") 3940
+[0;1;32m                                         ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3940
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:236:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarLoadUnpacked", IDS_MD_EXTENSIONS_TOOLBAR_LOAD_UNPACKED},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:780:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_LOAD_UNPACKED'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_LOAD_UNPACKED _Pragma("whitelisted_resource_4008") 4008
+[0;1;32m                                                ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4008
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:237:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarPack", IDS_MD_EXTENSIONS_TOOLBAR_PACK},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:781:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_PACK'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_PACK _Pragma("whitelisted_resource_4009") 4009
+[0;1;32m                                       ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4009
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:238:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarUpdateNow", IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_NOW},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:782:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_NOW'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_NOW _Pragma("whitelisted_resource_4010") 4010
+[0;1;32m                                             ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4010
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:239:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarUpdateNowTooltip", IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_NOW_TOOLTIP},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:783:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_NOW_TOOLTIP'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_NOW_TOOLTIP _Pragma("whitelisted_resource_4011") 4011
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4011
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:240:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarUpdateDone", IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_DONE},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:784:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_DONE'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_UPDATE_DONE _Pragma("whitelisted_resource_4012") 4012
+[0;1;32m                                              ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4012
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:241:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"toolbarUpdatingToast", IDS_MD_EXTENSIONS_TOOLBAR_UPDATING_TOAST},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:785:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_TOOLBAR_UPDATING_TOAST'[0m
+#define IDS_MD_EXTENSIONS_TOOLBAR_UPDATING_TOAST _Pragma("whitelisted_resource_4013") 4013
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4013
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:243:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_MD_EXTENSIONS_DISABLED_UPDATE_REQUIRED_BY_POLICY},
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:713:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_DISABLED_UPDATE_REQUIRED_BY_POLICY'[0m
+#define IDS_MD_EXTENSIONS_DISABLED_UPDATE_REQUIRED_BY_POLICY _Pragma("whitelisted_resource_3941") 3941
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3941
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:244:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewBackgroundPage", IDS_EXTENSIONS_BACKGROUND_PAGE},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:697:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_BACKGROUND_PAGE'[0m
+#define IDS_EXTENSIONS_BACKGROUND_PAGE _Pragma("whitelisted_resource_3925") 3925
+[0;1;32m                                       ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3925
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:245:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewIncognito", IDS_EXTENSIONS_VIEW_INCOGNITO},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:711:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_VIEW_INCOGNITO'[0m
+#define IDS_EXTENSIONS_VIEW_INCOGNITO _Pragma("whitelisted_resource_3939") 3939
+[0;1;32m                                      ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3939
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:246:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewInactive", IDS_EXTENSIONS_VIEW_INACTIVE},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:710:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_VIEW_INACTIVE'[0m
+#define IDS_EXTENSIONS_VIEW_INACTIVE _Pragma("whitelisted_resource_3938") 3938
+[0;1;32m                                     ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3938
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:247:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"viewIframe", IDS_EXTENSIONS_VIEW_IFRAME},
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:709:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_VIEW_IFRAME'[0m
+#define IDS_EXTENSIONS_VIEW_IFRAME _Pragma("whitelisted_resource_3937") 3937
+[0;1;32m                                   ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3937
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:268:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_MD_EXTENSIONS_ERROR_LINES_NOT_SHOWN, 1));
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:722:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_LINES_NOT_SHOWN'[0m
+#define IDS_MD_EXTENSIONS_ERROR_LINES_NOT_SHOWN _Pragma("whitelisted_resource_3950") 3950
+[0;1;32m                                                ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3950
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:271:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_MD_EXTENSIONS_ERROR_LINES_NOT_SHOWN, 2));
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:722:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MD_EXTENSIONS_ERROR_LINES_NOT_SHOWN'[0m
+#define IDS_MD_EXTENSIONS_ERROR_LINES_NOT_SHOWN _Pragma("whitelisted_resource_3950") 3950
+[0;1;32m                                                ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3950
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:275:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSIONS_ADDED_WITHOUT_KNOWLEDGE,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1531:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSIONS_ADDED_WITHOUT_KNOWLEDGE'[0m
+#define IDS_EXTENSIONS_ADDED_WITHOUT_KNOWLEDGE _Pragma("whitelisted_resource_5078") 5078
+[0;1;32m                                               ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5078
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:276:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_EXTENSION_WEB_STORE_TITLE)));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1515:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEB_STORE_TITLE'[0m
+#define IDS_EXTENSION_WEB_STORE_TITLE _Pragma("whitelisted_resource_5062") 5062
+[0;1;32m                                      ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5062
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:302:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("crisper.js", IDR_MD_EXTENSIONS_CRISPER_JS);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/extensions_resources.h:6:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_CRISPER_JS'[0m
+#define IDR_MD_EXTENSIONS_CRISPER_JS _Pragma("whitelisted_resource_11901") 11901
+[0;1;32m                                     ^
+[0m[1m<scratch space>:215:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11901
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:303:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_MD_EXTENSIONS_VULCANIZED_HTML);
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/extensions_resources.h:5:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_VULCANIZED_HTML'[0m
+#define IDR_MD_EXTENSIONS_VULCANIZED_HTML _Pragma("whitelisted_resource_11900") 11900
+[0;1;32m                                          ^
+[0m[1m<scratch space>:217:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11900
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/extensions/extensions_ui.cc:352:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return rb.LoadDataResourceBytesForScale(IDR_EXTENSIONS_FAVICON, scale_factor);
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:33:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_FAVICON'[0m
+#define IDR_EXTENSIONS_FAVICON _Pragma("whitelisted_resource_10266") 10266
+[0;1;32m                               ^
+[0m[1m<scratch space>:219:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10266
+[0;1;32m ^
+[0m118 warnings generated.

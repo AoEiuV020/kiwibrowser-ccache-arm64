@@ -1,0 +1,46 @@
+[1m../../chrome/browser/ui/extensions/extension_installed_bubble.cc:224:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = extra.empty() ? IDS_EXTENSION_INSTALLED_BROWSER_ACTION_INFO :
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1455:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALLED_BROWSER_ACTION_INFO'[0m
+#define IDS_EXTENSION_INSTALLED_BROWSER_ACTION_INFO _Pragma("whitelisted_resource_5002") 5002
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5002
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/extensions/extension_installed_bubble.cc:225:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_INSTALLED_BROWSER_ACTION_INFO_WITH_SHORTCUT;
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1456:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALLED_BROWSER_ACTION_INFO_WITH_SHORTCUT'[0m
+#define IDS_EXTENSION_INSTALLED_BROWSER_ACTION_INFO_WITH_SHORTCUT _Pragma("whitelisted_resource_5003") 5003
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5003
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/extensions/extension_installed_bubble.cc:228:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = extra.empty() ? IDS_EXTENSION_INSTALLED_PAGE_ACTION_INFO :
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1453:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALLED_PAGE_ACTION_INFO'[0m
+#define IDS_EXTENSION_INSTALLED_PAGE_ACTION_INFO _Pragma("whitelisted_resource_5000") 5000
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5000
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/extensions/extension_installed_bubble.cc:229:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_INSTALLED_PAGE_ACTION_INFO_WITH_SHORTCUT;
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1454:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALLED_PAGE_ACTION_INFO_WITH_SHORTCUT'[0m
+#define IDS_EXTENSION_INSTALLED_PAGE_ACTION_INFO_WITH_SHORTCUT _Pragma("whitelisted_resource_5001") 5001
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5001
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/extensions/extension_installed_bubble.cc:234:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_EXTENSION_INSTALLED_OMNIBOX_KEYWORD_INFO;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1457:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_INSTALLED_OMNIBOX_KEYWORD_INFO'[0m
+#define IDS_EXTENSION_INSTALLED_OMNIBOX_KEYWORD_INFO _Pragma("whitelisted_resource_5004") 5004
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5004
+[0;1;32m ^
+[0m5 warnings generated.

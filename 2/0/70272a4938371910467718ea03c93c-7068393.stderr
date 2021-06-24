@@ -1,0 +1,82 @@
+[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:165:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitStandardFontFamily, IDS_STANDARD_FONT_FAMILY},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:5:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_STANDARD_FONT_FAMILY'[0m
+#define IDS_STANDARD_FONT_FAMILY _Pragma("whitelisted_resource_10100") 10100
+[0;1;32m                                 ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10100
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:166:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitFixedFontFamily, IDS_FIXED_FONT_FAMILY},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:6:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FIXED_FONT_FAMILY'[0m
+#define IDS_FIXED_FONT_FAMILY _Pragma("whitelisted_resource_10101") 10101
+[0;1;32m                              ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10101
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:167:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitSerifFontFamily, IDS_SERIF_FONT_FAMILY},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:7:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SERIF_FONT_FAMILY'[0m
+#define IDS_SERIF_FONT_FAMILY _Pragma("whitelisted_resource_10102") 10102
+[0;1;32m                              ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10102
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:168:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitSansSerifFontFamily, IDS_SANS_SERIF_FONT_FAMILY},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:8:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SANS_SERIF_FONT_FAMILY'[0m
+#define IDS_SANS_SERIF_FONT_FAMILY _Pragma("whitelisted_resource_10103") 10103
+[0;1;32m                                   ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10103
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:169:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitCursiveFontFamily, IDS_CURSIVE_FONT_FAMILY},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:9:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CURSIVE_FONT_FAMILY'[0m
+#define IDS_CURSIVE_FONT_FAMILY _Pragma("whitelisted_resource_10104") 10104
+[0;1;32m                                ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10104
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:170:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitFantasyFontFamily, IDS_FANTASY_FONT_FAMILY},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:10:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FANTASY_FONT_FAMILY'[0m
+#define IDS_FANTASY_FONT_FAMILY _Pragma("whitelisted_resource_10105") 10105
+[0;1;32m                                ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10105
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:171:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {prefs::kWebKitPictographFontFamily, IDS_PICTOGRAPH_FONT_FAMILY},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/platform_locale_settings.h:11:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PICTOGRAPH_FONT_FAMILY'[0m
+#define IDS_PICTOGRAPH_FONT_FAMILY _Pragma("whitelisted_resource_10106") 10106
+[0;1;32m                                   ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10106
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:510:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_ACCEPT_LANGUAGES),
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_locale_settings.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCEPT_LANGUAGES'[0m
+#define IDS_ACCEPT_LANGUAGES _Pragma("whitelisted_resource_15070") 15070
+[0;1;32m                             ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15070
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/prefs/prefs_tab_helper.cc:514:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_DEFAULT_ENCODING),
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_locale_settings.h:6:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_ENCODING'[0m
+#define IDS_DEFAULT_ENCODING _Pragma("whitelisted_resource_15071") 15071
+[0;1;32m                             ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15071
+[0;1;32m ^
+[0m9 warnings generated.

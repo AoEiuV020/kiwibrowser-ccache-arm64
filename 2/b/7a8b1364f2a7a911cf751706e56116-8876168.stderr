@@ -1,0 +1,91 @@
+[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:114:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_TRY_AGAIN_CVC));
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:75:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_TRY_AGAIN_CVC'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_TRY_AGAIN_CVC _Pragma("whitelisted_resource_15171") 15171
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15171
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:119:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_PERMANENT));
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:80:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_PERMANENT'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_PERMANENT _Pragma("whitelisted_resource_15176") 15176
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15176
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:124:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_NETWORK));
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:81:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_NETWORK'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_NETWORK _Pragma("whitelisted_resource_15177") 15177
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15177
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:133:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_AUTOFILL_CARD_UNMASK_PROMPT_TITLE,
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:82:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_TITLE'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_TITLE _Pragma("whitelisted_resource_15178") 15178
+[0;1;32m                                              ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15178
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:155:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS_LOCAL_CARD
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:85:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS_LOCAL_CARD'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS_LOCAL_CARD _Pragma("whitelisted_resource_15181") 15181
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15181
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:156:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS));
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:84:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS _Pragma("whitelisted_resource_15180") 15180
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15180
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:215:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDR_CREDIT_CARD_CVC_HINT_AMEX
+[0;1;32m            ^
+[0m[1mgen/components/grit/components_scaled_resources.h:24:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CREDIT_CARD_CVC_HINT_AMEX'[0m
+#define IDR_CREDIT_CARD_CVC_HINT_AMEX _Pragma("whitelisted_resource_17219") 17219
+[0;1;32m                                      ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17219
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:216:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDR_CREDIT_CARD_CVC_HINT));
+[0;1;32m            ^
+[0m[1mgen/components/grit/components_scaled_resources.h:23:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CREDIT_CARD_CVC_HINT'[0m
+#define IDR_CREDIT_CARD_CVC_HINT _Pragma("whitelisted_resource_17218") 17218
+[0;1;32m                                 ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17218
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:218:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_AUTOFILL_CARD_UNMASK_CVC_IMAGE_DESCRIPTION));
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:86:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_CVC_IMAGE_DESCRIPTION'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_CVC_IMAGE_DESCRIPTION _Pragma("whitelisted_resource_15182") 15182
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15182
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/cvc_unmask_view_controller.cc:267:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          this, l10n_util::GetStringUTF16(IDS_CONFIRM)));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:826:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM'[0m
+#define IDS_CONFIRM _Pragma("whitelisted_resource_4168") 4168
+[0;1;32m                    ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4168
+[0;1;32m ^
+[0m10 warnings generated.

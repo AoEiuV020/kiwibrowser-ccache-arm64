@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/payments/profile_list_view_controller.cc:231:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int GetSecondaryButtonTextId() override { return IDS_PAYMENTS_ADD_ADDRESS; }
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:527:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_ADDRESS'[0m
+#define IDS_PAYMENTS_ADD_ADDRESS _Pragma("whitelisted_resource_15635") 15635
+[0;1;32m                                 ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15635
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/profile_list_view_controller.cc:324:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAYMENT_REQUEST_CONTACT_INFO_SECTION_NAME);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:513:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENT_REQUEST_CONTACT_INFO_SECTION_NAME'[0m
+#define IDS_PAYMENT_REQUEST_CONTACT_INFO_SECTION_NAME _Pragma("whitelisted_resource_15621") 15621
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15621
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/payments/profile_list_view_controller.cc:327:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int GetSecondaryButtonTextId() override { return IDS_PAYMENTS_ADD_CONTACT; }
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:525:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_CONTACT'[0m
+#define IDS_PAYMENTS_ADD_CONTACT _Pragma("whitelisted_resource_15633") 15633
+[0;1;32m                                 ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15633
+[0;1;32m ^
+[0m3 warnings generated.

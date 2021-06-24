@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/user_actions/user_actions_ui.cc:22:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_USER_ACTIONS_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:176:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USER_ACTIONS_HTML'[0m
+#define IDR_USER_ACTIONS_HTML _Pragma("whitelisted_resource_11268") 11268
+[0;1;32m                              ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11268
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/user_actions/user_actions_ui.cc:23:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("user_actions.css", IDR_USER_ACTIONS_CSS);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/browser_resources.h:177:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USER_ACTIONS_CSS'[0m
+#define IDR_USER_ACTIONS_CSS _Pragma("whitelisted_resource_11269") 11269
+[0;1;32m                             ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11269
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/user_actions/user_actions_ui.cc:24:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("user_actions.js", IDR_USER_ACTIONS_JS);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:178:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_USER_ACTIONS_JS'[0m
+#define IDR_USER_ACTIONS_JS _Pragma("whitelisted_resource_11270") 11270
+[0;1;32m                            ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11270
+[0;1;32m ^
+[0m3 warnings generated.

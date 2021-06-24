@@ -1,0 +1,154 @@
+[1m../../chrome/browser/ui/views/collected_cookies_views.cc:92:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_BLOCKED_AUX_TEXT);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2021:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_BLOCKED_AUX_TEXT'[0m
+#define IDS_COLLECTED_COOKIES_BLOCKED_AUX_TEXT _Pragma("whitelisted_resource_5645") 5645
+[0;1;32m                                               ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5645
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:94:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_ALLOWED_AUX_TEXT);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2020:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_ALLOWED_AUX_TEXT'[0m
+#define IDS_COLLECTED_COOKIES_ALLOWED_AUX_TEXT _Pragma("whitelisted_resource_5644") 5644
+[0;1;32m                                               ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5644
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:97:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_COLLECTED_COOKIES_CLEAR_ON_EXIT_AUX_TEXT);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2022:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_CLEAR_ON_EXIT_AUX_TEXT'[0m
+#define IDS_COLLECTED_COOKIES_CLEAR_ON_EXIT_AUX_TEXT _Pragma("whitelisted_resource_5646") 5646
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5646
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:185:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_COLLECTED_COOKIES_BLOCK_RULE_CREATED, domain_name);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2016:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_BLOCK_RULE_CREATED'[0m
+#define IDS_COLLECTED_COOKIES_BLOCK_RULE_CREATED _Pragma("whitelisted_resource_5637") 5637
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5637
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:190:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_COLLECTED_COOKIES_ALLOW_RULE_CREATED, domain_name);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2015:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_ALLOW_RULE_CREATED'[0m
+#define IDS_COLLECTED_COOKIES_ALLOW_RULE_CREATED _Pragma("whitelisted_resource_5636") 5636
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5636
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:195:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_COLLECTED_COOKIES_SESSION_RULE_CREATED, domain_name);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2017:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_SESSION_RULE_CREATED'[0m
+#define IDS_COLLECTED_COOKIES_SESSION_RULE_CREATED _Pragma("whitelisted_resource_5638") 5638
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5638
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:298:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_DIALOG_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2008:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_DIALOG_TITLE'[0m
+#define IDS_COLLECTED_COOKIES_DIALOG_TITLE _Pragma("whitelisted_resource_5629") 5629
+[0;1;32m                                           ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5629
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:307:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DONE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:421:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_COLLECTED_COOKIES_ALLOWED_COOKIES_TAB_LABEL);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2018:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_ALLOWED_COOKIES_TAB_LABEL'[0m
+#define IDS_COLLECTED_COOKIES_ALLOWED_COOKIES_TAB_LABEL _Pragma("whitelisted_resource_5642") 5642
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5642
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:423:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_COLLECTED_COOKIES_BLOCKED_COOKIES_TAB_LABEL);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2019:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_BLOCKED_COOKIES_TAB_LABEL'[0m
+#define IDS_COLLECTED_COOKIES_BLOCKED_COOKIES_TAB_LABEL _Pragma("whitelisted_resource_5643") 5643
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5643
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:455:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_ALLOWED_COOKIES_LABEL),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2009:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_ALLOWED_COOKIES_LABEL'[0m
+#define IDS_COLLECTED_COOKIES_ALLOWED_COOKIES_LABEL _Pragma("whitelisted_resource_5630") 5630
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5630
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:518:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_COLLECTED_COOKIES_BLOCKED_THIRD_PARTY_BLOCKING_ENABLED
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2011:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_BLOCKED_THIRD_PARTY_BLOCKING_ENABLED'[0m
+#define IDS_COLLECTED_COOKIES_BLOCKED_THIRD_PARTY_BLOCKING_ENABLED _Pragma("whitelisted_resource_5632") 5632
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5632
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:519:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : IDS_COLLECTED_COOKIES_BLOCKED_COOKIES_LABEL),
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2010:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_BLOCKED_COOKIES_LABEL'[0m
+#define IDS_COLLECTED_COOKIES_BLOCKED_COOKIES_LABEL _Pragma("whitelisted_resource_5631") 5631
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5631
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:580:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        this, l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_BLOCK_BUTTON));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2014:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_BLOCK_BUTTON'[0m
+#define IDS_COLLECTED_COOKIES_BLOCK_BUTTON _Pragma("whitelisted_resource_5635") 5635
+[0;1;32m                                           ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5635
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:582:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        this, l10n_util::GetStringUTF16(IDS_COOKIES_REMOVE_LABEL));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2040:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_REMOVE_LABEL'[0m
+#define IDS_COOKIES_REMOVE_LABEL _Pragma("whitelisted_resource_5664") 5664
+[0;1;32m                                 ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5664
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:598:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        this, l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_ALLOW_BUTTON));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2012:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_ALLOW_BUTTON'[0m
+#define IDS_COLLECTED_COOKIES_ALLOW_BUTTON _Pragma("whitelisted_resource_5633") 5633
+[0;1;32m                                           ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5633
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/collected_cookies_views.cc:601:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_COLLECTED_COOKIES_SESSION_ONLY_BUTTON));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2013:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COLLECTED_COOKIES_SESSION_ONLY_BUTTON'[0m
+#define IDS_COLLECTED_COOKIES_SESSION_ONLY_BUTTON _Pragma("whitelisted_resource_5634") 5634
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5634
+[0;1;32m ^
+[0m17 warnings generated.

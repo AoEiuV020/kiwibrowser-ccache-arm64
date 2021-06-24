@@ -1,0 +1,217 @@
+[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:56:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_SINGLE_COOKIE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:560:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_SINGLE_COOKIE'[0m
+#define IDS_SETTINGS_COOKIES_SINGLE_COOKIE _Pragma("whitelisted_resource_3544") 3544
+[0;1;32m                                           ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3544
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:58:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_SINGLE_COOKIE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:560:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_SINGLE_COOKIE'[0m
+#define IDS_SETTINGS_COOKIES_SINGLE_COOKIE _Pragma("whitelisted_resource_3544") 3544
+[0;1;32m                                           ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3544
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:61:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_DATABASE_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:566:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_DATABASE_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_DATABASE_STORAGE _Pragma("whitelisted_resource_3550") 3550
+[0;1;32m                                              ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3550
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:63:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_DATABASE_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:566:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_DATABASE_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_DATABASE_STORAGE _Pragma("whitelisted_resource_3550") 3550
+[0;1;32m                                              ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3550
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:66:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_LOCAL_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:567:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_LOCAL_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_LOCAL_STORAGE _Pragma("whitelisted_resource_3551") 3551
+[0;1;32m                                           ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3551
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:68:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_LOCAL_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:567:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_LOCAL_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_LOCAL_STORAGE _Pragma("whitelisted_resource_3551") 3551
+[0;1;32m                                           ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3551
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:71:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_APPLICATION_CACHE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:557:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_APPLICATION_CACHE'[0m
+#define IDS_SETTINGS_COOKIES_APPLICATION_CACHE _Pragma("whitelisted_resource_3541") 3541
+[0;1;32m                                               ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3541
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:73:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_APPLICATION_CACHE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:557:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_APPLICATION_CACHE'[0m
+#define IDS_SETTINGS_COOKIES_APPLICATION_CACHE _Pragma("whitelisted_resource_3541") 3541
+[0;1;32m                                               ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3541
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:76:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_DATABASE_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:566:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_DATABASE_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_DATABASE_STORAGE _Pragma("whitelisted_resource_3550") 3550
+[0;1;32m                                              ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3550
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:78:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_DATABASE_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:566:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_DATABASE_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_DATABASE_STORAGE _Pragma("whitelisted_resource_3550") 3550
+[0;1;32m                                              ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3550
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:81:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_FILE_SYSTEM},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:569:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_FILE_SYSTEM'[0m
+#define IDS_SETTINGS_COOKIES_FILE_SYSTEM _Pragma("whitelisted_resource_3553") 3553
+[0;1;32m                                         ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3553
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:83:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_FILE_SYSTEM},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:569:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_FILE_SYSTEM'[0m
+#define IDS_SETTINGS_COOKIES_FILE_SYSTEM _Pragma("whitelisted_resource_3553") 3553
+[0;1;32m                                         ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3553
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:86:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_CHANNEL_ID},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:573:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_CHANNEL_ID'[0m
+#define IDS_SETTINGS_COOKIES_CHANNEL_ID _Pragma("whitelisted_resource_3557") 3557
+[0;1;32m                                        ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3557
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:88:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_CHANNEL_ID},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:573:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_CHANNEL_ID'[0m
+#define IDS_SETTINGS_COOKIES_CHANNEL_ID _Pragma("whitelisted_resource_3557") 3557
+[0;1;32m                                        ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3557
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:91:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_SERVICE_WORKER},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:578:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_SERVICE_WORKER'[0m
+#define IDS_SETTINGS_COOKIES_SERVICE_WORKER _Pragma("whitelisted_resource_3562") 3562
+[0;1;32m                                            ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3562
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:93:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_SERVICE_WORKER},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:578:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_SERVICE_WORKER'[0m
+#define IDS_SETTINGS_COOKIES_SERVICE_WORKER _Pragma("whitelisted_resource_3562") 3562
+[0;1;32m                                            ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3562
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:96:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_SHARED_WORKER},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:580:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_SHARED_WORKER'[0m
+#define IDS_SETTINGS_COOKIES_SHARED_WORKER _Pragma("whitelisted_resource_3564") 3564
+[0;1;32m                                           ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3564
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:98:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_SHARED_WORKER},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:580:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_SHARED_WORKER'[0m
+#define IDS_SETTINGS_COOKIES_SHARED_WORKER _Pragma("whitelisted_resource_3564") 3564
+[0;1;32m                                           ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3564
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:101:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_CACHE_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:582:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_CACHE_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_CACHE_STORAGE _Pragma("whitelisted_resource_3566") 3566
+[0;1;32m                                           ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3566
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:103:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_CACHE_STORAGE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:582:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_CACHE_STORAGE'[0m
+#define IDS_SETTINGS_COOKIES_CACHE_STORAGE _Pragma("whitelisted_resource_3566") 3566
+[0;1;32m                                           ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3566
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:106:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_FLASH_LSO},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:558:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_FLASH_LSO'[0m
+#define IDS_SETTINGS_COOKIES_FLASH_LSO _Pragma("whitelisted_resource_3542") 3542
+[0;1;32m                                       ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3542
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:109:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_MEDIA_LICENSE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:568:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_MEDIA_LICENSE'[0m
+#define IDS_SETTINGS_COOKIES_MEDIA_LICENSE _Pragma("whitelisted_resource_3552") 3552
+[0;1;32m                                           ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3552
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:111:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_SETTINGS_COOKIES_MEDIA_LICENSE},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:568:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_MEDIA_LICENSE'[0m
+#define IDS_SETTINGS_COOKIES_MEDIA_LICENSE _Pragma("whitelisted_resource_3552") 3552
+[0;1;32m                                           ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3552
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/settings/settings_cookies_view_handler.cc:443:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringFUTF8(IDS_SETTINGS_COOKIES_PLURAL_COOKIES,
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:561:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_COOKIES_PLURAL_COOKIES'[0m
+#define IDS_SETTINGS_COOKIES_PLURAL_COOKIES _Pragma("whitelisted_resource_3545") 3545
+[0;1;32m                                            ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3545
+[0;1;32m ^
+[0m24 warnings generated.

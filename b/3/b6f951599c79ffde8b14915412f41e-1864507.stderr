@@ -1,0 +1,235 @@
+[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:13:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("media_router.js", IDR_MEDIA_ROUTER_JS);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:211:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_JS'[0m
+#define IDR_MEDIA_ROUTER_JS _Pragma("whitelisted_resource_11400") 11400
+[0;1;32m                            ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11400
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:15:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_MEDIA_ROUTER_COMMON_CSS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:208:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_COMMON_CSS'[0m
+#define IDR_MEDIA_ROUTER_COMMON_CSS _Pragma("whitelisted_resource_11397") 11397
+[0;1;32m                                    ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11397
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:17:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_MEDIA_ROUTER_CSS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:209:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_CSS'[0m
+#define IDR_MEDIA_ROUTER_CSS _Pragma("whitelisted_resource_11398") 11398
+[0;1;32m                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11398
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:19:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_MEDIA_ROUTER_DATA_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:210:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_DATA_JS'[0m
+#define IDR_MEDIA_ROUTER_DATA_JS _Pragma("whitelisted_resource_11399") 11399
+[0;1;32m                                 ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11399
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:21:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_MEDIA_ROUTER_UI_INTERFACE_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:216:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_UI_INTERFACE_JS'[0m
+#define IDR_MEDIA_ROUTER_UI_INTERFACE_JS _Pragma("whitelisted_resource_11405") 11405
+[0;1;32m                                         ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11405
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:27:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_ICONS_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:217:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_ICONS_HTML'[0m
+#define IDR_MEDIA_ROUTER_ICONS_HTML _Pragma("whitelisted_resource_11406") 11406
+[0;1;32m                                    ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11406
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:30:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_ISSUE_BANNER_CSS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:220:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ISSUE_BANNER_CSS'[0m
+#define IDR_ISSUE_BANNER_CSS _Pragma("whitelisted_resource_11409") 11409
+[0;1;32m                             ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11409
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:33:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_ISSUE_BANNER_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:218:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ISSUE_BANNER_HTML'[0m
+#define IDR_ISSUE_BANNER_HTML _Pragma("whitelisted_resource_11407") 11407
+[0;1;32m                              ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11407
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:36:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_ISSUE_BANNER_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:219:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ISSUE_BANNER_JS'[0m
+#define IDR_ISSUE_BANNER_JS _Pragma("whitelisted_resource_11408") 11408
+[0;1;32m                            ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11408
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:39:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_CONTAINER_CSS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:222:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_CONTAINER_CSS'[0m
+#define IDR_MEDIA_ROUTER_CONTAINER_CSS _Pragma("whitelisted_resource_11411") 11411
+[0;1;32m                                       ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11411
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:42:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_CONTAINER_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:221:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_CONTAINER_HTML'[0m
+#define IDR_MEDIA_ROUTER_CONTAINER_HTML _Pragma("whitelisted_resource_11410") 11410
+[0;1;32m                                        ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11410
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:45:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_CONTAINER_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:223:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_CONTAINER_JS'[0m
+#define IDR_MEDIA_ROUTER_CONTAINER_JS _Pragma("whitelisted_resource_11412") 11412
+[0;1;32m                                      ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11412
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:48:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_HEADER_CSS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:225:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_HEADER_CSS'[0m
+#define IDR_MEDIA_ROUTER_HEADER_CSS _Pragma("whitelisted_resource_11414") 11414
+[0;1;32m                                    ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11414
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:51:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_HEADER_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:224:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_HEADER_HTML'[0m
+#define IDR_MEDIA_ROUTER_HEADER_HTML _Pragma("whitelisted_resource_11413") 11413
+[0;1;32m                                     ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11413
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:54:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_HEADER_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:226:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_HEADER_JS'[0m
+#define IDR_MEDIA_ROUTER_HEADER_JS _Pragma("whitelisted_resource_11415") 11415
+[0;1;32m                                   ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11415
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:58:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_CSS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:227:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_CSS'[0m
+#define IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_CSS _Pragma("whitelisted_resource_11416") 11416
+[0;1;32m                                                ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11416
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:62:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:228:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_HTML'[0m
+#define IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_HTML _Pragma("whitelisted_resource_11417") 11417
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11417
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:66:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:229:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_JS'[0m
+#define IDR_MEDIA_ROUTER_SEARCH_HIGHLIGHTER_JS _Pragma("whitelisted_resource_11418") 11418
+[0;1;32m                                               ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11418
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:68:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_ROUTE_CONTROLS_CSS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:231:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ROUTE_CONTROLS_CSS'[0m
+#define IDR_ROUTE_CONTROLS_CSS _Pragma("whitelisted_resource_11420") 11420
+[0;1;32m                               ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11420
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:70:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_ROUTE_CONTROLS_HTML);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:230:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ROUTE_CONTROLS_HTML'[0m
+#define IDR_ROUTE_CONTROLS_HTML _Pragma("whitelisted_resource_11419") 11419
+[0;1;32m                                ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11419
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:72:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_ROUTE_CONTROLS_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:232:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ROUTE_CONTROLS_JS'[0m
+#define IDR_ROUTE_CONTROLS_JS _Pragma("whitelisted_resource_11421") 11421
+[0;1;32m                              ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11421
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:74:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_ROUTE_DETAILS_CSS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:234:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ROUTE_DETAILS_CSS'[0m
+#define IDR_ROUTE_DETAILS_CSS _Pragma("whitelisted_resource_11423") 11423
+[0;1;32m                              ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11423
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:77:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_ROUTE_DETAILS_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:233:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ROUTE_DETAILS_HTML'[0m
+#define IDR_ROUTE_DETAILS_HTML _Pragma("whitelisted_resource_11422") 11422
+[0;1;32m                               ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11422
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:80:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_ROUTE_DETAILS_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:235:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ROUTE_DETAILS_JS'[0m
+#define IDR_ROUTE_DETAILS_JS _Pragma("whitelisted_resource_11424") 11424
+[0;1;32m                             ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11424
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:83:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_PSEUDO_SINK_SEARCH_STATE_JS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/browser_resources.h:236:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PSEUDO_SINK_SEARCH_STATE_JS'[0m
+#define IDR_PSEUDO_SINK_SEARCH_STATE_JS _Pragma("whitelisted_resource_11425") 11425
+[0;1;32m                                        ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11425
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_resources_provider.cc:93:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_MEDIA_ROUTER_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:212:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MEDIA_ROUTER_HTML'[0m
+#define IDR_MEDIA_ROUTER_HTML _Pragma("whitelisted_resource_11401") 11401
+[0;1;32m                              ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11401
+[0;1;32m ^
+[0m26 warnings generated.

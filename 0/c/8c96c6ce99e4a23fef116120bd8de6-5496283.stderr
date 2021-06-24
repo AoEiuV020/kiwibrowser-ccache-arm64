@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/views/passwords/credentials_item_view.cc:79:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/theme_resources.h:86:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE'[0m
+#define IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE _Pragma("whitelisted_resource_10368") 10368
+[0;1;32m                                             ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10368
+[0;1;32m ^
+[0m1 warning generated.

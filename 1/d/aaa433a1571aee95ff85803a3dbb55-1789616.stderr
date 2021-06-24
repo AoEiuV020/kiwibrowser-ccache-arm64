@@ -1,0 +1,289 @@
+[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:25:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_TASK_COLUMN, ui::TableColumn::LEFT, -1, 1, 120, 600, true,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1221:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_TASK_COLUMN'[0m
+#define IDS_TASK_MANAGER_TASK_COLUMN _Pragma("whitelisted_resource_4759") 4759
+[0;1;32m                                     ^
+[0m[1m<scratch space>:327:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4759
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:27:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_PROFILE_NAME_COLUMN, ui::TableColumn::LEFT, -1, 0, 60,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1229:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PROFILE_NAME_COLUMN'[0m
+#define IDS_TASK_MANAGER_PROFILE_NAME_COLUMN _Pragma("whitelisted_resource_4767") 4767
+[0;1;32m                                             ^
+[0m[1m<scratch space>:329:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4767
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:29:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_MEM_FOOTPRINT_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1227:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_MEM_FOOTPRINT_COLUMN'[0m
+#define IDS_TASK_MANAGER_MEM_FOOTPRINT_COLUMN _Pragma("whitelisted_resource_4765") 4765
+[0;1;32m                                              ^
+[0m[1m<scratch space>:331:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4765
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:46:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_CPU_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1224:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_CPU_COLUMN'[0m
+#define IDS_TASK_MANAGER_CPU_COLUMN _Pragma("whitelisted_resource_4762") 4762
+[0;1;32m                                    ^
+[0m[1m<scratch space>:333:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4762
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:56:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_NET_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1223:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_NET_COLUMN'[0m
+#define IDS_TASK_MANAGER_NET_COLUMN _Pragma("whitelisted_resource_4761") 4761
+[0;1;32m                                    ^
+[0m[1m<scratch space>:335:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4761
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:58:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_PROCESS_ID_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1218:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PROCESS_ID_COLUMN'[0m
+#define IDS_TASK_MANAGER_PROCESS_ID_COLUMN _Pragma("whitelisted_resource_4756") 4756
+[0;1;32m                                           ^
+[0m[1m<scratch space>:337:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4756
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:68:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1234:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN'[0m
+#define IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN _Pragma("whitelisted_resource_4772") 4772
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:339:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4772
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:70:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN, ui::TableColumn::RIGHT, -1,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1235:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN'[0m
+#define IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN _Pragma("whitelisted_resource_4773") 4773
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:341:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4773
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:73:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1236:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN'[0m
+#define IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN _Pragma("whitelisted_resource_4774") 4774
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:343:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4774
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:75:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1237:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN'[0m
+#define IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN _Pragma("whitelisted_resource_4775") 4775
+[0;1;32m                                             ^
+[0m[1m<scratch space>:345:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4775
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:77:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1238:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN'[0m
+#define IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN _Pragma("whitelisted_resource_4776") 4776
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:347:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4776
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:85:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1239:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN'[0m
+#define IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN _Pragma("whitelisted_resource_4777") 4777
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:350:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4777
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:88:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1230:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN'[0m
+#define IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN _Pragma("whitelisted_resource_4768") 4768
+[0;1;32m                                             ^
+[0m[1m<scratch space>:352:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4768
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:100:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN, ui::TableColumn::LEFT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1233:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN'[0m
+#define IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN _Pragma("whitelisted_resource_4771") 4771
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:354:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4771
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:102:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_MEMORY_STATE_COLUMN, ui::TableColumn::LEFT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1240:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_MEMORY_STATE_COLUMN'[0m
+#define IDS_TASK_MANAGER_MEMORY_STATE_COLUMN _Pragma("whitelisted_resource_4778") 4778
+[0;1;32m                                             ^
+[0m[1m<scratch space>:356:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4778
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:104:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN, ui::TableColumn::RIGHT, -1, 0,
+[0;1;32m     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1241:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN'[0m
+#define IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN _Pragma("whitelisted_resource_4779") 4779
+[0;1;32m                                                ^
+[0m[1m<scratch space>:358:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4779
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:125:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_TASK_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1221:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_TASK_COLUMN'[0m
+#define IDS_TASK_MANAGER_TASK_COLUMN _Pragma("whitelisted_resource_4759") 4759
+[0;1;32m                                     ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:126:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_PROFILE_NAME_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1229:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PROFILE_NAME_COLUMN'[0m
+#define IDS_TASK_MANAGER_PROFILE_NAME_COLUMN _Pragma("whitelisted_resource_4767") 4767
+[0;1;32m                                             ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:127:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_MEM_FOOTPRINT_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1227:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_MEM_FOOTPRINT_COLUMN'[0m
+#define IDS_TASK_MANAGER_MEM_FOOTPRINT_COLUMN _Pragma("whitelisted_resource_4765") 4765
+[0;1;32m                                              ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:128:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_SWAPPED_MEM_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1228:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_SWAPPED_MEM_COLUMN'[0m
+#define IDS_TASK_MANAGER_SWAPPED_MEM_COLUMN _Pragma("whitelisted_resource_4766") 4766
+[0;1;32m                                            ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:129:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_CPU_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1224:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_CPU_COLUMN'[0m
+#define IDS_TASK_MANAGER_CPU_COLUMN _Pragma("whitelisted_resource_4762") 4762
+[0;1;32m                                    ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:130:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_START_TIME_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1225:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_START_TIME_COLUMN'[0m
+#define IDS_TASK_MANAGER_START_TIME_COLUMN _Pragma("whitelisted_resource_4763") 4763
+[0;1;32m                                           ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:131:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_CPU_TIME_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1226:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_CPU_TIME_COLUMN'[0m
+#define IDS_TASK_MANAGER_CPU_TIME_COLUMN _Pragma("whitelisted_resource_4764") 4764
+[0;1;32m                                         ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:132:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_NET_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1223:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_NET_COLUMN'[0m
+#define IDS_TASK_MANAGER_NET_COLUMN _Pragma("whitelisted_resource_4761") 4761
+[0;1;32m                                    ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:133:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_PROCESS_ID_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1218:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PROCESS_ID_COLUMN'[0m
+#define IDS_TASK_MANAGER_PROCESS_ID_COLUMN _Pragma("whitelisted_resource_4756") 4756
+[0;1;32m                                           ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:134:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_GDI_HANDLES_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1219:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_GDI_HANDLES_COLUMN'[0m
+#define IDS_TASK_MANAGER_GDI_HANDLES_COLUMN _Pragma("whitelisted_resource_4757") 4757
+[0;1;32m                                            ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:135:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_USER_HANDLES_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1220:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_USER_HANDLES_COLUMN'[0m
+#define IDS_TASK_MANAGER_USER_HANDLES_COLUMN _Pragma("whitelisted_resource_4758") 4758
+[0;1;32m                                             ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:136:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1234:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN'[0m
+#define IDS_TASK_MANAGER_WEBCORE_IMAGE_CACHE_COLUMN _Pragma("whitelisted_resource_4772") 4772
+[0;1;32m                                                    ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:137:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1235:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN'[0m
+#define IDS_TASK_MANAGER_WEBCORE_SCRIPTS_CACHE_COLUMN _Pragma("whitelisted_resource_4773") 4773
+[0;1;32m                                                      ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:138:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1236:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN'[0m
+#define IDS_TASK_MANAGER_WEBCORE_CSS_CACHE_COLUMN _Pragma("whitelisted_resource_4774") 4774
+[0;1;32m                                                  ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:139:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1237:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN'[0m
+#define IDS_TASK_MANAGER_VIDEO_MEMORY_COLUMN _Pragma("whitelisted_resource_4775") 4775
+[0;1;32m                                             ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:140:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1238:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN'[0m
+#define IDS_TASK_MANAGER_SQLITE_MEMORY_USED_COLUMN _Pragma("whitelisted_resource_4776") 4776
+[0;1;32m                                                   ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:141:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_NACL_DEBUG_STUB_PORT_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1222:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_NACL_DEBUG_STUB_PORT_COLUMN'[0m
+#define IDS_TASK_MANAGER_NACL_DEBUG_STUB_PORT_COLUMN _Pragma("whitelisted_resource_4760") 4760
+[0;1;32m                                                     ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:142:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1239:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN'[0m
+#define IDS_TASK_MANAGER_JAVASCRIPT_MEMORY_ALLOCATED_COLUMN _Pragma("whitelisted_resource_4777") 4777
+[0;1;32m                                                            ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:143:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1230:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN'[0m
+#define IDS_TASK_MANAGER_IDLE_WAKEUPS_COLUMN _Pragma("whitelisted_resource_4768") 4768
+[0;1;32m                                             ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:144:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_HARD_FAULTS_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1231:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_HARD_FAULTS_COLUMN'[0m
+#define IDS_TASK_MANAGER_HARD_FAULTS_COLUMN _Pragma("whitelisted_resource_4769") 4769
+[0;1;32m                                            ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:145:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_OPEN_FD_COUNT_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1232:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_OPEN_FD_COUNT_COLUMN'[0m
+#define IDS_TASK_MANAGER_OPEN_FD_COUNT_COLUMN _Pragma("whitelisted_resource_4770") 4770
+[0;1;32m                                              ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:146:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1233:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN'[0m
+#define IDS_TASK_MANAGER_PROCESS_PRIORITY_COLUMN _Pragma("whitelisted_resource_4771") 4771
+[0;1;32m                                                 ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:147:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_MEMORY_STATE_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1240:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_MEMORY_STATE_COLUMN'[0m
+#define IDS_TASK_MANAGER_MEMORY_STATE_COLUMN _Pragma("whitelisted_resource_4778") 4778
+[0;1;32m                                             ^
+[0m[1m../../chrome/browser/ui/task_manager/task_manager_columns.cc:148:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    COLUMN_CASE(IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1241:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN'[0m
+#define IDS_TASK_MANAGER_KEEPALIVE_COUNT_COLUMN _Pragma("whitelisted_resource_4779") 4779
+[0;1;32m                                                ^
+[0m40 warnings generated.

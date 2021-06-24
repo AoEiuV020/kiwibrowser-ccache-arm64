@@ -1,0 +1,28 @@
+[1m../../content/browser/appcache/appcache_internals_ui.cc:355:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("appcache_internals.js", IDR_APPCACHE_INTERNALS_JS);
+[0;1;32m                                                   ^
+[0m[1mgen/content/grit/content_resources.h:9:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APPCACHE_INTERNALS_JS'[0m
+#define IDR_APPCACHE_INTERNALS_JS _Pragma("whitelisted_resource_20404") 20404
+[0;1;32m                                  ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20404
+[0;1;32m ^
+[0m[1m../../content/browser/appcache/appcache_internals_ui.cc:356:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("appcache_internals.css", IDR_APPCACHE_INTERNALS_CSS);
+[0;1;32m                                                    ^
+[0m[1mgen/content/grit/content_resources.h:10:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APPCACHE_INTERNALS_CSS'[0m
+#define IDR_APPCACHE_INTERNALS_CSS _Pragma("whitelisted_resource_20405") 20405
+[0;1;32m                                   ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20405
+[0;1;32m ^
+[0m[1m../../content/browser/appcache/appcache_internals_ui.cc:357:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_APPCACHE_INTERNALS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/content/grit/content_resources.h:8:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APPCACHE_INTERNALS_HTML'[0m
+#define IDR_APPCACHE_INTERNALS_HTML _Pragma("whitelisted_resource_20403") 20403
+[0;1;32m                                    ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_20403
+[0;1;32m ^
+[0m3 warnings generated.

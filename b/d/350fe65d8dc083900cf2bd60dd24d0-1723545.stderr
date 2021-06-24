@@ -1,0 +1,37 @@
+[1m../../chrome/browser/extensions/chrome_component_extension_resource_manager.cc:28:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"web_store/webstore_icon_128.png", IDR_WEBSTORE_ICON},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:116:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_ICON'[0m
+#define IDR_WEBSTORE_ICON _Pragma("whitelisted_resource_10504") 10504
+[0;1;32m                          ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10504
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/chrome_component_extension_resource_manager.cc:29:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"web_store/webstore_icon_16.png", IDR_WEBSTORE_ICON_16},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:117:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_ICON_16'[0m
+#define IDR_WEBSTORE_ICON_16 _Pragma("whitelisted_resource_10505") 10505
+[0;1;32m                             ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10505
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/chrome_component_extension_resource_manager.cc:30:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"chrome_app/product_logo_128.png", IDR_PRODUCT_LOGO_128},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/chrome_unscaled_resources.h:6:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_128'[0m
+#define IDR_PRODUCT_LOGO_128 _Pragma("whitelisted_resource_10151") 10151
+[0;1;32m                             ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10151
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/chrome_component_extension_resource_manager.cc:31:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"chrome_app/product_logo_16.png", IDR_PRODUCT_LOGO_16},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:55:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_16'[0m
+#define IDR_PRODUCT_LOGO_16 _Pragma("whitelisted_resource_10333") 10333
+[0;1;32m                            ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10333
+[0;1;32m ^
+[0m4 warnings generated.

@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/webui/flags_ui.cc:64:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_FLAGS_UI_RELAUNCH_NOTICE);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_chromium_strings.h:6:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FLAGS_UI_RELAUNCH_NOTICE'[0m
+#define IDS_FLAGS_UI_RELAUNCH_NOTICE _Pragma("whitelisted_resource_15044") 15044
+[0;1;32m                                     ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15044
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flags_ui.cc:81:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath(flags_ui::kFlagsJS, IDR_FLAGS_UI_FLAGS_JS);
+[0;1;32m                                              ^
+[0m[1mgen/components/grit/components_resources.h:22:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FLAGS_UI_FLAGS_JS'[0m
+#define IDR_FLAGS_UI_FLAGS_JS _Pragma("whitelisted_resource_17027") 17027
+[0;1;32m                              ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17027
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flags_ui.cc:82:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_FLAGS_UI_FLAGS_HTML);
+[0;1;32m                             ^
+[0m[1mgen/components/grit/components_resources.h:21:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FLAGS_UI_FLAGS_HTML'[0m
+#define IDR_FLAGS_UI_FLAGS_HTML _Pragma("whitelisted_resource_17026") 17026
+[0;1;32m                                ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17026
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/flags_ui.cc:355:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_FLAGS_FAVICON, scale_factor);
+[0;1;32m      ^
+[0m[1mgen/components/grit/components_scaled_resources.h:28:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FLAGS_FAVICON'[0m
+#define IDR_FLAGS_FAVICON _Pragma("whitelisted_resource_17226") 17226
+[0;1;32m                          ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17226
+[0;1;32m ^
+[0m4 warnings generated.

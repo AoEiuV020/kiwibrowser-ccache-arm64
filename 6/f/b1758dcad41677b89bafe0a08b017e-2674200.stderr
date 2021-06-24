@@ -1,0 +1,10 @@
+[1m../../chrome/browser/ui/webui/settings_utils.cc:27:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SETTINGS_FAVICON, scale_factor);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/theme_resources.h:91:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FAVICON'[0m
+#define IDR_SETTINGS_FAVICON _Pragma("whitelisted_resource_10460") 10460
+[0;1;32m                             ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10460
+[0;1;32m ^
+[0m1 warning generated.

@@ -1,0 +1,226 @@
+[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:190:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = IDS_TRANSLATE_BUBBLE_BEFORE_TRANSLATE_TITLE;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2399:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_BEFORE_TRANSLATE_TITLE'[0m
+#define IDS_TRANSLATE_BUBBLE_BEFORE_TRANSLATE_TITLE _Pragma("whitelisted_resource_6052") 6052
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6052
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:193:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = IDS_TRANSLATE_BUBBLE_TRANSLATING;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2412:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_TRANSLATING'[0m
+#define IDS_TRANSLATE_BUBBLE_TRANSLATING _Pragma("whitelisted_resource_6065") 6065
+[0;1;32m                                         ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6065
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:196:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = IDS_TRANSLATE_BUBBLE_TRANSLATED_TITLE;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2402:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_TRANSLATED_TITLE'[0m
+#define IDS_TRANSLATE_BUBBLE_TRANSLATED_TITLE _Pragma("whitelisted_resource_6055") 6055
+[0;1;32m                                              ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6055
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:199:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = IDS_TRANSLATE_BUBBLE_COULD_NOT_TRANSLATE_TITLE;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2403:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_COULD_NOT_TRANSLATE_TITLE'[0m
+#define IDS_TRANSLATE_BUBBLE_COULD_NOT_TRANSLATE_TITLE _Pragma("whitelisted_resource_6056") 6056
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6056
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:202:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      id = IDS_TRANSLATE_BUBBLE_ADVANCED_TITLE;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2401:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ADVANCED_TITLE'[0m
+#define IDS_TRANSLATE_BUBBLE_ADVANCED_TITLE _Pragma("whitelisted_resource_6054") 6054
+[0;1;32m                                            ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6054
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:365:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_BUBBLE_ALWAYS_TRANSLATE_LANG,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2409:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ALWAYS_TRANSLATE_LANG'[0m
+#define IDS_TRANSLATE_BUBBLE_ALWAYS_TRANSLATE_LANG _Pragma("whitelisted_resource_6062") 6062
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6062
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:371:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_BUBBLE_NEVER_TRANSLATE_LANG,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2410:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_NEVER_TRANSLATE_LANG'[0m
+#define IDS_TRANSLATE_BUBBLE_NEVER_TRANSLATE_LANG _Pragma("whitelisted_resource_6063") 6063
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6063
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:379:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_TRANSLATE_BUBBLE_NEVER_TRANSLATE_SITE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2411:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_NEVER_TRANSLATE_SITE'[0m
+#define IDS_TRANSLATE_BUBBLE_NEVER_TRANSLATE_SITE _Pragma("whitelisted_resource_6064") 6064
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6064
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:384:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_TRANSLATE_BUBBLE_ADVANCED_MENU_BUTTON);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2406:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ADVANCED_MENU_BUTTON'[0m
+#define IDS_TRANSLATE_BUBBLE_ADVANCED_MENU_BUTTON _Pragma("whitelisted_resource_6059") 6059
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6059
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:590:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_UNKNOWN_LANGUAGE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2423:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_UNKNOWN_LANGUAGE'[0m
+#define IDS_TRANSLATE_BUBBLE_UNKNOWN_LANGUAGE _Pragma("whitelisted_resource_6076") 6076
+[0;1;32m                                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6076
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:620:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_TRANSLATE_BUBBLE_ALWAYS_TRANSLATE_LANG,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2409:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ALWAYS_TRANSLATE_LANG'[0m
+#define IDS_TRANSLATE_BUBBLE_ALWAYS_TRANSLATE_LANG _Pragma("whitelisted_resource_6062") 6062
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6062
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:632:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          this, l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_ACCEPT));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2407:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ACCEPT'[0m
+#define IDS_TRANSLATE_BUBBLE_ACCEPT _Pragma("whitelisted_resource_6060") 6060
+[0;1;32m                                    ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6060
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:639:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_OPTIONS_MENU_BUTTON));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2418:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_OPTIONS_MENU_BUTTON'[0m
+#define IDS_TRANSLATE_BUBBLE_OPTIONS_MENU_BUTTON _Pragma("whitelisted_resource_6071") 6071
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6071
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:681:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          this, l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_REVERT));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2414:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_REVERT'[0m
+#define IDS_TRANSLATE_BUBBLE_REVERT _Pragma("whitelisted_resource_6067") 6067
+[0;1;32m                                    ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6067
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:714:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_REVERT));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2414:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_REVERT'[0m
+#define IDS_TRANSLATE_BUBBLE_REVERT _Pragma("whitelisted_resource_6067") 6067
+[0;1;32m                                    ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6067
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:721:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_OPTIONS_MENU_BUTTON));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2418:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_OPTIONS_MENU_BUTTON'[0m
+#define IDS_TRANSLATE_BUBBLE_OPTIONS_MENU_BUTTON _Pragma("whitelisted_resource_6071") 6071
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6071
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:756:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          this, l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_TRY_AGAIN));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2415:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_TRY_AGAIN'[0m
+#define IDS_TRANSLATE_BUBBLE_TRY_AGAIN _Pragma("whitelisted_resource_6068") 6068
+[0;1;32m                                       ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6068
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:763:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_ADVANCED_BUTTON));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2405:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ADVANCED_BUTTON'[0m
+#define IDS_TRANSLATE_BUBBLE_ADVANCED_BUTTON _Pragma("whitelisted_resource_6058") 6058
+[0;1;32m                                             ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6058
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:774:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_PAGE_LANGUAGE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2420:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_PAGE_LANGUAGE'[0m
+#define IDS_TRANSLATE_BUBBLE_PAGE_LANGUAGE _Pragma("whitelisted_resource_6073") 6073
+[0;1;32m                                           ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6073
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:777:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_TRANSLATION_LANGUAGE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2421:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_TRANSLATION_LANGUAGE'[0m
+#define IDS_TRANSLATE_BUBBLE_TRANSLATION_LANGUAGE _Pragma("whitelisted_resource_6074") 6074
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6074
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:800:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_TRANSLATE_BUBBLE_ALWAYS));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2416:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ALWAYS'[0m
+#define IDS_TRANSLATE_BUBBLE_ALWAYS _Pragma("whitelisted_resource_6069") 6069
+[0;1;32m                                    ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6069
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:868:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_DONE));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:872:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      this, l10n_util::GetStringUTF16(IDS_CANCEL));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:917:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    ? IDS_DONE
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1020:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DONE'[0m
+#define IDS_DONE _Pragma("whitelisted_resource_16158") 16158
+[0;1;32m                 ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16158
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/translate/translate_bubble_view.cc:918:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    : IDS_TRANSLATE_BUBBLE_ACCEPT));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2407:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_BUBBLE_ACCEPT'[0m
+#define IDS_TRANSLATE_BUBBLE_ACCEPT _Pragma("whitelisted_resource_6060") 6060
+[0;1;32m                                    ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6060
+[0;1;32m ^
+[0m25 warnings generated.

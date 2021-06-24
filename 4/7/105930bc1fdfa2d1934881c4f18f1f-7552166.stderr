@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/extensions/pwa_confirmation_view.cc:66:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_INSTALL_TO_OS_LAUNCH_SURFACE_BUBBLE_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1093:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INSTALL_TO_OS_LAUNCH_SURFACE_BUBBLE_TITLE'[0m
+#define IDS_INSTALL_TO_OS_LAUNCH_SURFACE_BUBBLE_TITLE _Pragma("whitelisted_resource_4457") 4457
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4457
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/pwa_confirmation_view.cc:86:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_INSTALL_PWA_BUTTON_LABEL
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1094:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INSTALL_PWA_BUTTON_LABEL'[0m
+#define IDS_INSTALL_PWA_BUTTON_LABEL _Pragma("whitelisted_resource_4458") 4458
+[0;1;32m                                     ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4458
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/extensions/pwa_confirmation_view.cc:87:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_CANCEL);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m3 warnings generated.

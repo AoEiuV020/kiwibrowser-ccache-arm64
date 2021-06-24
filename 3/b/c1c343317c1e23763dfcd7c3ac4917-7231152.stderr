@@ -1,0 +1,28 @@
+[1m../../chrome/browser/extensions/api/file_system/chrome_file_system_delegate.cc:292:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_IMAGE_FILES;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2512:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IMAGE_FILES'[0m
+#define IDS_IMAGE_FILES _Pragma("whitelisted_resource_6271") 6271
+[0;1;32m                        ^
+[0m[1m<scratch space>:189:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6271
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/file_system/chrome_file_system_delegate.cc:294:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_AUDIO_FILES;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2513:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUDIO_FILES'[0m
+#define IDS_AUDIO_FILES _Pragma("whitelisted_resource_6272") 6272
+[0;1;32m                        ^
+[0m[1m<scratch space>:191:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6272
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/file_system/chrome_file_system_delegate.cc:296:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_VIDEO_FILES;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2514:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VIDEO_FILES'[0m
+#define IDS_VIDEO_FILES _Pragma("whitelisted_resource_6273") 6273
+[0;1;32m                        ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6273
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,343 @@
+[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:18:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddLocalizedString("mediaRouterTitle", IDS_MEDIA_ROUTER_TITLE);
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:108:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_TITLE'[0m
+#define IDS_MEDIA_ROUTER_TITLE _Pragma("whitelisted_resource_2517") 2517
+[0;1;32m                               ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2517
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:19:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddLocalizedString("learnMoreText", IDS_LEARN_MORE);
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:21:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_BACK_BUTTON_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:111:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_BACK_BUTTON_TITLE'[0m
+#define IDS_MEDIA_ROUTER_BACK_BUTTON_TITLE _Pragma("whitelisted_resource_2520") 2520
+[0;1;32m                                           ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2520
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:23:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_CLOSE_BUTTON_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:112:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_CLOSE_BUTTON_TITLE'[0m
+#define IDS_MEDIA_ROUTER_CLOSE_BUTTON_TITLE _Pragma("whitelisted_resource_2521") 2521
+[0;1;32m                                            ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2521
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:25:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_SEARCH_BUTTON_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:113:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_SEARCH_BUTTON_TITLE'[0m
+#define IDS_MEDIA_ROUTER_SEARCH_BUTTON_TITLE _Pragma("whitelisted_resource_2522") 2522
+[0;1;32m                                             ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2522
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:28:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_VIEW_CAST_MODE_LIST_BUTTON_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:114:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_VIEW_CAST_MODE_LIST_BUTTON_TITLE'[0m
+#define IDS_MEDIA_ROUTER_VIEW_CAST_MODE_LIST_BUTTON_TITLE _Pragma("whitelisted_resource_2523") 2523
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2523
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:31:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_VIEW_DEVICE_LIST_BUTTON_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:115:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_VIEW_DEVICE_LIST_BUTTON_TITLE'[0m
+#define IDS_MEDIA_ROUTER_VIEW_DEVICE_LIST_BUTTON_TITLE _Pragma("whitelisted_resource_2524") 2524
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2524
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:36:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_CASTING_ACTIVITY_STATUS);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:145:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_CASTING_ACTIVITY_STATUS'[0m
+#define IDS_MEDIA_ROUTER_CASTING_ACTIVITY_STATUS _Pragma("whitelisted_resource_2554") 2554
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2554
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:38:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_STOP_CASTING_BUTTON);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:147:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_STOP_CASTING_BUTTON'[0m
+#define IDS_MEDIA_ROUTER_STOP_CASTING_BUTTON _Pragma("whitelisted_resource_2556") 2556
+[0;1;32m                                             ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2556
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:40:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_START_CASTING_BUTTON);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:146:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_START_CASTING_BUTTON'[0m
+#define IDS_MEDIA_ROUTER_START_CASTING_BUTTON _Pragma("whitelisted_resource_2555") 2555
+[0;1;32m                                              ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2555
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:42:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ROUTE_DETAILS_PLAY_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:148:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_PLAY_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_PLAY_TITLE _Pragma("whitelisted_resource_2557") 2557
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2557
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:44:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ROUTE_DETAILS_PAUSE_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:149:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_PAUSE_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_PAUSE_TITLE _Pragma("whitelisted_resource_2558") 2558
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2558
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:46:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ROUTE_DETAILS_MUTE_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:150:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_MUTE_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_MUTE_TITLE _Pragma("whitelisted_resource_2559") 2559
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2559
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:48:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ROUTE_DETAILS_UNMUTE_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:151:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_UNMUTE_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_UNMUTE_TITLE _Pragma("whitelisted_resource_2560") 2560
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2560
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:50:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ROUTE_DETAILS_SEEK_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:152:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_SEEK_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_SEEK_TITLE _Pragma("whitelisted_resource_2561") 2561
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2561
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:52:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ROUTE_DETAILS_VOLUME_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:153:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_VOLUME_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_VOLUME_TITLE _Pragma("whitelisted_resource_2562") 2562
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2562
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:54:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "currentTimeLabel", IDS_MEDIA_ROUTER_ROUTE_DETAILS_CURRENT_TIME_LABEL);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:154:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_CURRENT_TIME_LABEL'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_CURRENT_TIME_LABEL _Pragma("whitelisted_resource_2563") 2563
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2563
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:56:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "durationLabel", IDS_MEDIA_ROUTER_ROUTE_DETAILS_DURATION_LABEL);
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:155:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_DURATION_LABEL'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_DURATION_LABEL _Pragma("whitelisted_resource_2564") 2564
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2564
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:59:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_ROUTE_DETAILS_HANGOUTS_LOCAL_PRESENT_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:156:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_HANGOUTS_LOCAL_PRESENT_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_HANGOUTS_LOCAL_PRESENT_TITLE _Pragma("whitelisted_resource_2565") 2565
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2565
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:62:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_ROUTE_DETAILS_HANGOUTS_LOCAL_PRESENT_SUBTITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:157:72: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_HANGOUTS_LOCAL_PRESENT_SUBTITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_HANGOUTS_LOCAL_PRESENT_SUBTITLE _Pragma("whitelisted_resource_2566") 2566
+[0;1;32m                                                                       ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2566
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:65:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_ROUTE_DETAILS_ALWAYS_USE_MIRRORING_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:158:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_ALWAYS_USE_MIRRORING_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_ALWAYS_USE_MIRRORING_TITLE _Pragma("whitelisted_resource_2567") 2567
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2567
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:68:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_DROPDOWN_TITLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:159:73: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_DROPDOWN_TITLE'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_DROPDOWN_TITLE _Pragma("whitelisted_resource_2568") 2568
+[0;1;32m                                                                        ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2568
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:71:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_REMOTE_SCREEN);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:161:72: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_REMOTE_SCREEN'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_REMOTE_SCREEN _Pragma("whitelisted_resource_2570") 2570
+[0;1;32m                                                                       ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2570
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:74:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_BOTH_SCREENS);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:160:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_BOTH_SCREENS'[0m
+#define IDS_MEDIA_ROUTER_ROUTE_DETAILS_FULLSCREEN_VIDEOS_BOTH_SCREENS _Pragma("whitelisted_resource_2569") 2569
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2569
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:79:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_DISMISS_BUTTON);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:136:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_DISMISS_BUTTON'[0m
+#define IDS_MEDIA_ROUTER_DISMISS_BUTTON _Pragma("whitelisted_resource_2545") 2545
+[0;1;32m                                        ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2545
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:81:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_ISSUE_HEADER);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:137:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_ISSUE_HEADER'[0m
+#define IDS_MEDIA_ROUTER_ISSUE_HEADER _Pragma("whitelisted_resource_2546") 2546
+[0;1;32m                                      ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2546
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:86:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_CAST_LOCAL_MEDIA_SUBHEADING);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:123:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_CAST_LOCAL_MEDIA_SUBHEADING'[0m
+#define IDS_MEDIA_ROUTER_CAST_LOCAL_MEDIA_SUBHEADING _Pragma("whitelisted_resource_2532") 2532
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2532
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:88:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_CAST_LOCAL_MEDIA_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:124:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_CAST_LOCAL_MEDIA_TITLE'[0m
+#define IDS_MEDIA_ROUTER_CAST_LOCAL_MEDIA_TITLE _Pragma("whitelisted_resource_2533") 2533
+[0;1;32m                                                ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2533
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:90:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_BUTTON);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:135:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_BUTTON'[0m
+#define IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_BUTTON _Pragma("whitelisted_resource_2544") 2544
+[0;1;32m                                               ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2544
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:92:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_TEXT);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:134:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_TEXT'[0m
+#define IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_TEXT _Pragma("whitelisted_resource_2543") 2543
+[0;1;32m                                             ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2543
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:94:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_TITLE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:133:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_TITLE'[0m
+#define IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_TITLE _Pragma("whitelisted_resource_2542") 2542
+[0;1;32m                                              ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2542
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:97:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_CLOUD_PREF_TEXT);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:132:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_CLOUD_PREF_TEXT'[0m
+#define IDS_MEDIA_ROUTER_FIRST_RUN_FLOW_CLOUD_PREF_TEXT _Pragma("whitelisted_resource_2541") 2541
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2541
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:99:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_AUTO_CAST_MODE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:116:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_AUTO_CAST_MODE'[0m
+#define IDS_MEDIA_ROUTER_AUTO_CAST_MODE _Pragma("whitelisted_resource_2525") 2525
+[0;1;32m                                        ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2525
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:101:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_DESTINATION_MISSING);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:162:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_DESTINATION_MISSING'[0m
+#define IDS_MEDIA_ROUTER_DESTINATION_MISSING _Pragma("whitelisted_resource_2571") 2571
+[0;1;32m                                             ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2571
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:103:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_SEARCH_LABEL);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:163:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_SEARCH_LABEL'[0m
+#define IDS_MEDIA_ROUTER_SEARCH_LABEL _Pragma("whitelisted_resource_2572") 2572
+[0;1;32m                                      ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2572
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:105:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_SEARCH_NO_MATCHES);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:164:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_SEARCH_NO_MATCHES'[0m
+#define IDS_MEDIA_ROUTER_SEARCH_NO_MATCHES _Pragma("whitelisted_resource_2573") 2573
+[0;1;32m                                           ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2573
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:107:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_MEDIA_ROUTER_SELECT_CAST_MODE_HEADER);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:121:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_SELECT_CAST_MODE_HEADER'[0m
+#define IDS_MEDIA_ROUTER_SELECT_CAST_MODE_HEADER _Pragma("whitelisted_resource_2530") 2530
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2530
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/media_router/media_router_localized_strings_provider.cc:110:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_ROUTER_SHARE_YOUR_SCREEN_SUBHEADING);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:122:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_SHARE_YOUR_SCREEN_SUBHEADING'[0m
+#define IDS_MEDIA_ROUTER_SHARE_YOUR_SCREEN_SUBHEADING _Pragma("whitelisted_resource_2531") 2531
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2531
+[0;1;32m ^
+[0m38 warnings generated.

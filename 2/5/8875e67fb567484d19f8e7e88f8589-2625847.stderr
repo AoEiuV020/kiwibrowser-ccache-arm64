@@ -1,0 +1,64 @@
+[1m../../chrome/browser/extensions/extension_error_ui.cc:54:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_ALERT_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1320:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_ALERT_TITLE'[0m
+#define IDS_EXTENSION_ALERT_TITLE _Pragma("whitelisted_resource_4862") 4862
+[0;1;32m                                  ^
+[0m[1m<scratch space>:277:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4862
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_error_ui.cc:58:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_ALERT_ITEM_OK);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1325:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_ALERT_ITEM_OK'[0m
+#define IDS_EXTENSION_ALERT_ITEM_OK _Pragma("whitelisted_resource_4867") 4867
+[0;1;32m                                    ^
+[0m[1m<scratch space>:279:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4867
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_error_ui.cc:62:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_EXTENSION_ALERT_ITEM_DETAILS);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1326:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_ALERT_ITEM_DETAILS'[0m
+#define IDS_EXTENSION_ALERT_ITEM_DETAILS _Pragma("whitelisted_resource_4868") 4868
+[0;1;32m                                         ^
+[0m[1m<scratch space>:281:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4868
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_error_ui.cc:79:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_EXTENSION_ALERT_ITEM_EXTERNAL,
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1321:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_ALERT_ITEM_EXTERNAL'[0m
+#define IDS_EXTENSION_ALERT_ITEM_EXTERNAL _Pragma("whitelisted_resource_4863") 4863
+[0;1;32m                                          ^
+[0m[1m<scratch space>:283:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4863
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_error_ui.cc:80:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_APP_ALERT_ITEM_EXTERNAL) +
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1323:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ALERT_ITEM_EXTERNAL'[0m
+#define IDS_APP_ALERT_ITEM_EXTERNAL _Pragma("whitelisted_resource_4865") 4865
+[0;1;32m                                    ^
+[0m[1m<scratch space>:285:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4865
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_error_ui.cc:82:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_EXTENSION_ALERT_ITEM_BLACKLISTED,
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1322:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_ALERT_ITEM_BLACKLISTED'[0m
+#define IDS_EXTENSION_ALERT_ITEM_BLACKLISTED _Pragma("whitelisted_resource_4864") 4864
+[0;1;32m                                             ^
+[0m[1m<scratch space>:287:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4864
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/extension_error_ui.cc:83:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                IDS_APP_ALERT_ITEM_BLACKLISTED);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1324:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ALERT_ITEM_BLACKLISTED'[0m
+#define IDS_APP_ALERT_ITEM_BLACKLISTED _Pragma("whitelisted_resource_4866") 4866
+[0;1;32m                                       ^
+[0m[1m<scratch space>:289:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4866
+[0;1;32m ^
+[0m7 warnings generated.

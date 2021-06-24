@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/autofill/save_card_bubble_controller_impl.cc:135:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD_V3);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:63:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD_V3'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD_V3 _Pragma("whitelisted_resource_15159") 15159
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/autofill/save_card_bubble_controller_impl.cc:142:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V3)
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:66:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V3'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V3 _Pragma("whitelisted_resource_15162") 15162
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15162
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/autofill/save_card_bubble_controller_impl.cc:144:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V2);
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:65:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V2'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V2 _Pragma("whitelisted_resource_15161") 15161
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15161
+[0;1;32m ^
+[0m3 warnings generated.

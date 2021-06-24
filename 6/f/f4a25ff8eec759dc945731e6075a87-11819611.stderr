@@ -1,0 +1,55 @@
+[1m../../chrome/browser/ui/views/session_crashed_bubble_view.cc:227:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_SESSION_CRASHED_BUBBLE_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1637:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SESSION_CRASHED_BUBBLE_TITLE'[0m
+#define IDS_SESSION_CRASHED_BUBBLE_TITLE _Pragma("whitelisted_resource_5208") 5208
+[0;1;32m                                         ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5208
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/session_crashed_bubble_view.cc:252:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SESSION_CRASHED_VIEW_MESSAGE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_chromium_strings.h:11:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SESSION_CRASHED_VIEW_MESSAGE'[0m
+#define IDS_SESSION_CRASHED_VIEW_MESSAGE _Pragma("whitelisted_resource_15049") 15049
+[0;1;32m                                         ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15049
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/session_crashed_bubble_view.cc:272:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SESSION_CRASHED_BUBBLE_UMA_LINK_TEXT);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1638:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SESSION_CRASHED_BUBBLE_UMA_LINK_TEXT'[0m
+#define IDS_SESSION_CRASHED_BUBBLE_UMA_LINK_TEXT _Pragma("whitelisted_resource_5209") 5209
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5209
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/session_crashed_bubble_view.cc:274:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SESSION_CRASHED_VIEW_UMA_OPTIN,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:40:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SESSION_CRASHED_VIEW_UMA_OPTIN'[0m
+#define IDS_SESSION_CRASHED_VIEW_UMA_OPTIN _Pragma("whitelisted_resource_442") 442
+[0;1;32m                                           ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_442
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/session_crashed_bubble_view.cc:351:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SESSION_CRASHED_VIEW_RESTORE_BUTTON);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:1043:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SESSION_CRASHED_VIEW_RESTORE_BUTTON'[0m
+#define IDS_SESSION_CRASHED_VIEW_RESTORE_BUTTON _Pragma("whitelisted_resource_16181") 16181
+[0;1;32m                                                ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16181
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/session_crashed_bubble_view.cc:354:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SESSION_CRASHED_VIEW_STARTUP_PAGES_BUTTON);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1044:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SESSION_CRASHED_VIEW_STARTUP_PAGES_BUTTON'[0m
+#define IDS_SESSION_CRASHED_VIEW_STARTUP_PAGES_BUTTON _Pragma("whitelisted_resource_16182") 16182
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16182
+[0;1;32m ^
+[0m6 warnings generated.

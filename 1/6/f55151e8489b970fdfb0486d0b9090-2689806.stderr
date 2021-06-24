@@ -1,0 +1,19 @@
+[1m../../extensions/browser/requirements_checker.cc:55:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_EXTENSION_WEBGL_NOT_SUPPORTED));
+[0;1;32m                                 ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:73:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WEBGL_NOT_SUPPORTED'[0m
+#define IDS_EXTENSION_WEBGL_NOT_SUPPORTED _Pragma("whitelisted_resource_24688") 24688
+[0;1;32m                                          ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24688
+[0;1;32m ^
+[0m[1m../../extensions/browser/requirements_checker.cc:60:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF8(IDS_EXTENSION_WINDOW_SHAPE_NOT_SUPPORTED));
+[0;1;32m                                 ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:74:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_WINDOW_SHAPE_NOT_SUPPORTED'[0m
+#define IDS_EXTENSION_WINDOW_SHAPE_NOT_SUPPORTED _Pragma("whitelisted_resource_24689") 24689
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24689
+[0;1;32m ^
+[0m2 warnings generated.

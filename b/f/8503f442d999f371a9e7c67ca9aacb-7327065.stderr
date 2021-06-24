@@ -1,0 +1,298 @@
+[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:479:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:52:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_TITLE'[0m
+#define IDS_BOOKMARK_MANAGER_TITLE _Pragma("whitelisted_resource_854") 854
+[0;1;32m                                   ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_854
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:481:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_SEARCH_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:53:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_SEARCH_BUTTON'[0m
+#define IDS_BOOKMARK_MANAGER_SEARCH_BUTTON _Pragma("whitelisted_resource_855") 855
+[0;1;32m                                           ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_855
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:483:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_FOLDERS_MENU));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:55:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_FOLDERS_MENU'[0m
+#define IDS_BOOKMARK_MANAGER_FOLDERS_MENU _Pragma("whitelisted_resource_857") 857
+[0;1;32m                                          ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_857
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:485:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_ORGANIZE_MENU));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:56:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_ORGANIZE_MENU'[0m
+#define IDS_BOOKMARK_MANAGER_ORGANIZE_MENU _Pragma("whitelisted_resource_858") 858
+[0;1;32m                                           ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_858
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:487:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_SHOW_IN_FOLDER));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:57:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_SHOW_IN_FOLDER'[0m
+#define IDS_BOOKMARK_MANAGER_SHOW_IN_FOLDER _Pragma("whitelisted_resource_859") 859
+[0;1;32m                                            ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_859
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:489:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_SORT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:58:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_SORT'[0m
+#define IDS_BOOKMARK_MANAGER_SORT _Pragma("whitelisted_resource_860") 860
+[0;1;32m                                  ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_860
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:491:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_IMPORT_MENU));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:59:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_IMPORT_MENU'[0m
+#define IDS_BOOKMARK_MANAGER_IMPORT_MENU _Pragma("whitelisted_resource_861") 861
+[0;1;32m                                         ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_861
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:493:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_EXPORT_MENU));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:60:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_EXPORT_MENU'[0m
+#define IDS_BOOKMARK_MANAGER_EXPORT_MENU _Pragma("whitelisted_resource_862") 862
+[0;1;32m                                         ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_862
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:495:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_RENAME_FOLDER));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:25:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_RENAME_FOLDER'[0m
+#define IDS_BOOKMARK_BAR_RENAME_FOLDER _Pragma("whitelisted_resource_822") 822
+[0;1;32m                                       ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_822
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:497:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_EDIT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:24:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_EDIT'[0m
+#define IDS_BOOKMARK_BAR_EDIT _Pragma("whitelisted_resource_821") 821
+[0;1;32m                              ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_821
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:499:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_SHOULD_OPEN_ALL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:30:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_SHOULD_OPEN_ALL'[0m
+#define IDS_BOOKMARK_BAR_SHOULD_OPEN_ALL _Pragma("whitelisted_resource_827") 827
+[0;1;32m                                         ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_827
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:501:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OPEN_INCOGNITO));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:23:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OPEN_INCOGNITO'[0m
+#define IDS_BOOKMARK_BAR_OPEN_INCOGNITO _Pragma("whitelisted_resource_820") 820
+[0;1;32m                                        ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_820
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:503:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OPEN_IN_NEW_TAB));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:21:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OPEN_IN_NEW_TAB'[0m
+#define IDS_BOOKMARK_BAR_OPEN_IN_NEW_TAB _Pragma("whitelisted_resource_818") 818
+[0;1;32m                                         ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_818
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:505:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OPEN_IN_NEW_WINDOW));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:22:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OPEN_IN_NEW_WINDOW'[0m
+#define IDS_BOOKMARK_BAR_OPEN_IN_NEW_WINDOW _Pragma("whitelisted_resource_819") 819
+[0;1;32m                                            ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_819
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:507:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_ADD_NEW_BOOKMARK));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:27:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_ADD_NEW_BOOKMARK'[0m
+#define IDS_BOOKMARK_BAR_ADD_NEW_BOOKMARK _Pragma("whitelisted_resource_824") 824
+[0;1;32m                                          ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_824
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:509:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_NEW_FOLDER));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:28:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_NEW_FOLDER'[0m
+#define IDS_BOOKMARK_BAR_NEW_FOLDER _Pragma("whitelisted_resource_825") 825
+[0;1;32m                                    ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_825
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:511:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OPEN_ALL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:15:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OPEN_ALL'[0m
+#define IDS_BOOKMARK_BAR_OPEN_ALL _Pragma("whitelisted_resource_812") 812
+[0;1;32m                                  ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_812
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:513:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OPEN_ALL_NEW_WINDOW));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:16:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OPEN_ALL_NEW_WINDOW'[0m
+#define IDS_BOOKMARK_BAR_OPEN_ALL_NEW_WINDOW _Pragma("whitelisted_resource_813") 813
+[0;1;32m                                             ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_813
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:515:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OPEN_ALL_INCOGNITO));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:17:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OPEN_ALL_INCOGNITO'[0m
+#define IDS_BOOKMARK_BAR_OPEN_ALL_INCOGNITO _Pragma("whitelisted_resource_814") 814
+[0;1;32m                                            ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_814
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:517:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_REMOVE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:26:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_REMOVE'[0m
+#define IDS_BOOKMARK_BAR_REMOVE _Pragma("whitelisted_resource_823") 823
+[0;1;32m                                ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_823
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:519:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_COPY));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:878:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPY'[0m
+#define IDS_CONTENT_CONTEXT_COPY _Pragma("whitelisted_resource_4220") 4220
+[0;1;32m                                 ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4220
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:521:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_CUT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:877:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_CUT'[0m
+#define IDS_CONTENT_CONTEXT_CUT _Pragma("whitelisted_resource_4219") 4219
+[0;1;32m                                ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4219
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:523:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_PASTE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:879:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PASTE'[0m
+#define IDS_CONTENT_CONTEXT_PASTE _Pragma("whitelisted_resource_4221") 4221
+[0;1;32m                                  ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4221
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:525:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_DELETE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:881:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_DELETE'[0m
+#define IDS_CONTENT_CONTEXT_DELETE _Pragma("whitelisted_resource_4223") 4223
+[0;1;32m                                   ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4223
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:527:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UNDO_DELETE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:824:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UNDO_DELETE'[0m
+#define IDS_UNDO_DELETE _Pragma("whitelisted_resource_4166") 4166
+[0;1;32m                        ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4166
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:529:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:110:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_EDITOR_NEW_FOLDER_NAME _Pragma("whitelisted_resource_15208") 15208
+[0;1;32m                                            ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15208
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:531:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_NAME_INPUT_PLACE_HOLDER));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:112:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_NAME_INPUT_PLACE_HOLDER'[0m
+#define IDS_BOOKMARK_MANAGER_NAME_INPUT_PLACE_HOLDER _Pragma("whitelisted_resource_15210") 15210
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15210
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:533:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_URL_INPUT_PLACE_HOLDER));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:113:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_URL_INPUT_PLACE_HOLDER'[0m
+#define IDS_BOOKMARK_MANAGER_URL_INPUT_PLACE_HOLDER _Pragma("whitelisted_resource_15211") 15211
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15211
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:535:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_INVALID_URL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:61:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_INVALID_URL'[0m
+#define IDS_BOOKMARK_MANAGER_INVALID_URL _Pragma("whitelisted_resource_863") 863
+[0;1;32m                                         ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_863
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:537:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_RECENT));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:62:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_RECENT'[0m
+#define IDS_BOOKMARK_MANAGER_RECENT _Pragma("whitelisted_resource_864") 864
+[0;1;32m                                    ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_864
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:539:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_MANAGER_SEARCH));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:63:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_MANAGER_SEARCH'[0m
+#define IDS_BOOKMARK_MANAGER_SEARCH _Pragma("whitelisted_resource_865") 865
+[0;1;32m                                    ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_865
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:541:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAVE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1024:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE'[0m
+#define IDS_SAVE _Pragma("whitelisted_resource_16162") 16162
+[0;1;32m                 ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16162
+[0;1;32m ^
+[0m[1m../../chrome/browser/extensions/api/bookmark_manager_private/bookmark_manager_private_api.cc:543:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CANCEL));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:1018:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CANCEL'[0m
+#define IDS_CANCEL _Pragma("whitelisted_resource_16156") 16156
+[0;1;32m                   ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16156
+[0;1;32m ^
+[0m33 warnings generated.

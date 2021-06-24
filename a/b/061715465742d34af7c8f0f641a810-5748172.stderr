@@ -1,0 +1,82 @@
+[1m../../extensions/browser/api/device_permissions_manager.cc:437:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_UNKNOWN_VENDOR, product,
+[0;1;32m            ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:46:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_UNKNOWN_VENDOR'[0m
+#define IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_UNKNOWN_VENDOR _Pragma("whitelisted_resource_24661") 24661
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24661
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:441:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_VENDOR, product, manufacturer);
+[0;1;32m            ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:48:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_VENDOR'[0m
+#define IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_VENDOR _Pragma("whitelisted_resource_24663") 24663
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24663
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:449:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_DEVICE_NAME_WITH_PRODUCT_UNKNOWN_VENDOR, product,
+[0;1;32m              ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:42:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_PRODUCT_UNKNOWN_VENDOR'[0m
+#define IDS_DEVICE_NAME_WITH_PRODUCT_UNKNOWN_VENDOR _Pragma("whitelisted_resource_24657") 24657
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24657
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:452:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          return l10n_util::GetStringFUTF16(IDS_DEVICE_NAME_WITH_PRODUCT_VENDOR,
+[0;1;32m                                            ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:44:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_PRODUCT_VENDOR'[0m
+#define IDS_DEVICE_NAME_WITH_PRODUCT_VENDOR _Pragma("whitelisted_resource_24659") 24659
+[0;1;32m                                            ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24659
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:466:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_UNKNOWN_VENDOR_SERIAL, product,
+[0;1;32m            ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:47:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_UNKNOWN_VENDOR_SERIAL'[0m
+#define IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_UNKNOWN_VENDOR_SERIAL _Pragma("whitelisted_resource_24662") 24662
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24662
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:470:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_VENDOR_SERIAL, product,
+[0;1;32m            ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:49:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_VENDOR_SERIAL'[0m
+#define IDS_DEVICE_NAME_WITH_UNKNOWN_PRODUCT_VENDOR_SERIAL _Pragma("whitelisted_resource_24664") 24664
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24664
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:479:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_DEVICE_NAME_WITH_PRODUCT_UNKNOWN_VENDOR_SERIAL, product,
+[0;1;32m              ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:43:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_PRODUCT_UNKNOWN_VENDOR_SERIAL'[0m
+#define IDS_DEVICE_NAME_WITH_PRODUCT_UNKNOWN_VENDOR_SERIAL _Pragma("whitelisted_resource_24658") 24658
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24658
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:483:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_DEVICE_NAME_WITH_PRODUCT_VENDOR_SERIAL, product, manufacturer,
+[0;1;32m              ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:45:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_PRODUCT_VENDOR_SERIAL'[0m
+#define IDS_DEVICE_NAME_WITH_PRODUCT_VENDOR_SERIAL _Pragma("whitelisted_resource_24660") 24660
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24660
+[0;1;32m ^
+[0m[1m../../extensions/browser/api/device_permissions_manager.cc:487:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringFUTF16(IDS_DEVICE_NAME_WITH_PRODUCT_SERIAL,
+[0;1;32m                                          ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:41:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_NAME_WITH_PRODUCT_SERIAL'[0m
+#define IDS_DEVICE_NAME_WITH_PRODUCT_SERIAL _Pragma("whitelisted_resource_24656") 24656
+[0;1;32m                                            ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24656
+[0;1;32m ^
+[0m9 warnings generated.

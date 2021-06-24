@@ -1,0 +1,127 @@
+[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:28:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_SUBJECT_GROUP));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1189:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_SUBJECT_GROUP'[0m
+#define IDS_CERT_INFO_SUBJECT_GROUP _Pragma("whitelisted_resource_4560") 4560
+[0;1;32m                                    ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4560
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:35:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_COMMON_NAME_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1191:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_COMMON_NAME_LABEL'[0m
+#define IDS_CERT_INFO_COMMON_NAME_LABEL _Pragma("whitelisted_resource_4562") 4562
+[0;1;32m                                        ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4562
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:42:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_ORGANIZATION_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1192:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_ORGANIZATION_LABEL'[0m
+#define IDS_CERT_INFO_ORGANIZATION_LABEL _Pragma("whitelisted_resource_4563") 4563
+[0;1;32m                                         ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4563
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:49:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_SERIAL_NUMBER_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1194:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_SERIAL_NUMBER_LABEL'[0m
+#define IDS_CERT_INFO_SERIAL_NUMBER_LABEL _Pragma("whitelisted_resource_4565") 4565
+[0;1;32m                                          ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4565
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:57:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_ORGANIZATIONAL_UNIT_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1193:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_ORGANIZATIONAL_UNIT_LABEL'[0m
+#define IDS_CERT_INFO_ORGANIZATIONAL_UNIT_LABEL _Pragma("whitelisted_resource_4564") 4564
+[0;1;32m                                                ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4564
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:64:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_ISSUER_GROUP));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1190:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_ISSUER_GROUP'[0m
+#define IDS_CERT_INFO_ISSUER_GROUP _Pragma("whitelisted_resource_4561") 4561
+[0;1;32m                                   ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4561
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:71:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_VALIDITY_GROUP));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1195:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_VALIDITY_GROUP'[0m
+#define IDS_CERT_INFO_VALIDITY_GROUP _Pragma("whitelisted_resource_4566") 4566
+[0;1;32m                                     ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4566
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:78:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_ISSUED_ON_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1196:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_ISSUED_ON_LABEL'[0m
+#define IDS_CERT_INFO_ISSUED_ON_LABEL _Pragma("whitelisted_resource_4567") 4567
+[0;1;32m                                      ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4567
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:85:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_EXPIRES_ON_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1197:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_EXPIRES_ON_LABEL'[0m
+#define IDS_CERT_INFO_EXPIRES_ON_LABEL _Pragma("whitelisted_resource_4568") 4568
+[0;1;32m                                       ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4568
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:92:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_FINGERPRINTS_GROUP));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1198:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_FINGERPRINTS_GROUP'[0m
+#define IDS_CERT_INFO_FINGERPRINTS_GROUP _Pragma("whitelisted_resource_4569") 4569
+[0;1;32m                                         ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4569
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:100:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_SHA256_FINGERPRINT_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1199:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_SHA256_FINGERPRINT_LABEL'[0m
+#define IDS_CERT_INFO_SHA256_FINGERPRINT_LABEL _Pragma("whitelisted_resource_4570") 4570
+[0;1;32m                                               ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4570
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:107:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_INFO_SHA1_FINGERPRINT_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1200:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_INFO_SHA1_FINGERPRINT_LABEL'[0m
+#define IDS_CERT_INFO_SHA1_FINGERPRINT_LABEL _Pragma("whitelisted_resource_4571") 4571
+[0;1;32m                                             ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4571
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:114:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_DETAILS_EXTENSIONS));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1201:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_DETAILS_EXTENSIONS'[0m
+#define IDS_CERT_DETAILS_EXTENSIONS _Pragma("whitelisted_resource_4572") 4572
+[0;1;32m                                    ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4572
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/android/page_info/certificate_viewer_android.cc:121:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      env, l10n_util::GetStringUTF8(IDS_CERT_X509_SUBJECT_ALT_NAME));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1202:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_X509_SUBJECT_ALT_NAME'[0m
+#define IDS_CERT_X509_SUBJECT_ALT_NAME _Pragma("whitelisted_resource_4573") 4573
+[0;1;32m                                       ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4573
+[0;1;32m ^
+[0m14 warnings generated.

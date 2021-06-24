@@ -1,0 +1,127 @@
+[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:36:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_SIGNAL_0_BAR, IDR_SIGNAL_1_BAR, IDR_SIGNAL_2_BAR, IDR_SIGNAL_3_BAR,
+[0;1;32m    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:40:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_0_BAR'[0m
+#define IDR_SIGNAL_0_BAR _Pragma("whitelisted_resource_27009") 27009
+[0;1;32m                         ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27009
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:36:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_SIGNAL_0_BAR, IDR_SIGNAL_1_BAR, IDR_SIGNAL_2_BAR, IDR_SIGNAL_3_BAR,
+[0;1;32m                      ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:41:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_1_BAR'[0m
+#define IDR_SIGNAL_1_BAR _Pragma("whitelisted_resource_27010") 27010
+[0;1;32m                         ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27010
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:36:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_SIGNAL_0_BAR, IDR_SIGNAL_1_BAR, IDR_SIGNAL_2_BAR, IDR_SIGNAL_3_BAR,
+[0;1;32m                                        ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:42:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_2_BAR'[0m
+#define IDR_SIGNAL_2_BAR _Pragma("whitelisted_resource_27011") 27011
+[0;1;32m                         ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27011
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:36:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_SIGNAL_0_BAR, IDR_SIGNAL_1_BAR, IDR_SIGNAL_2_BAR, IDR_SIGNAL_3_BAR,
+[0;1;32m                                                          ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:43:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_3_BAR'[0m
+#define IDR_SIGNAL_3_BAR _Pragma("whitelisted_resource_27012") 27012
+[0;1;32m                         ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27012
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:37:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_SIGNAL_4_BAR};
+[0;1;32m    ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:44:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SIGNAL_4_BAR'[0m
+#define IDR_SIGNAL_4_BAR _Pragma("whitelisted_resource_27013") 27013
+[0;1;32m                         ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27013
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:48:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2794:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN _Pragma("whitelisted_resource_6635") 6635
+[0;1;32m                                             ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6635
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:50:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN_TOOLTIP));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2795:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN_TOOLTIP'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN_TOOLTIP _Pragma("whitelisted_resource_6636") 6636
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6636
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:59:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING_LABEL),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2796:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING_LABEL'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING_LABEL _Pragma("whitelisted_resource_6637") 6637
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6637
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:62:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING_LABEL_TOOLTIP));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2797:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING_LABEL_TOOLTIP'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING_LABEL_TOOLTIP _Pragma("whitelisted_resource_6638") 6638
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6638
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:142:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ON_BLUETOOTH_LINK_TEXT);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2792:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ON_BLUETOOTH_LINK_TEXT'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ON_BLUETOOTH_LINK_TEXT _Pragma("whitelisted_resource_6633") 6633
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6633
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:145:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ADAPTER_OFF, link_text, &offset);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2791:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ADAPTER_OFF'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_TURN_ADAPTER_OFF _Pragma("whitelisted_resource_6632") 6632
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6632
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:203:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_DEVICE_CHOOSER_DEVICE_NAME_AND_PAIRED_STATUS_TEXT, text)
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2803:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_DEVICE_NAME_AND_PAIRED_STATUS_TEXT'[0m
+#define IDS_DEVICE_CHOOSER_DEVICE_NAME_AND_PAIRED_STATUS_TEXT _Pragma("whitelisted_resource_6644") 6644
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6644
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:324:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    help_button->SetTooltipText(l10n_util::GetStringUTF16(IDS_LEARN_MORE));
+[0;1;32m                                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/device_chooser_content_view.cc:356:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+             : l10n_util::GetStringUTF16(IDS_DEVICE_CHOOSER_CANCEL_BUTTON_TEXT);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2799:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_CANCEL_BUTTON_TEXT'[0m
+#define IDS_DEVICE_CHOOSER_CANCEL_BUTTON_TEXT _Pragma("whitelisted_resource_6640") 6640
+[0;1;32m                                              ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6640
+[0;1;32m ^
+[0m14 warnings generated.

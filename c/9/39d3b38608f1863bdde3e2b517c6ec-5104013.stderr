@@ -1,0 +1,37 @@
+[1m../../chrome/browser/ui/views/passwords/password_sign_in_promo_view.cc:57:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PASSWORD_MANAGER_DICE_PROMO_SIGNIN_MESSAGE,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1595:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_DICE_PROMO_SIGNIN_MESSAGE'[0m
+#define IDS_PASSWORD_MANAGER_DICE_PROMO_SIGNIN_MESSAGE _Pragma("whitelisted_resource_5142") 5142
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5142
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_sign_in_promo_view.cc:58:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PASSWORD_MANAGER_DICE_PROMO_SYNC_MESSAGE));
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1596:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_DICE_PROMO_SYNC_MESSAGE'[0m
+#define IDS_PASSWORD_MANAGER_DICE_PROMO_SYNC_MESSAGE _Pragma("whitelisted_resource_5143") 5143
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5143
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_sign_in_promo_view.cc:66:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_SIGNIN_PROMO_LABEL),
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1594:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SIGNIN_PROMO_LABEL'[0m
+#define IDS_PASSWORD_MANAGER_SIGNIN_PROMO_LABEL _Pragma("whitelisted_resource_5141") 5141
+[0;1;32m                                                ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5141
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/passwords/password_sign_in_promo_view.cc:102:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_SIGNIN_PROMO_SIGN_IN);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1592:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SIGNIN_PROMO_SIGN_IN'[0m
+#define IDS_PASSWORD_MANAGER_SIGNIN_PROMO_SIGN_IN _Pragma("whitelisted_resource_5139") 5139
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5139
+[0;1;32m ^
+[0m4 warnings generated.

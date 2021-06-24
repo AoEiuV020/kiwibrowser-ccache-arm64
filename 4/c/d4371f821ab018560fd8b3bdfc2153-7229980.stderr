@@ -1,0 +1,73 @@
+[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:41:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_ORIGIN,
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2788:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_ORIGIN'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_ORIGIN _Pragma("whitelisted_resource_6629") 6629
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6629
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:42:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME),
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2789:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME _Pragma("whitelisted_resource_6630") 6630
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6630
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:57:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BLUETOOTH_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2790:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT _Pragma("whitelisted_resource_6631") 6631
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6631
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:62:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BLUETOOTH_DEVICE_CHOOSER_PAIR_BUTTON_TEXT);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2798:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_PAIR_BUTTON_TEXT'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_PAIR_BUTTON_TEXT _Pragma("whitelisted_resource_6639") 6639
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6639
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:91:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2806:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID'[0m
+#define IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID _Pragma("whitelisted_resource_6647") 6647
+[0;1;32m                                               ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6647
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:165:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2794:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN _Pragma("whitelisted_resource_6635") 6635
+[0;1;32m                                             ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6635
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:179:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2793:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_SCANNING _Pragma("whitelisted_resource_6634") 6634
+[0;1;32m                                              ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6634
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/bluetooth/bluetooth_chooser_controller.cc:188:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2794:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN'[0m
+#define IDS_BLUETOOTH_DEVICE_CHOOSER_RE_SCAN _Pragma("whitelisted_resource_6635") 6635
+[0;1;32m                                             ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6635
+[0;1;32m ^
+[0m8 warnings generated.

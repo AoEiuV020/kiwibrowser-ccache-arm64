@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/views/autofill/save_card_bubble_views.cc:90:64: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  learn_more_link_ = new views::Link(l10n_util::GetStringUTF16(IDS_LEARN_MORE));
+[0;1;32m                                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/autofill/save_card_bubble_views.cc:152:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_AUTOFILL_SAVE_CARD_PROMPT_ACCEPT
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:59:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_ACCEPT'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_ACCEPT _Pragma("whitelisted_resource_15155") 15155
+[0;1;32m                                             ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15155
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/autofill/save_card_bubble_views.cc:153:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_NO_THANKS);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:1025:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NO_THANKS'[0m
+#define IDS_NO_THANKS _Pragma("whitelisted_resource_16163") 16163
+[0;1;32m                      ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16163
+[0;1;32m ^
+[0m3 warnings generated.

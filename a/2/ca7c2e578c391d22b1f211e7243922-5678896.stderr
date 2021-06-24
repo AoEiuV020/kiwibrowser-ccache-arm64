@@ -1,0 +1,28 @@
+[1m../../chrome/browser/ui/webui/task_scheduler_internals/task_scheduler_internals_ui.cc:107:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "index.css", IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_CSS);
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/task_scheduler_internals_resources.h:6:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_CSS'[0m
+#define IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_CSS _Pragma("whitelisted_resource_12771") 12771
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12771
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/task_scheduler_internals/task_scheduler_internals_ui.cc:109:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "index.js", IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_JS);
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/task_scheduler_internals_resources.h:7:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_JS'[0m
+#define IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_JS _Pragma("whitelisted_resource_12772") 12772
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12772
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/task_scheduler_internals/task_scheduler_internals_ui.cc:111:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_HTML);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/task_scheduler_internals_resources.h:5:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_HTML'[0m
+#define IDR_TASK_SCHEDULER_INTERNALS_RESOURCES_INDEX_HTML _Pragma("whitelisted_resource_12770") 12770
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12770
+[0;1;32m ^
+[0m3 warnings generated.

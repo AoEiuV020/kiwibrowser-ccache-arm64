@@ -1,0 +1,73 @@
+[1m../../chrome/browser/ui/views/frame/browser_view.cc:241:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (theme_provider->HasCustomImage(IDR_THEME_TOOLBAR)) {
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:242:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    canvas->TileImageInt(*theme_provider->GetImageSkiaNamed(IDR_THEME_TOOLBAR),
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:1620:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_id = IDS_ACCESSIBLE_CANARY_BROWSER_WINDOW_TITLE_FORMAT;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:45:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBLE_CANARY_BROWSER_WINDOW_TITLE_FORMAT'[0m
+#define IDS_ACCESSIBLE_CANARY_BROWSER_WINDOW_TITLE_FORMAT _Pragma("whitelisted_resource_447") 447
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_447
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:1623:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_id = IDS_ACCESSIBLE_DEV_BROWSER_WINDOW_TITLE_FORMAT;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:44:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBLE_DEV_BROWSER_WINDOW_TITLE_FORMAT'[0m
+#define IDS_ACCESSIBLE_DEV_BROWSER_WINDOW_TITLE_FORMAT _Pragma("whitelisted_resource_446") 446
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_446
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:1626:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_id = IDS_ACCESSIBLE_BETA_BROWSER_WINDOW_TITLE_FORMAT;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:43:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBLE_BETA_BROWSER_WINDOW_TITLE_FORMAT'[0m
+#define IDS_ACCESSIBLE_BETA_BROWSER_WINDOW_TITLE_FORMAT _Pragma("whitelisted_resource_445") 445
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_445
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:1630:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_id = IDS_ACCESSIBLE_BROWSER_WINDOW_TITLE_FORMAT;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:42:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBLE_BROWSER_WINDOW_TITLE_FORMAT'[0m
+#define IDS_ACCESSIBLE_BROWSER_WINDOW_TITLE_FORMAT _Pragma("whitelisted_resource_444") 444
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_444
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:1641:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ACCESSIBLE_INCOGNITO_WINDOW_TITLE_FORMAT, title);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1725:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBLE_INCOGNITO_WINDOW_TITLE_FORMAT'[0m
+#define IDS_ACCESSIBLE_INCOGNITO_WINDOW_TITLE_FORMAT _Pragma("whitelisted_resource_5302") 5302
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5302
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/frame/browser_view.cc:1648:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ACCESSIBLE_WINDOW_TITLE_WITH_PROFILE_FORMAT, title, profile_name);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1726:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBLE_WINDOW_TITLE_WITH_PROFILE_FORMAT'[0m
+#define IDS_ACCESSIBLE_WINDOW_TITLE_WITH_PROFILE_FORMAT _Pragma("whitelisted_resource_5303") 5303
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5303
+[0;1;32m ^
+[0m8 warnings generated.

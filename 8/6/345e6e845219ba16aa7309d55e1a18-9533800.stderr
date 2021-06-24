@@ -1,0 +1,19 @@
+[1m../../chrome/browser/ui/views/toolbar/browser_app_menu_button.cc:85:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? l10n_util::GetStringUTF16(IDS_APPMENU_TOOLTIP)
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:84:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPMENU_TOOLTIP'[0m
+#define IDS_APPMENU_TOOLTIP _Pragma("whitelisted_resource_528") 528
+[0;1;32m                            ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_528
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/views/toolbar/browser_app_menu_button.cc:86:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : l10n_util::GetStringUTF16(IDS_APPMENU_TOOLTIP_UPDATE_AVAILABLE));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:85:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APPMENU_TOOLTIP_UPDATE_AVAILABLE'[0m
+#define IDS_APPMENU_TOOLTIP_UPDATE_AVAILABLE _Pragma("whitelisted_resource_529") 529
+[0;1;32m                                             ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_529
+[0;1;32m ^
+[0m2 warnings generated.
