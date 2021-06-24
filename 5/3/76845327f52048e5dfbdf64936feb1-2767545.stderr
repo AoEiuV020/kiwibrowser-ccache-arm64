@@ -1,0 +1,28 @@
+[1m../../components/bookmarks/browser/bookmark_codec.cc:243:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  bb_node->SetTitle(l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_FOLDER_NAME));
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:104:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_BAR_FOLDER_NAME _Pragma("whitelisted_resource_15202") 15202
+[0;1;32m                                     ^
+[0m[1m<scratch space>:391:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15202
+[0;1;32m ^
+[0m[1m../../components/bookmarks/browser/bookmark_codec.cc:245:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_OTHER_FOLDER_NAME));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:106:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_OTHER_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_BAR_OTHER_FOLDER_NAME _Pragma("whitelisted_resource_15204") 15204
+[0;1;32m                                           ^
+[0m[1m<scratch space>:393:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15204
+[0;1;32m ^
+[0m[1m../../components/bookmarks/browser/bookmark_codec.cc:247:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_BOOKMARK_BAR_MOBILE_FOLDER_NAME));
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:105:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_MOBILE_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_BAR_MOBILE_FOLDER_NAME _Pragma("whitelisted_resource_15203") 15203
+[0;1;32m                                            ^
+[0m[1m<scratch space>:395:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15203
+[0;1;32m ^
+[0m3 warnings generated.

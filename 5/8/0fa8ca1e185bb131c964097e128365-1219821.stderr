@@ -1,0 +1,37 @@
+[1m../../third_party/libaddressinput/src/cpp/src/address_ui.cc:51:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_LIBADDRESSINPUT_COUNTRY_OR_REGION_LABEL;
+[0;1;32m                   ^
+[0m[1mgen/third_party/libaddressinput/messages.h:5:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_COUNTRY_OR_REGION_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_COUNTRY_OR_REGION_LABEL _Pragma("whitelisted_resource_25800") 25800
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:368:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25800
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/address_ui.cc:66:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_LIBADDRESSINPUT_ADDRESS_LINE_1_LABEL;
+[0;1;32m                   ^
+[0m[1mgen/third_party/libaddressinput/messages.h:11:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_ADDRESS_LINE_1_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_ADDRESS_LINE_1_LABEL _Pragma("whitelisted_resource_25806") 25806
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:370:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25806
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/address_ui.cc:69:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_LIBADDRESSINPUT_ORGANIZATION_LABEL;
+[0;1;32m                   ^
+[0m[1mgen/third_party/libaddressinput/messages.h:28:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_ORGANIZATION_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_ORGANIZATION_LABEL _Pragma("whitelisted_resource_25823") 25823
+[0;1;32m                                               ^
+[0m[1m<scratch space>:372:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25823
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/address_ui.cc:72:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_LIBADDRESSINPUT_RECIPIENT_LABEL;
+[0;1;32m                   ^
+[0m[1mgen/third_party/libaddressinput/messages.h:29:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_RECIPIENT_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_RECIPIENT_LABEL _Pragma("whitelisted_resource_25824") 25824
+[0;1;32m                                            ^
+[0m[1m<scratch space>:374:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25824
+[0;1;32m ^
+[0m4 warnings generated.

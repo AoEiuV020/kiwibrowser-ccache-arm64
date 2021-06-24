@@ -1,0 +1,19 @@
+[1m../../chrome/common/extensions/manifest_handlers/extension_action_handler.cc:111:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    error_message = IDS_EXTENSION_LOAD_ICON_FOR_PAGE_ACTION_FAILED;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1451:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_ICON_FOR_PAGE_ACTION_FAILED'[0m
+#define IDS_EXTENSION_LOAD_ICON_FOR_PAGE_ACTION_FAILED _Pragma("whitelisted_resource_4995") 4995
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4995
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/manifest_handlers/extension_action_handler.cc:114:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    error_message = IDS_EXTENSION_LOAD_ICON_FOR_BROWSER_ACTION_FAILED;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1452:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_ICON_FOR_BROWSER_ACTION_FAILED'[0m
+#define IDS_EXTENSION_LOAD_ICON_FOR_BROWSER_ACTION_FAILED _Pragma("whitelisted_resource_4996") 4996
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4996
+[0;1;32m ^
+[0m2 warnings generated.

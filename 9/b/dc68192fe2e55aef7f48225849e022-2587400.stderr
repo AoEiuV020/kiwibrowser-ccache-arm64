@@ -1,0 +1,82 @@
+[1m../../chrome/common/net/net_resource_provider.cc:31:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    l10n_util::GetStringUTF16(IDS_DIRECTORY_LISTING_HEADER));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2280:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_HEADER'[0m
+#define IDS_DIRECTORY_LISTING_HEADER _Pragma("whitelisted_resource_5920") 5920
+[0;1;32m                                     ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5920
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:33:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    l10n_util::GetStringUTF16(IDS_DIRECTORY_LISTING_PARENT));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2281:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_PARENT'[0m
+#define IDS_DIRECTORY_LISTING_PARENT _Pragma("whitelisted_resource_5921") 5921
+[0;1;32m                                     ^
+[0m[1m<scratch space>:195:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5921
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:35:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    l10n_util::GetStringUTF16(IDS_DIRECTORY_LISTING_NAME));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2282:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_NAME'[0m
+#define IDS_DIRECTORY_LISTING_NAME _Pragma("whitelisted_resource_5922") 5922
+[0;1;32m                                   ^
+[0m[1m<scratch space>:197:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5922
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:37:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    l10n_util::GetStringUTF16(IDS_DIRECTORY_LISTING_SIZE));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2283:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_SIZE'[0m
+#define IDS_DIRECTORY_LISTING_SIZE _Pragma("whitelisted_resource_5923") 5923
+[0;1;32m                                   ^
+[0m[1m<scratch space>:199:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5923
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:39:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_DIRECTORY_LISTING_DATE_MODIFIED));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2284:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_DATE_MODIFIED'[0m
+#define IDS_DIRECTORY_LISTING_DATE_MODIFIED _Pragma("whitelisted_resource_5924") 5924
+[0;1;32m                                            ^
+[0m[1m<scratch space>:201:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5924
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:43:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_DIRECTORY_LISTING_PARSING_ERROR_BOX_TEXT,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2285:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DIRECTORY_LISTING_PARSING_ERROR_BOX_TEXT'[0m
+#define IDS_DIRECTORY_LISTING_PARSING_ERROR_BOX_TEXT _Pragma("whitelisted_resource_5925") 5925
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:203:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5925
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:44:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_PRODUCT_NAME)));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:34:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRODUCT_NAME'[0m
+#define IDS_PRODUCT_NAME _Pragma("whitelisted_resource_429") 429
+[0;1;32m                         ^
+[0m[1m<scratch space>:205:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_429
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:48:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDR_DIR_HEADER_HTML),
+[0;1;32m            ^
+[0m[1mgen/net/grit/net_resources.h:5:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DIR_HEADER_HTML'[0m
+#define IDR_DIR_HEADER_HTML _Pragma("whitelisted_resource_24760") 24760
+[0;1;32m                            ^
+[0m[1m<scratch space>:207:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24760
+[0;1;32m ^
+[0m[1m../../chrome/common/net/net_resource_provider.cc:62:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (IDR_DIR_HEADER_HTML == key)
+[0;1;32m      ^
+[0m[1mgen/net/grit/net_resources.h:5:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DIR_HEADER_HTML'[0m
+#define IDR_DIR_HEADER_HTML _Pragma("whitelisted_resource_24760") 24760
+[0;1;32m                            ^
+[0m[1m<scratch space>:209:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24760
+[0;1;32m ^
+[0m9 warnings generated.

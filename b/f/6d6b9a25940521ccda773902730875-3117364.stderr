@@ -1,0 +1,10 @@
+[1m../../chrome/browser/resource_coordinator/tab_ranker/tab_score_predictor.cc:36:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_TAB_RANKER_EXAMPLE_PREPROCESSOR_CONFIG_PB);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/browser_resources.h:250:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_RANKER_EXAMPLE_PREPROCESSOR_CONFIG_PB'[0m
+#define IDR_TAB_RANKER_EXAMPLE_PREPROCESSOR_CONFIG_PB _Pragma("whitelisted_resource_11464") 11464
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11464
+[0;1;32m ^
+[0m1 warning generated.

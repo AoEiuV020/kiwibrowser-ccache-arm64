@@ -1,0 +1,325 @@
+[1m../../ui/views/bubble/bubble_border.cc:92:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_TL, IDR_BUBBLE_T, IDR_BUBBLE_TR,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:17:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_TL'[0m
+#define IDR_BUBBLE_TL _Pragma("whitelisted_resource_27462") 27462
+[0;1;32m                      ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27462
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:92:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_TL, IDR_BUBBLE_T, IDR_BUBBLE_TR,
+[0;1;32m                   ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:16:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_T'[0m
+#define IDR_BUBBLE_T _Pragma("whitelisted_resource_27461") 27461
+[0;1;32m                     ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27461
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:92:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_TL, IDR_BUBBLE_T, IDR_BUBBLE_TR,
+[0;1;32m                                 ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:18:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_TR'[0m
+#define IDR_BUBBLE_TR _Pragma("whitelisted_resource_27463") 27463
+[0;1;32m                      ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27463
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:93:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_L,  0,            IDR_BUBBLE_R,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:12:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_L'[0m
+#define IDR_BUBBLE_L _Pragma("whitelisted_resource_27457") 27457
+[0;1;32m                     ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27457
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:93:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_L,  0,            IDR_BUBBLE_R,
+[0;1;32m                                 ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:14:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_R'[0m
+#define IDR_BUBBLE_R _Pragma("whitelisted_resource_27459") 27459
+[0;1;32m                     ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27459
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:94:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_BL, IDR_BUBBLE_B, IDR_BUBBLE_BR };
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:9:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_BL'[0m
+#define IDR_BUBBLE_BL _Pragma("whitelisted_resource_27454") 27454
+[0;1;32m                      ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27454
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:94:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_BL, IDR_BUBBLE_B, IDR_BUBBLE_BR };
+[0;1;32m                   ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:8:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_B'[0m
+#define IDR_BUBBLE_B _Pragma("whitelisted_resource_27453") 27453
+[0;1;32m                     ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27453
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:94:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_BL, IDR_BUBBLE_B, IDR_BUBBLE_BR };
+[0;1;32m                                 ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:10:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_BR'[0m
+#define IDR_BUBBLE_BR _Pragma("whitelisted_resource_27455") 27455
+[0;1;32m                      ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27455
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:96:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_L_ARROW, IDR_BUBBLE_T_ARROW,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:13:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_L_ARROW'[0m
+#define IDR_BUBBLE_L_ARROW _Pragma("whitelisted_resource_27458") 27458
+[0;1;32m                           ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27458
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:96:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_L_ARROW, IDR_BUBBLE_T_ARROW,
+[0;1;32m                        ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:19:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_T_ARROW'[0m
+#define IDR_BUBBLE_T_ARROW _Pragma("whitelisted_resource_27464") 27464
+[0;1;32m                           ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27464
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:97:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_R_ARROW, IDR_BUBBLE_B_ARROW, };
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:15:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_R_ARROW'[0m
+#define IDR_BUBBLE_R_ARROW _Pragma("whitelisted_resource_27460") 27460
+[0;1;32m                           ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27460
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:97:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_BUBBLE_R_ARROW, IDR_BUBBLE_B_ARROW, };
+[0;1;32m                        ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:11:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUBBLE_B_ARROW'[0m
+#define IDR_BUBBLE_B_ARROW _Pragma("whitelisted_resource_27456") 27456
+[0;1;32m                           ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27456
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:100:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:187:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP_LEFT _Pragma("whitelisted_resource_27632") 27632
+[0;1;32m                                              ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27632
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:101:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:186:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP _Pragma("whitelisted_resource_27631") 27631
+[0;1;32m                                         ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27631
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:102:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP_RIGHT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:188:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_TOP_RIGHT _Pragma("whitelisted_resource_27633") 27633
+[0;1;32m                                               ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27633
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:103:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:184:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_LEFT _Pragma("whitelisted_resource_27629") 27629
+[0;1;32m                                          ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27629
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:105:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_RIGHT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:185:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_RIGHT _Pragma("whitelisted_resource_27630") 27630
+[0;1;32m                                           ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27630
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:106:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:182:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM_LEFT _Pragma("whitelisted_resource_27627") 27627
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27627
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:107:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:181:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM _Pragma("whitelisted_resource_27626") 27626
+[0;1;32m                                            ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27626
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:108:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM_RIGHT };
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:183:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_BIG_BOTTOM_RIGHT _Pragma("whitelisted_resource_27628") 27628
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27628
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:110:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:190:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_LEFT _Pragma("whitelisted_resource_27635") 27635
+[0;1;32m                                                ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27635
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:111:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_TOP,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:192:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_TOP'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_TOP _Pragma("whitelisted_resource_27637") 27637
+[0;1;32m                                               ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27637
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:112:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_RIGHT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:191:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_RIGHT _Pragma("whitelisted_resource_27636") 27636
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27636
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:113:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_BOTTOM };
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:189:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_BOTTOM'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_BIG_BOTTOM _Pragma("whitelisted_resource_27634") 27634
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27634
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:116:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:199:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP_LEFT _Pragma("whitelisted_resource_27644") 27644
+[0;1;32m                                                ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27644
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:117:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:198:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP _Pragma("whitelisted_resource_27643") 27643
+[0;1;32m                                           ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27643
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:118:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP_RIGHT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:200:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_TOP_RIGHT _Pragma("whitelisted_resource_27645") 27645
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27645
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:119:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:196:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_LEFT _Pragma("whitelisted_resource_27641") 27641
+[0;1;32m                                            ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27641
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:121:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_RIGHT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:197:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_RIGHT _Pragma("whitelisted_resource_27642") 27642
+[0;1;32m                                             ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27642
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:122:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:194:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM_LEFT _Pragma("whitelisted_resource_27639") 27639
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27639
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:123:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:193:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM _Pragma("whitelisted_resource_27638") 27638
+[0;1;32m                                              ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27638
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:124:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM_RIGHT };
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:195:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SMALL_BOTTOM_RIGHT _Pragma("whitelisted_resource_27640") 27640
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27640
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:126:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_LEFT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:202:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_LEFT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_LEFT _Pragma("whitelisted_resource_27647") 27647
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27647
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:127:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_TOP,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:204:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_TOP'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_TOP _Pragma("whitelisted_resource_27649") 27649
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27649
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:128:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_RIGHT,
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:203:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_RIGHT'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_RIGHT _Pragma("whitelisted_resource_27648") 27648
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27648
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_border.cc:129:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_BOTTOM };
+[0;1;32m    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:201:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_BOTTOM'[0m
+#define IDR_WINDOW_BUBBLE_SHADOW_SPIKE_SMALL_BOTTOM _Pragma("whitelisted_resource_27646") 27646
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27646
+[0;1;32m ^
+[0m36 warnings generated.

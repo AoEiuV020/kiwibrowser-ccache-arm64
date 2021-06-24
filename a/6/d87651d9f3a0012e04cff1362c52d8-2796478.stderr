@@ -1,0 +1,10 @@
+[1m../../components/bookmarks/managed/managed_bookmark_service.cc:112:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BOOKMARK_BAR_MANAGED_FOLDER_DEFAULT_NAME);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:108:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_MANAGED_FOLDER_DEFAULT_NAME'[0m
+#define IDS_BOOKMARK_BAR_MANAGED_FOLDER_DEFAULT_NAME _Pragma("whitelisted_resource_15206") 15206
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15206
+[0;1;32m ^
+[0m1 warning generated.

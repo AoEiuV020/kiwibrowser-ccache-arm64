@@ -1,0 +1,1342 @@
+[1m../../components/error_page/common/localized_error.cc:92:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:93:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_TIMED_OUT,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:221:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_TIMED_OUT'[0m
+#define IDS_ERRORPAGES_SUMMARY_TIMED_OUT _Pragma("whitelisted_resource_15321") 15321
+[0;1;32m                                         ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15321
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:99:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:100:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_TIMED_OUT,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:221:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_TIMED_OUT'[0m
+#define IDS_ERRORPAGES_SUMMARY_TIMED_OUT _Pragma("whitelisted_resource_15321") 15321
+[0;1;32m                                         ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15321
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:106:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:107:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:223:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED _Pragma("whitelisted_resource_15323") 15323
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15323
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:113:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:114:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_RESET,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:222:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_RESET'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_RESET _Pragma("whitelisted_resource_15322") 15322
+[0;1;32m                                                ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15322
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:120:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:121:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_REFUSED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:226:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_REFUSED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_REFUSED _Pragma("whitelisted_resource_15326") 15326
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15326
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:126:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:127:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_FAILED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:224:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_FAILED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_FAILED _Pragma("whitelisted_resource_15324") 15324
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15324
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:132:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:133:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:227:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED'[0m
+#define IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED _Pragma("whitelisted_resource_15327") 15327
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15327
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:139:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:140:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_ICANN_NAME_COLLISION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:228:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_ICANN_NAME_COLLISION'[0m
+#define IDS_ERRORPAGES_SUMMARY_ICANN_NAME_COLLISION _Pragma("whitelisted_resource_15328") 15328
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15328
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:145:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:146:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_ADDRESS_UNREACHABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:229:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_ADDRESS_UNREACHABLE'[0m
+#define IDS_ERRORPAGES_SUMMARY_ADDRESS_UNREACHABLE _Pragma("whitelisted_resource_15329") 15329
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15329
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:151:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NETWORK_ACCESS_DENIED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:213:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NETWORK_ACCESS_DENIED'[0m
+#define IDS_ERRORPAGES_HEADING_NETWORK_ACCESS_DENIED _Pragma("whitelisted_resource_15313") 15313
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15313
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:152:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NETWORK_ACCESS_DENIED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:231:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NETWORK_ACCESS_DENIED'[0m
+#define IDS_ERRORPAGES_SUMMARY_NETWORK_ACCESS_DENIED _Pragma("whitelisted_resource_15331") 15331
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15331
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:158:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:214:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED'[0m
+#define IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED _Pragma("whitelisted_resource_15314") 15314
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15314
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:159:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_PROXY_CONNECTION_FAILED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:232:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_PROXY_CONNECTION_FAILED'[0m
+#define IDS_ERRORPAGES_SUMMARY_PROXY_CONNECTION_FAILED _Pragma("whitelisted_resource_15332") 15332
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15332
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:164:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:214:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED'[0m
+#define IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED _Pragma("whitelisted_resource_15314") 15314
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15314
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:165:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:214:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED'[0m
+#define IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED _Pragma("whitelisted_resource_15314") 15314
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15314
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:170:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_FILE_NOT_FOUND,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:218:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_FILE_NOT_FOUND'[0m
+#define IDS_ERRORPAGES_HEADING_FILE_NOT_FOUND _Pragma("whitelisted_resource_15318") 15318
+[0;1;32m                                              ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15318
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:171:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_FILE_NOT_FOUND,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:236:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_FILE_NOT_FOUND'[0m
+#define IDS_ERRORPAGES_SUMMARY_FILE_NOT_FOUND _Pragma("whitelisted_resource_15336") 15336
+[0;1;32m                                              ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15336
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:176:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_CACHE_READ_FAILURE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:215:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_CACHE_READ_FAILURE'[0m
+#define IDS_ERRORPAGES_HEADING_CACHE_READ_FAILURE _Pragma("whitelisted_resource_15315") 15315
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15315
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:177:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CACHE_READ_FAILURE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:233:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CACHE_READ_FAILURE'[0m
+#define IDS_ERRORPAGES_SUMMARY_CACHE_READ_FAILURE _Pragma("whitelisted_resource_15333") 15333
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15333
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:182:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_CACHE_READ_FAILURE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:215:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_CACHE_READ_FAILURE'[0m
+#define IDS_ERRORPAGES_HEADING_CACHE_READ_FAILURE _Pragma("whitelisted_resource_15315") 15315
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15315
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:183:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CACHE_READ_FAILURE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:233:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CACHE_READ_FAILURE'[0m
+#define IDS_ERRORPAGES_SUMMARY_CACHE_READ_FAILURE _Pragma("whitelisted_resource_15333") 15333
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15333
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:188:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_CONNECTION_INTERRUPTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:216:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_CONNECTION_INTERRUPTED'[0m
+#define IDS_ERRORPAGES_HEADING_CONNECTION_INTERRUPTED _Pragma("whitelisted_resource_15316") 15316
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15316
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:189:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NETWORK_IO_SUSPENDED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:234:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NETWORK_IO_SUSPENDED'[0m
+#define IDS_ERRORPAGES_SUMMARY_NETWORK_IO_SUSPENDED _Pragma("whitelisted_resource_15334") 15334
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15334
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:194:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:195:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_TOO_MANY_REDIRECTS,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:237:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_TOO_MANY_REDIRECTS'[0m
+#define IDS_ERRORPAGES_SUMMARY_TOO_MANY_REDIRECTS _Pragma("whitelisted_resource_15337") 15337
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15337
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:200:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:201:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_EMPTY_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:238:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_EMPTY_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_EMPTY_RESPONSE _Pragma("whitelisted_resource_15338") 15338
+[0;1;32m                                              ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15338
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:206:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:207:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:239:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE _Pragma("whitelisted_resource_15339") 15339
+[0;1;32m                                                ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15339
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:212:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:213:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:239:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE _Pragma("whitelisted_resource_15339") 15339
+[0;1;32m                                                ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15339
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:218:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:219:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:239:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE _Pragma("whitelisted_resource_15339") 15339
+[0;1;32m                                                ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15339
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:224:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:225:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:239:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE _Pragma("whitelisted_resource_15339") 15339
+[0;1;32m                                                ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15339
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:230:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:231:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:223:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED _Pragma("whitelisted_resource_15323") 15323
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15323
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:236:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:237:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:223:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_CLOSED _Pragma("whitelisted_resource_15323") 15323
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15323
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:242:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:243:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:239:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE _Pragma("whitelisted_resource_15339") 15339
+[0;1;32m                                                ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15339
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:248:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:249:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:239:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE'[0m
+#define IDS_ERRORPAGES_SUMMARY_INVALID_RESPONSE _Pragma("whitelisted_resource_15339") 15339
+[0;1;32m                                                ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15339
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:254:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:255:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_BAD_SSL_CLIENT_AUTH_CERT,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:252:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_BAD_SSL_CLIENT_AUTH_CERT'[0m
+#define IDS_ERRORPAGES_SUMMARY_BAD_SSL_CLIENT_AUTH_CERT _Pragma("whitelisted_resource_15352") 15352
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15352
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:260:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:261:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_FAILED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:224:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_FAILED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_FAILED _Pragma("whitelisted_resource_15324") 15324
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:163:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15324
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:266:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:267:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_SSL_SECURITY_ERROR,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:249:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_SSL_SECURITY_ERROR'[0m
+#define IDS_ERRORPAGES_SUMMARY_SSL_SECURITY_ERROR _Pragma("whitelisted_resource_15349") 15349
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15349
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:272:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:169:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:273:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DETAILS,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:919:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DETAILS'[0m
+#define IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DETAILS _Pragma("whitelisted_resource_16052") 16052
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:171:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16052
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:278:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:173:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:279:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:220:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE _Pragma("whitelisted_resource_15320") 15320
+[0;1;32m                                             ^
+[0m[1m<scratch space>:175:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15320
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:284:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_BLOCKED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:219:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_BLOCKED'[0m
+#define IDS_ERRORPAGES_HEADING_BLOCKED _Pragma("whitelisted_resource_15319") 15319
+[0;1;32m                                       ^
+[0m[1m<scratch space>:177:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15319
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:285:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_EXTENSION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:253:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_EXTENSION'[0m
+#define IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_EXTENSION _Pragma("whitelisted_resource_15353") 15353
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:179:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15353
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:290:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:181:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:291:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_XSS_AUDITOR,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:254:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_XSS_AUDITOR'[0m
+#define IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_XSS_AUDITOR _Pragma("whitelisted_resource_15354") 15354
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:183:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15354
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:296:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_CONNECTION_INTERRUPTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:216:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_CONNECTION_INTERRUPTED'[0m
+#define IDS_ERRORPAGES_HEADING_CONNECTION_INTERRUPTED _Pragma("whitelisted_resource_15316") 15316
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:185:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15316
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:297:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NETWORK_CHANGED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:225:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NETWORK_CHANGED'[0m
+#define IDS_ERRORPAGES_SUMMARY_NETWORK_CHANGED _Pragma("whitelisted_resource_15325") 15325
+[0;1;32m                                               ^
+[0m[1m<scratch space>:187:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15325
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:302:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_BLOCKED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:219:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_BLOCKED'[0m
+#define IDS_ERRORPAGES_HEADING_BLOCKED _Pragma("whitelisted_resource_15319") 15319
+[0;1;32m                                       ^
+[0m[1m<scratch space>:189:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15319
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:303:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_ADMINISTRATOR,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:255:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_ADMINISTRATOR'[0m
+#define IDS_ERRORPAGES_SUMMARY_BLOCKED_BY_ADMINISTRATOR _Pragma("whitelisted_resource_15355") 15355
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:191:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15355
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:308:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:214:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED'[0m
+#define IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED _Pragma("whitelisted_resource_15314") 15314
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15314
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:309:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_BLOCKED_ENROLLMENT_CHECK_PENDING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_chromium_strings.h:5:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_BLOCKED_ENROLLMENT_CHECK_PENDING'[0m
+#define IDS_ERRORPAGES_SUMMARY_BLOCKED_ENROLLMENT_CHECK_PENDING _Pragma("whitelisted_resource_15042") 15042
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:195:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15042
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:314:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:197:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:315:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_SSL_VERSION_OR_CIPHER_MISMATCH,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:250:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_SSL_VERSION_OR_CIPHER_MISMATCH'[0m
+#define IDS_ERRORPAGES_SUMMARY_SSL_VERSION_OR_CIPHER_MISMATCH _Pragma("whitelisted_resource_15350") 15350
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:199:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15350
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:320:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:201:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:321:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_SSL_VERSION_OR_CIPHER_MISMATCH,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:250:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_SSL_VERSION_OR_CIPHER_MISMATCH'[0m
+#define IDS_ERRORPAGES_SUMMARY_SSL_VERSION_OR_CIPHER_MISMATCH _Pragma("whitelisted_resource_15350") 15350
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:203:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15350
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:326:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:251:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION'[0m
+#define IDS_ERRORPAGES_HEADING_INSECURE_CONNECTION _Pragma("whitelisted_resource_15351") 15351
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:205:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15351
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:327:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_SSL_SECURITY_ERROR,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:249:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_SSL_SECURITY_ERROR'[0m
+#define IDS_ERRORPAGES_SUMMARY_SSL_SECURITY_ERROR _Pragma("whitelisted_resource_15349") 15349
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:207:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15349
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:332:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_BLOCKED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:219:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_BLOCKED'[0m
+#define IDS_ERRORPAGES_HEADING_BLOCKED _Pragma("whitelisted_resource_15319") 15319
+[0;1;32m                                       ^
+[0m[1m<scratch space>:209:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15319
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:333:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_CONNECTION_REFUSED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:226:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONNECTION_REFUSED'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONNECTION_REFUSED _Pragma("whitelisted_resource_15326") 15326
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:211:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15326
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:345:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_HTTP_POST_WARNING_TITLE,
+[0;1;32m  ^
+[0m[1mgen/components/strings/grit/components_strings.h:167:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HTTP_POST_WARNING_TITLE'[0m
+#define IDS_HTTP_POST_WARNING_TITLE _Pragma("whitelisted_resource_15266") 15266
+[0;1;32m                                    ^
+[0m[1m<scratch space>:213:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15266
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:346:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_ERRORPAGES_HTTP_POST_WARNING,
+[0;1;32m  ^
+[0m[1mgen/components/strings/grit/components_strings.h:256:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HTTP_POST_WARNING'[0m
+#define IDS_ERRORPAGES_HTTP_POST_WARNING _Pragma("whitelisted_resource_15356") 15356
+[0;1;32m                                         ^
+[0m[1m<scratch space>:215:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15356
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:353:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        403, IDS_ERRORPAGES_HEADING_ACCESS_DENIED,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:241:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_ACCESS_DENIED'[0m
+#define IDS_ERRORPAGES_HEADING_ACCESS_DENIED _Pragma("whitelisted_resource_15341") 15341
+[0;1;32m                                             ^
+[0m[1m<scratch space>:217:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15341
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:354:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUMMARY_FORBIDDEN, SUGGEST_NONE, SHOW_BUTTON_RELOAD,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:243:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_FORBIDDEN'[0m
+#define IDS_ERRORPAGES_SUMMARY_FORBIDDEN _Pragma("whitelisted_resource_15343") 15343
+[0;1;32m                                         ^
+[0m[1m<scratch space>:219:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15343
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:357:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        404, IDS_ERRORPAGES_HEADING_NOT_FOUND, IDS_ERRORPAGES_SUMMARY_NOT_FOUND,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:217:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_FOUND'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_FOUND _Pragma("whitelisted_resource_15317") 15317
+[0;1;32m                                         ^
+[0m[1m<scratch space>:221:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15317
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:357:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        404, IDS_ERRORPAGES_HEADING_NOT_FOUND, IDS_ERRORPAGES_SUMMARY_NOT_FOUND,
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:235:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NOT_FOUND'[0m
+#define IDS_ERRORPAGES_SUMMARY_NOT_FOUND _Pragma("whitelisted_resource_15335") 15335
+[0;1;32m                                         ^
+[0m[1m<scratch space>:223:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15335
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:361:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        410, IDS_ERRORPAGES_HEADING_NOT_FOUND, IDS_ERRORPAGES_SUMMARY_GONE,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:217:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_FOUND'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_FOUND _Pragma("whitelisted_resource_15317") 15317
+[0;1;32m                                         ^
+[0m[1m<scratch space>:225:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15317
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:361:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        410, IDS_ERRORPAGES_HEADING_NOT_FOUND, IDS_ERRORPAGES_SUMMARY_GONE,
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:244:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_GONE'[0m
+#define IDS_ERRORPAGES_SUMMARY_GONE _Pragma("whitelisted_resource_15344") 15344
+[0;1;32m                                    ^
+[0m[1m<scratch space>:227:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15344
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:366:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        500, IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:367:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST, SUGGEST_NONE,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:247:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST'[0m
+#define IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST _Pragma("whitelisted_resource_15347") 15347
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15347
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:371:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        501, IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:372:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST, SUGGEST_NONE,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:247:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST'[0m
+#define IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST _Pragma("whitelisted_resource_15347") 15347
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15347
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:376:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        502, IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:377:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST, SUGGEST_NONE,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:247:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST'[0m
+#define IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST _Pragma("whitelisted_resource_15347") 15347
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15347
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:381:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        503, IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:382:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST, SUGGEST_NONE,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:247:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST'[0m
+#define IDS_ERRORPAGES_SUMMARY_WEBSITE_CANNOT_HANDLE_REQUEST _Pragma("whitelisted_resource_15347") 15347
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15347
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:386:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        504, IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:387:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUMMARY_GATEWAY_TIMEOUT, SUGGEST_NONE,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:248:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_GATEWAY_TIMEOUT'[0m
+#define IDS_ERRORPAGES_SUMMARY_GATEWAY_TIMEOUT _Pragma("whitelisted_resource_15348") 15348
+[0;1;32m                                               ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15348
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:394:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING,
+[0;1;32m    ^
+[0m[1mgen/components/strings/grit/components_strings.h:245:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING'[0m
+#define IDS_ERRORPAGES_HEADING_PAGE_NOT_WORKING _Pragma("whitelisted_resource_15345") 15345
+[0;1;32m                                                ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15345
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:395:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_ERRORPAGES_SUMMARY_CONTACT_SITE_OWNER,
+[0;1;32m    ^
+[0m[1mgen/components/strings/grit/components_strings.h:246:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_CONTACT_SITE_OWNER'[0m
+#define IDS_ERRORPAGES_SUMMARY_CONTACT_SITE_OWNER _Pragma("whitelisted_resource_15346") 15346
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15346
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:402:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:403:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_DNS_PROBE_RUNNING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:240:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_DNS_PROBE_RUNNING'[0m
+#define IDS_ERRORPAGES_SUMMARY_DNS_PROBE_RUNNING _Pragma("whitelisted_resource_15340") 15340
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15340
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:412:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:413:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_DNS_PROBE_RUNNING,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:240:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_DNS_PROBE_RUNNING'[0m
+#define IDS_ERRORPAGES_SUMMARY_DNS_PROBE_RUNNING _Pragma("whitelisted_resource_15340") 15340
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15340
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:423:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:214:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED'[0m
+#define IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED _Pragma("whitelisted_resource_15314") 15314
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15314
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:424:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:214:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED'[0m
+#define IDS_ERRORPAGES_HEADING_INTERNET_DISCONNECTED _Pragma("whitelisted_resource_15314") 15314
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15314
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:429:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:430:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:227:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED'[0m
+#define IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED _Pragma("whitelisted_resource_15327") 15327
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15327
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:436:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:437:4: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+   IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED,
+[0;1;32m   ^
+[0m[1mgen/components/strings/grit/components_strings.h:227:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED'[0m
+#define IDS_ERRORPAGES_SUMMARY_NAME_NOT_RESOLVED _Pragma("whitelisted_resource_15327") 15327
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15327
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:488:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SETTINGS_TITLE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:147:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_TITLE'[0m
+#define IDS_SETTINGS_TITLE _Pragma("whitelisted_resource_15246") 15246
+[0;1;32m                           ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15246
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:490:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SETTINGS_SHOW_ADVANCED_SETTINGS));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:149:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_SHOW_ADVANCED_SETTINGS'[0m
+#define IDS_SETTINGS_SHOW_ADVANCED_SETTINGS _Pragma("whitelisted_resource_15248") 15248
+[0;1;32m                                            ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15248
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:525:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY));
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:190:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY'[0m
+#define IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY _Pragma("whitelisted_resource_15289") 15289
+[0;1;32m                                              ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15289
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:561:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ERRORPAGES_SUGGESTION_LEARNMORE_SUMMARY_STANDALONE) :
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:266:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_LEARNMORE_SUMMARY_STANDALONE'[0m
+#define IDS_ERRORPAGES_SUGGESTION_LEARNMORE_SUMMARY_STANDALONE _Pragma("whitelisted_resource_15366") 15366
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15366
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:562:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ERRORPAGES_SUGGESTION_LEARNMORE_SUMMARY);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:265:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_LEARNMORE_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_LEARNMORE_SUMMARY _Pragma("whitelisted_resource_15365") 15365
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15365
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:571:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ERRORPAGES_SUGGESTION_CLEAR_COOKIES_SUMMARY);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:267:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CLEAR_COOKIES_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CLEAR_COOKIES_SUMMARY _Pragma("whitelisted_resource_15367") 15367
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15367
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:626:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_CONTACT_ADMIN_SUMMARY_STANDALONE, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:264:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CONTACT_ADMIN_SUMMARY_STANDALONE'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CONTACT_ADMIN_SUMMARY_STANDALONE _Pragma("whitelisted_resource_15364") 15364
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15364
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:631:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_CONTACT_ADMIN_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:263:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CONTACT_ADMIN_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CONTACT_ADMIN_SUMMARY _Pragma("whitelisted_resource_15363") 15363
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15363
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:638:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_DIAGNOSE_CONNECTION_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:273:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_DIAGNOSE_CONNECTION_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_DIAGNOSE_CONNECTION_SUMMARY _Pragma("whitelisted_resource_15373") 15373
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15373
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:640:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_COMPLETE_SETUP_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:274:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_COMPLETE_SETUP_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_COMPLETE_SETUP_SUMMARY _Pragma("whitelisted_resource_15374") 15374
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15374
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:653:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_RELOAD_REPOST_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:198:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_RELOAD_REPOST_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_RELOAD_REPOST_SUMMARY _Pragma("whitelisted_resource_15297") 15297
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15297
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:668:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                              IDS_ERRORPAGES_SUGGESTION_NAVIGATE_TO_ORIGIN));
+[0;1;32m                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:211:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_NAVIGATE_TO_ORIGIN'[0m
+#define IDS_ERRORPAGES_SUGGESTION_NAVIGATE_TO_ORIGIN _Pragma("whitelisted_resource_15311") 15311
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15311
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:689:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_DISABLE_EXTENSION_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:275:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_DISABLE_EXTENSION_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_DISABLE_EXTENSION_SUMMARY _Pragma("whitelisted_resource_15375") 15375
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15375
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:696:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:258:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_SUMMARY _Pragma("whitelisted_resource_15358") 15358
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15358
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:726:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_TURN_OFF_AIRPLANE_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:268:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_TURN_OFF_AIRPLANE_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_TURN_OFF_AIRPLANE_SUMMARY _Pragma("whitelisted_resource_15368") 15368
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15368
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:728:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_TURN_ON_DATA_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:269:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_TURN_ON_DATA_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_TURN_ON_DATA_SUMMARY _Pragma("whitelisted_resource_15369") 15369
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15369
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:730:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_CHECKING_SIGNAL_SUMMARY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:270:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CHECKING_SIGNAL_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CHECKING_SIGNAL_SUMMARY _Pragma("whitelisted_resource_15370") 15370
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15370
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:759:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_ERRORPAGES_SUGGESTION_LIST_HEADER));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:257:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_LIST_HEADER'[0m
+#define IDS_ERRORPAGES_SUGGESTION_LIST_HEADER _Pragma("whitelisted_resource_15357") 15357
+[0;1;32m                                              ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15357
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:799:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_HEADER,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:199:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_HEADER'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_HEADER _Pragma("whitelisted_resource_15298") 15298
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15298
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:800:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_BODY, false);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:200:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_BODY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_CHECK_CONNECTION_BODY _Pragma("whitelisted_resource_15299") 15299
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15299
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:846:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_VIEW_POLICIES_HEADER,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:207:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_VIEW_POLICIES_HEADER'[0m
+#define IDS_ERRORPAGES_SUGGESTION_VIEW_POLICIES_HEADER _Pragma("whitelisted_resource_15307") 15307
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15307
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:847:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_VIEW_POLICIES_BODY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:208:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_VIEW_POLICIES_BODY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_VIEW_POLICIES_BODY _Pragma("whitelisted_resource_15308") 15308
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15308
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:852:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_UNSUPPORTED_CIPHER_HEADER,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:209:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_UNSUPPORTED_CIPHER_HEADER'[0m
+#define IDS_ERRORPAGES_SUGGESTION_UNSUPPORTED_CIPHER_HEADER _Pragma("whitelisted_resource_15309") 15309
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15309
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:853:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_UNSUPPORTED_CIPHER_BODY, false);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:210:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_UNSUPPORTED_CIPHER_BODY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_UNSUPPORTED_CIPHER_BODY _Pragma("whitelisted_resource_15310") 15310
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15310
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:880:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_ERRORPAGES_HEADING_NOT_AVAILABLE,
+[0;1;32m    ^
+[0m[1mgen/components/strings/grit/components_strings.h:212:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_HEADING_NOT_AVAILABLE _Pragma("whitelisted_resource_15312") 15312
+[0;1;32m                                             ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15312
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:881:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE,
+[0;1;32m    ^
+[0m[1mgen/components/strings/grit/components_strings.h:220:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE _Pragma("whitelisted_resource_15320") 15320
+[0;1;32m                                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15320
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:897:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    options.heading_resource_id = IDS_ERRORPAGES_HEADING_FILE_ACCESS_DENIED;
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:242:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_HEADING_FILE_ACCESS_DENIED'[0m
+#define IDS_ERRORPAGES_HEADING_FILE_ACCESS_DENIED _Pragma("whitelisted_resource_15342") 15342
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15342
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:898:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    options.summary_resource_id = IDS_ERRORPAGES_SUMMARY_FILE_ACCESS_DENIED;
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:230:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_FILE_ACCESS_DENIED'[0m
+#define IDS_ERRORPAGES_SUMMARY_FILE_ACCESS_DENIED _Pragma("whitelisted_resource_15330") 15330
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15330
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:938:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_ERRORPAGE_FUN_DISABLED));
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:192:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGE_FUN_DISABLED'[0m
+#define IDS_ERRORPAGE_FUN_DISABLED _Pragma("whitelisted_resource_15291") 15291
+[0;1;32m                                   ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15291
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:951:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "details", l10n_util::GetStringUTF16(IDS_ERRORPAGE_NET_BUTTON_DETAILS));
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:187:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGE_NET_BUTTON_DETAILS'[0m
+#define IDS_ERRORPAGE_NET_BUTTON_DETAILS _Pragma("whitelisted_resource_15286") 15286
+[0;1;32m                                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15286
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:954:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_ERRORPAGE_NET_BUTTON_HIDE_DETAILS));
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:188:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGE_NET_BUTTON_HIDE_DETAILS'[0m
+#define IDS_ERRORPAGE_NET_BUTTON_HIDE_DETAILS _Pragma("whitelisted_resource_15287") 15287
+[0;1;32m                                              ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15287
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:998:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_ERRORPAGES_SUGGESTION_GOOGLE_SEARCH_SUMMARY));
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:276:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUGGESTION_GOOGLE_SEARCH_SUMMARY'[0m
+#define IDS_ERRORPAGES_SUGGESTION_GOOGLE_SEARCH_SUMMARY _Pragma("whitelisted_resource_15376") 15376
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15376
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1018:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        "msg", l10n_util::GetStringUTF16(IDS_ERRORPAGES_BUTTON_RELOAD));
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:189:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_RELOAD'[0m
+#define IDS_ERRORPAGES_BUTTON_RELOAD _Pragma("whitelisted_resource_15288") 15288
+[0;1;32m                                     ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15288
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1058:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY));
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:190:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY'[0m
+#define IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY _Pragma("whitelisted_resource_15289") 15289
+[0;1;32m                                              ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15289
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1061:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY_HELP));
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:191:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY_HELP'[0m
+#define IDS_ERRORPAGES_BUTTON_SHOW_SAVED_COPY_HELP _Pragma("whitelisted_resource_15290") 15290
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15290
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1075:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        base::Value(l10n_util::GetStringUTF16(IDS_ERRORPAGES_BUTTON_DOWNLOAD)));
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:193:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_DOWNLOAD'[0m
+#define IDS_ERRORPAGES_BUTTON_DOWNLOAD _Pragma("whitelisted_resource_15292") 15292
+[0;1;32m                                       ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15292
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1078:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDS_ERRORPAGES_BUTTON_DOWNLOADING)));
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:194:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_DOWNLOADING'[0m
+#define IDS_ERRORPAGES_BUTTON_DOWNLOADING _Pragma("whitelisted_resource_15293") 15293
+[0;1;32m                                          ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15293
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1085:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          base::Value(l10n_util::GetStringUTF16(IDS_ERRORPAGES_BUTTON_RELOAD)));
+[0;1;32m                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:189:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_BUTTON_RELOAD'[0m
+#define IDS_ERRORPAGES_BUTTON_RELOAD _Pragma("whitelisted_resource_15288") 15288
+[0;1;32m                                     ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15288
+[0;1;32m ^
+[0m[1m../../components/error_page/common/localized_error.cc:1100:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:220:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE'[0m
+#define IDS_ERRORPAGES_SUMMARY_NOT_AVAILABLE _Pragma("whitelisted_resource_15320") 15320
+[0;1;32m                                             ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15320
+[0;1;32m ^
+[0m149 warnings generated.

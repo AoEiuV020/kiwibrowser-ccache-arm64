@@ -1,0 +1,91 @@
+[1m../../components/payments/core/payments_profile_comparator.cc:267:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_NAME_REQUIRED);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:576:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_NAME_REQUIRED'[0m
+#define IDS_PAYMENTS_NAME_REQUIRED _Pragma("whitelisted_resource_15702") 15702
+[0;1;32m                                   ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15702
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:269:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_PHONE_NUMBER_REQUIRED);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:573:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PHONE_NUMBER_REQUIRED'[0m
+#define IDS_PAYMENTS_PHONE_NUMBER_REQUIRED _Pragma("whitelisted_resource_15699") 15699
+[0;1;32m                                           ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15699
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:271:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_EMAIL_REQUIRED);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:575:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EMAIL_REQUIRED'[0m
+#define IDS_PAYMENTS_EMAIL_REQUIRED _Pragma("whitelisted_resource_15701") 15701
+[0;1;32m                                    ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15701
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:273:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_INVALID_ADDRESS);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:568:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_INVALID_ADDRESS'[0m
+#define IDS_PAYMENTS_INVALID_ADDRESS _Pragma("whitelisted_resource_15694") 15694
+[0;1;32m                                     ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15694
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:278:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_MORE_INFORMATION_REQUIRED);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:572:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_MORE_INFORMATION_REQUIRED'[0m
+#define IDS_PAYMENTS_MORE_INFORMATION_REQUIRED _Pragma("whitelisted_resource_15698") 15698
+[0;1;32m                                               ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15698
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:289:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_NAME);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:510:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_NAME'[0m
+#define IDS_PAYMENTS_ADD_NAME _Pragma("whitelisted_resource_15618") 15618
+[0;1;32m                              ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15618
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:291:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_PHONE_NUMBER);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:506:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_PHONE_NUMBER'[0m
+#define IDS_PAYMENTS_ADD_PHONE_NUMBER _Pragma("whitelisted_resource_15614") 15614
+[0;1;32m                                      ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15614
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:293:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_EMAIL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:509:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_EMAIL'[0m
+#define IDS_PAYMENTS_ADD_EMAIL _Pragma("whitelisted_resource_15617") 15617
+[0;1;32m                               ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15617
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:295:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_VALID_ADDRESS);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:508:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_VALID_ADDRESS'[0m
+#define IDS_PAYMENTS_ADD_VALID_ADDRESS _Pragma("whitelisted_resource_15616") 15616
+[0;1;32m                                       ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15616
+[0;1;32m ^
+[0m[1m../../components/payments/core/payments_profile_comparator.cc:300:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_MORE_INFORMATION);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:504:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_MORE_INFORMATION'[0m
+#define IDS_PAYMENTS_ADD_MORE_INFORMATION _Pragma("whitelisted_resource_15612") 15612
+[0;1;32m                                          ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15612
+[0;1;32m ^
+[0m10 warnings generated.

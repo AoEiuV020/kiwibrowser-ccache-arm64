@@ -1,0 +1,145 @@
+[1m../../components/crash/core/browser/crashes_ui_util.cc:21:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"bugLinkText", IDS_CRASH_BUG_LINK_LABEL},
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:161:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_BUG_LINK_LABEL'[0m
+#define IDS_CRASH_BUG_LINK_LABEL _Pragma("whitelisted_resource_15260") 15260
+[0;1;32m                                 ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15260
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:22:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashCountFormat", IDS_CRASH_CRASH_COUNT_BANNER_FORMAT},
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:153:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CRASH_COUNT_BANNER_FORMAT'[0m
+#define IDS_CRASH_CRASH_COUNT_BANNER_FORMAT _Pragma("whitelisted_resource_15252") 15252
+[0;1;32m                                            ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15252
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:23:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashHeaderFormat", IDS_CRASH_CRASH_HEADER_FORMAT},
+[0;1;32m                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:154:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CRASH_HEADER_FORMAT'[0m
+#define IDS_CRASH_CRASH_HEADER_FORMAT _Pragma("whitelisted_resource_15253") 15253
+[0;1;32m                                      ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15253
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:24:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashHeaderFormatLocalOnly", IDS_CRASH_CRASH_HEADER_FORMAT_LOCAL_ONLY},
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:155:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CRASH_HEADER_FORMAT_LOCAL_ONLY'[0m
+#define IDS_CRASH_CRASH_HEADER_FORMAT_LOCAL_ONLY _Pragma("whitelisted_resource_15254") 15254
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15254
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:25:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashUploadTimeFormat", IDS_CRASH_UPLOAD_TIME_FORMAT},
+[0;1;32m                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:156:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_UPLOAD_TIME_FORMAT'[0m
+#define IDS_CRASH_UPLOAD_TIME_FORMAT _Pragma("whitelisted_resource_15255") 15255
+[0;1;32m                                     ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15255
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:27:6: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+     IDS_CRASH_CAPTURE_AND_UPLOAD_TIME_FORMAT},
+[0;1;32m     ^
+[0m[1mgen/components/strings/grit/components_strings.h:157:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CAPTURE_AND_UPLOAD_TIME_FORMAT'[0m
+#define IDS_CRASH_CAPTURE_AND_UPLOAD_TIME_FORMAT _Pragma("whitelisted_resource_15256") 15256
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15256
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:28:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashNotUploaded", IDS_CRASH_CRASH_NOT_UPLOADED},
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:158:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CRASH_NOT_UPLOADED'[0m
+#define IDS_CRASH_CRASH_NOT_UPLOADED _Pragma("whitelisted_resource_15257") 15257
+[0;1;32m                                     ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15257
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:29:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashUserRequested", IDS_CRASH_CRASH_USER_REQUESTED},
+[0;1;32m                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:160:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CRASH_USER_REQUESTED'[0m
+#define IDS_CRASH_CRASH_USER_REQUESTED _Pragma("whitelisted_resource_15259") 15259
+[0;1;32m                                       ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15259
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:30:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashPending", IDS_CRASH_CRASH_PENDING},
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:159:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_CRASH_PENDING'[0m
+#define IDS_CRASH_CRASH_PENDING _Pragma("whitelisted_resource_15258") 15258
+[0;1;32m                                ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15258
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:31:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashesTitle", IDS_CRASH_TITLE},
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:152:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_TITLE'[0m
+#define IDS_CRASH_TITLE _Pragma("whitelisted_resource_15251") 15251
+[0;1;32m                        ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15251
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:32:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"disabledHeader", IDS_CRASH_DISABLED_HEADER},
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:163:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_DISABLED_HEADER'[0m
+#define IDS_CRASH_DISABLED_HEADER _Pragma("whitelisted_resource_15262") 15262
+[0;1;32m                                  ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15262
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:33:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"disabledMessage", IDS_CRASH_DISABLED_MESSAGE},
+[0;1;32m                        ^
+[0m[1mgen/components/strings/grit/components_chromium_strings.h:7:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_DISABLED_MESSAGE'[0m
+#define IDS_CRASH_DISABLED_MESSAGE _Pragma("whitelisted_resource_15045") 15045
+[0;1;32m                                   ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15045
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:34:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"noCrashesMessage", IDS_CRASH_NO_CRASHES_MESSAGE},
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:162:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_NO_CRASHES_MESSAGE'[0m
+#define IDS_CRASH_NO_CRASHES_MESSAGE _Pragma("whitelisted_resource_15261") 15261
+[0;1;32m                                     ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15261
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:35:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"uploadCrashesLinkText", IDS_CRASH_UPLOAD_MESSAGE},
+[0;1;32m                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:164:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_UPLOAD_MESSAGE'[0m
+#define IDS_CRASH_UPLOAD_MESSAGE _Pragma("whitelisted_resource_15263") 15263
+[0;1;32m                                 ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15263
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:36:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"uploadNowLinkText", IDS_CRASH_UPLOAD_NOW_LINK_TEXT},
+[0;1;32m                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:165:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_UPLOAD_NOW_LINK_TEXT'[0m
+#define IDS_CRASH_UPLOAD_NOW_LINK_TEXT _Pragma("whitelisted_resource_15264") 15264
+[0;1;32m                                       ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15264
+[0;1;32m ^
+[0m[1m../../components/crash/core/browser/crashes_ui_util.cc:37:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"crashSizeMessage", IDS_CRASH_SIZE_MESSAGE},
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:166:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CRASH_SIZE_MESSAGE'[0m
+#define IDS_CRASH_SIZE_MESSAGE _Pragma("whitelisted_resource_15265") 15265
+[0;1;32m                               ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15265
+[0;1;32m ^
+[0m16 warnings generated.

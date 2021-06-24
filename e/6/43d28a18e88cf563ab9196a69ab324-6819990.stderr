@@ -1,0 +1,199 @@
+[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:21:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_ADAPTER_MOJO_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:27:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_ADAPTER_MOJO_JS'[0m
+#define IDR_BLUETOOTH_ADAPTER_MOJO_JS _Pragma("whitelisted_resource_11013") 11013
+[0;1;32m                                      ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11013
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:23:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_ADAPTER_BROKER_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:31:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_ADAPTER_BROKER_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_ADAPTER_BROKER_JS _Pragma("whitelisted_resource_11017") 11017
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11017
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:25:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_ADAPTER_PAGE_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:32:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_ADAPTER_PAGE_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_ADAPTER_PAGE_JS _Pragma("whitelisted_resource_11018") 11018
+[0;1;32m                                                ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11018
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:27:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_CSS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:30:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_CSS'[0m
+#define IDR_BLUETOOTH_INTERNALS_CSS _Pragma("whitelisted_resource_11016") 11016
+[0;1;32m                                    ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11016
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:29:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:42:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_JS _Pragma("whitelisted_resource_11028") 11028
+[0;1;32m                                   ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11028
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:31:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_MOJO_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:43:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_MOJO_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_MOJO_JS _Pragma("whitelisted_resource_11029") 11029
+[0;1;32m                                        ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11029
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:33:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_CHARACTERISTIC_LIST_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:33:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_CHARACTERISTIC_LIST_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_CHARACTERISTIC_LIST_JS _Pragma("whitelisted_resource_11019") 11019
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11019
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:35:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_DESCRIPTOR_LIST_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:34:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_DESCRIPTOR_LIST_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_DESCRIPTOR_LIST_JS _Pragma("whitelisted_resource_11020") 11020
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11020
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:36:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("device.mojom.js", IDR_BLUETOOTH_DEVICE_MOJO_JS);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:28:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_DEVICE_MOJO_JS'[0m
+#define IDR_BLUETOOTH_DEVICE_MOJO_JS _Pragma("whitelisted_resource_11014") 11014
+[0;1;32m                                     ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11014
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:38:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_DEVICE_BROKER_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:35:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_DEVICE_BROKER_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_DEVICE_BROKER_JS _Pragma("whitelisted_resource_11021") 11021
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11021
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:40:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_DEVICE_COLLECTION_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:36:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_DEVICE_COLLECTION_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_DEVICE_COLLECTION_JS _Pragma("whitelisted_resource_11022") 11022
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11022
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:42:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_DEVICE_DETAILS_PAGE_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:37:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_DEVICE_DETAILS_PAGE_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_DEVICE_DETAILS_PAGE_JS _Pragma("whitelisted_resource_11023") 11023
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11023
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:44:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_DEVICE_TABLE_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:38:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_DEVICE_TABLE_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_DEVICE_TABLE_JS _Pragma("whitelisted_resource_11024") 11024
+[0;1;32m                                                ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11024
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:46:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_DEVICES_PAGE_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:39:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_DEVICES_PAGE_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_DEVICES_PAGE_JS _Pragma("whitelisted_resource_11025") 11025
+[0;1;32m                                                ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11025
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:48:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_EXPANDABLE_LIST_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:40:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_EXPANDABLE_LIST_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_EXPANDABLE_LIST_JS _Pragma("whitelisted_resource_11026") 11026
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11026
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:50:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_OBJECT_FIELDSET_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:44:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_OBJECT_FIELDSET_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_OBJECT_FIELDSET_JS _Pragma("whitelisted_resource_11030") 11030
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11030
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:52:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_SERVICE_LIST_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:45:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_SERVICE_LIST_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_SERVICE_LIST_JS _Pragma("whitelisted_resource_11031") 11031
+[0;1;32m                                                ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11031
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:54:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_SIDEBAR_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:46:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_SIDEBAR_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_SIDEBAR_JS _Pragma("whitelisted_resource_11032") 11032
+[0;1;32m                                           ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11032
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:56:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_SNACKBAR_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:47:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_SNACKBAR_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_SNACKBAR_JS _Pragma("whitelisted_resource_11033") 11033
+[0;1;32m                                            ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11033
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:57:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->AddResourcePath("uuid.mojom.js", IDR_BLUETOOTH_UUID_MOJO_JS);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/browser_resources.h:29:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_UUID_MOJO_JS'[0m
+#define IDR_BLUETOOTH_UUID_MOJO_JS _Pragma("whitelisted_resource_11015") 11015
+[0;1;32m                                   ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11015
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:59:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               IDR_BLUETOOTH_INTERNALS_VALUE_CONTROL_JS);
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_VALUE_CONTROL_JS'[0m
+#define IDR_BLUETOOTH_INTERNALS_VALUE_CONTROL_JS _Pragma("whitelisted_resource_11034") 11034
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11034
+[0;1;32m ^
+[0m[1m../../chrome/browser/ui/webui/bluetooth_internals/bluetooth_internals_ui.cc:61:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  html_source->SetDefaultResource(IDR_BLUETOOTH_INTERNALS_HTML);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:41:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUETOOTH_INTERNALS_HTML'[0m
+#define IDR_BLUETOOTH_INTERNALS_HTML _Pragma("whitelisted_resource_11027") 11027
+[0;1;32m                                     ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11027
+[0;1;32m ^
+[0m22 warnings generated.

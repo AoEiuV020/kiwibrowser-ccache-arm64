@@ -1,0 +1,460 @@
+[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:12:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item_behavior.html", IDR_MD_EXTENSIONS_ITEM_BEHAVIOR_HTML},
+[0;1;32m                         ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:5:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_BEHAVIOR_HTML'[0m
+#define IDR_MD_EXTENSIONS_ITEM_BEHAVIOR_HTML _Pragma("whitelisted_resource_11910") 11910
+[0;1;32m                                             ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11910
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:13:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item_behavior.js", IDR_MD_EXTENSIONS_ITEM_BEHAVIOR_JS},
+[0;1;32m                       ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:6:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_BEHAVIOR_JS'[0m
+#define IDR_MD_EXTENSIONS_ITEM_BEHAVIOR_JS _Pragma("whitelisted_resource_11911") 11911
+[0;1;32m                                           ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11911
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:14:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"extensions.html", IDR_MD_EXTENSIONS_EXTENSIONS_HTML},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:7:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_EXTENSIONS_HTML'[0m
+#define IDR_MD_EXTENSIONS_EXTENSIONS_HTML _Pragma("whitelisted_resource_11912") 11912
+[0;1;32m                                          ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11912
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:15:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"code_section.html", IDR_MD_EXTENSIONS_CODE_SECTION_HTML},
+[0;1;32m                        ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:8:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_CODE_SECTION_HTML'[0m
+#define IDR_MD_EXTENSIONS_CODE_SECTION_HTML _Pragma("whitelisted_resource_11913") 11913
+[0;1;32m                                            ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11913
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:16:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"code_section.js", IDR_MD_EXTENSIONS_CODE_SECTION_JS},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:9:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_CODE_SECTION_JS'[0m
+#define IDR_MD_EXTENSIONS_CODE_SECTION_JS _Pragma("whitelisted_resource_11914") 11914
+[0;1;32m                                          ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11914
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:17:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"detail_view.html", IDR_MD_EXTENSIONS_DETAIL_VIEW_HTML},
+[0;1;32m                       ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:10:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_DETAIL_VIEW_HTML'[0m
+#define IDR_MD_EXTENSIONS_DETAIL_VIEW_HTML _Pragma("whitelisted_resource_11915") 11915
+[0;1;32m                                           ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11915
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:18:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"detail_view.js", IDR_MD_EXTENSIONS_DETAIL_VIEW_JS},
+[0;1;32m                     ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:11:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_DETAIL_VIEW_JS'[0m
+#define IDR_MD_EXTENSIONS_DETAIL_VIEW_JS _Pragma("whitelisted_resource_11916") 11916
+[0;1;32m                                         ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11916
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:19:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"drag_and_drop_handler.html", IDR_MD_EXTENSIONS_DRAG_AND_DROP_HANDLER_HTML},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:12:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_DRAG_AND_DROP_HANDLER_HTML'[0m
+#define IDR_MD_EXTENSIONS_DRAG_AND_DROP_HANDLER_HTML _Pragma("whitelisted_resource_11917") 11917
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11917
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:20:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"drag_and_drop_handler.js", IDR_MD_EXTENSIONS_DRAG_AND_DROP_HANDLER_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:13:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_DRAG_AND_DROP_HANDLER_JS'[0m
+#define IDR_MD_EXTENSIONS_DRAG_AND_DROP_HANDLER_JS _Pragma("whitelisted_resource_11918") 11918
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11918
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:21:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"drop_overlay.html", IDR_MD_EXTENSIONS_DROP_OVERLAY_HTML},
+[0;1;32m                        ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:14:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_DROP_OVERLAY_HTML'[0m
+#define IDR_MD_EXTENSIONS_DROP_OVERLAY_HTML _Pragma("whitelisted_resource_11919") 11919
+[0;1;32m                                            ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11919
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:22:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"drop_overlay.js", IDR_MD_EXTENSIONS_DROP_OVERLAY_JS},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:15:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_DROP_OVERLAY_JS'[0m
+#define IDR_MD_EXTENSIONS_DROP_OVERLAY_JS _Pragma("whitelisted_resource_11920") 11920
+[0;1;32m                                          ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11920
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:23:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"error_page.html", IDR_MD_EXTENSIONS_ERROR_PAGE_HTML},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:16:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ERROR_PAGE_HTML'[0m
+#define IDR_MD_EXTENSIONS_ERROR_PAGE_HTML _Pragma("whitelisted_resource_11921") 11921
+[0;1;32m                                          ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11921
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:24:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"error_page.js", IDR_MD_EXTENSIONS_ERROR_PAGE_JS},
+[0;1;32m                    ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:17:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ERROR_PAGE_JS'[0m
+#define IDR_MD_EXTENSIONS_ERROR_PAGE_JS _Pragma("whitelisted_resource_11922") 11922
+[0;1;32m                                        ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11922
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:25:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"keyboard_shortcuts.html", IDR_MD_EXTENSIONS_KEYBOARD_SHORTCUTS_HTML},
+[0;1;32m                              ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:18:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_KEYBOARD_SHORTCUTS_HTML'[0m
+#define IDR_MD_EXTENSIONS_KEYBOARD_SHORTCUTS_HTML _Pragma("whitelisted_resource_11923") 11923
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11923
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:26:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"keyboard_shortcuts.js", IDR_MD_EXTENSIONS_KEYBOARD_SHORTCUTS_JS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:19:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_KEYBOARD_SHORTCUTS_JS'[0m
+#define IDR_MD_EXTENSIONS_KEYBOARD_SHORTCUTS_JS _Pragma("whitelisted_resource_11924") 11924
+[0;1;32m                                                ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11924
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:27:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"manager.html", IDR_MD_EXTENSIONS_MANAGER_HTML},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:20:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_MANAGER_HTML'[0m
+#define IDR_MD_EXTENSIONS_MANAGER_HTML _Pragma("whitelisted_resource_11929") 11929
+[0;1;32m                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11929
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:28:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"manager.js", IDR_MD_EXTENSIONS_MANAGER_JS},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:21:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_MANAGER_JS'[0m
+#define IDR_MD_EXTENSIONS_MANAGER_JS _Pragma("whitelisted_resource_11930") 11930
+[0;1;32m                                     ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11930
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:29:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"icons.html", IDR_MD_EXTENSIONS_ICONS_HTML},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:22:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ICONS_HTML'[0m
+#define IDR_MD_EXTENSIONS_ICONS_HTML _Pragma("whitelisted_resource_11931") 11931
+[0;1;32m                                     ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11931
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:30:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"install_warnings_dialog.html", IDR_MD_EXTENSIONS_INSTALL_WARNINGS_DIALOG_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:23:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_INSTALL_WARNINGS_DIALOG_HTML'[0m
+#define IDR_MD_EXTENSIONS_INSTALL_WARNINGS_DIALOG_HTML _Pragma("whitelisted_resource_11932") 11932
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11932
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"install_warnings_dialog.js", IDR_MD_EXTENSIONS_INSTALL_WARNINGS_DIALOG_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:24:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_INSTALL_WARNINGS_DIALOG_JS'[0m
+#define IDR_MD_EXTENSIONS_INSTALL_WARNINGS_DIALOG_JS _Pragma("whitelisted_resource_11933") 11933
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11933
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:32:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item.html", IDR_MD_EXTENSIONS_ITEM_HTML},
+[0;1;32m                ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:25:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_HTML'[0m
+#define IDR_MD_EXTENSIONS_ITEM_HTML _Pragma("whitelisted_resource_11934") 11934
+[0;1;32m                                    ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11934
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:33:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item.js", IDR_MD_EXTENSIONS_ITEM_JS},
+[0;1;32m              ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:26:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_JS'[0m
+#define IDR_MD_EXTENSIONS_ITEM_JS _Pragma("whitelisted_resource_11935") 11935
+[0;1;32m                                  ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11935
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:34:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item_list.html", IDR_MD_EXTENSIONS_ITEM_LIST_HTML},
+[0;1;32m                     ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:27:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_LIST_HTML'[0m
+#define IDR_MD_EXTENSIONS_ITEM_LIST_HTML _Pragma("whitelisted_resource_11936") 11936
+[0;1;32m                                         ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11936
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:35:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item_list.js", IDR_MD_EXTENSIONS_ITEM_LIST_JS},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:28:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_LIST_JS'[0m
+#define IDR_MD_EXTENSIONS_ITEM_LIST_JS _Pragma("whitelisted_resource_11937") 11937
+[0;1;32m                                       ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11937
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:36:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item_util.html", IDR_MD_EXTENSIONS_ITEM_UTIL_HTML},
+[0;1;32m                     ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:29:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_UTIL_HTML'[0m
+#define IDR_MD_EXTENSIONS_ITEM_UTIL_HTML _Pragma("whitelisted_resource_11938") 11938
+[0;1;32m                                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11938
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:37:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"item_util.js", IDR_MD_EXTENSIONS_ITEM_UTIL_JS},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:30:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_ITEM_UTIL_JS'[0m
+#define IDR_MD_EXTENSIONS_ITEM_UTIL_JS _Pragma("whitelisted_resource_11939") 11939
+[0;1;32m                                       ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11939
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:38:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"load_error.html", IDR_MD_EXTENSIONS_LOAD_ERROR_HTML},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:31:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_LOAD_ERROR_HTML'[0m
+#define IDR_MD_EXTENSIONS_LOAD_ERROR_HTML _Pragma("whitelisted_resource_11940") 11940
+[0;1;32m                                          ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11940
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:39:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"load_error.js", IDR_MD_EXTENSIONS_LOAD_ERROR_JS},
+[0;1;32m                    ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:32:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_LOAD_ERROR_JS'[0m
+#define IDR_MD_EXTENSIONS_LOAD_ERROR_JS _Pragma("whitelisted_resource_11941") 11941
+[0;1;32m                                        ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11941
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:40:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"navigation_helper.html", IDR_MD_EXTENSIONS_NAVIGATION_HELPER_HTML},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:33:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_NAVIGATION_HELPER_HTML'[0m
+#define IDR_MD_EXTENSIONS_NAVIGATION_HELPER_HTML _Pragma("whitelisted_resource_11942") 11942
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11942
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:41:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"navigation_helper.js", IDR_MD_EXTENSIONS_NAVIGATION_HELPER_JS},
+[0;1;32m                           ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:34:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_NAVIGATION_HELPER_JS'[0m
+#define IDR_MD_EXTENSIONS_NAVIGATION_HELPER_JS _Pragma("whitelisted_resource_11943") 11943
+[0;1;32m                                               ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11943
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:42:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"options_dialog.html", IDR_MD_EXTENSIONS_OPTIONS_DIALOG_HTML},
+[0;1;32m                          ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:35:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_OPTIONS_DIALOG_HTML'[0m
+#define IDR_MD_EXTENSIONS_OPTIONS_DIALOG_HTML _Pragma("whitelisted_resource_11944") 11944
+[0;1;32m                                              ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11944
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:43:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"options_dialog.js", IDR_MD_EXTENSIONS_OPTIONS_DIALOG_JS},
+[0;1;32m                        ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:36:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_OPTIONS_DIALOG_JS'[0m
+#define IDR_MD_EXTENSIONS_OPTIONS_DIALOG_JS _Pragma("whitelisted_resource_11945") 11945
+[0;1;32m                                            ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11945
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:44:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pack_dialog.html", IDR_MD_EXTENSIONS_PACK_DIALOG_HTML},
+[0;1;32m                       ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:37:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_PACK_DIALOG_HTML'[0m
+#define IDR_MD_EXTENSIONS_PACK_DIALOG_HTML _Pragma("whitelisted_resource_11946") 11946
+[0;1;32m                                           ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11946
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:45:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pack_dialog.js", IDR_MD_EXTENSIONS_PACK_DIALOG_JS},
+[0;1;32m                     ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:38:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_PACK_DIALOG_JS'[0m
+#define IDR_MD_EXTENSIONS_PACK_DIALOG_JS _Pragma("whitelisted_resource_11947") 11947
+[0;1;32m                                         ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11947
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:46:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pack_dialog_alert.html", IDR_MD_EXTENSIONS_PACK_DIALOG_ALERT_HTML},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:39:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_PACK_DIALOG_ALERT_HTML'[0m
+#define IDR_MD_EXTENSIONS_PACK_DIALOG_ALERT_HTML _Pragma("whitelisted_resource_11948") 11948
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11948
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:47:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pack_dialog_alert.js", IDR_MD_EXTENSIONS_PACK_DIALOG_ALERT_JS},
+[0;1;32m                           ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:40:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_PACK_DIALOG_ALERT_JS'[0m
+#define IDR_MD_EXTENSIONS_PACK_DIALOG_ALERT_JS _Pragma("whitelisted_resource_11949") 11949
+[0;1;32m                                               ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11949
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:48:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"service.html", IDR_MD_EXTENSIONS_SERVICE_HTML},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:41:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SERVICE_HTML'[0m
+#define IDR_MD_EXTENSIONS_SERVICE_HTML _Pragma("whitelisted_resource_11950") 11950
+[0;1;32m                                       ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11950
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:49:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"service.js", IDR_MD_EXTENSIONS_SERVICE_JS},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:42:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SERVICE_JS'[0m
+#define IDR_MD_EXTENSIONS_SERVICE_JS _Pragma("whitelisted_resource_11951") 11951
+[0;1;32m                                     ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11951
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:50:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"shortcut_input.html", IDR_MD_EXTENSIONS_SHORTCUT_INPUT_HTML},
+[0;1;32m                          ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:43:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SHORTCUT_INPUT_HTML'[0m
+#define IDR_MD_EXTENSIONS_SHORTCUT_INPUT_HTML _Pragma("whitelisted_resource_11952") 11952
+[0;1;32m                                              ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11952
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:51:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"shortcut_input.js", IDR_MD_EXTENSIONS_SHORTCUT_INPUT_JS},
+[0;1;32m                        ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:44:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SHORTCUT_INPUT_JS'[0m
+#define IDR_MD_EXTENSIONS_SHORTCUT_INPUT_JS _Pragma("whitelisted_resource_11953") 11953
+[0;1;32m                                            ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11953
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:52:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"shortcut_util.html", IDR_MD_EXTENSIONS_SHORTCUT_UTIL_HTML},
+[0;1;32m                         ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:45:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SHORTCUT_UTIL_HTML'[0m
+#define IDR_MD_EXTENSIONS_SHORTCUT_UTIL_HTML _Pragma("whitelisted_resource_11954") 11954
+[0;1;32m                                             ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11954
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:53:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"shortcut_util.js", IDR_MD_EXTENSIONS_SHORTCUT_UTIL_JS},
+[0;1;32m                       ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:46:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SHORTCUT_UTIL_JS'[0m
+#define IDR_MD_EXTENSIONS_SHORTCUT_UTIL_JS _Pragma("whitelisted_resource_11955") 11955
+[0;1;32m                                           ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11955
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:54:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"sidebar.html", IDR_MD_EXTENSIONS_SIDEBAR_HTML},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:47:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SIDEBAR_HTML'[0m
+#define IDR_MD_EXTENSIONS_SIDEBAR_HTML _Pragma("whitelisted_resource_11956") 11956
+[0;1;32m                                       ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11956
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:55:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"sidebar.js", IDR_MD_EXTENSIONS_SIDEBAR_JS},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:48:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_SIDEBAR_JS'[0m
+#define IDR_MD_EXTENSIONS_SIDEBAR_JS _Pragma("whitelisted_resource_11957") 11957
+[0;1;32m                                     ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11957
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:56:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"toggle_row.html", IDR_MD_EXTENSIONS_TOGGLE_ROW_HTML},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:49:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_TOGGLE_ROW_HTML'[0m
+#define IDR_MD_EXTENSIONS_TOGGLE_ROW_HTML _Pragma("whitelisted_resource_11958") 11958
+[0;1;32m                                          ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11958
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:57:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"toggle_row.js", IDR_MD_EXTENSIONS_TOGGLE_ROW_JS},
+[0;1;32m                    ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:50:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_TOGGLE_ROW_JS'[0m
+#define IDR_MD_EXTENSIONS_TOGGLE_ROW_JS _Pragma("whitelisted_resource_11959") 11959
+[0;1;32m                                        ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11959
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:58:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"toolbar.html", IDR_MD_EXTENSIONS_TOOLBAR_HTML},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:51:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_TOOLBAR_HTML'[0m
+#define IDR_MD_EXTENSIONS_TOOLBAR_HTML _Pragma("whitelisted_resource_11960") 11960
+[0;1;32m                                       ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11960
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:59:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"toolbar.js", IDR_MD_EXTENSIONS_TOOLBAR_JS},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:52:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_TOOLBAR_JS'[0m
+#define IDR_MD_EXTENSIONS_TOOLBAR_JS _Pragma("whitelisted_resource_11961") 11961
+[0;1;32m                                     ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11961
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:60:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"strings.html", IDR_MD_EXTENSIONS_STRINGS_HTML},
+[0;1;32m                   ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:53:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_STRINGS_HTML'[0m
+#define IDR_MD_EXTENSIONS_STRINGS_HTML _Pragma("whitelisted_resource_11962") 11962
+[0;1;32m                                       ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11962
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:61:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"view_manager.html", IDR_MD_EXTENSIONS_VIEW_MANAGER_HTML},
+[0;1;32m                        ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:54:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_VIEW_MANAGER_HTML'[0m
+#define IDR_MD_EXTENSIONS_VIEW_MANAGER_HTML _Pragma("whitelisted_resource_11963") 11963
+[0;1;32m                                            ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11963
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources_map.cc:62:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"view_manager.js", IDR_MD_EXTENSIONS_VIEW_MANAGER_JS},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/md_extensions/grit/extensions_resources.h:55:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_EXTENSIONS_VIEW_MANAGER_JS'[0m
+#define IDR_MD_EXTENSIONS_VIEW_MANAGER_JS _Pragma("whitelisted_resource_11964") 11964
+[0;1;32m                                          ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11964
+[0;1;32m ^
+[0m51 warnings generated.

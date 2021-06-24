@@ -1,0 +1,37 @@
+[1mgen/extensions/grit/extensions_browser_resources_map.cc:12:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_DEFAULT_ICON", IDR_APP_DEFAULT_ICON},
+[0;1;32m                           ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_DEFAULT_ICON'[0m
+#define IDR_APP_DEFAULT_ICON _Pragma("whitelisted_resource_24450") 24450
+[0;1;32m                             ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24450
+[0;1;32m ^
+[0m[1mgen/extensions/grit/extensions_browser_resources_map.cc:13:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSION_DEFAULT_ICON", IDR_EXTENSION_DEFAULT_ICON},
+[0;1;32m                                 ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:6:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_DEFAULT_ICON'[0m
+#define IDR_EXTENSION_DEFAULT_ICON _Pragma("whitelisted_resource_24451") 24451
+[0;1;32m                                   ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24451
+[0;1;32m ^
+[0m[1mgen/extensions/grit/extensions_browser_resources_map.cc:14:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSION_ACTION_PLAIN_BACKGROUND", IDR_EXTENSION_ACTION_PLAIN_BACKGROUND},
+[0;1;32m                                            ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:7:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_ACTION_PLAIN_BACKGROUND'[0m
+#define IDR_EXTENSION_ACTION_PLAIN_BACKGROUND _Pragma("whitelisted_resource_24452") 24452
+[0;1;32m                                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24452
+[0;1;32m ^
+[0m[1mgen/extensions/grit/extensions_browser_resources_map.cc:15:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSION_ICON_PLAIN_BACKGROUND", IDR_EXTENSION_ICON_PLAIN_BACKGROUND},
+[0;1;32m                                          ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:8:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_ICON_PLAIN_BACKGROUND'[0m
+#define IDR_EXTENSION_ICON_PLAIN_BACKGROUND _Pragma("whitelisted_resource_24453") 24453
+[0;1;32m                                            ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24453
+[0;1;32m ^
+[0m4 warnings generated.

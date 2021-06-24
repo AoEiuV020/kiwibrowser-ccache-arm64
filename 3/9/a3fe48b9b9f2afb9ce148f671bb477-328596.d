@@ -1,0 +1,37 @@
+clang_x64/obj/third_party/brotli/brotli/encode.o: \
+  ../../third_party/brotli/enc/encode.c \
+  ../../third_party/brotli/include/brotli/encode.h \
+  ../../third_party/brotli/include/brotli/port.h \
+  ../../third_party/brotli/include/brotli/types.h \
+  ../../third_party/brotli/enc/../common/version.h \
+  ../../third_party/brotli/enc/./backward_references.h \
+  ../../third_party/brotli/enc/../common/constants.h \
+  ../../third_party/brotli/enc/../common/dictionary.h \
+  ../../third_party/brotli/enc/./command.h \
+  ../../third_party/brotli/enc/./fast_log.h \
+  ../../third_party/brotli/enc/./prefix.h \
+  ../../third_party/brotli/enc/./hash.h \
+  ../../third_party/brotli/enc/./find_match_length.h \
+  ../../third_party/brotli/enc/./port.h \
+  ../../third_party/brotli/enc/./memory.h \
+  ../../third_party/brotli/enc/./quality.h \
+  ../../third_party/brotli/enc/./static_dict.h \
+  ../../third_party/brotli/enc/./hash_to_binary_tree_inc.h \
+  ../../third_party/brotli/enc/./hash_longest_match_quickly_inc.h \
+  ../../third_party/brotli/enc/./hash_longest_match_inc.h \
+  ../../third_party/brotli/enc/./hash_longest_match64_inc.h \
+  ../../third_party/brotli/enc/./hash_forgetful_chain_inc.h \
+  ../../third_party/brotli/enc/./backward_references_hq.h \
+  ../../third_party/brotli/enc/./bit_cost.h \
+  ../../third_party/brotli/enc/./histogram.h \
+  ../../third_party/brotli/enc/./block_splitter.h \
+  ../../third_party/brotli/enc/./context.h \
+  ../../third_party/brotli/enc/./histogram_inc.h \
+  ../../third_party/brotli/enc/./brotli_bit_stream.h \
+  ../../third_party/brotli/enc/./entropy_encode.h \
+  ../../third_party/brotli/enc/./metablock.h \
+  ../../third_party/brotli/enc/./compress_fragment.h \
+  ../../third_party/brotli/enc/./compress_fragment_two_pass.h \
+  ../../third_party/brotli/enc/./ringbuffer.h \
+  ../../third_party/brotli/enc/./utf8_util.h \
+  ../../third_party/brotli/enc/./write_bits.h

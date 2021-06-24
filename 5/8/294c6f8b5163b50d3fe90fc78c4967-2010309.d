@@ -1,0 +1,12 @@
+clang_x64/obj/third_party/flatbuffers/flatc/flatc_main.o: \
+  ../../third_party/flatbuffers/src/src/flatc_main.cpp \
+  ../../third_party/flatbuffers/src/include/flatbuffers/flatc.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/flatbuffers.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/base.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/stl_emulation.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/idl.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/flexbuffers.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/util.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/hash.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/reflection.h \
+  ../../third_party/flatbuffers/src/include/flatbuffers/reflection_generated.h

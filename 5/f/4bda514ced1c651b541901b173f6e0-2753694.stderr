@@ -1,0 +1,190 @@
+[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:80:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "tabTitle", l10n_util::GetStringUTF16(IDS_SAFEBROWSING_V3_TITLE));
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:805:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_V3_TITLE'[0m
+#define IDS_SAFEBROWSING_V3_TITLE _Pragma("whitelisted_resource_15936") 15936
+[0;1;32m                                  ^
+[0m[1m<scratch space>:179:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15936
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:83:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAFEBROWSING_V3_OPEN_DETAILS_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:806:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_V3_OPEN_DETAILS_BUTTON'[0m
+#define IDS_SAFEBROWSING_V3_OPEN_DETAILS_BUTTON _Pragma("whitelisted_resource_15937") 15937
+[0;1;32m                                                ^
+[0m[1m<scratch space>:181:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15937
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:86:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAFEBROWSING_V3_CLOSE_DETAILS_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:807:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_V3_CLOSE_DETAILS_BUTTON'[0m
+#define IDS_SAFEBROWSING_V3_CLOSE_DETAILS_BUTTON _Pragma("whitelisted_resource_15938") 15938
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:183:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15938
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:89:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAFEBROWSING_OVERRIDABLE_SAFETY_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:808:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFEBROWSING_OVERRIDABLE_SAFETY_BUTTON'[0m
+#define IDS_SAFEBROWSING_OVERRIDABLE_SAFETY_BUTTON _Pragma("whitelisted_resource_15939") 15939
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:185:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15939
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:228:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_MALWARE_V3_HEADING));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:809:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MALWARE_V3_HEADING'[0m
+#define IDS_MALWARE_V3_HEADING _Pragma("whitelisted_resource_15940") 15940
+[0;1;32m                               ^
+[0m[1m<scratch space>:187:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15940
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:232:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MALWARE_V3_PRIMARY_PARAGRAPH,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:810:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MALWARE_V3_PRIMARY_PARAGRAPH'[0m
+#define IDS_MALWARE_V3_PRIMARY_PARAGRAPH _Pragma("whitelisted_resource_15941") 15941
+[0;1;32m                                         ^
+[0m[1m<scratch space>:189:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15941
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:238:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_MALWARE_V3_EXPLANATION_PARAGRAPH,
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:811:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MALWARE_V3_EXPLANATION_PARAGRAPH'[0m
+#define IDS_MALWARE_V3_EXPLANATION_PARAGRAPH _Pragma("whitelisted_resource_15942") 15942
+[0;1;32m                                             ^
+[0m[1m<scratch space>:191:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15942
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:241:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_MALWARE_V3_EXPLANATION_PARAGRAPH_SUBRESOURCE,
+[0;1;32m                ^
+[0m[1mgen/components/strings/grit/components_strings.h:812:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MALWARE_V3_EXPLANATION_PARAGRAPH_SUBRESOURCE'[0m
+#define IDS_MALWARE_V3_EXPLANATION_PARAGRAPH_SUBRESOURCE _Pragma("whitelisted_resource_15943") 15943
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:193:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15943
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:246:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_MALWARE_V3_PROCEED_PARAGRAPH));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:813:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MALWARE_V3_PROCEED_PARAGRAPH'[0m
+#define IDS_MALWARE_V3_PROCEED_PARAGRAPH _Pragma("whitelisted_resource_15944") 15944
+[0;1;32m                                         ^
+[0m[1m<scratch space>:195:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15944
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:253:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_HARMFUL_V3_HEADING));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:817:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HARMFUL_V3_HEADING'[0m
+#define IDS_HARMFUL_V3_HEADING _Pragma("whitelisted_resource_15948") 15948
+[0;1;32m                               ^
+[0m[1m<scratch space>:197:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15948
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:257:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_HARMFUL_V3_PRIMARY_PARAGRAPH,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:818:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HARMFUL_V3_PRIMARY_PARAGRAPH'[0m
+#define IDS_HARMFUL_V3_PRIMARY_PARAGRAPH _Pragma("whitelisted_resource_15949") 15949
+[0;1;32m                                         ^
+[0m[1m<scratch space>:199:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15949
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:262:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_HARMFUL_V3_EXPLANATION_PARAGRAPH,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:819:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HARMFUL_V3_EXPLANATION_PARAGRAPH'[0m
+#define IDS_HARMFUL_V3_EXPLANATION_PARAGRAPH _Pragma("whitelisted_resource_15950") 15950
+[0;1;32m                                             ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15950
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:266:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_HARMFUL_V3_PROCEED_PARAGRAPH));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:820:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HARMFUL_V3_PROCEED_PARAGRAPH'[0m
+#define IDS_HARMFUL_V3_PROCEED_PARAGRAPH _Pragma("whitelisted_resource_15951") 15951
+[0;1;32m                                         ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15951
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:273:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_PHISHING_V4_HEADING));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:821:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PHISHING_V4_HEADING'[0m
+#define IDS_PHISHING_V4_HEADING _Pragma("whitelisted_resource_15952") 15952
+[0;1;32m                                ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15952
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:277:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PHISHING_V4_PRIMARY_PARAGRAPH,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:822:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PHISHING_V4_PRIMARY_PARAGRAPH'[0m
+#define IDS_PHISHING_V4_PRIMARY_PARAGRAPH _Pragma("whitelisted_resource_15953") 15953
+[0;1;32m                                          ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15953
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:282:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PHISHING_V4_EXPLANATION_PARAGRAPH,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:823:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PHISHING_V4_EXPLANATION_PARAGRAPH'[0m
+#define IDS_PHISHING_V4_EXPLANATION_PARAGRAPH _Pragma("whitelisted_resource_15954") 15954
+[0;1;32m                                              ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15954
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:286:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PHISHING_V4_PROCEED_AND_REPORT_PARAGRAPH));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:824:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PHISHING_V4_PROCEED_AND_REPORT_PARAGRAPH'[0m
+#define IDS_PHISHING_V4_PROCEED_AND_REPORT_PARAGRAPH _Pragma("whitelisted_resource_15955") 15955
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15955
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:301:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_SAFE_BROWSING_PRIVACY_POLICY_PAGE).c_str());
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:814:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFE_BROWSING_PRIVACY_POLICY_PAGE'[0m
+#define IDS_SAFE_BROWSING_PRIVACY_POLICY_PAGE _Pragma("whitelisted_resource_15945") 15945
+[0;1;32m                                              ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15945
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:305:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    ? IDS_SAFE_BROWSING_SCOUT_REPORTING_AGREE
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:816:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFE_BROWSING_SCOUT_REPORTING_AGREE'[0m
+#define IDS_SAFE_BROWSING_SCOUT_REPORTING_AGREE _Pragma("whitelisted_resource_15947") 15947
+[0;1;32m                                                ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15947
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:306:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    : IDS_SAFE_BROWSING_MALWARE_REPORTING_AGREE,
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:815:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAFE_BROWSING_MALWARE_REPORTING_AGREE'[0m
+#define IDS_SAFE_BROWSING_MALWARE_REPORTING_AGREE _Pragma("whitelisted_resource_15946") 15946
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15946
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/safe_browsing_loud_error_ui.cc:313:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDR_SECURITY_INTERSTITIAL_HTML;
+[0;1;32m         ^
+[0m[1mgen/components/grit/components_resources.h:44:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SECURITY_INTERSTITIAL_HTML'[0m
+#define IDR_SECURITY_INTERSTITIAL_HTML _Pragma("whitelisted_resource_17057") 17057
+[0;1;32m                                       ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17057
+[0;1;32m ^
+[0m21 warnings generated.

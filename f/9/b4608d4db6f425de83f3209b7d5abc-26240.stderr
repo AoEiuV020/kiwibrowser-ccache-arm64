@@ -1,0 +1,1036 @@
+[1mgen/chrome/grit/theme_resources_map.cc:12:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_CLOSE", IDR_APP_WINDOW_CLOSE},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE'[0m
+#define IDR_APP_WINDOW_CLOSE _Pragma("whitelisted_resource_10201") 10201
+[0;1;32m                             ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10201
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:13:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_CLOSE_H", IDR_APP_WINDOW_CLOSE_H},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:6:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE_H'[0m
+#define IDR_APP_WINDOW_CLOSE_H _Pragma("whitelisted_resource_10202") 10202
+[0;1;32m                               ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10202
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:14:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_CLOSE_P", IDR_APP_WINDOW_CLOSE_P},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:7:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE_P'[0m
+#define IDR_APP_WINDOW_CLOSE_P _Pragma("whitelisted_resource_10203") 10203
+[0;1;32m                               ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10203
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:15:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_CLOSE_U", IDR_APP_WINDOW_CLOSE_U},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:8:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_CLOSE_U'[0m
+#define IDR_APP_WINDOW_CLOSE_U _Pragma("whitelisted_resource_10204") 10204
+[0;1;32m                               ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10204
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:16:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_RESTORE", IDR_APP_WINDOW_RESTORE},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:9:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE'[0m
+#define IDR_APP_WINDOW_RESTORE _Pragma("whitelisted_resource_10205") 10205
+[0;1;32m                               ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10205
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:17:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_RESTORE_H", IDR_APP_WINDOW_RESTORE_H},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:10:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE_H'[0m
+#define IDR_APP_WINDOW_RESTORE_H _Pragma("whitelisted_resource_10206") 10206
+[0;1;32m                                 ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10206
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:18:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_RESTORE_L", IDR_APP_WINDOW_RESTORE_L},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:11:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE_L'[0m
+#define IDR_APP_WINDOW_RESTORE_L _Pragma("whitelisted_resource_10207") 10207
+[0;1;32m                                 ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10207
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:19:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_RESTORE_P", IDR_APP_WINDOW_RESTORE_P},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:12:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_RESTORE_P'[0m
+#define IDR_APP_WINDOW_RESTORE_P _Pragma("whitelisted_resource_10208") 10208
+[0;1;32m                                 ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10208
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:20:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MAXIMIZE", IDR_APP_WINDOW_MAXIMIZE},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:13:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE'[0m
+#define IDR_APP_WINDOW_MAXIMIZE _Pragma("whitelisted_resource_10209") 10209
+[0;1;32m                                ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10209
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:21:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MAXIMIZE_D", IDR_APP_WINDOW_MAXIMIZE_D},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:14:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_D'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_D _Pragma("whitelisted_resource_10210") 10210
+[0;1;32m                                  ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10210
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:22:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MAXIMIZE_H", IDR_APP_WINDOW_MAXIMIZE_H},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:15:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_H'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_H _Pragma("whitelisted_resource_10211") 10211
+[0;1;32m                                  ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10211
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:23:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MAXIMIZE_L", IDR_APP_WINDOW_MAXIMIZE_L},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:16:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_L'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_L _Pragma("whitelisted_resource_10212") 10212
+[0;1;32m                                  ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10212
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:24:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MAXIMIZE_P", IDR_APP_WINDOW_MAXIMIZE_P},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:17:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MAXIMIZE_P'[0m
+#define IDR_APP_WINDOW_MAXIMIZE_P _Pragma("whitelisted_resource_10213") 10213
+[0;1;32m                                  ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10213
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:25:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MINIMIZE", IDR_APP_WINDOW_MINIMIZE},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:18:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE'[0m
+#define IDR_APP_WINDOW_MINIMIZE _Pragma("whitelisted_resource_10214") 10214
+[0;1;32m                                ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10214
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:26:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MINIMIZE_H", IDR_APP_WINDOW_MINIMIZE_H},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:19:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE_H'[0m
+#define IDR_APP_WINDOW_MINIMIZE_H _Pragma("whitelisted_resource_10215") 10215
+[0;1;32m                                  ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10215
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:27:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MINIMIZE_L", IDR_APP_WINDOW_MINIMIZE_L},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:20:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE_L'[0m
+#define IDR_APP_WINDOW_MINIMIZE_L _Pragma("whitelisted_resource_10216") 10216
+[0;1;32m                                  ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10216
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:28:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_APP_WINDOW_MINIMIZE_P", IDR_APP_WINDOW_MINIMIZE_P},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:21:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_WINDOW_MINIMIZE_P'[0m
+#define IDR_APP_WINDOW_MINIMIZE_P _Pragma("whitelisted_resource_10217") 10217
+[0;1;32m                                  ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10217
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:29:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_BACK", IDR_BACK},
+[0;1;32m               ^
+[0m[1mgen/chrome/grit/theme_resources.h:22:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK'[0m
+#define IDR_BACK _Pragma("whitelisted_resource_10223") 10223
+[0;1;32m                 ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10223
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:30:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_BACK_D", IDR_BACK_D},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/theme_resources.h:23:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK_D'[0m
+#define IDR_BACK_D _Pragma("whitelisted_resource_10224") 10224
+[0;1;32m                   ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10224
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:31:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_BACK_H", IDR_BACK_H},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/theme_resources.h:24:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK_H'[0m
+#define IDR_BACK_H _Pragma("whitelisted_resource_10225") 10225
+[0;1;32m                   ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10225
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:32:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_BACK_P", IDR_BACK_P},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/theme_resources.h:25:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BACK_P'[0m
+#define IDR_BACK_P _Pragma("whitelisted_resource_10226") 10226
+[0;1;32m                   ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10226
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:33:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_BOOKMARKS_FAVICON", IDR_BOOKMARKS_FAVICON},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:26:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BOOKMARKS_FAVICON'[0m
+#define IDR_BOOKMARKS_FAVICON _Pragma("whitelisted_resource_10230") 10230
+[0;1;32m                              ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10230
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:34:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_BOOKMARK_BAR_APPS_SHORTCUT", IDR_BOOKMARK_BAR_APPS_SHORTCUT},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:27:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BOOKMARK_BAR_APPS_SHORTCUT'[0m
+#define IDR_BOOKMARK_BAR_APPS_SHORTCUT _Pragma("whitelisted_resource_10235") 10235
+[0;1;32m                                       ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10235
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:35:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_BUTTON_MASK", IDR_CLOSE_BUTTON_MASK},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:28:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_BUTTON_MASK'[0m
+#define IDR_CLOSE_BUTTON_MASK _Pragma("whitelisted_resource_10239") 10239
+[0;1;32m                              ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10239
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:36:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_COOKIES", IDR_COOKIES},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:29:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COOKIES'[0m
+#define IDR_COOKIES _Pragma("whitelisted_resource_10241") 10241
+[0;1;32m                    ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10241
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:37:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_COOKIE_STORAGE_ICON", IDR_COOKIE_STORAGE_ICON},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:30:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COOKIE_STORAGE_ICON'[0m
+#define IDR_COOKIE_STORAGE_ICON _Pragma("whitelisted_resource_10242") 10242
+[0;1;32m                                ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10242
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:38:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_DOWNLOADS_FAVICON", IDR_DOWNLOADS_FAVICON},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:31:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOADS_FAVICON'[0m
+#define IDR_DOWNLOADS_FAVICON _Pragma("whitelisted_resource_10253") 10253
+[0;1;32m                              ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10253
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:39:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_ERROR_NETWORK_OFFLINE", IDR_ERROR_NETWORK_OFFLINE},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:32:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ERROR_NETWORK_OFFLINE'[0m
+#define IDR_ERROR_NETWORK_OFFLINE _Pragma("whitelisted_resource_10265") 10265
+[0;1;32m                                  ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10265
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:40:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSIONS_FAVICON", IDR_EXTENSIONS_FAVICON},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:33:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_FAVICON'[0m
+#define IDR_EXTENSIONS_FAVICON _Pragma("whitelisted_resource_10266") 10266
+[0;1;32m                               ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10266
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:41:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSIONS_RATING_STAR_HALF_LEFT", IDR_EXTENSIONS_RATING_STAR_HALF_LEFT},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:34:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_RATING_STAR_HALF_LEFT'[0m
+#define IDR_EXTENSIONS_RATING_STAR_HALF_LEFT _Pragma("whitelisted_resource_10267") 10267
+[0;1;32m                                             ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10267
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:42:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSIONS_RATING_STAR_HALF_RIGHT", IDR_EXTENSIONS_RATING_STAR_HALF_RIGHT},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:35:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_RATING_STAR_HALF_RIGHT'[0m
+#define IDR_EXTENSIONS_RATING_STAR_HALF_RIGHT _Pragma("whitelisted_resource_10268") 10268
+[0;1;32m                                              ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10268
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:43:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSIONS_RATING_STAR_OFF", IDR_EXTENSIONS_RATING_STAR_OFF},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:36:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_RATING_STAR_OFF'[0m
+#define IDR_EXTENSIONS_RATING_STAR_OFF _Pragma("whitelisted_resource_10269") 10269
+[0;1;32m                                       ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10269
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:44:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSIONS_RATING_STAR_ON", IDR_EXTENSIONS_RATING_STAR_ON},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:37:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSIONS_RATING_STAR_ON'[0m
+#define IDR_EXTENSIONS_RATING_STAR_ON _Pragma("whitelisted_resource_10270") 10270
+[0;1;32m                                      ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10270
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:45:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_EXTENSION_COMMAND_CLOSE", IDR_EXTENSION_COMMAND_CLOSE},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:38:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_COMMAND_CLOSE'[0m
+#define IDR_EXTENSION_COMMAND_CLOSE _Pragma("whitelisted_resource_10271") 10271
+[0;1;32m                                    ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10271
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:46:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_FROZEN_TAB_ICON", IDR_FROZEN_TAB_ICON},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:39:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FROZEN_TAB_ICON'[0m
+#define IDR_FROZEN_TAB_ICON _Pragma("whitelisted_resource_10288") 10288
+[0;1;32m                            ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10288
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:47:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_FULLSCREEN_MENU_BUTTON", IDR_FULLSCREEN_MENU_BUTTON},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/theme_resources.h:40:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FULLSCREEN_MENU_BUTTON'[0m
+#define IDR_FULLSCREEN_MENU_BUTTON _Pragma("whitelisted_resource_10289") 10289
+[0;1;32m                                   ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10289
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:48:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_HELP_MENU", IDR_HELP_MENU},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:41:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_HELP_MENU'[0m
+#define IDR_HELP_MENU _Pragma("whitelisted_resource_10291") 10291
+[0;1;32m                      ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10291
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:49:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_HIDE_PASSWORD_HOVER", IDR_HIDE_PASSWORD_HOVER},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:42:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_HIDE_PASSWORD_HOVER'[0m
+#define IDR_HIDE_PASSWORD_HOVER _Pragma("whitelisted_resource_10293") 10293
+[0;1;32m                                ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10293
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:50:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_INFOBAR_3D_BLOCKED", IDR_INFOBAR_3D_BLOCKED},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:43:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INFOBAR_3D_BLOCKED'[0m
+#define IDR_INFOBAR_3D_BLOCKED _Pragma("whitelisted_resource_10300") 10300
+[0;1;32m                               ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10300
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:51:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_INFOBAR_TRANSLATE", IDR_INFOBAR_TRANSLATE},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:44:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INFOBAR_TRANSLATE'[0m
+#define IDR_INFOBAR_TRANSLATE _Pragma("whitelisted_resource_10301") 10301
+[0;1;32m                              ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10301
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:52:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_INPUT_ALERT", IDR_INPUT_ALERT},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:45:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INPUT_ALERT'[0m
+#define IDR_INPUT_ALERT _Pragma("whitelisted_resource_10302") 10302
+[0;1;32m                        ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10302
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:53:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_INPUT_ALERT_MENU", IDR_INPUT_ALERT_MENU},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:46:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INPUT_ALERT_MENU'[0m
+#define IDR_INPUT_ALERT_MENU _Pragma("whitelisted_resource_10303") 10303
+[0;1;32m                             ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10303
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:54:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SUPERVISED_USER_THEME_FRAME", IDR_SUPERVISED_USER_THEME_FRAME},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:47:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_THEME_FRAME'[0m
+#define IDR_SUPERVISED_USER_THEME_FRAME _Pragma("whitelisted_resource_10313") 10313
+[0;1;32m                                        ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10313
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:55:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE", IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE'[0m
+#define IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE _Pragma("whitelisted_resource_10314") 10314
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10314
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:56:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND", IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:49:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND'[0m
+#define IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND _Pragma("whitelisted_resource_10315") 10315
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10315
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:57:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_MAXIMIZE_BUTTON_MASK", IDR_MAXIMIZE_BUTTON_MASK},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:50:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MAXIMIZE_BUTTON_MASK'[0m
+#define IDR_MAXIMIZE_BUTTON_MASK _Pragma("whitelisted_resource_10316") 10316
+[0;1;32m                                 ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10316
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:58:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_MINIMIZE_BUTTON_MASK", IDR_MINIMIZE_BUTTON_MASK},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:51:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MINIMIZE_BUTTON_MASK'[0m
+#define IDR_MINIMIZE_BUTTON_MASK _Pragma("whitelisted_resource_10317") 10317
+[0;1;32m                                 ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10317
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:59:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_NEWTAB_WEBSTORE_THUMBNAIL", IDR_NEWTAB_WEBSTORE_THUMBNAIL},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:52:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NEWTAB_WEBSTORE_THUMBNAIL'[0m
+#define IDR_NEWTAB_WEBSTORE_THUMBNAIL _Pragma("whitelisted_resource_10319") 10319
+[0;1;32m                                      ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10319
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:60:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PLUGINS_FAVICON", IDR_PLUGINS_FAVICON},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:53:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLUGINS_FAVICON'[0m
+#define IDR_PLUGINS_FAVICON _Pragma("whitelisted_resource_10329") 10329
+[0;1;32m                            ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10329
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:61:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PRERENDER", IDR_PRERENDER},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:54:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRERENDER'[0m
+#define IDR_PRERENDER _Pragma("whitelisted_resource_10330") 10330
+[0;1;32m                      ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10330
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:62:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PRODUCT_LOGO_16", IDR_PRODUCT_LOGO_16},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:55:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_16'[0m
+#define IDR_PRODUCT_LOGO_16 _Pragma("whitelisted_resource_10333") 10333
+[0;1;32m                            ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10333
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:63:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PRODUCT_LOGO_32", IDR_PRODUCT_LOGO_32},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:56:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_32'[0m
+#define IDR_PRODUCT_LOGO_32 _Pragma("whitelisted_resource_10334") 10334
+[0;1;32m                            ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10334
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:64:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PRODUCT_LOGO_WHITE", IDR_PRODUCT_LOGO_WHITE},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:57:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_WHITE'[0m
+#define IDR_PRODUCT_LOGO_WHITE _Pragma("whitelisted_resource_10335") 10335
+[0;1;32m                               ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10335
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:65:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PRODUCT_LOGO_NAME_22", IDR_PRODUCT_LOGO_NAME_22},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:58:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_NAME_22'[0m
+#define IDR_PRODUCT_LOGO_NAME_22 _Pragma("whitelisted_resource_10336") 10336
+[0;1;32m                                 ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10336
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:66:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_0", IDR_PROFILE_AVATAR_0},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:59:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_0'[0m
+#define IDR_PROFILE_AVATAR_0 _Pragma("whitelisted_resource_10341") 10341
+[0;1;32m                             ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10341
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:67:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_1", IDR_PROFILE_AVATAR_1},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:60:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_1'[0m
+#define IDR_PROFILE_AVATAR_1 _Pragma("whitelisted_resource_10342") 10342
+[0;1;32m                             ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10342
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:68:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_2", IDR_PROFILE_AVATAR_2},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:61:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_2'[0m
+#define IDR_PROFILE_AVATAR_2 _Pragma("whitelisted_resource_10343") 10343
+[0;1;32m                             ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10343
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:69:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_3", IDR_PROFILE_AVATAR_3},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:62:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_3'[0m
+#define IDR_PROFILE_AVATAR_3 _Pragma("whitelisted_resource_10344") 10344
+[0;1;32m                             ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10344
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:70:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_4", IDR_PROFILE_AVATAR_4},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:63:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_4'[0m
+#define IDR_PROFILE_AVATAR_4 _Pragma("whitelisted_resource_10345") 10345
+[0;1;32m                             ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10345
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:71:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_5", IDR_PROFILE_AVATAR_5},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:64:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_5'[0m
+#define IDR_PROFILE_AVATAR_5 _Pragma("whitelisted_resource_10346") 10346
+[0;1;32m                             ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10346
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:72:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_6", IDR_PROFILE_AVATAR_6},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:65:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_6'[0m
+#define IDR_PROFILE_AVATAR_6 _Pragma("whitelisted_resource_10347") 10347
+[0;1;32m                             ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10347
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:73:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_7", IDR_PROFILE_AVATAR_7},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:66:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_7'[0m
+#define IDR_PROFILE_AVATAR_7 _Pragma("whitelisted_resource_10348") 10348
+[0;1;32m                             ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10348
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:74:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_8", IDR_PROFILE_AVATAR_8},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:67:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_8'[0m
+#define IDR_PROFILE_AVATAR_8 _Pragma("whitelisted_resource_10349") 10349
+[0;1;32m                             ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10349
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:75:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_9", IDR_PROFILE_AVATAR_9},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:68:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_9'[0m
+#define IDR_PROFILE_AVATAR_9 _Pragma("whitelisted_resource_10350") 10350
+[0;1;32m                             ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10350
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:76:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_10", IDR_PROFILE_AVATAR_10},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:69:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_10'[0m
+#define IDR_PROFILE_AVATAR_10 _Pragma("whitelisted_resource_10351") 10351
+[0;1;32m                              ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10351
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:77:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_11", IDR_PROFILE_AVATAR_11},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:70:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_11'[0m
+#define IDR_PROFILE_AVATAR_11 _Pragma("whitelisted_resource_10352") 10352
+[0;1;32m                              ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10352
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:78:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_12", IDR_PROFILE_AVATAR_12},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:71:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_12'[0m
+#define IDR_PROFILE_AVATAR_12 _Pragma("whitelisted_resource_10353") 10353
+[0;1;32m                              ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10353
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:79:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_13", IDR_PROFILE_AVATAR_13},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:72:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_13'[0m
+#define IDR_PROFILE_AVATAR_13 _Pragma("whitelisted_resource_10354") 10354
+[0;1;32m                              ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10354
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:80:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_14", IDR_PROFILE_AVATAR_14},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:73:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_14'[0m
+#define IDR_PROFILE_AVATAR_14 _Pragma("whitelisted_resource_10355") 10355
+[0;1;32m                              ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10355
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:81:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_15", IDR_PROFILE_AVATAR_15},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:74:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_15'[0m
+#define IDR_PROFILE_AVATAR_15 _Pragma("whitelisted_resource_10356") 10356
+[0;1;32m                              ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10356
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:82:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_16", IDR_PROFILE_AVATAR_16},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:75:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_16'[0m
+#define IDR_PROFILE_AVATAR_16 _Pragma("whitelisted_resource_10357") 10357
+[0;1;32m                              ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10357
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:83:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_17", IDR_PROFILE_AVATAR_17},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:76:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_17'[0m
+#define IDR_PROFILE_AVATAR_17 _Pragma("whitelisted_resource_10358") 10358
+[0;1;32m                              ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10358
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:84:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_18", IDR_PROFILE_AVATAR_18},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:77:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_18'[0m
+#define IDR_PROFILE_AVATAR_18 _Pragma("whitelisted_resource_10359") 10359
+[0;1;32m                              ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10359
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:85:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_19", IDR_PROFILE_AVATAR_19},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:78:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_19'[0m
+#define IDR_PROFILE_AVATAR_19 _Pragma("whitelisted_resource_10360") 10360
+[0;1;32m                              ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10360
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:86:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_20", IDR_PROFILE_AVATAR_20},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:79:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_20'[0m
+#define IDR_PROFILE_AVATAR_20 _Pragma("whitelisted_resource_10361") 10361
+[0;1;32m                              ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10361
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:87:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_21", IDR_PROFILE_AVATAR_21},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:80:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_21'[0m
+#define IDR_PROFILE_AVATAR_21 _Pragma("whitelisted_resource_10362") 10362
+[0;1;32m                              ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10362
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:88:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_22", IDR_PROFILE_AVATAR_22},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:81:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_22'[0m
+#define IDR_PROFILE_AVATAR_22 _Pragma("whitelisted_resource_10363") 10363
+[0;1;32m                              ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10363
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:89:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_23", IDR_PROFILE_AVATAR_23},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:82:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_23'[0m
+#define IDR_PROFILE_AVATAR_23 _Pragma("whitelisted_resource_10364") 10364
+[0;1;32m                              ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10364
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:90:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_24", IDR_PROFILE_AVATAR_24},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:83:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_24'[0m
+#define IDR_PROFILE_AVATAR_24 _Pragma("whitelisted_resource_10365") 10365
+[0;1;32m                              ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10365
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:91:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_25", IDR_PROFILE_AVATAR_25},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:84:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_25'[0m
+#define IDR_PROFILE_AVATAR_25 _Pragma("whitelisted_resource_10366") 10366
+[0;1;32m                              ^
+[0m[1m<scratch space>:214:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10366
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:92:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_26", IDR_PROFILE_AVATAR_26},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/theme_resources.h:85:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_26'[0m
+#define IDR_PROFILE_AVATAR_26 _Pragma("whitelisted_resource_10367") 10367
+[0;1;32m                              ^
+[0m[1m<scratch space>:216:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10367
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:93:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE", IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:86:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE'[0m
+#define IDR_PROFILE_AVATAR_PLACEHOLDER_LARGE _Pragma("whitelisted_resource_10368") 10368
+[0;1;32m                                             ^
+[0m[1m<scratch space>:218:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10368
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:94:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PROFILES_DICE_TURN_ON_SYNC", IDR_PROFILES_DICE_TURN_ON_SYNC},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:87:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PROFILES_DICE_TURN_ON_SYNC'[0m
+#define IDR_PROFILES_DICE_TURN_ON_SYNC _Pragma("whitelisted_resource_10369") 10369
+[0;1;32m                                       ^
+[0m[1m<scratch space>:220:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10369
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:95:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_RESTORE_BUTTON_MASK", IDR_RESTORE_BUTTON_MASK},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:88:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RESTORE_BUTTON_MASK'[0m
+#define IDR_RESTORE_BUTTON_MASK _Pragma("whitelisted_resource_10455") 10455
+[0;1;32m                                ^
+[0m[1m<scratch space>:222:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10455
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:96:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SCREEN_CAPTURE_NOTIFICATION_GRIP", IDR_SCREEN_CAPTURE_NOTIFICATION_GRIP},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:89:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SCREEN_CAPTURE_NOTIFICATION_GRIP'[0m
+#define IDR_SCREEN_CAPTURE_NOTIFICATION_GRIP _Pragma("whitelisted_resource_10457") 10457
+[0;1;32m                                             ^
+[0m[1m<scratch space>:224:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10457
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:97:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SCREENSHOT_NOTIFICATION_ICON", IDR_SCREENSHOT_NOTIFICATION_ICON},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:90:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SCREENSHOT_NOTIFICATION_ICON'[0m
+#define IDR_SCREENSHOT_NOTIFICATION_ICON _Pragma("whitelisted_resource_10458") 10458
+[0;1;32m                                         ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10458
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:98:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SETTINGS_FAVICON", IDR_SETTINGS_FAVICON},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:91:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FAVICON'[0m
+#define IDR_SETTINGS_FAVICON _Pragma("whitelisted_resource_10460") 10460
+[0;1;32m                             ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10460
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:99:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SHOW_PASSWORD_HOVER", IDR_SHOW_PASSWORD_HOVER},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:92:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SHOW_PASSWORD_HOVER'[0m
+#define IDR_SHOW_PASSWORD_HOVER _Pragma("whitelisted_resource_10462") 10462
+[0;1;32m                                ^
+[0m[1m<scratch space>:230:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10462
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:100:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_SUPERVISED_USER_PLACEHOLDER", IDR_SUPERVISED_USER_PLACEHOLDER},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:93:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_PLACEHOLDER'[0m
+#define IDR_SUPERVISED_USER_PLACEHOLDER _Pragma("whitelisted_resource_10467") 10467
+[0;1;32m                                        ^
+[0m[1m<scratch space>:232:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10467
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:101:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_1", IDR_CLOSE_1},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:94:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_1'[0m
+#define IDR_CLOSE_1 _Pragma("whitelisted_resource_10475") 10475
+[0;1;32m                    ^
+[0m[1m<scratch space>:234:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10475
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:102:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_1_H", IDR_CLOSE_1_H},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:95:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_1_H'[0m
+#define IDR_CLOSE_1_H _Pragma("whitelisted_resource_10476") 10476
+[0;1;32m                      ^
+[0m[1m<scratch space>:236:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10476
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:103:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CLOSE_1_P", IDR_CLOSE_1_P},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/theme_resources.h:96:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_1_P'[0m
+#define IDR_CLOSE_1_P _Pragma("whitelisted_resource_10477") 10477
+[0;1;32m                      ^
+[0m[1m<scratch space>:238:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10477
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:104:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_TAB_RECORDING_INDICATOR", IDR_TAB_RECORDING_INDICATOR},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:97:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_RECORDING_INDICATOR'[0m
+#define IDR_TAB_RECORDING_INDICATOR _Pragma("whitelisted_resource_10478") 10478
+[0;1;32m                                    ^
+[0m[1m<scratch space>:240:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10478
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:105:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_TAB_DROP_DOWN", IDR_TAB_DROP_DOWN},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:98:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_DROP_DOWN'[0m
+#define IDR_TAB_DROP_DOWN _Pragma("whitelisted_resource_10479") 10479
+[0;1;32m                          ^
+[0m[1m<scratch space>:242:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10479
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:106:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_TAB_DROP_UP", IDR_TAB_DROP_UP},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:99:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TAB_DROP_UP'[0m
+#define IDR_TAB_DROP_UP _Pragma("whitelisted_resource_10480") 10480
+[0;1;32m                        ^
+[0m[1m<scratch space>:244:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10480
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:107:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_BUTTON_BACKGROUND", IDR_THEME_BUTTON_BACKGROUND},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:100:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_BUTTON_BACKGROUND'[0m
+#define IDR_THEME_BUTTON_BACKGROUND _Pragma("whitelisted_resource_10482") 10482
+[0;1;32m                                    ^
+[0m[1m<scratch space>:246:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10482
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:108:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_FRAME", IDR_THEME_FRAME},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:101:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME'[0m
+#define IDR_THEME_FRAME _Pragma("whitelisted_resource_10483") 10483
+[0;1;32m                        ^
+[0m[1m<scratch space>:248:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10483
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:109:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_FRAME_INACTIVE", IDR_THEME_FRAME_INACTIVE},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:102:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INACTIVE'[0m
+#define IDR_THEME_FRAME_INACTIVE _Pragma("whitelisted_resource_10484") 10484
+[0;1;32m                                 ^
+[0m[1m<scratch space>:250:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10484
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:110:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_FRAME_INCOGNITO", IDR_THEME_FRAME_INCOGNITO},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:103:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INCOGNITO'[0m
+#define IDR_THEME_FRAME_INCOGNITO _Pragma("whitelisted_resource_10485") 10485
+[0;1;32m                                  ^
+[0m[1m<scratch space>:252:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10485
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:111:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_FRAME_INCOGNITO_INACTIVE", IDR_THEME_FRAME_INCOGNITO_INACTIVE},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/theme_resources.h:104:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INCOGNITO_INACTIVE'[0m
+#define IDR_THEME_FRAME_INCOGNITO_INACTIVE _Pragma("whitelisted_resource_10486") 10486
+[0;1;32m                                           ^
+[0m[1m<scratch space>:254:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10486
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:112:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_FRAME_OVERLAY", IDR_THEME_FRAME_OVERLAY},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:105:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_OVERLAY'[0m
+#define IDR_THEME_FRAME_OVERLAY _Pragma("whitelisted_resource_10487") 10487
+[0;1;32m                                ^
+[0m[1m<scratch space>:256:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10487
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:113:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_FRAME_OVERLAY_INACTIVE", IDR_THEME_FRAME_OVERLAY_INACTIVE},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:106:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_OVERLAY_INACTIVE'[0m
+#define IDR_THEME_FRAME_OVERLAY_INACTIVE _Pragma("whitelisted_resource_10488") 10488
+[0;1;32m                                         ^
+[0m[1m<scratch space>:258:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10488
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:114:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_NTP_ATTRIBUTION", IDR_THEME_NTP_ATTRIBUTION},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:107:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_ATTRIBUTION'[0m
+#define IDR_THEME_NTP_ATTRIBUTION _Pragma("whitelisted_resource_10489") 10489
+[0;1;32m                                  ^
+[0m[1m<scratch space>:260:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10489
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:115:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_NTP_BACKGROUND", IDR_THEME_NTP_BACKGROUND},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:108:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_BACKGROUND'[0m
+#define IDR_THEME_NTP_BACKGROUND _Pragma("whitelisted_resource_10490") 10490
+[0;1;32m                                 ^
+[0m[1m<scratch space>:262:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10490
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:116:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_TAB_BACKGROUND", IDR_THEME_TAB_BACKGROUND},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:109:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND'[0m
+#define IDR_THEME_TAB_BACKGROUND _Pragma("whitelisted_resource_10491") 10491
+[0;1;32m                                 ^
+[0m[1m<scratch space>:264:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10491
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:117:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_TAB_BACKGROUND_INCOGNITO", IDR_THEME_TAB_BACKGROUND_INCOGNITO},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/theme_resources.h:110:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_INCOGNITO'[0m
+#define IDR_THEME_TAB_BACKGROUND_INCOGNITO _Pragma("whitelisted_resource_10493") 10493
+[0;1;32m                                           ^
+[0m[1m<scratch space>:266:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10493
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:118:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_TAB_BACKGROUND_V", IDR_THEME_TAB_BACKGROUND_V},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/theme_resources.h:111:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_V'[0m
+#define IDR_THEME_TAB_BACKGROUND_V _Pragma("whitelisted_resource_10494") 10494
+[0;1;32m                                   ^
+[0m[1m<scratch space>:268:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10494
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:119:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_TOOLBAR", IDR_THEME_TOOLBAR},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:270:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:120:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_THEME_WINDOW_CONTROL_BACKGROUND", IDR_THEME_WINDOW_CONTROL_BACKGROUND},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:113:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_WINDOW_CONTROL_BACKGROUND'[0m
+#define IDR_THEME_WINDOW_CONTROL_BACKGROUND _Pragma("whitelisted_resource_10497") 10497
+[0;1;32m                                            ^
+[0m[1m<scratch space>:272:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10497
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:121:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_TRANSLATE_BUBBLE_ICON", IDR_TRANSLATE_BUBBLE_ICON},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:114:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TRANSLATE_BUBBLE_ICON'[0m
+#define IDR_TRANSLATE_BUBBLE_ICON _Pragma("whitelisted_resource_10500") 10500
+[0;1;32m                                  ^
+[0m[1m<scratch space>:274:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10500
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:122:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_WARNING", IDR_WARNING},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:115:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WARNING'[0m
+#define IDR_WARNING _Pragma("whitelisted_resource_10503") 10503
+[0;1;32m                    ^
+[0m[1m<scratch space>:276:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10503
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:123:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_WEBSTORE_ICON", IDR_WEBSTORE_ICON},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:116:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_ICON'[0m
+#define IDR_WEBSTORE_ICON _Pragma("whitelisted_resource_10504") 10504
+[0;1;32m                          ^
+[0m[1m<scratch space>:278:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10504
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:124:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_WEBSTORE_ICON_16", IDR_WEBSTORE_ICON_16},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:117:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_ICON_16'[0m
+#define IDR_WEBSTORE_ICON_16 _Pragma("whitelisted_resource_10505") 10505
+[0;1;32m                             ^
+[0m[1m<scratch space>:280:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10505
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:125:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_WEBSTORE_ICON_24", IDR_WEBSTORE_ICON_24},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:118:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_ICON_24'[0m
+#define IDR_WEBSTORE_ICON_24 _Pragma("whitelisted_resource_10506") 10506
+[0;1;32m                             ^
+[0m[1m<scratch space>:282:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10506
+[0;1;32m ^
+[0m[1mgen/chrome/grit/theme_resources_map.cc:126:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_WEBSTORE_ICON_32", IDR_WEBSTORE_ICON_32},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/theme_resources.h:119:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WEBSTORE_ICON_32'[0m
+#define IDR_WEBSTORE_ICON_32 _Pragma("whitelisted_resource_10507") 10507
+[0;1;32m                             ^
+[0m[1m<scratch space>:284:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10507
+[0;1;32m ^
+[0m115 warnings generated.

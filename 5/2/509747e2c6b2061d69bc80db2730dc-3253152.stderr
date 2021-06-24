@@ -1,0 +1,37 @@
+[1m../../components/autofill/core/browser/autofill_credit_card_filling_infobar_delegate_mobile.cc:44:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDR_INFOBAR_AUTOFILL_CC;
+[0;1;32m         ^
+[0m[1mgen/components/grit/components_scaled_resources.h:25:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INFOBAR_AUTOFILL_CC'[0m
+#define IDR_INFOBAR_AUTOFILL_CC _Pragma("whitelisted_resource_17220") 17220
+[0;1;32m                                ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17220
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_credit_card_filling_infobar_delegate_mobile.cc:51:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_AUTOFILL_CREDIT_CARD_FILLING_INFOBAR_TITLE);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:57:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_FILLING_INFOBAR_TITLE'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_FILLING_INFOBAR_TITLE _Pragma("whitelisted_resource_15152") 15152
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15152
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_credit_card_filling_infobar_delegate_mobile.cc:82:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      button == BUTTON_OK ? IDS_AUTOFILL_CREDIT_CARD_FILLING_INFOBAR_ACCEPT
+[0;1;32m                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:58:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_FILLING_INFOBAR_ACCEPT'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_FILLING_INFOBAR_ACCEPT _Pragma("whitelisted_resource_15154") 15154
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15154
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_credit_card_filling_infobar_delegate_mobile.cc:83:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          : IDS_NO_THANKS);
+[0;1;32m                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:1025:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NO_THANKS'[0m
+#define IDS_NO_THANKS _Pragma("whitelisted_resource_16163") 16163
+[0;1;32m                      ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16163
+[0;1;32m ^
+[0m4 warnings generated.

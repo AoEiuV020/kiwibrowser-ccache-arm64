@@ -1,0 +1,2332 @@
+[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:12:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"a11y_page/a11y_page.js", IDR_SETTINGS_A11Y_PAGE_JS},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:5:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_A11Y_PAGE_JS'[0m
+#define IDR_SETTINGS_A11Y_PAGE_JS _Pragma("whitelisted_resource_12240") 12240
+[0;1;32m                                  ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12240
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:13:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"a11y_page/a11y_page.html", IDR_SETTINGS_A11Y_PAGE_HTML},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:6:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_A11Y_PAGE_HTML'[0m
+#define IDR_SETTINGS_A11Y_PAGE_HTML _Pragma("whitelisted_resource_12241") 12241
+[0;1;32m                                    ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12241
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:14:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"about_page/about_page_browser_proxy.html", IDR_SETTINGS_ABOUT_PAGE_BROWSER_PROXY_HTML},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:7:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ABOUT_PAGE_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_ABOUT_PAGE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12246") 12246
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12246
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:15:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"about_page/about_page_browser_proxy.js", IDR_SETTINGS_ABOUT_PAGE_BROWSER_PROXY_JS},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:8:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ABOUT_PAGE_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_ABOUT_PAGE_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12247") 12247
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12247
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:16:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"about_page/about_page.js", IDR_SETTINGS_ABOUT_PAGE_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:9:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ABOUT_PAGE_JS'[0m
+#define IDR_SETTINGS_ABOUT_PAGE_JS _Pragma("whitelisted_resource_12248") 12248
+[0;1;32m                                   ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12248
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:17:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"about_page/about_page.html", IDR_SETTINGS_ABOUT_PAGE_HTML},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:10:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ABOUT_PAGE_HTML'[0m
+#define IDR_SETTINGS_ABOUT_PAGE_HTML _Pragma("whitelisted_resource_12249") 12249
+[0;1;32m                                     ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12249
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:18:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/add_site_dialog.html", IDR_SETTINGS_ADD_SITE_DIALOG_HTML},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:11:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ADD_SITE_DIALOG_HTML'[0m
+#define IDR_SETTINGS_ADD_SITE_DIALOG_HTML _Pragma("whitelisted_resource_12256") 12256
+[0;1;32m                                          ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12256
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:19:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/add_site_dialog.js", IDR_SETTINGS_ADD_SITE_DIALOG_JS},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:12:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ADD_SITE_DIALOG_JS'[0m
+#define IDR_SETTINGS_ADD_SITE_DIALOG_JS _Pragma("whitelisted_resource_12257") 12257
+[0;1;32m                                        ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12257
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:20:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/all_sites.html", IDR_SETTINGS_ALL_SITES_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:13:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ALL_SITES_HTML'[0m
+#define IDR_SETTINGS_ALL_SITES_HTML _Pragma("whitelisted_resource_12258") 12258
+[0;1;32m                                    ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12258
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:21:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/all_sites.js", IDR_SETTINGS_ALL_SITES_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:14:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ALL_SITES_JS'[0m
+#define IDR_SETTINGS_ALL_SITES_JS _Pragma("whitelisted_resource_12259") 12259
+[0;1;32m                                  ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12259
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:22:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_entry.html", IDR_SETTINGS_SITE_ENTRY_HTML},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:15:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_ENTRY_HTML'[0m
+#define IDR_SETTINGS_SITE_ENTRY_HTML _Pragma("whitelisted_resource_12260") 12260
+[0;1;32m                                     ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12260
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:23:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_entry.js", IDR_SETTINGS_SITE_ENTRY_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:16:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_ENTRY_JS'[0m
+#define IDR_SETTINGS_SITE_ENTRY_JS _Pragma("whitelisted_resource_12261") 12261
+[0;1;32m                                   ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12261
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:24:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/category_default_setting.html", IDR_SETTINGS_CATEGORY_DEFAULT_SETTING_HTML},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:17:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CATEGORY_DEFAULT_SETTING_HTML'[0m
+#define IDR_SETTINGS_CATEGORY_DEFAULT_SETTING_HTML _Pragma("whitelisted_resource_12262") 12262
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12262
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:25:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/category_default_setting.js", IDR_SETTINGS_CATEGORY_DEFAULT_SETTING_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:18:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CATEGORY_DEFAULT_SETTING_JS'[0m
+#define IDR_SETTINGS_CATEGORY_DEFAULT_SETTING_JS _Pragma("whitelisted_resource_12263") 12263
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12263
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:26:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/category_setting_exceptions.html", IDR_SETTINGS_CATEGORY_SETTING_EXCEPTIONS_HTML},
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:19:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CATEGORY_SETTING_EXCEPTIONS_HTML'[0m
+#define IDR_SETTINGS_CATEGORY_SETTING_EXCEPTIONS_HTML _Pragma("whitelisted_resource_12264") 12264
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12264
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:27:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/category_setting_exceptions.js", IDR_SETTINGS_CATEGORY_SETTING_EXCEPTIONS_JS},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:20:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CATEGORY_SETTING_EXCEPTIONS_JS'[0m
+#define IDR_SETTINGS_CATEGORY_SETTING_EXCEPTIONS_JS _Pragma("whitelisted_resource_12265") 12265
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12265
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:28:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"animation/animation.html", IDR_SETTINGS_ANIMATION_ANIMATION_HTML},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:21:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ANIMATION_ANIMATION_HTML'[0m
+#define IDR_SETTINGS_ANIMATION_ANIMATION_HTML _Pragma("whitelisted_resource_12266") 12266
+[0;1;32m                                              ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12266
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:29:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"animation/animation.js", IDR_SETTINGS_ANIMATION_ANIMATION_JS},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:22:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ANIMATION_ANIMATION_JS'[0m
+#define IDR_SETTINGS_ANIMATION_ANIMATION_JS _Pragma("whitelisted_resource_12267") 12267
+[0;1;32m                                            ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12267
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:30:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"animation/fade_animations.html", IDR_SETTINGS_ANIMATION_FADE_ANIMATIONS_HTML},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:23:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ANIMATION_FADE_ANIMATIONS_HTML'[0m
+#define IDR_SETTINGS_ANIMATION_FADE_ANIMATIONS_HTML _Pragma("whitelisted_resource_12268") 12268
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12268
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:31:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"animation/fade_animations.js", IDR_SETTINGS_ANIMATION_FADE_ANIMATIONS_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:24:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ANIMATION_FADE_ANIMATIONS_JS'[0m
+#define IDR_SETTINGS_ANIMATION_FADE_ANIMATIONS_JS _Pragma("whitelisted_resource_12269") 12269
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12269
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:32:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_animated_pages.html", IDR_SETTINGS_CR_SETTINGS_ANIMATED_PAGES_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:25:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_ANIMATED_PAGES_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_ANIMATED_PAGES_HTML _Pragma("whitelisted_resource_12270") 12270
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12270
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:33:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_animated_pages.js", IDR_SETTINGS_CR_SETTINGS_ANIMATED_PAGES_JS},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:26:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_ANIMATED_PAGES_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_ANIMATED_PAGES_JS _Pragma("whitelisted_resource_12271") 12271
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12271
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:34:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/appearance_browser_proxy.html", IDR_SETTINGS_APPEARANCE_BROWSER_PROXY_HTML},
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:27:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_APPEARANCE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12272") 12272
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12272
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:35:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/appearance_browser_proxy.js", IDR_SETTINGS_APPEARANCE_BROWSER_PROXY_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:28:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_APPEARANCE_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12273") 12273
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12273
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:36:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/appearance_fonts_page.html", IDR_SETTINGS_APPEARANCE_FONTS_PAGE_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:29:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_FONTS_PAGE_HTML'[0m
+#define IDR_SETTINGS_APPEARANCE_FONTS_PAGE_HTML _Pragma("whitelisted_resource_12274") 12274
+[0;1;32m                                                ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12274
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:37:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/appearance_fonts_page.js", IDR_SETTINGS_APPEARANCE_FONTS_PAGE_JS},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:30:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_FONTS_PAGE_JS'[0m
+#define IDR_SETTINGS_APPEARANCE_FONTS_PAGE_JS _Pragma("whitelisted_resource_12275") 12275
+[0;1;32m                                              ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12275
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:38:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/appearance_page.html", IDR_SETTINGS_APPEARANCE_PAGE_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:31:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_PAGE_HTML'[0m
+#define IDR_SETTINGS_APPEARANCE_PAGE_HTML _Pragma("whitelisted_resource_12276") 12276
+[0;1;32m                                          ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12276
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:39:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/appearance_page.js", IDR_SETTINGS_APPEARANCE_PAGE_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:32:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_PAGE_JS'[0m
+#define IDR_SETTINGS_APPEARANCE_PAGE_JS _Pragma("whitelisted_resource_12277") 12277
+[0;1;32m                                        ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12277
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:40:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/home_url_input.html", IDR_SETTINGS_APPEARANCE_HOME_URL_INPUT_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:33:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_HOME_URL_INPUT_HTML'[0m
+#define IDR_SETTINGS_APPEARANCE_HOME_URL_INPUT_HTML _Pragma("whitelisted_resource_12278") 12278
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12278
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:41:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/home_url_input.js", IDR_SETTINGS_APPEARANCE_HOME_URL_INPUT_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:34:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_APPEARANCE_HOME_URL_INPUT_JS'[0m
+#define IDR_SETTINGS_APPEARANCE_HOME_URL_INPUT_JS _Pragma("whitelisted_resource_12279") 12279
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12279
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:42:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"basic_page/basic_page.js", IDR_SETTINGS_BASIC_PAGE_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:35:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_BASIC_PAGE_JS'[0m
+#define IDR_SETTINGS_BASIC_PAGE_JS _Pragma("whitelisted_resource_12280") 12280
+[0;1;32m                                   ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12280
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:43:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"basic_page/basic_page.html", IDR_SETTINGS_BASIC_PAGE_HTML},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:36:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_BASIC_PAGE_HTML'[0m
+#define IDR_SETTINGS_BASIC_PAGE_HTML _Pragma("whitelisted_resource_12281") 12281
+[0;1;32m                                     ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12281
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:44:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/edit_exception_dialog.html", IDR_SETTINGS_EDIT_EXCEPTION_DIALOG_HTML},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:37:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_EDIT_EXCEPTION_DIALOG_HTML'[0m
+#define IDR_SETTINGS_EDIT_EXCEPTION_DIALOG_HTML _Pragma("whitelisted_resource_12282") 12282
+[0;1;32m                                                ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12282
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:45:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/edit_exception_dialog.js", IDR_SETTINGS_EDIT_EXCEPTION_DIALOG_JS},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:38:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_EDIT_EXCEPTION_DIALOG_JS'[0m
+#define IDR_SETTINGS_EDIT_EXCEPTION_DIALOG_JS _Pragma("whitelisted_resource_12283") 12283
+[0;1;32m                                              ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12283
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:46:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"extension_control_browser_proxy.js", IDR_SETTINGS_EXTENSION_CONTROL_BROWSER_PROXY_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:39:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_EXTENSION_CONTROL_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_EXTENSION_CONTROL_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12284") 12284
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12284
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:47:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"extension_control_browser_proxy.html", IDR_SETTINGS_EXTENSION_CONTROL_BROWSER_PROXY_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:40:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_EXTENSION_CONTROL_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_EXTENSION_CONTROL_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12285") 12285
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12285
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:48:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/fonts_browser_proxy.html", IDR_SETTINGS_FONTS_BROWSER_PROXY_HTML},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:41:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FONTS_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_FONTS_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12286") 12286
+[0;1;32m                                              ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12286
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:49:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"appearance_page/fonts_browser_proxy.js", IDR_SETTINGS_FONTS_BROWSER_PROXY_JS},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:42:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FONTS_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_FONTS_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12287") 12287
+[0;1;32m                                            ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12287
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:50:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"lifetime_browser_proxy.html", IDR_SETTINGS_LIFETIME_BROWSER_PROXY_HTML},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:43:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LIFETIME_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_LIFETIME_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12288") 12288
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12288
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:51:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"lifetime_browser_proxy.js", IDR_SETTINGS_LIFETIME_BROWSER_PROXY_JS},
+[0;1;32m                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:44:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LIFETIME_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_LIFETIME_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12289") 12289
+[0;1;32m                                               ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12289
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:52:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/on_startup_browser_proxy.html", IDR_SETTINGS_ON_STARTUP_BROWSER_PROXY_HTML},
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:45:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ON_STARTUP_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_ON_STARTUP_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12290") 12290
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12290
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:53:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/on_startup_browser_proxy.js", IDR_SETTINGS_ON_STARTUP_BROWSER_PROXY_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:46:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ON_STARTUP_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_ON_STARTUP_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12291") 12291
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12291
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:54:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/on_startup_page.html", IDR_SETTINGS_ON_STARTUP_PAGE_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:47:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ON_STARTUP_PAGE_HTML'[0m
+#define IDR_SETTINGS_ON_STARTUP_PAGE_HTML _Pragma("whitelisted_resource_12292") 12292
+[0;1;32m                                          ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12292
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:55:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/on_startup_page.js", IDR_SETTINGS_ON_STARTUP_PAGE_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:48:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ON_STARTUP_PAGE_JS'[0m
+#define IDR_SETTINGS_ON_STARTUP_PAGE_JS _Pragma("whitelisted_resource_12293") 12293
+[0;1;32m                                        ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12293
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:56:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_settings.js", IDR_SETTINGS_SEARCH_SETTINGS_JS},
+[0;1;32m                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:49:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_SETTINGS_JS'[0m
+#define IDR_SETTINGS_SEARCH_SETTINGS_JS _Pragma("whitelisted_resource_12294") 12294
+[0;1;32m                                        ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12294
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:57:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_urls_page.html", IDR_SETTINGS_STARTUP_URLS_PAGE_HTML},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:50:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URLS_PAGE_HTML'[0m
+#define IDR_SETTINGS_STARTUP_URLS_PAGE_HTML _Pragma("whitelisted_resource_12295") 12295
+[0;1;32m                                            ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12295
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:58:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_urls_page.js", IDR_SETTINGS_STARTUP_URLS_PAGE_JS},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:51:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URLS_PAGE_JS'[0m
+#define IDR_SETTINGS_STARTUP_URLS_PAGE_JS _Pragma("whitelisted_resource_12296") 12296
+[0;1;32m                                          ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12296
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:59:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_urls_page_browser_proxy.js", IDR_SETTINGS_STARTUP_URLS_PAGE_BROWSER_PROXY_JS},
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:52:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URLS_PAGE_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_STARTUP_URLS_PAGE_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12297") 12297
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12297
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:60:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_urls_page_browser_proxy.html", IDR_SETTINGS_STARTUP_URLS_PAGE_BROWSER_PROXY_HTML},
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:53:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URLS_PAGE_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_STARTUP_URLS_PAGE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12298") 12298
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12298
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:61:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_url_dialog.js", IDR_SETTINGS_STARTUP_URL_DIALOG_JS},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:54:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URL_DIALOG_JS'[0m
+#define IDR_SETTINGS_STARTUP_URL_DIALOG_JS _Pragma("whitelisted_resource_12299") 12299
+[0;1;32m                                           ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12299
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:62:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_url_dialog.html", IDR_SETTINGS_STARTUP_URL_DIALOG_HTML},
+[0;1;32m                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:55:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URL_DIALOG_HTML'[0m
+#define IDR_SETTINGS_STARTUP_URL_DIALOG_HTML _Pragma("whitelisted_resource_12300") 12300
+[0;1;32m                                             ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12300
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:63:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_url_entry.js", IDR_SETTINGS_STARTUP_URL_ENTRY_JS},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:56:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URL_ENTRY_JS'[0m
+#define IDR_SETTINGS_STARTUP_URL_ENTRY_JS _Pragma("whitelisted_resource_12301") 12301
+[0;1;32m                                          ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12301
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:64:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"on_startup_page/startup_url_entry.html", IDR_SETTINGS_STARTUP_URL_ENTRY_HTML},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:57:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_STARTUP_URL_ENTRY_HTML'[0m
+#define IDR_SETTINGS_STARTUP_URL_ENTRY_HTML _Pragma("whitelisted_resource_12302") 12302
+[0;1;32m                                            ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12302
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:65:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_main/settings_main.html", IDR_SETTINGS_CR_SETTINGS_MAIN_HTML},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:58:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_MAIN_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_MAIN_HTML _Pragma("whitelisted_resource_12303") 12303
+[0;1;32m                                           ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12303
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:66:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_main/settings_main.js", IDR_SETTINGS_CR_SETTINGS_MAIN_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:59:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_MAIN_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_MAIN_JS _Pragma("whitelisted_resource_12304") 12304
+[0;1;32m                                         ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12304
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:67:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_menu/settings_menu.html", IDR_SETTINGS_CR_SETTINGS_MENU_HTML},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:60:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_MENU_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_MENU_HTML _Pragma("whitelisted_resource_12305") 12305
+[0;1;32m                                           ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12305
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:68:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_menu/settings_menu.js", IDR_SETTINGS_CR_SETTINGS_MENU_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:61:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_MENU_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_MENU_JS _Pragma("whitelisted_resource_12306") 12306
+[0;1;32m                                         ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12306
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:69:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_section.html", IDR_SETTINGS_CR_SETTINGS_SECTION_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:62:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_SECTION_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_SECTION_HTML _Pragma("whitelisted_resource_12307") 12307
+[0;1;32m                                              ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12307
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:70:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_section.js", IDR_SETTINGS_CR_SETTINGS_SECTION_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:63:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_SECTION_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_SECTION_JS _Pragma("whitelisted_resource_12308") 12308
+[0;1;32m                                            ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12308
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:71:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_subpage.html", IDR_SETTINGS_CR_SETTINGS_SUBPAGE_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:64:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_SUBPAGE_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_SUBPAGE_HTML _Pragma("whitelisted_resource_12309") 12309
+[0;1;32m                                              ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12309
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:72:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_subpage.js", IDR_SETTINGS_CR_SETTINGS_SUBPAGE_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:65:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_SUBPAGE_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_SUBPAGE_JS _Pragma("whitelisted_resource_12310") 12310
+[0;1;32m                                            ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12310
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:73:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_subpage_search.html", IDR_SETTINGS_CR_SETTINGS_SUBPAGE_SEARCH_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:66:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_SUBPAGE_SEARCH_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_SUBPAGE_SEARCH_HTML _Pragma("whitelisted_resource_12311") 12311
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12311
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:74:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/settings_subpage_search.js", IDR_SETTINGS_CR_SETTINGS_SUBPAGE_SEARCH_JS},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:67:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_SUBPAGE_SEARCH_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_SUBPAGE_SEARCH_JS _Pragma("whitelisted_resource_12312") 12312
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12312
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:75:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page_css.html", IDR_SETTINGS_CR_SETTINGS_PAGE_CSS_HTML},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:68:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_PAGE_CSS_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_PAGE_CSS_HTML _Pragma("whitelisted_resource_12313") 12313
+[0;1;32m                                               ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12313
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:76:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_icons_css.html", IDR_SETTINGS_CR_SETTINGS_ICONS_CSS_HTML},
+[0;1;32m                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:69:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_ICONS_CSS_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_ICONS_CSS_HTML _Pragma("whitelisted_resource_12314") 12314
+[0;1;32m                                                ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12314
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:77:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/main_page_behavior.html", IDR_SETTINGS_MAIN_PAGE_BEHAVIOR_HTML},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:70:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_MAIN_PAGE_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_MAIN_PAGE_BEHAVIOR_HTML _Pragma("whitelisted_resource_12315") 12315
+[0;1;32m                                             ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12315
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:78:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_page/main_page_behavior.js", IDR_SETTINGS_MAIN_PAGE_BEHAVIOR_JS},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:71:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_MAIN_PAGE_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_MAIN_PAGE_BEHAVIOR_JS _Pragma("whitelisted_resource_12316") 12316
+[0;1;32m                                           ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12316
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:79:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_vars_css.html", IDR_SETTINGS_SETTINGS_VARS_CSS_HTML},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:72:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SETTINGS_VARS_CSS_HTML'[0m
+#define IDR_SETTINGS_SETTINGS_VARS_CSS_HTML _Pragma("whitelisted_resource_12317") 12317
+[0;1;32m                                            ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12317
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:80:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_shared_css.html", IDR_SETTINGS_SETTINGS_SHARED_CSS_HTML},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:73:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SETTINGS_SHARED_CSS_HTML'[0m
+#define IDR_SETTINGS_SETTINGS_SHARED_CSS_HTML _Pragma("whitelisted_resource_12318") 12318
+[0;1;32m                                              ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12318
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:81:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_ui/settings_ui.html", IDR_SETTINGS_CR_SETTINGS_UI_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:74:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_UI_HTML'[0m
+#define IDR_SETTINGS_CR_SETTINGS_UI_HTML _Pragma("whitelisted_resource_12319") 12319
+[0;1;32m                                         ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12319
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:82:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings_ui/settings_ui.js", IDR_SETTINGS_CR_SETTINGS_UI_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:75:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CR_SETTINGS_UI_JS'[0m
+#define IDR_SETTINGS_CR_SETTINGS_UI_JS _Pragma("whitelisted_resource_12320") 12320
+[0;1;32m                                       ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12320
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:83:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"global_scroll_target_behavior.html", IDR_SETTINGS_GLOBAL_SCROLL_TARGET_BEHAVIOR_HTML},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:76:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_GLOBAL_SCROLL_TARGET_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_GLOBAL_SCROLL_TARGET_BEHAVIOR_HTML _Pragma("whitelisted_resource_12321") 12321
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12321
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:84:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"global_scroll_target_behavior.js", IDR_SETTINGS_GLOBAL_SCROLL_TARGET_BEHAVIOR_JS},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:77:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_GLOBAL_SCROLL_TARGET_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_GLOBAL_SCROLL_TARGET_BEHAVIOR_JS _Pragma("whitelisted_resource_12322") 12322
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12322
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:85:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"focus_row_behavior.html", IDR_SETTINGS_FOCUS_ROW_BEHAVIOR_HTML},
+[0;1;32m                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:78:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FOCUS_ROW_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_FOCUS_ROW_BEHAVIOR_HTML _Pragma("whitelisted_resource_12323") 12323
+[0;1;32m                                             ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12323
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:86:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"focus_row_behavior.js", IDR_SETTINGS_FOCUS_ROW_BEHAVIOR_JS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:79:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FOCUS_ROW_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_FOCUS_ROW_BEHAVIOR_JS _Pragma("whitelisted_resource_12324") 12324
+[0;1;32m                                           ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12324
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:87:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"change_password_page/change_password_browser_proxy.html", IDR_SETTINGS_CHANGE_PASSWORD_BROWSER_PROXY_HTML},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:80:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CHANGE_PASSWORD_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_CHANGE_PASSWORD_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12325") 12325
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12325
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:88:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"change_password_page/change_password_browser_proxy.js", IDR_SETTINGS_CHANGE_PASSWORD_BROWSER_PROXY_JS},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:81:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CHANGE_PASSWORD_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_CHANGE_PASSWORD_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12326") 12326
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12326
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:89:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"change_password_page/change_password_page.html", IDR_SETTINGS_CHANGE_PASSWORD_PAGE_HTML},
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:82:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CHANGE_PASSWORD_PAGE_HTML'[0m
+#define IDR_SETTINGS_CHANGE_PASSWORD_PAGE_HTML _Pragma("whitelisted_resource_12327") 12327
+[0;1;32m                                               ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12327
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:90:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"change_password_page/change_password_page.js", IDR_SETTINGS_CHANGE_PASSWORD_PAGE_JS},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:83:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CHANGE_PASSWORD_PAGE_JS'[0m
+#define IDR_SETTINGS_CHANGE_PASSWORD_PAGE_JS _Pragma("whitelisted_resource_12328") 12328
+[0;1;32m                                             ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12328
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:91:73: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"clear_browsing_data_dialog/clear_browsing_data_browser_proxy.html", IDR_SETTINGS_CLEAR_BROWSING_DATA_BROWSER_PROXY_HTML},
+[0;1;32m                                                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:84:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CLEAR_BROWSING_DATA_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_CLEAR_BROWSING_DATA_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12341") 12341
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:214:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12341
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:92:71: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"clear_browsing_data_dialog/clear_browsing_data_browser_proxy.js", IDR_SETTINGS_CLEAR_BROWSING_DATA_BROWSER_PROXY_JS},
+[0;1;32m                                                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:85:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CLEAR_BROWSING_DATA_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_CLEAR_BROWSING_DATA_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12342") 12342
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:216:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12342
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:93:66: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"clear_browsing_data_dialog/clear_browsing_data_dialog.html", IDR_SETTINGS_CLEAR_BROWSING_DATA_DIALOG_HTML},
+[0;1;32m                                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:86:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CLEAR_BROWSING_DATA_DIALOG_HTML'[0m
+#define IDR_SETTINGS_CLEAR_BROWSING_DATA_DIALOG_HTML _Pragma("whitelisted_resource_12343") 12343
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:218:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12343
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:94:64: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"clear_browsing_data_dialog/clear_browsing_data_dialog.js", IDR_SETTINGS_CLEAR_BROWSING_DATA_DIALOG_JS},
+[0;1;32m                                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:87:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CLEAR_BROWSING_DATA_DIALOG_JS'[0m
+#define IDR_SETTINGS_CLEAR_BROWSING_DATA_DIALOG_JS _Pragma("whitelisted_resource_12344") 12344
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:220:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12344
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:95:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"clear_browsing_data_dialog/history_deletion_dialog.html", IDR_SETTINGS_HISTORY_DELETION_DIALOG_HTML},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:88:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_HISTORY_DELETION_DIALOG_HTML'[0m
+#define IDR_SETTINGS_HISTORY_DELETION_DIALOG_HTML _Pragma("whitelisted_resource_12345") 12345
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:222:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12345
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:96:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"clear_browsing_data_dialog/history_deletion_dialog.js", IDR_SETTINGS_HISTORY_DELETION_DIALOG_JS},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:89:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_HISTORY_DELETION_DIALOG_JS'[0m
+#define IDR_SETTINGS_HISTORY_DELETION_DIALOG_JS _Pragma("whitelisted_resource_12346") 12346
+[0;1;32m                                                ^
+[0m[1m<scratch space>:224:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12346
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:97:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_boolean_control_behavior.html", IDR_SETTINGS_CONTROLS_BOOLEAN_CONTROL_BEHAVIOR_HTML},
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:90:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_BOOLEAN_CONTROL_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_BOOLEAN_CONTROL_BEHAVIOR_HTML _Pragma("whitelisted_resource_12347") 12347
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12347
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:98:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_boolean_control_behavior.js", IDR_SETTINGS_CONTROLS_BOOLEAN_CONTROL_BEHAVIOR_JS},
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:91:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_BOOLEAN_CONTROL_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_CONTROLS_BOOLEAN_CONTROL_BEHAVIOR_JS _Pragma("whitelisted_resource_12348") 12348
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12348
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:99:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/controlled_button.js", IDR_SETTINGS_CONTROLS_CONTROLLED_BUTTON_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:92:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_CONTROLLED_BUTTON_JS'[0m
+#define IDR_SETTINGS_CONTROLS_CONTROLLED_BUTTON_JS _Pragma("whitelisted_resource_12349") 12349
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:230:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12349
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:100:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/controlled_button.html", IDR_SETTINGS_CONTROLS_CONTROLLED_BUTTON_HTML},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:93:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_CONTROLLED_BUTTON_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_CONTROLLED_BUTTON_HTML _Pragma("whitelisted_resource_12350") 12350
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:232:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12350
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:101:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/controlled_radio_button.js", IDR_SETTINGS_CONTROLS_CONTROLLED_RADIO_BUTTON_JS},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:94:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_CONTROLLED_RADIO_BUTTON_JS'[0m
+#define IDR_SETTINGS_CONTROLS_CONTROLLED_RADIO_BUTTON_JS _Pragma("whitelisted_resource_12351") 12351
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:234:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12351
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:102:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/controlled_radio_button.html", IDR_SETTINGS_CONTROLS_CONTROLLED_RADIO_BUTTON_HTML},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:95:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_CONTROLLED_RADIO_BUTTON_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_CONTROLLED_RADIO_BUTTON_HTML _Pragma("whitelisted_resource_12352") 12352
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:236:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12352
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:103:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/extension_controlled_indicator.js", IDR_SETTINGS_CONTROLS_EXTENSION_CONTROLLED_INDICATOR_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:96:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_EXTENSION_CONTROLLED_INDICATOR_JS'[0m
+#define IDR_SETTINGS_CONTROLS_EXTENSION_CONTROLLED_INDICATOR_JS _Pragma("whitelisted_resource_12353") 12353
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:238:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12353
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:104:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/extension_controlled_indicator.html", IDR_SETTINGS_CONTROLS_EXTENSION_CONTROLLED_INDICATOR_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:97:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_EXTENSION_CONTROLLED_INDICATOR_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_EXTENSION_CONTROLLED_INDICATOR_HTML _Pragma("whitelisted_resource_12354") 12354
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:240:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12354
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:105:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_checkbox.html", IDR_SETTINGS_CONTROLS_CHECKBOX_HTML},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:98:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_CHECKBOX_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_CHECKBOX_HTML _Pragma("whitelisted_resource_12355") 12355
+[0;1;32m                                            ^
+[0m[1m<scratch space>:242:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12355
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:106:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_checkbox.js", IDR_SETTINGS_CONTROLS_CHECKBOX_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:99:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_CHECKBOX_JS'[0m
+#define IDR_SETTINGS_CONTROLS_CHECKBOX_JS _Pragma("whitelisted_resource_12356") 12356
+[0;1;32m                                          ^
+[0m[1m<scratch space>:244:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12356
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:107:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/important_site_checkbox.html", IDR_SETTINGS_CONTROLS_IMPORTANT_SITE_CHECKBOX_HTML},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:100:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_IMPORTANT_SITE_CHECKBOX_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_IMPORTANT_SITE_CHECKBOX_HTML _Pragma("whitelisted_resource_12357") 12357
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:246:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12357
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:108:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/important_site_checkbox.js", IDR_SETTINGS_CONTROLS_IMPORTANT_SITE_CHECKBOX_JS},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:101:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_IMPORTANT_SITE_CHECKBOX_JS'[0m
+#define IDR_SETTINGS_CONTROLS_IMPORTANT_SITE_CHECKBOX_JS _Pragma("whitelisted_resource_12358") 12358
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:248:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12358
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:109:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_dropdown_menu.html", IDR_SETTINGS_CONTROLS_DROPDOWN_MENU_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:102:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_DROPDOWN_MENU_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_DROPDOWN_MENU_HTML _Pragma("whitelisted_resource_12359") 12359
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:250:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12359
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:110:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_dropdown_menu.js", IDR_SETTINGS_CONTROLS_DROPDOWN_MENU_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:103:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_DROPDOWN_MENU_JS'[0m
+#define IDR_SETTINGS_CONTROLS_DROPDOWN_MENU_JS _Pragma("whitelisted_resource_12360") 12360
+[0;1;32m                                               ^
+[0m[1m<scratch space>:252:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12360
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:111:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/pref_control_behavior.html", IDR_SETTINGS_CONTROLS_PREF_CONTROL_BEHAVIOR_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:104:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_PREF_CONTROL_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_PREF_CONTROL_BEHAVIOR_HTML _Pragma("whitelisted_resource_12361") 12361
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:254:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12361
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:112:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/pref_control_behavior.js", IDR_SETTINGS_CONTROLS_PREF_CONTROL_BEHAVIOR_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:105:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_PREF_CONTROL_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_CONTROLS_PREF_CONTROL_BEHAVIOR_JS _Pragma("whitelisted_resource_12362") 12362
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:256:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12362
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:113:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_radio_group.html", IDR_SETTINGS_CONTROLS_RADIO_GROUP_HTML},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:106:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_RADIO_GROUP_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_RADIO_GROUP_HTML _Pragma("whitelisted_resource_12363") 12363
+[0;1;32m                                               ^
+[0m[1m<scratch space>:258:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12363
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:114:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_radio_group.js", IDR_SETTINGS_CONTROLS_RADIO_GROUP_JS},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:107:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_RADIO_GROUP_JS'[0m
+#define IDR_SETTINGS_CONTROLS_RADIO_GROUP_JS _Pragma("whitelisted_resource_12364") 12364
+[0;1;32m                                             ^
+[0m[1m<scratch space>:260:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12364
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:115:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_idle_load.html", IDR_SETTINGS_CONTROLS_SETTINGS_IDLE_LOAD_HTML},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:108:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_SETTINGS_IDLE_LOAD_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_SETTINGS_IDLE_LOAD_HTML _Pragma("whitelisted_resource_12365") 12365
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:262:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12365
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:116:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_idle_load.js", IDR_SETTINGS_CONTROLS_SETTINGS_IDLE_LOAD_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:109:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_SETTINGS_IDLE_LOAD_JS'[0m
+#define IDR_SETTINGS_CONTROLS_SETTINGS_IDLE_LOAD_JS _Pragma("whitelisted_resource_12366") 12366
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:264:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12366
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:117:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_slider.html", IDR_SETTINGS_CONTROLS_SLIDER_HTML},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:110:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_SLIDER_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_SLIDER_HTML _Pragma("whitelisted_resource_12367") 12367
+[0;1;32m                                          ^
+[0m[1m<scratch space>:266:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12367
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:118:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_slider.js", IDR_SETTINGS_CONTROLS_SLIDER_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:111:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_SLIDER_JS'[0m
+#define IDR_SETTINGS_CONTROLS_SLIDER_JS _Pragma("whitelisted_resource_12368") 12368
+[0;1;32m                                        ^
+[0m[1m<scratch space>:268:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12368
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:119:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_toggle_button.html", IDR_SETTINGS_CONTROLS_TOGGLE_BUTTON_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:112:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_TOGGLE_BUTTON_HTML'[0m
+#define IDR_SETTINGS_CONTROLS_TOGGLE_BUTTON_HTML _Pragma("whitelisted_resource_12369") 12369
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:270:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12369
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:120:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"controls/settings_toggle_button.js", IDR_SETTINGS_CONTROLS_TOGGLE_BUTTON_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:113:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONTROLS_TOGGLE_BUTTON_JS'[0m
+#define IDR_SETTINGS_CONTROLS_TOGGLE_BUTTON_JS _Pragma("whitelisted_resource_12370") 12370
+[0;1;32m                                               ^
+[0m[1m<scratch space>:272:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12370
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:121:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/cookie_info.html", IDR_SETTINGS_COOKIE_INFO_HTML},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:114:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_COOKIE_INFO_HTML'[0m
+#define IDR_SETTINGS_COOKIE_INFO_HTML _Pragma("whitelisted_resource_12371") 12371
+[0;1;32m                                      ^
+[0m[1m<scratch space>:274:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12371
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:122:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/cookie_info.js", IDR_SETTINGS_COOKIE_INFO_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:115:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_COOKIE_INFO_JS'[0m
+#define IDR_SETTINGS_COOKIE_INFO_JS _Pragma("whitelisted_resource_12372") 12372
+[0;1;32m                                    ^
+[0m[1m<scratch space>:276:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12372
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:123:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"default_browser_page/default_browser_browser_proxy.html", IDR_SETTINGS_DEFAULT_BROWSER_BROWSER_PROXY_HTML},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:116:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DEFAULT_BROWSER_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_DEFAULT_BROWSER_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12373") 12373
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:278:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12373
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:124:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"default_browser_page/default_browser_browser_proxy.js", IDR_SETTINGS_DEFAULT_BROWSER_BROWSER_PROXY_JS},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:117:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DEFAULT_BROWSER_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_DEFAULT_BROWSER_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12374") 12374
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:280:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12374
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:125:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"default_browser_page/default_browser_page.html", IDR_SETTINGS_DEFAULT_BROWSER_PAGE_HTML},
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:118:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DEFAULT_BROWSER_PAGE_HTML'[0m
+#define IDR_SETTINGS_DEFAULT_BROWSER_PAGE_HTML _Pragma("whitelisted_resource_12375") 12375
+[0;1;32m                                               ^
+[0m[1m<scratch space>:282:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12375
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:126:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"default_browser_page/default_browser_page.js", IDR_SETTINGS_DEFAULT_BROWSER_PAGE_JS},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:119:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DEFAULT_BROWSER_PAGE_JS'[0m
+#define IDR_SETTINGS_DEFAULT_BROWSER_PAGE_JS _Pragma("whitelisted_resource_12376") 12376
+[0;1;32m                                             ^
+[0m[1m<scratch space>:284:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12376
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:127:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"downloads_page/downloads_browser_proxy.html", IDR_SETTINGS_DOWNLOADS_BROWSER_PROXY_HTML},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:120:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DOWNLOADS_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_DOWNLOADS_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12407") 12407
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:286:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12407
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:128:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"downloads_page/downloads_browser_proxy.js", IDR_SETTINGS_DOWNLOADS_BROWSER_PROXY_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:121:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DOWNLOADS_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_DOWNLOADS_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12408") 12408
+[0;1;32m                                                ^
+[0m[1m<scratch space>:288:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12408
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:129:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"downloads_page/downloads_page.html", IDR_SETTINGS_DOWNLOADS_PAGE_HTML},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:122:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DOWNLOADS_PAGE_HTML'[0m
+#define IDR_SETTINGS_DOWNLOADS_PAGE_HTML _Pragma("whitelisted_resource_12409") 12409
+[0;1;32m                                         ^
+[0m[1m<scratch space>:290:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12409
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:130:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"downloads_page/downloads_page.js", IDR_SETTINGS_DOWNLOADS_PAGE_JS},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:123:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_DOWNLOADS_PAGE_JS'[0m
+#define IDR_SETTINGS_DOWNLOADS_PAGE_JS _Pragma("whitelisted_resource_12410") 12410
+[0;1;32m                                       ^
+[0m[1m<scratch space>:292:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12410
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:131:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"i18n_setup.html", IDR_SETTINGS_I18n_SETUP_HTML},
+[0;1;32m                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:124:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_I18n_SETUP_HTML'[0m
+#define IDR_SETTINGS_I18n_SETUP_HTML _Pragma("whitelisted_resource_12417") 12417
+[0;1;32m                                     ^
+[0m[1m<scratch space>:294:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12417
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:132:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"icons.html", IDR_SETTINGS_ICONS},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:125:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ICONS'[0m
+#define IDR_SETTINGS_ICONS _Pragma("whitelisted_resource_12418") 12418
+[0;1;32m                           ^
+[0m[1m<scratch space>:296:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12418
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:133:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"find_shortcut_behavior.html", IDR_SETTINGS_FIND_SHORTCUT_BEHAVIOR_HTML},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:126:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FIND_SHORTCUT_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_FIND_SHORTCUT_BEHAVIOR_HTML _Pragma("whitelisted_resource_12419") 12419
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:298:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12419
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:134:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"find_shortcut_behavior.js", IDR_SETTINGS_FIND_SHORTCUT_BEHAVIOR_JS},
+[0;1;32m                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:127:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_FIND_SHORTCUT_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_FIND_SHORTCUT_BEHAVIOR_JS _Pragma("whitelisted_resource_12420") 12420
+[0;1;32m                                               ^
+[0m[1m<scratch space>:300:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12420
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:135:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/powerwash_dialog.html", IDR_SETTINGS_POWERWASH_DIALOG_HTML},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:128:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_POWERWASH_DIALOG_HTML'[0m
+#define IDR_SETTINGS_POWERWASH_DIALOG_HTML _Pragma("whitelisted_resource_12421") 12421
+[0;1;32m                                           ^
+[0m[1m<scratch space>:302:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12421
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:136:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/powerwash_dialog.js", IDR_SETTINGS_POWERWASH_DIALOG_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:129:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_POWERWASH_DIALOG_JS'[0m
+#define IDR_SETTINGS_POWERWASH_DIALOG_JS _Pragma("whitelisted_resource_12422") 12422
+[0;1;32m                                         ^
+[0m[1m<scratch space>:304:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12422
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:137:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_page.html", IDR_SETTINGS_RESET_PAGE_HTML},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:130:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_PAGE_HTML'[0m
+#define IDR_SETTINGS_RESET_PAGE_HTML _Pragma("whitelisted_resource_12423") 12423
+[0;1;32m                                     ^
+[0m[1m<scratch space>:306:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12423
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:138:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_page.js", IDR_SETTINGS_RESET_PAGE_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:131:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_PAGE_JS'[0m
+#define IDR_SETTINGS_RESET_PAGE_JS _Pragma("whitelisted_resource_12424") 12424
+[0;1;32m                                   ^
+[0m[1m<scratch space>:308:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12424
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:139:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_profile_dialog.html", IDR_SETTINGS_RESET_PROFILE_DIALOG_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:132:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_PROFILE_DIALOG_HTML'[0m
+#define IDR_SETTINGS_RESET_PROFILE_DIALOG_HTML _Pragma("whitelisted_resource_12425") 12425
+[0;1;32m                                               ^
+[0m[1m<scratch space>:310:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12425
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:140:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_profile_dialog.js", IDR_SETTINGS_RESET_PROFILE_DIALOG_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:133:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_PROFILE_DIALOG_JS'[0m
+#define IDR_SETTINGS_RESET_PROFILE_DIALOG_JS _Pragma("whitelisted_resource_12426") 12426
+[0;1;32m                                             ^
+[0m[1m<scratch space>:312:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12426
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:141:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_profile_banner.html", IDR_SETTINGS_RESET_PROFILE_BANNER_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:134:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_PROFILE_BANNER_HTML'[0m
+#define IDR_SETTINGS_RESET_PROFILE_BANNER_HTML _Pragma("whitelisted_resource_12427") 12427
+[0;1;32m                                               ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12427
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:142:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_profile_banner.js", IDR_SETTINGS_RESET_PROFILE_BANNER_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:135:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_PROFILE_BANNER_JS'[0m
+#define IDR_SETTINGS_RESET_PROFILE_BANNER_JS _Pragma("whitelisted_resource_12428") 12428
+[0;1;32m                                             ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12428
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:143:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_browser_proxy.js", IDR_SETTINGS_RESET_BROWSER_PROXY_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:136:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_RESET_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12429") 12429
+[0;1;32m                                            ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12429
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:144:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"reset_page/reset_browser_proxy.html", IDR_SETTINGS_RESET_BROWSER_PROXY_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:137:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_RESET_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_RESET_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12430") 12430
+[0;1;32m                                              ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12430
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:145:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/languages.html", IDR_SETTINGS_LANGUAGES_HTML},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:138:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_HTML'[0m
+#define IDR_SETTINGS_LANGUAGES_HTML _Pragma("whitelisted_resource_12431") 12431
+[0;1;32m                                    ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12431
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:146:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/languages.js", IDR_SETTINGS_LANGUAGES_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:139:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_JS'[0m
+#define IDR_SETTINGS_LANGUAGES_JS _Pragma("whitelisted_resource_12432") 12432
+[0;1;32m                                  ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12432
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:147:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/languages_browser_proxy.html", IDR_SETTINGS_LANGUAGES_BROWSER_PROXY_HTML},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:140:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_LANGUAGES_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12433") 12433
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12433
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:148:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/languages_browser_proxy.js", IDR_SETTINGS_LANGUAGES_BROWSER_PROXY_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:141:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_LANGUAGES_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12434") 12434
+[0;1;32m                                                ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12434
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:149:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/add_languages_dialog.html", IDR_SETTINGS_LANGUAGES_ADD_LANGUAGES_DIALOG_HTML},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:142:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_ADD_LANGUAGES_DIALOG_HTML'[0m
+#define IDR_SETTINGS_LANGUAGES_ADD_LANGUAGES_DIALOG_HTML _Pragma("whitelisted_resource_12435") 12435
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12435
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:150:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/add_languages_dialog.js", IDR_SETTINGS_LANGUAGES_ADD_LANGUAGES_DIALOG_JS},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:143:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_ADD_LANGUAGES_DIALOG_JS'[0m
+#define IDR_SETTINGS_LANGUAGES_ADD_LANGUAGES_DIALOG_JS _Pragma("whitelisted_resource_12436") 12436
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12436
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:151:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/languages_page.html", IDR_SETTINGS_LANGUAGES_PAGE_HTML},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:144:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_PAGE_HTML'[0m
+#define IDR_SETTINGS_LANGUAGES_PAGE_HTML _Pragma("whitelisted_resource_12437") 12437
+[0;1;32m                                         ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12437
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:152:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/languages_page.js", IDR_SETTINGS_LANGUAGES_PAGE_JS},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:145:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_PAGE_JS'[0m
+#define IDR_SETTINGS_LANGUAGES_PAGE_JS _Pragma("whitelisted_resource_12438") 12438
+[0;1;32m                                       ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12438
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:153:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/edit_dictionary_page.html", IDR_SETTINGS_LANGUAGES_EDIT_DICTIONARY_PAGE_HTML},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:146:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_EDIT_DICTIONARY_PAGE_HTML'[0m
+#define IDR_SETTINGS_LANGUAGES_EDIT_DICTIONARY_PAGE_HTML _Pragma("whitelisted_resource_12441") 12441
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12441
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:154:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"languages_page/edit_dictionary_page.js", IDR_SETTINGS_LANGUAGES_EDIT_DICTIONARY_PAGE_JS},
+[0;1;32m                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:147:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LANGUAGES_EDIT_DICTIONARY_PAGE_JS'[0m
+#define IDR_SETTINGS_LANGUAGES_EDIT_DICTIONARY_PAGE_JS _Pragma("whitelisted_resource_12442") 12442
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12442
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:155:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/media_picker.html", IDR_SETTINGS_MEDIA_PICKER_HTML},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:148:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_MEDIA_PICKER_HTML'[0m
+#define IDR_SETTINGS_MEDIA_PICKER_HTML _Pragma("whitelisted_resource_12443") 12443
+[0;1;32m                                       ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12443
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:156:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/media_picker.js", IDR_SETTINGS_MEDIA_PICKER_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:149:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_MEDIA_PICKER_JS'[0m
+#define IDR_SETTINGS_MEDIA_PICKER_JS _Pragma("whitelisted_resource_12444") 12444
+[0;1;32m                                     ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12444
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:157:62: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_and_forms_page.html", IDR_SETTINGS_PASSWORDS_AND_FORMS_PAGE_HTML},
+[0;1;32m                                                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:150:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_AND_FORMS_PAGE_HTML'[0m
+#define IDR_SETTINGS_PASSWORDS_AND_FORMS_PAGE_HTML _Pragma("whitelisted_resource_12445") 12445
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12445
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:158:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_and_forms_page.js", IDR_SETTINGS_PASSWORDS_AND_FORMS_PAGE_JS},
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:151:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_AND_FORMS_PAGE_JS'[0m
+#define IDR_SETTINGS_PASSWORDS_AND_FORMS_PAGE_JS _Pragma("whitelisted_resource_12446") 12446
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12446
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:159:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_shared_css.html", IDR_SETTINGS_PASSWORDS_SHARED_CSS_HTML},
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:152:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_SHARED_CSS_HTML'[0m
+#define IDR_SETTINGS_PASSWORDS_SHARED_CSS_HTML _Pragma("whitelisted_resource_12447") 12447
+[0;1;32m                                               ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12447
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:160:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/credit_card_edit_dialog.html", IDR_SETTINGS_CREDIT_CARD_EDIT_DIALOG_HTML},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:153:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CREDIT_CARD_EDIT_DIALOG_HTML'[0m
+#define IDR_SETTINGS_CREDIT_CARD_EDIT_DIALOG_HTML _Pragma("whitelisted_resource_12448") 12448
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12448
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:161:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/credit_card_edit_dialog.js", IDR_SETTINGS_CREDIT_CARD_EDIT_DIALOG_JS},
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:154:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CREDIT_CARD_EDIT_DIALOG_JS'[0m
+#define IDR_SETTINGS_CREDIT_CARD_EDIT_DIALOG_JS _Pragma("whitelisted_resource_12449") 12449
+[0;1;32m                                                ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12449
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:162:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/autofill_section.html", IDR_SETTINGS_AUTOFILL_SECTION_HTML},
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:155:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_AUTOFILL_SECTION_HTML'[0m
+#define IDR_SETTINGS_AUTOFILL_SECTION_HTML _Pragma("whitelisted_resource_12450") 12450
+[0;1;32m                                           ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12450
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:163:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/autofill_section.js", IDR_SETTINGS_AUTOFILL_SECTION_JS},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:156:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_AUTOFILL_SECTION_JS'[0m
+#define IDR_SETTINGS_AUTOFILL_SECTION_JS _Pragma("whitelisted_resource_12451") 12451
+[0;1;32m                                         ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12451
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:164:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/address_edit_dialog.html", IDR_SETTINGS_ADDRESS_EDIT_DIALOG_HTML},
+[0;1;32m                                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:157:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ADDRESS_EDIT_DIALOG_HTML'[0m
+#define IDR_SETTINGS_ADDRESS_EDIT_DIALOG_HTML _Pragma("whitelisted_resource_12452") 12452
+[0;1;32m                                              ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12452
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:165:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/address_edit_dialog.js", IDR_SETTINGS_ADDRESS_EDIT_DIALOG_JS},
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:158:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ADDRESS_EDIT_DIALOG_JS'[0m
+#define IDR_SETTINGS_ADDRESS_EDIT_DIALOG_JS _Pragma("whitelisted_resource_12453") 12453
+[0;1;32m                                            ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12453
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:166:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/show_password_behavior.html", IDR_SETTINGS_SHOW_PASSWORD_BEHAVIOR_HTML},
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:159:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SHOW_PASSWORD_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_SHOW_PASSWORD_BEHAVIOR_HTML _Pragma("whitelisted_resource_12454") 12454
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12454
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:167:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/show_password_behavior.js", IDR_SETTINGS_SHOW_PASSWORD_BEHAVIOR_JS},
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:160:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SHOW_PASSWORD_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_SHOW_PASSWORD_BEHAVIOR_JS _Pragma("whitelisted_resource_12455") 12455
+[0;1;32m                                               ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12455
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:168:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/password_list_item.html", IDR_SETTINGS_PASSWORD_LIST_ITEM_HTML},
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:161:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORD_LIST_ITEM_HTML'[0m
+#define IDR_SETTINGS_PASSWORD_LIST_ITEM_HTML _Pragma("whitelisted_resource_12456") 12456
+[0;1;32m                                             ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12456
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:169:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/password_list_item.js", IDR_SETTINGS_PASSWORD_LIST_ITEM_JS},
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:162:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORD_LIST_ITEM_JS'[0m
+#define IDR_SETTINGS_PASSWORD_LIST_ITEM_JS _Pragma("whitelisted_resource_12457") 12457
+[0;1;32m                                           ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12457
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:170:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/password_manager_proxy.html", IDR_SETTINGS_PASSWORD_MANAGER_PROXY_HTML},
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:163:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORD_MANAGER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PASSWORD_MANAGER_PROXY_HTML _Pragma("whitelisted_resource_12458") 12458
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12458
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:171:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/password_manager_proxy.js", IDR_SETTINGS_PASSWORD_MANAGER_PROXY_JS},
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:164:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORD_MANAGER_PROXY_JS'[0m
+#define IDR_SETTINGS_PASSWORD_MANAGER_PROXY_JS _Pragma("whitelisted_resource_12459") 12459
+[0;1;32m                                               ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12459
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:172:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_section.html", IDR_SETTINGS_PASSWORDS_SECTION_HTML},
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:165:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_SECTION_HTML'[0m
+#define IDR_SETTINGS_PASSWORDS_SECTION_HTML _Pragma("whitelisted_resource_12460") 12460
+[0;1;32m                                            ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12460
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:173:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_section.js", IDR_SETTINGS_PASSWORDS_SECTION_JS},
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:166:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_SECTION_JS'[0m
+#define IDR_SETTINGS_PASSWORDS_SECTION_JS _Pragma("whitelisted_resource_12461") 12461
+[0;1;32m                                          ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12461
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:174:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/password_edit_dialog.html", IDR_SETTINGS_PASSWORD_EDIT_DIALOG_HTML},
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:167:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORD_EDIT_DIALOG_HTML'[0m
+#define IDR_SETTINGS_PASSWORD_EDIT_DIALOG_HTML _Pragma("whitelisted_resource_12462") 12462
+[0;1;32m                                               ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12462
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:175:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/password_edit_dialog.js", IDR_SETTINGS_PASSWORD_EDIT_DIALOG_JS},
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:168:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORD_EDIT_DIALOG_JS'[0m
+#define IDR_SETTINGS_PASSWORD_EDIT_DIALOG_JS _Pragma("whitelisted_resource_12463") 12463
+[0;1;32m                                             ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12463
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:176:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_export_dialog.html", IDR_SETTINGS_PASSWORDS_EXPORT_DIALOG_HTML},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:169:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_EXPORT_DIALOG_HTML'[0m
+#define IDR_SETTINGS_PASSWORDS_EXPORT_DIALOG_HTML _Pragma("whitelisted_resource_12464") 12464
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12464
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:177:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"passwords_and_forms_page/passwords_export_dialog.js", IDR_SETTINGS_PASSWORDS_EXPORT_DIALOG_JS},
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:170:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PASSWORDS_EXPORT_DIALOG_JS'[0m
+#define IDR_SETTINGS_PASSWORDS_EXPORT_DIALOG_JS _Pragma("whitelisted_resource_12465") 12465
+[0;1;32m                                                ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12465
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:178:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/people_page.html", IDR_SETTINGS_PEOPLE_PAGE_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:171:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_HTML _Pragma("whitelisted_resource_12466") 12466
+[0;1;32m                                      ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12466
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:179:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/people_page.js", IDR_SETTINGS_PEOPLE_PAGE_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:172:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_JS _Pragma("whitelisted_resource_12467") 12467
+[0;1;32m                                    ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12467
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:180:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/sync_account_control.html", IDR_SETTINGS_PEOPLE_PAGE_SYNC_ACCOUNT_CONTROL_HTML},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:173:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_SYNC_ACCOUNT_CONTROL_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_SYNC_ACCOUNT_CONTROL_HTML _Pragma("whitelisted_resource_12468") 12468
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12468
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:181:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/sync_account_control.js", IDR_SETTINGS_PEOPLE_PAGE_SYNC_ACCOUNT_CONTROL_JS},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:174:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_SYNC_ACCOUNT_CONTROL_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_SYNC_ACCOUNT_CONTROL_JS _Pragma("whitelisted_resource_12469") 12469
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12469
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:182:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/import_data_dialog.html", IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_DIALOG_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:175:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_DIALOG_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_DIALOG_HTML _Pragma("whitelisted_resource_12470") 12470
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12470
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:183:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/import_data_dialog.js", IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_DIALOG_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:176:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_DIALOG_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_DIALOG_JS _Pragma("whitelisted_resource_12471") 12471
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12471
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:184:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/import_data_browser_proxy.html", IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_BROWSER_PROXY_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:177:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12472") 12472
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12472
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:185:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/import_data_browser_proxy.js", IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_BROWSER_PROXY_JS},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:178:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_IMPORT_DATA_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12473") 12473
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12473
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:186:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/manage_profile.html", IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_HTML},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:179:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_HTML _Pragma("whitelisted_resource_12474") 12474
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12474
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:187:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/manage_profile.js", IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:180:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_JS _Pragma("whitelisted_resource_12475") 12475
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12475
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:188:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/manage_profile_browser_proxy.html", IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_BROWSER_PROXY_HTML},
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:181:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12476") 12476
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12476
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:189:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/manage_profile_browser_proxy.js", IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_BROWSER_PROXY_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:182:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_MANAGE_PROFILE_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12477") 12477
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12477
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:190:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/profile_info_browser_proxy.html", IDR_SETTINGS_PEOPLE_PAGE_PROFILE_INFO_BROWSER_PROXY_HTML},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:183:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_PROFILE_INFO_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_PROFILE_INFO_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12478") 12478
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12478
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:191:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/profile_info_browser_proxy.js", IDR_SETTINGS_PEOPLE_PAGE_PROFILE_INFO_BROWSER_PROXY_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:184:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_PROFILE_INFO_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_PROFILE_INFO_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12479") 12479
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12479
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:192:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/sync_browser_proxy.html", IDR_SETTINGS_PEOPLE_PAGE_SYNC_BROWSER_PROXY_HTML},
+[0;1;32m                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:185:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_SYNC_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_SYNC_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12480") 12480
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12480
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:193:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/sync_browser_proxy.js", IDR_SETTINGS_PEOPLE_PAGE_SYNC_BROWSER_PROXY_JS},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:186:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PEOPLE_PAGE_SYNC_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_PEOPLE_PAGE_SYNC_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12481") 12481
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12481
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:194:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/pref_util.html", IDR_SETTINGS_PREF_UTIL_HTML},
+[0;1;32m                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:187:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREF_UTIL_HTML'[0m
+#define IDR_SETTINGS_PREF_UTIL_HTML _Pragma("whitelisted_resource_12482") 12482
+[0;1;32m                                    ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12482
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:195:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/pref_util.js", IDR_SETTINGS_PREF_UTIL_JS},
+[0;1;32m                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:188:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREF_UTIL_JS'[0m
+#define IDR_SETTINGS_PREF_UTIL_JS _Pragma("whitelisted_resource_12483") 12483
+[0;1;32m                                  ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12483
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:196:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/prefs.html", IDR_SETTINGS_PREFS_HTML},
+[0;1;32m                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:189:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREFS_HTML'[0m
+#define IDR_SETTINGS_PREFS_HTML _Pragma("whitelisted_resource_12484") 12484
+[0;1;32m                                ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12484
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:197:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/prefs.js", IDR_SETTINGS_PREFS_JS},
+[0;1;32m                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:190:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREFS_JS'[0m
+#define IDR_SETTINGS_PREFS_JS _Pragma("whitelisted_resource_12485") 12485
+[0;1;32m                              ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12485
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:198:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/prefs_behavior.html", IDR_SETTINGS_PREFS_BEHAVIOR_HTML},
+[0;1;32m                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:191:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREFS_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_PREFS_BEHAVIOR_HTML _Pragma("whitelisted_resource_12486") 12486
+[0;1;32m                                         ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12486
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:199:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/prefs_behavior.js", IDR_SETTINGS_PREFS_BEHAVIOR_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:192:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREFS_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_PREFS_BEHAVIOR_JS _Pragma("whitelisted_resource_12487") 12487
+[0;1;32m                                       ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12487
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:200:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/prefs_types.html", IDR_SETTINGS_PREFS_TYPES_HTML},
+[0;1;32m                             ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:193:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREFS_TYPES_HTML'[0m
+#define IDR_SETTINGS_PREFS_TYPES_HTML _Pragma("whitelisted_resource_12488") 12488
+[0;1;32m                                      ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12488
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:201:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefs/prefs_types.js", IDR_SETTINGS_PREFS_TYPES_JS},
+[0;1;32m                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:194:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PREFS_TYPES_JS'[0m
+#define IDR_SETTINGS_PREFS_TYPES_JS _Pragma("whitelisted_resource_12489") 12489
+[0;1;32m                                    ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12489
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:202:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"printing_page/printing_page.html", IDR_SETTINGS_PRINTING_PAGE_HTML},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:195:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRINTING_PAGE_HTML'[0m
+#define IDR_SETTINGS_PRINTING_PAGE_HTML _Pragma("whitelisted_resource_12490") 12490
+[0;1;32m                                        ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12490
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:203:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"printing_page/printing_page.js", IDR_SETTINGS_PRINTING_PAGE_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:196:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRINTING_PAGE_JS'[0m
+#define IDR_SETTINGS_PRINTING_PAGE_JS _Pragma("whitelisted_resource_12491") 12491
+[0;1;32m                                      ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12491
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:204:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"printing_page/printing_browser_proxy.html", IDR_SETTINGS_PRINTING_BROWSER_PROXY_HTML},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:197:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRINTING_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PRINTING_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12507") 12507
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12507
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:205:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"printing_page/printing_browser_proxy.js", IDR_SETTINGS_PRINTING_BROWSER_PROXY_JS},
+[0;1;32m                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:198:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRINTING_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_PRINTING_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12508") 12508
+[0;1;32m                                               ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12508
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:206:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"printing_page/cloud_printers.html", IDR_SETTINGS_CLOUD_PRINTING_PAGE_HTML},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:199:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CLOUD_PRINTING_PAGE_HTML'[0m
+#define IDR_SETTINGS_CLOUD_PRINTING_PAGE_HTML _Pragma("whitelisted_resource_12509") 12509
+[0;1;32m                                              ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12509
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:207:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"printing_page/cloud_printers.js", IDR_SETTINGS_CLOUD_PRINTING_PAGE_JS},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:200:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CLOUD_PRINTING_PAGE_JS'[0m
+#define IDR_SETTINGS_CLOUD_PRINTING_PAGE_JS _Pragma("whitelisted_resource_12510") 12510
+[0;1;32m                                            ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12510
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:208:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/local_data_browser_proxy.html", IDR_SETTINGS_LOCAL_DATA_BROWSER_PROXY_HTML},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:201:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LOCAL_DATA_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_LOCAL_DATA_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12511") 12511
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12511
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:209:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/local_data_browser_proxy.js", IDR_SETTINGS_LOCAL_DATA_BROWSER_PROXY_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:202:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LOCAL_DATA_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_LOCAL_DATA_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12512") 12512
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12512
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:210:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"page_visibility.html", IDR_SETTINGS_PAGE_VISIBILITY_HTML},
+[0;1;32m                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:203:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PAGE_VISIBILITY_HTML'[0m
+#define IDR_SETTINGS_PAGE_VISIBILITY_HTML _Pragma("whitelisted_resource_12513") 12513
+[0;1;32m                                          ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12513
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:211:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"page_visibility.js", IDR_SETTINGS_PAGE_VISIBILITY_JS},
+[0;1;32m                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:204:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PAGE_VISIBILITY_JS'[0m
+#define IDR_SETTINGS_PAGE_VISIBILITY_JS _Pragma("whitelisted_resource_12514") 12514
+[0;1;32m                                        ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12514
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:212:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/pdf_documents.html", IDR_SETTINGS_PDF_DOCUMENTS_HTML},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:205:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PDF_DOCUMENTS_HTML'[0m
+#define IDR_SETTINGS_PDF_DOCUMENTS_HTML _Pragma("whitelisted_resource_12515") 12515
+[0;1;32m                                        ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12515
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:213:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/pdf_documents.js", IDR_SETTINGS_PDF_DOCUMENTS_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:206:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PDF_DOCUMENTS_JS'[0m
+#define IDR_SETTINGS_PDF_DOCUMENTS_JS _Pragma("whitelisted_resource_12516") 12516
+[0;1;32m                                      ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12516
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:214:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"privacy_page/personalization_options.html", IDR_SETTINGS_PERSONALIZATION_OPTIONS_HTML},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:207:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PERSONALIZATION_OPTIONS_HTML'[0m
+#define IDR_SETTINGS_PERSONALIZATION_OPTIONS_HTML _Pragma("whitelisted_resource_12517") 12517
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12517
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:215:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"privacy_page/personalization_options.js", IDR_SETTINGS_PERSONALIZATION_OPTIONS_JS},
+[0;1;32m                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:208:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PERSONALIZATION_OPTIONS_JS'[0m
+#define IDR_SETTINGS_PERSONALIZATION_OPTIONS_JS _Pragma("whitelisted_resource_12518") 12518
+[0;1;32m                                                ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12518
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:216:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"privacy_page/privacy_page.html", IDR_SETTINGS_PRIVACY_PAGE_HTML},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:209:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRIVACY_PAGE_HTML'[0m
+#define IDR_SETTINGS_PRIVACY_PAGE_HTML _Pragma("whitelisted_resource_12519") 12519
+[0;1;32m                                       ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12519
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:217:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"privacy_page/privacy_page.js", IDR_SETTINGS_PRIVACY_PAGE_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:210:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRIVACY_PAGE_JS'[0m
+#define IDR_SETTINGS_PRIVACY_PAGE_JS _Pragma("whitelisted_resource_12520") 12520
+[0;1;32m                                     ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12520
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:218:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"privacy_page/privacy_page_browser_proxy.html", IDR_SETTINGS_PRIVACY_PAGE_BROWSER_PROXY_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:211:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRIVACY_PAGE_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_PRIVACY_PAGE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12521") 12521
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12521
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:219:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"privacy_page/privacy_page_browser_proxy.js", IDR_SETTINGS_PRIVACY_PAGE_BROWSER_PROXY_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:212:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PRIVACY_PAGE_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_PRIVACY_PAGE_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12522") 12522
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12522
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:220:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/protocol_handlers.html", IDR_SETTINGS_PROTOCOL_HANDLERS_HTML},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:213:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PROTOCOL_HANDLERS_HTML'[0m
+#define IDR_SETTINGS_PROTOCOL_HANDLERS_HTML _Pragma("whitelisted_resource_12523") 12523
+[0;1;32m                                            ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12523
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:221:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/protocol_handlers.js", IDR_SETTINGS_PROTOCOL_HANDLERS_JS},
+[0;1;32m                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:214:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_PROTOCOL_HANDLERS_JS'[0m
+#define IDR_SETTINGS_PROTOCOL_HANDLERS_JS _Pragma("whitelisted_resource_12524") 12524
+[0;1;32m                                          ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12524
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:222:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"route.html", IDR_SETTINGS_ROUTE_HTML},
+[0;1;32m                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:215:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ROUTE_HTML'[0m
+#define IDR_SETTINGS_ROUTE_HTML _Pragma("whitelisted_resource_12525") 12525
+[0;1;32m                                ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12525
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:223:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"route.js", IDR_SETTINGS_ROUTE_JS},
+[0;1;32m               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:216:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ROUTE_JS'[0m
+#define IDR_SETTINGS_ROUTE_JS _Pragma("whitelisted_resource_12526") 12526
+[0;1;32m                              ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12526
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:224:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_data.html", IDR_SETTINGS_SITE_DATA_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:217:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DATA_HTML'[0m
+#define IDR_SETTINGS_SITE_DATA_HTML _Pragma("whitelisted_resource_12527") 12527
+[0;1;32m                                    ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12527
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:225:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_data.js", IDR_SETTINGS_SITE_DATA_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:218:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DATA_JS'[0m
+#define IDR_SETTINGS_SITE_DATA_JS _Pragma("whitelisted_resource_12528") 12528
+[0;1;32m                                  ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12528
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:226:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_data_details_subpage.html", IDR_SETTINGS_SITE_DATA_DETAILS_SUBPAGE_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:219:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DATA_DETAILS_SUBPAGE_HTML'[0m
+#define IDR_SETTINGS_SITE_DATA_DETAILS_SUBPAGE_HTML _Pragma("whitelisted_resource_12529") 12529
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12529
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:227:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_data_details_subpage.js", IDR_SETTINGS_SITE_DATA_DETAILS_SUBPAGE_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:220:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DATA_DETAILS_SUBPAGE_JS'[0m
+#define IDR_SETTINGS_SITE_DATA_DETAILS_SUBPAGE_JS _Pragma("whitelisted_resource_12530") 12530
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12530
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:228:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_list.html", IDR_SETTINGS_SITE_LIST_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:221:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_LIST_HTML'[0m
+#define IDR_SETTINGS_SITE_LIST_HTML _Pragma("whitelisted_resource_12531") 12531
+[0;1;32m                                    ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12531
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:229:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_list.js", IDR_SETTINGS_SITE_LIST_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:222:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_LIST_JS'[0m
+#define IDR_SETTINGS_SITE_LIST_JS _Pragma("whitelisted_resource_12532") 12532
+[0;1;32m                                  ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12532
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:230:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_settings_behavior.html", IDR_SETTINGS_SITE_SETTINGS_BEHAVIOR_HTML},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:223:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_SETTINGS_BEHAVIOR_HTML'[0m
+#define IDR_SETTINGS_SITE_SETTINGS_BEHAVIOR_HTML _Pragma("whitelisted_resource_12533") 12533
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12533
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:231:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_settings_behavior.js", IDR_SETTINGS_SITE_SETTINGS_BEHAVIOR_JS},
+[0;1;32m                                              ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:224:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_SETTINGS_BEHAVIOR_JS'[0m
+#define IDR_SETTINGS_SITE_SETTINGS_BEHAVIOR_JS _Pragma("whitelisted_resource_12534") 12534
+[0;1;32m                                               ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12534
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:232:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/constants.js", IDR_SETTINGS_CONSTANTS_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:225:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONSTANTS_JS'[0m
+#define IDR_SETTINGS_CONSTANTS_JS _Pragma("whitelisted_resource_12535") 12535
+[0;1;32m                                  ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12535
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:233:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/constants.html", IDR_SETTINGS_CONSTANTS_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:226:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_CONSTANTS_HTML'[0m
+#define IDR_SETTINGS_CONSTANTS_HTML _Pragma("whitelisted_resource_12536") 12536
+[0;1;32m                                    ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12536
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:234:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings_page/site_settings_page.html", IDR_SETTINGS_SITE_SETTINGS_PAGE_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:227:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_SETTINGS_PAGE_HTML'[0m
+#define IDR_SETTINGS_SITE_SETTINGS_PAGE_HTML _Pragma("whitelisted_resource_12537") 12537
+[0;1;32m                                             ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12537
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:235:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings_page/site_settings_page.js", IDR_SETTINGS_SITE_SETTINGS_PAGE_JS},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:228:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_SETTINGS_PAGE_JS'[0m
+#define IDR_SETTINGS_SITE_SETTINGS_PAGE_JS _Pragma("whitelisted_resource_12538") 12538
+[0;1;32m                                           ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12538
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:236:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_settings_prefs_browser_proxy.html", IDR_SETTINGS_SITE_SETTINGS_PREFS_BROWSER_PROXY_HTML},
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:229:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_SETTINGS_PREFS_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_SITE_SETTINGS_PREFS_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12539") 12539
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12539
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:237:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_settings_prefs_browser_proxy.js", IDR_SETTINGS_SITE_SETTINGS_PREFS_BROWSER_PROXY_JS},
+[0;1;32m                                                         ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:230:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_SETTINGS_PREFS_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_SITE_SETTINGS_PREFS_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12540") 12540
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12540
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:238:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_details.html", IDR_SETTINGS_SITE_DETAILS_HTML},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:231:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DETAILS_HTML'[0m
+#define IDR_SETTINGS_SITE_DETAILS_HTML _Pragma("whitelisted_resource_12541") 12541
+[0;1;32m                                       ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12541
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:239:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_details.js", IDR_SETTINGS_SITE_DETAILS_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:232:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DETAILS_JS'[0m
+#define IDR_SETTINGS_SITE_DETAILS_JS _Pragma("whitelisted_resource_12542") 12542
+[0;1;32m                                     ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12542
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:240:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_details_permission.html", IDR_SETTINGS_SITE_DETAILS_PERMISSION_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:233:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DETAILS_PERMISSION_HTML'[0m
+#define IDR_SETTINGS_SITE_DETAILS_PERMISSION_HTML _Pragma("whitelisted_resource_12543") 12543
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12543
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:241:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/site_details_permission.js", IDR_SETTINGS_SITE_DETAILS_PERMISSION_JS},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:234:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SITE_DETAILS_PERMISSION_JS'[0m
+#define IDR_SETTINGS_SITE_DETAILS_PERMISSION_JS _Pragma("whitelisted_resource_12544") 12544
+[0;1;32m                                                ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12544
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:242:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engine_dialog.js", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_DIALOG_JS},
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:235:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_DIALOG_JS'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_DIALOG_JS _Pragma("whitelisted_resource_12545") 12545
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12545
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:243:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engine_dialog.html", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_DIALOG_HTML},
+[0;1;32m                                                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:236:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_DIALOG_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_DIALOG_HTML _Pragma("whitelisted_resource_12546") 12546
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12546
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:244:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engine_entry.js", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:237:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_JS'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_JS _Pragma("whitelisted_resource_12547") 12547
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12547
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:245:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engine_entry.html", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:238:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_HTML _Pragma("whitelisted_resource_12548") 12548
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12548
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:246:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engine_entry_css.html", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_CSS_HTML},
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:239:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_CSS_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINE_ENTRY_CSS_HTML _Pragma("whitelisted_resource_12549") 12549
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12549
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:247:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/omnibox_extension_entry.js", IDR_SETTINGS_SEARCH_ENGINES_PAGE_OMNIBOX_EXTENSION_ENTRY_JS},
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:240:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_OMNIBOX_EXTENSION_ENTRY_JS'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_OMNIBOX_EXTENSION_ENTRY_JS _Pragma("whitelisted_resource_12550") 12550
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:214:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12550
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:248:56: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/omnibox_extension_entry.html", IDR_SETTINGS_SEARCH_ENGINES_PAGE_OMNIBOX_EXTENSION_ENTRY_HTML},
+[0;1;32m                                                       ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:241:71: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_OMNIBOX_EXTENSION_ENTRY_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_OMNIBOX_EXTENSION_ENTRY_HTML _Pragma("whitelisted_resource_12551") 12551
+[0;1;32m                                                                      ^
+[0m[1m<scratch space>:216:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12551
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:249:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engines_list.js", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_LIST_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:242:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_LIST_JS'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_LIST_JS _Pragma("whitelisted_resource_12552") 12552
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:218:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12552
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:250:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engines_list.html", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_LIST_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:243:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_LIST_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_LIST_HTML _Pragma("whitelisted_resource_12553") 12553
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:220:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12553
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:251:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engines_page.js", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_PAGE_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:244:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_PAGE_JS'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_PAGE_JS _Pragma("whitelisted_resource_12554") 12554
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:222:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12554
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:252:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engines_page.html", IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_PAGE_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:245:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_PAGE_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_PAGE_SEARCH_ENGINES_PAGE_HTML _Pragma("whitelisted_resource_12555") 12555
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:224:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12555
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:253:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engines_browser_proxy.js", IDR_SETTINGS_SEARCH_ENGINES_BROWSER_PROXY_JS},
+[0;1;32m                                                          ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:246:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_BROWSER_PROXY_JS'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_BROWSER_PROXY_JS _Pragma("whitelisted_resource_12556") 12556
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12556
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:254:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_engines_page/search_engines_browser_proxy.html", IDR_SETTINGS_SEARCH_ENGINES_BROWSER_PROXY_HTML},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:247:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_ENGINES_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_SEARCH_ENGINES_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12557") 12557
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12557
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:255:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_page/search_page.js", IDR_SETTINGS_SEARCH_PAGE_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:248:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_PAGE_JS'[0m
+#define IDR_SETTINGS_SEARCH_PAGE_JS _Pragma("whitelisted_resource_12562") 12562
+[0;1;32m                                    ^
+[0m[1m<scratch space>:230:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12562
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:256:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"search_page/search_page.html", IDR_SETTINGS_SEARCH_PAGE_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:249:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SEARCH_PAGE_HTML'[0m
+#define IDR_SETTINGS_SEARCH_PAGE_HTML _Pragma("whitelisted_resource_12563") 12563
+[0;1;32m                                      ^
+[0m[1m<scratch space>:232:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12563
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:257:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/sync_page.js", IDR_SETTINGS_SYNC_PAGE_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:250:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SYNC_PAGE_JS'[0m
+#define IDR_SETTINGS_SYNC_PAGE_JS _Pragma("whitelisted_resource_12564") 12564
+[0;1;32m                                  ^
+[0m[1m<scratch space>:234:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12564
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:258:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"people_page/sync_page.html", IDR_SETTINGS_SYNC_PAGE_HTML},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:251:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SYNC_PAGE_HTML'[0m
+#define IDR_SETTINGS_SYNC_PAGE_HTML _Pragma("whitelisted_resource_12565") 12565
+[0;1;32m                                    ^
+[0m[1m<scratch space>:236:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12565
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:259:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"system_page/system_page_browser_proxy.html", IDR_SETTINGS_SYSTEM_PAGE_BROWSER_PROXY_HTML},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:252:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SYSTEM_PAGE_BROWSER_PROXY_HTML'[0m
+#define IDR_SETTINGS_SYSTEM_PAGE_BROWSER_PROXY_HTML _Pragma("whitelisted_resource_12566") 12566
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:238:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12566
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:260:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"system_page/system_page_browser_proxy.js", IDR_SETTINGS_SYSTEM_PAGE_BROWSER_PROXY},
+[0;1;32m                                               ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:253:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SYSTEM_PAGE_BROWSER_PROXY'[0m
+#define IDR_SETTINGS_SYSTEM_PAGE_BROWSER_PROXY _Pragma("whitelisted_resource_12567") 12567
+[0;1;32m                                               ^
+[0m[1m<scratch space>:240:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12567
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:261:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"system_page/system_page.html", IDR_SETTINGS_SYSTEM_PAGE_HTML},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:254:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SYSTEM_PAGE_HTML'[0m
+#define IDR_SETTINGS_SYSTEM_PAGE_HTML _Pragma("whitelisted_resource_12568") 12568
+[0;1;32m                                      ^
+[0m[1m<scratch space>:242:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12568
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:262:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"system_page/system_page.js", IDR_SETTINGS_SYSTEM_PAGE_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:255:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SYSTEM_PAGE_JS'[0m
+#define IDR_SETTINGS_SYSTEM_PAGE_JS _Pragma("whitelisted_resource_12569") 12569
+[0;1;32m                                    ^
+[0m[1m<scratch space>:244:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12569
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:263:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"settings.html", IDR_SETTINGS_SETTINGS_HTML},
+[0;1;32m                    ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:256:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_SETTINGS_HTML'[0m
+#define IDR_SETTINGS_SETTINGS_HTML _Pragma("whitelisted_resource_12570") 12570
+[0;1;32m                                   ^
+[0m[1m<scratch space>:246:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12570
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:264:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"lazy_load.html", IDR_SETTINGS_LAZY_LOAD_HTML},
+[0;1;32m                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:257:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_LAZY_LOAD_HTML'[0m
+#define IDR_SETTINGS_LAZY_LOAD_HTML _Pragma("whitelisted_resource_12571") 12571
+[0;1;32m                                    ^
+[0m[1m<scratch space>:248:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12571
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:265:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/usb_devices.html", IDR_SETTINGS_USB_DEVICES_HTML},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:258:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_USB_DEVICES_HTML'[0m
+#define IDR_SETTINGS_USB_DEVICES_HTML _Pragma("whitelisted_resource_12572") 12572
+[0;1;32m                                      ^
+[0m[1m<scratch space>:250:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12572
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:266:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/usb_devices.js", IDR_SETTINGS_USB_DEVICES_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:259:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_USB_DEVICES_JS'[0m
+#define IDR_SETTINGS_USB_DEVICES_JS _Pragma("whitelisted_resource_12573") 12573
+[0;1;32m                                    ^
+[0m[1m<scratch space>:252:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12573
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:267:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/website_usage_private_api.html", IDR_SETTINGS_WEBSITE_USAGE_PRIVATE_API_HTML},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:260:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_WEBSITE_USAGE_PRIVATE_API_HTML'[0m
+#define IDR_SETTINGS_WEBSITE_USAGE_PRIVATE_API_HTML _Pragma("whitelisted_resource_12574") 12574
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:254:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12574
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:268:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/website_usage_private_api.js", IDR_SETTINGS_WEBSITE_USAGE_PRIVATE_API_JS},
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:261:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_WEBSITE_USAGE_PRIVATE_API_JS'[0m
+#define IDR_SETTINGS_WEBSITE_USAGE_PRIVATE_API_JS _Pragma("whitelisted_resource_12575") 12575
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:256:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12575
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:269:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/zoom_levels.html", IDR_SETTINGS_ZOOM_LEVELS_HTML},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:262:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ZOOM_LEVELS_HTML'[0m
+#define IDR_SETTINGS_ZOOM_LEVELS_HTML _Pragma("whitelisted_resource_12576") 12576
+[0;1;32m                                      ^
+[0m[1m<scratch space>:258:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12576
+[0;1;32m ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources_map.cc:270:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"site_settings/zoom_levels.js", IDR_SETTINGS_ZOOM_LEVELS_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/browser/resources/settings/grit/settings_resources.h:263:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SETTINGS_ZOOM_LEVELS_JS'[0m
+#define IDR_SETTINGS_ZOOM_LEVELS_JS _Pragma("whitelisted_resource_12577") 12577
+[0;1;32m                                    ^
+[0m[1m<scratch space>:260:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12577
+[0;1;32m ^
+[0m259 warnings generated.

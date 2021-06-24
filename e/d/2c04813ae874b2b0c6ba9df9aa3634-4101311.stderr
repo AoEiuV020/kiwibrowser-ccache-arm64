@@ -1,0 +1,64 @@
+[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:92:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V3)
+[0;1;32m                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:66:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V3'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V3 _Pragma("whitelisted_resource_15162") 15162
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15162
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:94:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V2);
+[0;1;32m                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:65:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V2'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_UPLOAD_EXPLANATION_V2 _Pragma("whitelisted_resource_15161") 15161
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15161
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:98:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IsGooglePayBrandingEnabled() ? IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER
+[0;1;32m                                        ^
+[0m[1mgen/components/grit/components_scaled_resources.h:22:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER'[0m
+#define IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER _Pragma("whitelisted_resource_17217") 17217
+[0;1;32m                                             ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17217
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:99:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      : IDR_INFOBAR_AUTOFILL_CC;
+[0;1;32m                                        ^
+[0m[1mgen/components/grit/components_scaled_resources.h:25:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INFOBAR_AUTOFILL_CC'[0m
+#define IDR_INFOBAR_AUTOFILL_CC _Pragma("whitelisted_resource_17220") 17220
+[0;1;32m                                ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17220
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:105:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD_V3
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:63:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD_V3'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD_V3 _Pragma("whitelisted_resource_15159") 15159
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15159
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:106:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:62:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_TITLE_TO_CLOUD _Pragma("whitelisted_resource_15158") 15158
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15158
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/autofill_save_card_infobar_delegate_mobile.cc:137:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_AUTOFILL_SAVE_CARD_PROMPT_ACCEPT);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:59:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SAVE_CARD_PROMPT_ACCEPT'[0m
+#define IDS_AUTOFILL_SAVE_CARD_PROMPT_ACCEPT _Pragma("whitelisted_resource_15155") 15155
+[0;1;32m                                             ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15155
+[0;1;32m ^
+[0m7 warnings generated.

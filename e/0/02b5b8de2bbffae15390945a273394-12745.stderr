@@ -1,0 +1,244 @@
+[1mgen/components/grit/components_scaled_resources_map.cc:12:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_AMEX", IDR_AUTOFILL_CC_AMEX},
+[0;1;32m                           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_AMEX'[0m
+#define IDR_AUTOFILL_CC_AMEX _Pragma("whitelisted_resource_17200") 17200
+[0;1;32m                             ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17200
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:13:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_DINERS", IDR_AUTOFILL_CC_DINERS},
+[0;1;32m                             ^
+[0m[1mgen/components/grit/components_scaled_resources.h:6:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_DINERS'[0m
+#define IDR_AUTOFILL_CC_DINERS _Pragma("whitelisted_resource_17201") 17201
+[0;1;32m                               ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17201
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:14:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_DISCOVER", IDR_AUTOFILL_CC_DISCOVER},
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_scaled_resources.h:7:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_DISCOVER'[0m
+#define IDR_AUTOFILL_CC_DISCOVER _Pragma("whitelisted_resource_17202") 17202
+[0;1;32m                                 ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17202
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:15:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_ELO", IDR_AUTOFILL_CC_ELO},
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_scaled_resources.h:8:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_ELO'[0m
+#define IDR_AUTOFILL_CC_ELO _Pragma("whitelisted_resource_17203") 17203
+[0;1;32m                            ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17203
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:16:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_GENERIC", IDR_AUTOFILL_CC_GENERIC},
+[0;1;32m                              ^
+[0m[1mgen/components/grit/components_scaled_resources.h:9:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_GENERIC'[0m
+#define IDR_AUTOFILL_CC_GENERIC _Pragma("whitelisted_resource_17204") 17204
+[0;1;32m                                ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17204
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:17:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_JCB", IDR_AUTOFILL_CC_JCB},
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_scaled_resources.h:10:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_JCB'[0m
+#define IDR_AUTOFILL_CC_JCB _Pragma("whitelisted_resource_17205") 17205
+[0;1;32m                            ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17205
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:18:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_MASTERCARD", IDR_AUTOFILL_CC_MASTERCARD},
+[0;1;32m                                 ^
+[0m[1mgen/components/grit/components_scaled_resources.h:11:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_MASTERCARD'[0m
+#define IDR_AUTOFILL_CC_MASTERCARD _Pragma("whitelisted_resource_17206") 17206
+[0;1;32m                                   ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17206
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:19:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_MIR", IDR_AUTOFILL_CC_MIR},
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_scaled_resources.h:12:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_MIR'[0m
+#define IDR_AUTOFILL_CC_MIR _Pragma("whitelisted_resource_17207") 17207
+[0;1;32m                            ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17207
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:20:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_UNIONPAY", IDR_AUTOFILL_CC_UNIONPAY},
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_scaled_resources.h:13:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_UNIONPAY'[0m
+#define IDR_AUTOFILL_CC_UNIONPAY _Pragma("whitelisted_resource_17208") 17208
+[0;1;32m                                 ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17208
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:21:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_VISA", IDR_AUTOFILL_CC_VISA},
+[0;1;32m                           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:14:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_VISA'[0m
+#define IDR_AUTOFILL_CC_VISA _Pragma("whitelisted_resource_17209") 17209
+[0;1;32m                             ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17209
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:22:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_GOOGLE_PAY", IDR_AUTOFILL_GOOGLE_PAY},
+[0;1;32m                              ^
+[0m[1mgen/components/grit/components_scaled_resources.h:15:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_GOOGLE_PAY'[0m
+#define IDR_AUTOFILL_GOOGLE_PAY _Pragma("whitelisted_resource_17210") 17210
+[0;1;32m                                ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17210
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:23:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_SCAN_NEW", IDR_AUTOFILL_CC_SCAN_NEW},
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_scaled_resources.h:16:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_SCAN_NEW'[0m
+#define IDR_AUTOFILL_CC_SCAN_NEW _Pragma("whitelisted_resource_17211") 17211
+[0;1;32m                                 ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17211
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:24:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CC_SCAN_NEW_KEYBOARD_ACCESSORY", IDR_AUTOFILL_CC_SCAN_NEW_KEYBOARD_ACCESSORY},
+[0;1;32m                                                  ^
+[0m[1mgen/components/grit/components_scaled_resources.h:17:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_SCAN_NEW_KEYBOARD_ACCESSORY'[0m
+#define IDR_AUTOFILL_CC_SCAN_NEW_KEYBOARD_ACCESSORY _Pragma("whitelisted_resource_17212") 17212
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17212
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:25:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_SETTINGS", IDR_AUTOFILL_SETTINGS},
+[0;1;32m                            ^
+[0m[1mgen/components/grit/components_scaled_resources.h:18:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_SETTINGS'[0m
+#define IDR_AUTOFILL_SETTINGS _Pragma("whitelisted_resource_17213") 17213
+[0;1;32m                              ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17213
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:26:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_CREATE", IDR_AUTOFILL_CREATE},
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_scaled_resources.h:19:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CREATE'[0m
+#define IDR_AUTOFILL_CREATE _Pragma("whitelisted_resource_17214") 17214
+[0;1;32m                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17214
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:27:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_HTTP_WARNING", IDR_AUTOFILL_HTTP_WARNING},
+[0;1;32m                                ^
+[0m[1mgen/components/grit/components_scaled_resources.h:20:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_HTTP_WARNING'[0m
+#define IDR_AUTOFILL_HTTP_WARNING _Pragma("whitelisted_resource_17215") 17215
+[0;1;32m                                  ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17215
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:28:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_HTTPS_INVALID_WARNING", IDR_AUTOFILL_HTTPS_INVALID_WARNING},
+[0;1;32m                                         ^
+[0m[1mgen/components/grit/components_scaled_resources.h:21:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_HTTPS_INVALID_WARNING'[0m
+#define IDR_AUTOFILL_HTTPS_INVALID_WARNING _Pragma("whitelisted_resource_17216") 17216
+[0;1;32m                                           ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17216
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:29:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER", IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER},
+[0;1;32m                                           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:22:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER'[0m
+#define IDR_AUTOFILL_GOOGLE_PAY_WITH_DIVIDER _Pragma("whitelisted_resource_17217") 17217
+[0;1;32m                                             ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17217
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:30:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CREDIT_CARD_CVC_HINT", IDR_CREDIT_CARD_CVC_HINT},
+[0;1;32m                               ^
+[0m[1mgen/components/grit/components_scaled_resources.h:23:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CREDIT_CARD_CVC_HINT'[0m
+#define IDR_CREDIT_CARD_CVC_HINT _Pragma("whitelisted_resource_17218") 17218
+[0;1;32m                                 ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17218
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:31:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CREDIT_CARD_CVC_HINT_AMEX", IDR_CREDIT_CARD_CVC_HINT_AMEX},
+[0;1;32m                                    ^
+[0m[1mgen/components/grit/components_scaled_resources.h:24:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CREDIT_CARD_CVC_HINT_AMEX'[0m
+#define IDR_CREDIT_CARD_CVC_HINT_AMEX _Pragma("whitelisted_resource_17219") 17219
+[0;1;32m                                      ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17219
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:32:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_INFOBAR_AUTOFILL_CC", IDR_INFOBAR_AUTOFILL_CC},
+[0;1;32m                              ^
+[0m[1mgen/components/grit/components_scaled_resources.h:25:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_INFOBAR_AUTOFILL_CC'[0m
+#define IDR_INFOBAR_AUTOFILL_CC _Pragma("whitelisted_resource_17220") 17220
+[0;1;32m                                ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17220
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:33:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PHYSICAL_WEB_LOGO_WITH_PADDING", IDR_PHYSICAL_WEB_LOGO_WITH_PADDING},
+[0;1;32m                                         ^
+[0m[1mgen/components/grit/components_scaled_resources.h:26:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PHYSICAL_WEB_LOGO_WITH_PADDING'[0m
+#define IDR_PHYSICAL_WEB_LOGO_WITH_PADDING _Pragma("whitelisted_resource_17223") 17223
+[0;1;32m                                           ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17223
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:34:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_CRASH_SAD_FAVICON", IDR_CRASH_SAD_FAVICON},
+[0;1;32m                            ^
+[0m[1mgen/components/grit/components_scaled_resources.h:27:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRASH_SAD_FAVICON'[0m
+#define IDR_CRASH_SAD_FAVICON _Pragma("whitelisted_resource_17224") 17224
+[0;1;32m                              ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17224
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:35:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_FLAGS_FAVICON", IDR_FLAGS_FAVICON},
+[0;1;32m                        ^
+[0m[1mgen/components/grit/components_scaled_resources.h:28:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FLAGS_FAVICON'[0m
+#define IDR_FLAGS_FAVICON _Pragma("whitelisted_resource_17226") 17226
+[0;1;32m                          ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17226
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:36:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_ERROR_NETWORK_GENERIC", IDR_ERROR_NETWORK_GENERIC},
+[0;1;32m                                ^
+[0m[1mgen/components/grit/components_scaled_resources.h:29:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ERROR_NETWORK_GENERIC'[0m
+#define IDR_ERROR_NETWORK_GENERIC _Pragma("whitelisted_resource_17227") 17227
+[0;1;32m                                  ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17227
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:37:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_PRODUCT_LOGO", IDR_PRODUCT_LOGO},
+[0;1;32m                       ^
+[0m[1mgen/components/grit/components_scaled_resources.h:30:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO'[0m
+#define IDR_PRODUCT_LOGO _Pragma("whitelisted_resource_17228") 17228
+[0;1;32m                         ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17228
+[0;1;32m ^
+[0m[1mgen/components/grit/components_scaled_resources_map.cc:38:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"IDR_HISTORY_FAVICON", IDR_HISTORY_FAVICON},
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_scaled_resources.h:31:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_HISTORY_FAVICON'[0m
+#define IDR_HISTORY_FAVICON _Pragma("whitelisted_resource_17229") 17229
+[0;1;32m                            ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17229
+[0;1;32m ^
+[0m27 warnings generated.

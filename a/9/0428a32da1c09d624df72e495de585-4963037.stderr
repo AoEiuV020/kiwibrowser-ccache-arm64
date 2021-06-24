@@ -1,0 +1,91 @@
+[1m../../ui/views/controls/label.cc:751:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_COPY:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:753:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_SELECT_ALL:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:79:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SELECT_ALL'[0m
+#define IDS_APP_SELECT_ALL _Pragma("whitelisted_resource_27335") 27335
+[0;1;32m                           ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27335
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:761:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_COPY:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:764:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_SELECT_ALL:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:79:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SELECT_ALL'[0m
+#define IDS_APP_SELECT_ALL _Pragma("whitelisted_resource_27335") 27335
+[0;1;32m                           ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27335
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:777:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_COPY:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:781:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDS_APP_SELECT_ALL:
+[0;1;32m         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:79:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SELECT_ALL'[0m
+#define IDS_APP_SELECT_ALL _Pragma("whitelisted_resource_27335") 27335
+[0;1;32m                           ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27335
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:960:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  context_menu_contents_.AddItemWithStringId(IDS_APP_COPY, IDS_APP_COPY);
+[0;1;32m                                             ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:960:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  context_menu_contents_.AddItemWithStringId(IDS_APP_COPY, IDS_APP_COPY);
+[0;1;32m                                                           ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:76:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_COPY'[0m
+#define IDS_APP_COPY _Pragma("whitelisted_resource_27332") 27332
+[0;1;32m                     ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27332
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:961:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  context_menu_contents_.AddItemWithStringId(IDS_APP_SELECT_ALL,
+[0;1;32m                                             ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:79:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SELECT_ALL'[0m
+#define IDS_APP_SELECT_ALL _Pragma("whitelisted_resource_27335") 27335
+[0;1;32m                           ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27335
+[0;1;32m ^
+[0m[1m../../ui/views/controls/label.cc:962:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                             IDS_APP_SELECT_ALL);
+[0;1;32m                                             ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:79:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SELECT_ALL'[0m
+#define IDS_APP_SELECT_ALL _Pragma("whitelisted_resource_27335") 27335
+[0;1;32m                           ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27335
+[0;1;32m ^
+[0m10 warnings generated.

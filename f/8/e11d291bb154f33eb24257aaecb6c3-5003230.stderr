@@ -1,0 +1,127 @@
+[1m../../ui/views/controls/button/checkbox.cc:62:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:34:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX'[0m
+#define IDR_CHECKBOX _Pragma("whitelisted_resource_27479") 27479
+[0;1;32m                     ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27479
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:64:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:46:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_HOVER'[0m
+#define IDR_CHECKBOX_HOVER _Pragma("whitelisted_resource_27491") 27491
+[0;1;32m                           ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27491
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:66:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:47:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_PRESSED'[0m
+#define IDR_CHECKBOX_PRESSED _Pragma("whitelisted_resource_27492") 27492
+[0;1;32m                             ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27492
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:68:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_DISABLED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:39:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_DISABLED'[0m
+#define IDR_CHECKBOX_DISABLED _Pragma("whitelisted_resource_27484") 27484
+[0;1;32m                              ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27484
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:72:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_CHECKED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:35:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_CHECKED'[0m
+#define IDR_CHECKBOX_CHECKED _Pragma("whitelisted_resource_27480") 27480
+[0;1;32m                             ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27480
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:74:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_CHECKED_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:37:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_CHECKED_HOVER'[0m
+#define IDR_CHECKBOX_CHECKED_HOVER _Pragma("whitelisted_resource_27482") 27482
+[0;1;32m                                   ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27482
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:76:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_CHECKED_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:38:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_CHECKED_PRESSED'[0m
+#define IDR_CHECKBOX_CHECKED_PRESSED _Pragma("whitelisted_resource_27483") 27483
+[0;1;32m                                     ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27483
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:78:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_CHECKED_DISABLED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:36:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_CHECKED_DISABLED'[0m
+#define IDR_CHECKBOX_CHECKED_DISABLED _Pragma("whitelisted_resource_27481") 27481
+[0;1;32m                                      ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27481
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:82:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_FOCUSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:40:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_FOCUSED'[0m
+#define IDR_CHECKBOX_FOCUSED _Pragma("whitelisted_resource_27485") 27485
+[0;1;32m                             ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27485
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:84:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_FOCUSED_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:44:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_FOCUSED_HOVER'[0m
+#define IDR_CHECKBOX_FOCUSED_HOVER _Pragma("whitelisted_resource_27489") 27489
+[0;1;32m                                   ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27489
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:86:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_FOCUSED_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:45:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_FOCUSED_PRESSED'[0m
+#define IDR_CHECKBOX_FOCUSED_PRESSED _Pragma("whitelisted_resource_27490") 27490
+[0;1;32m                                     ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27490
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:90:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_FOCUSED_CHECKED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:41:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_FOCUSED_CHECKED'[0m
+#define IDR_CHECKBOX_FOCUSED_CHECKED _Pragma("whitelisted_resource_27486") 27486
+[0;1;32m                                     ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27486
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:92:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_FOCUSED_CHECKED_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:42:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_FOCUSED_CHECKED_HOVER'[0m
+#define IDR_CHECKBOX_FOCUSED_CHECKED_HOVER _Pragma("whitelisted_resource_27487") 27487
+[0;1;32m                                           ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27487
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/checkbox.cc:94:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_CHECKBOX_FOCUSED_CHECKED_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:43:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHECKBOX_FOCUSED_CHECKED_PRESSED'[0m
+#define IDR_CHECKBOX_FOCUSED_CHECKED_PRESSED _Pragma("whitelisted_resource_27488") 27488
+[0;1;32m                                             ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27488
+[0;1;32m ^
+[0m14 warnings generated.

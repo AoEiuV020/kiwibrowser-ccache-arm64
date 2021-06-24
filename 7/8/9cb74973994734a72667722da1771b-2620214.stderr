@@ -1,0 +1,847 @@
+[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:168:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     ? IDS_EXTENSION_PROMPT_WARNING_HOST_AND_SUBDOMAIN
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1375:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HOST_AND_SUBDOMAIN'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HOST_AND_SUBDOMAIN _Pragma("whitelisted_resource_4917") 4917
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4917
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:169:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     : IDS_EXTENSION_PROMPT_WARNING_HOST_AND_SUBDOMAIN_LIST;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1376:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HOST_AND_SUBDOMAIN_LIST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HOST_AND_SUBDOMAIN_LIST _Pragma("whitelisted_resource_4918") 4918
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4918
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:210:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE, permission.parameter());
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1396:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE _Pragma("whitelisted_resource_4938") 4938
+[0;1;32m                                                ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4938
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:214:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_UNKNOWN_PRODUCT,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1400:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_UNKNOWN_PRODUCT'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_UNKNOWN_PRODUCT _Pragma("whitelisted_resource_4942") 4942
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4942
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:219:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_UNKNOWN_VENDOR);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1401:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_UNKNOWN_VENDOR'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_UNKNOWN_VENDOR _Pragma("whitelisted_resource_4943") 4943
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4943
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:240:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST_ITEM_UNKNOWN_PRODUCT,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1398:75: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST_ITEM_UNKNOWN_PRODUCT'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST_ITEM_UNKNOWN_PRODUCT _Pragma("whitelisted_resource_4940") 4940
+[0;1;32m                                                                          ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4940
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:245:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST_ITEM_UNKNOWN_VENDOR));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1399:74: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST_ITEM_UNKNOWN_VENDOR'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST_ITEM_UNKNOWN_VENDOR _Pragma("whitelisted_resource_4941") 4941
+[0;1;32m                                                                         ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4941
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:249:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST),
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1397:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USB_DEVICE_LIST _Pragma("whitelisted_resource_4939") 4939
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4939
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:333:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DEBUGGER, {APIPermission::kDebugger}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1357:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DEBUGGER'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DEBUGGER _Pragma("whitelisted_resource_4899") 4899
+[0;1;32m                                              ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4899
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:334:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_FULL_ACCESS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1342:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_FULL_ACCESS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_FULL_ACCESS _Pragma("whitelisted_resource_4884") 4884
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4884
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:348:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_ALL_HOSTS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1343:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_ALL_HOSTS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_ALL_HOSTS _Pragma("whitelisted_resource_4885") 4885
+[0;1;32m                                               ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4885
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:355:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_ALL_HOSTS_READ_ONLY,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1345:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_ALL_HOSTS_READ_ONLY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_ALL_HOSTS_READ_ONLY _Pragma("whitelisted_resource_4887") 4887
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4887
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:361:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {new HostListFormatter(IDS_EXTENSION_PROMPT_WARNING_1_HOST,
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1367:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_1_HOST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_1_HOST _Pragma("whitelisted_resource_4909") 4909
+[0;1;32m                                            ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4909
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:362:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_EXTENSION_PROMPT_WARNING_2_HOSTS,
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1369:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_2_HOSTS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_2_HOSTS _Pragma("whitelisted_resource_4911") 4911
+[0;1;32m                                             ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4911
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:363:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_EXTENSION_PROMPT_WARNING_3_HOSTS,
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1371:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_3_HOSTS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_3_HOSTS _Pragma("whitelisted_resource_4913") 4913
+[0;1;32m                                             ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4913
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:364:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_EXTENSION_PROMPT_WARNING_HOSTS_LIST),
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1373:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HOSTS_LIST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HOSTS_LIST _Pragma("whitelisted_resource_4915") 4915
+[0;1;32m                                                ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4915
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:367:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {new HostListFormatter(IDS_EXTENSION_PROMPT_WARNING_1_HOST_READ_ONLY,
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1368:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_1_HOST_READ_ONLY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_1_HOST_READ_ONLY _Pragma("whitelisted_resource_4910") 4910
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4910
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:368:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_EXTENSION_PROMPT_WARNING_2_HOSTS_READ_ONLY,
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1370:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_2_HOSTS_READ_ONLY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_2_HOSTS_READ_ONLY _Pragma("whitelisted_resource_4912") 4912
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4912
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:369:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_EXTENSION_PROMPT_WARNING_3_HOSTS_READ_ONLY,
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1372:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_3_HOSTS_READ_ONLY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_3_HOSTS_READ_ONLY _Pragma("whitelisted_resource_4914") 4914
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4914
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:370:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_EXTENSION_PROMPT_WARNING_HOSTS_LIST_READ_ONLY),
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:1374:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HOSTS_LIST_READ_ONLY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HOSTS_LIST_READ_ONLY _Pragma("whitelisted_resource_4916") 4916
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4916
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:376:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NEW_TAB_PAGE_OVERRIDE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1434:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NEW_TAB_PAGE_OVERRIDE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NEW_TAB_PAGE_OVERRIDE _Pragma("whitelisted_resource_4976") 4976
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4976
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:383:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_HISTORY_WRITE_AND_SESSIONS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1365:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HISTORY_WRITE_AND_SESSIONS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HISTORY_WRITE_AND_SESSIONS _Pragma("whitelisted_resource_4907") 4907
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4907
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:387:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ_AND_SESSIONS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1363:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ_AND_SESSIONS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ_AND_SESSIONS _Pragma("whitelisted_resource_4905") 4905
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4905
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:391:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_HISTORY_WRITE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1364:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HISTORY_WRITE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HISTORY_WRITE _Pragma("whitelisted_resource_4906") 4906
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4906
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:398:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1362:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ _Pragma("whitelisted_resource_4904") 4904
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4904
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:402:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1362:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ _Pragma("whitelisted_resource_4904") 4904
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4904
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:406:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1362:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HISTORY_READ _Pragma("whitelisted_resource_4904") 4904
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4904
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:409:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_FAVICON, {APIPermission::kFavicon}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1360:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_FAVICON'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_FAVICON _Pragma("whitelisted_resource_4902") 4902
+[0;1;32m                                             ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4902
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:410:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_TOPSITES, {APIPermission::kTopSites}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1392:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_TOPSITES'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_TOPSITES _Pragma("whitelisted_resource_4934") 4934
+[0;1;32m                                              ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4934
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:412:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DECLARATIVE_WEB_REQUEST,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1358:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DECLARATIVE_WEB_REQUEST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DECLARATIVE_WEB_REQUEST _Pragma("whitelisted_resource_4900") 4900
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4900
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:417:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SOCKET_ANY_HOST,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1385:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SOCKET_ANY_HOST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SOCKET_ANY_HOST _Pragma("whitelisted_resource_4927") 4927
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4927
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:422:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_SOCKET_HOSTS_IN_DOMAIN,
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1386:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SOCKET_HOSTS_IN_DOMAIN'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SOCKET_HOSTS_IN_DOMAIN _Pragma("whitelisted_resource_4928") 4928
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4928
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:423:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_SOCKET_HOSTS_IN_DOMAINS),
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1387:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SOCKET_HOSTS_IN_DOMAINS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SOCKET_HOSTS_IN_DOMAINS _Pragma("whitelisted_resource_4929") 4929
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4929
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:427:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_SOCKET_SPECIFIC_HOST,
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1388:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SOCKET_SPECIFIC_HOST'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SOCKET_SPECIFIC_HOST _Pragma("whitelisted_resource_4930") 4930
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4930
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:428:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_SOCKET_SPECIFIC_HOSTS),
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1389:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SOCKET_SPECIFIC_HOSTS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SOCKET_SPECIFIC_HOSTS _Pragma("whitelisted_resource_4931") 4931
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4931
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:446:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_SERIAL,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1352:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_SERIAL'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_SERIAL _Pragma("whitelisted_resource_4894") 4894
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4894
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:449:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1349:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH _Pragma("whitelisted_resource_4891") 4891
+[0;1;32m                                               ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4891
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:452:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_DEVICES,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1350:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_DEVICES'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_DEVICES _Pragma("whitelisted_resource_4892") 4892
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4892
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:455:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1351:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_BLUETOOTH_PRIVATE _Pragma("whitelisted_resource_4893") 4893
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4893
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:458:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SERIAL, {APIPermission::kSerial}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1384:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SERIAL'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SERIAL _Pragma("whitelisted_resource_4926") 4926
+[0;1;32m                                            ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4926
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:460:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_U2F_DEVICES,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1394:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_U2F_DEVICES'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_U2F_DEVICES _Pragma("whitelisted_resource_4936") 4936
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4936
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:464:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NOTIFICATIONS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1395:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NOTIFICATIONS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NOTIFICATIONS _Pragma("whitelisted_resource_4937") 4937
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4937
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:469:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_READ_MODIFY,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1426:73: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_READ_MODIFY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_READ_MODIFY _Pragma("whitelisted_resource_4968") 4968
+[0;1;32m                                                                        ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4968
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:473:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_MODIFY,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1424:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_MODIFY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_MODIFY _Pragma("whitelisted_resource_4966") 4966
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4966
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:476:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_READ,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1425:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_READ'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_ACCESSIBILITY_FEATURES_READ _Pragma("whitelisted_resource_4967") 4967
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4967
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:483:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_WRITE_DELETE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1416:72: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_WRITE_DELETE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_WRITE_DELETE _Pragma("whitelisted_resource_4958") 4958
+[0;1;32m                                                                       ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4958
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:487:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_WRITE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1414:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_WRITE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_WRITE _Pragma("whitelisted_resource_4956") 4956
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4956
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:490:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_DELETE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1415:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_DELETE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ_DELETE _Pragma("whitelisted_resource_4957") 4957
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4957
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:493:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1413:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MEDIA_GALLERIES_READ _Pragma("whitelisted_resource_4955") 4955
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4955
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:502:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_FILE_SYSTEM_WRITE_DIRECTORY,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1412:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_FILE_SYSTEM_WRITE_DIRECTORY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_FILE_SYSTEM_WRITE_DIRECTORY _Pragma("whitelisted_resource_4954") 4954
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4954
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:505:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_FILE_SYSTEM_DIRECTORY,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1411:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_FILE_SYSTEM_DIRECTORY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_FILE_SYSTEM_DIRECTORY _Pragma("whitelisted_resource_4953") 4953
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4953
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:510:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_AUDIO_AND_VIDEO_CAPTURE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1348:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_AUDIO_AND_VIDEO_CAPTURE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_AUDIO_AND_VIDEO_CAPTURE _Pragma("whitelisted_resource_4890") 4890
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4890
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:513:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_AUDIO_CAPTURE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1346:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_AUDIO_CAPTURE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_AUDIO_CAPTURE _Pragma("whitelisted_resource_4888") 4888
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4888
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:516:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_VIDEO_CAPTURE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1347:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_VIDEO_CAPTURE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_VIDEO_CAPTURE _Pragma("whitelisted_resource_4889") 4889
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4889
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:521:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NETWORKING_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1382:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NETWORKING_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NETWORKING_PRIVATE _Pragma("whitelisted_resource_4924") 4924
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4924
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:530:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NETWORKING_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1382:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NETWORKING_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NETWORKING_PRIVATE _Pragma("whitelisted_resource_4924") 4924
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4924
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:533:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NETWORKING_CONFIG,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1381:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NETWORKING_CONFIG'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NETWORKING_CONFIG _Pragma("whitelisted_resource_4923") 4923
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4923
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:536:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NETWORK_STATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1380:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NETWORK_STATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NETWORK_STATE _Pragma("whitelisted_resource_4922") 4922
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4922
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:539:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_VPN, {APIPermission::kVpnProvider}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1402:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_VPN'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_VPN _Pragma("whitelisted_resource_4944") 4944
+[0;1;32m                                         ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4944
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:540:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_WEB_CONNECTABLE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1403:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_WEB_CONNECTABLE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_WEB_CONNECTABLE _Pragma("whitelisted_resource_4945") 4945
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4945
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:544:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_HOME_PAGE_SETTING_OVERRIDE),
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1366:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_HOME_PAGE_SETTING_OVERRIDE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_HOME_PAGE_SETTING_OVERRIDE _Pragma("whitelisted_resource_4908") 4908
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4908
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:548:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_SEARCH_SETTINGS_OVERRIDE),
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1383:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SEARCH_SETTINGS_OVERRIDE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SEARCH_SETTINGS_OVERRIDE _Pragma("whitelisted_resource_4925") 4925
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4925
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:552:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           IDS_EXTENSION_PROMPT_WARNING_START_PAGE_SETTING_OVERRIDE),
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1390:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_START_PAGE_SETTING_OVERRIDE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_START_PAGE_SETTING_OVERRIDE _Pragma("whitelisted_resource_4932") 4932
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4932
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:556:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_BOOKMARKS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1353:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_BOOKMARKS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_BOOKMARKS _Pragma("whitelisted_resource_4895") 4895
+[0;1;32m                                               ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4895
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:559:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD_READWRITE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1355:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD_READWRITE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD_READWRITE _Pragma("whitelisted_resource_4897") 4897
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4897
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:562:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1354:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD _Pragma("whitelisted_resource_4896") 4896
+[0;1;32m                                               ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4896
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:565:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD_WRITE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1356:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD_WRITE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_CLIPBOARD_WRITE _Pragma("whitelisted_resource_4898") 4898
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4898
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:568:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DESKTOP_CAPTURE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1423:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DESKTOP_CAPTURE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DESKTOP_CAPTURE _Pragma("whitelisted_resource_4965") 4965
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4965
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:571:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DOWNLOADS, {APIPermission::kDownloads}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1407:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DOWNLOADS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DOWNLOADS _Pragma("whitelisted_resource_4949") 4949
+[0;1;32m                                               ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4949
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:572:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DOWNLOADS_OPEN,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1408:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DOWNLOADS_OPEN'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DOWNLOADS_OPEN _Pragma("whitelisted_resource_4950") 4950
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4950
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:575:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_IDENTITY_EMAIL,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1409:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_IDENTITY_EMAIL'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_IDENTITY_EMAIL _Pragma("whitelisted_resource_4951") 4951
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4951
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:578:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_GEOLOCATION,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1361:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_GEOLOCATION'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_GEOLOCATION _Pragma("whitelisted_resource_4903") 4903
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4903
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:582:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SYSTEM_STORAGE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1391:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SYSTEM_STORAGE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SYSTEM_STORAGE _Pragma("whitelisted_resource_4933") 4933
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4933
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:586:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_CONTENT_SETTINGS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1404:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_CONTENT_SETTINGS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_CONTENT_SETTINGS _Pragma("whitelisted_resource_4946") 4946
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4946
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:589:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DOCUMENT_SCAN,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1359:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DOCUMENT_SCAN'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DOCUMENT_SCAN _Pragma("whitelisted_resource_4901") 4901
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4901
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:592:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_INPUT, {APIPermission::kInput}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1377:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_INPUT'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_INPUT _Pragma("whitelisted_resource_4919") 4919
+[0;1;32m                                           ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4919
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:593:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MANAGEMENT,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1378:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MANAGEMENT'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MANAGEMENT _Pragma("whitelisted_resource_4920") 4920
+[0;1;32m                                                ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4920
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:596:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MDNS, {APIPermission::kMDns}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1379:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MDNS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MDNS _Pragma("whitelisted_resource_4921") 4921
+[0;1;32m                                          ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4921
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:597:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_NATIVE_MESSAGING,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1419:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_NATIVE_MESSAGING'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_NATIVE_MESSAGING _Pragma("whitelisted_resource_4961") 4961
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4961
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:600:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_PRIVACY, {APIPermission::kPrivacy}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1405:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_PRIVACY'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_PRIVACY _Pragma("whitelisted_resource_4947") 4947
+[0;1;32m                                             ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4947
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:601:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SIGNED_IN_DEVICES,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1406:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SIGNED_IN_DEVICES'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SIGNED_IN_DEVICES _Pragma("whitelisted_resource_4948") 4948
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4948
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:604:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SYNCFILESYSTEM,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1417:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SYNCFILESYSTEM'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SYNCFILESYSTEM _Pragma("whitelisted_resource_4959") 4959
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4959
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:607:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_TTS_ENGINE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1393:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_TTS_ENGINE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_TTS_ENGINE _Pragma("whitelisted_resource_4935") 4935
+[0;1;32m                                                ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4935
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:610:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_WALLPAPER, {APIPermission::kWallpaper}, {}},
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1410:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_WALLPAPER'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_WALLPAPER _Pragma("whitelisted_resource_4952") 4952
+[0;1;32m                                               ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4952
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:611:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_PLATFORMKEYS,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1427:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_PLATFORMKEYS'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_PLATFORMKEYS _Pragma("whitelisted_resource_4969") 4969
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4969
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:614:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_CERTIFICATEPROVIDER,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1428:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_CERTIFICATEPROVIDER'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_CERTIFICATEPROVIDER _Pragma("whitelisted_resource_4970") 4970
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4970
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:618:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SCREENLOCK_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1420:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SCREENLOCK_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SCREENLOCK_PRIVATE _Pragma("whitelisted_resource_4962") 4962
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:214:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4962
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:621:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_ACTIVITY_LOG_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1422:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_ACTIVITY_LOG_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_ACTIVITY_LOG_PRIVATE _Pragma("whitelisted_resource_4964") 4964
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:216:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4964
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:624:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_MUSIC_MANAGER_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1418:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_MUSIC_MANAGER_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_MUSIC_MANAGER_PRIVATE _Pragma("whitelisted_resource_4960") 4960
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:218:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4960
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:627:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_SETTINGS_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1429:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_SETTINGS_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_SETTINGS_PRIVATE _Pragma("whitelisted_resource_4971") 4971
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:220:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4971
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:630:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_AUTOFILL_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1430:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_AUTOFILL_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_AUTOFILL_PRIVATE _Pragma("whitelisted_resource_4972") 4972
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:222:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4972
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:633:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_PASSWORDS_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1431:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_PASSWORDS_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_PASSWORDS_PRIVATE _Pragma("whitelisted_resource_4973") 4973
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:224:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4973
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:636:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_USERS_PRIVATE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1432:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_USERS_PRIVATE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_USERS_PRIVATE _Pragma("whitelisted_resource_4974") 4974
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4974
+[0;1;32m ^
+[0m[1m../../chrome/common/extensions/permissions/chrome_permission_message_rules.cc:639:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {IDS_EXTENSION_PROMPT_WARNING_DISPLAY_SOURCE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1433:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_PROMPT_WARNING_DISPLAY_SOURCE'[0m
+#define IDS_EXTENSION_PROMPT_WARNING_DISPLAY_SOURCE _Pragma("whitelisted_resource_4975") 4975
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4975
+[0;1;32m ^
+[0m94 warnings generated.

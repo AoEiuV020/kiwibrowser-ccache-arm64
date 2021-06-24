@@ -1,0 +1,64 @@
+[1m../../components/app_modal/javascript_dialog_manager.cc:156:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        is_same_origin_as_main_frame ? IDS_JAVASCRIPT_MESSAGEBOX_TITLE
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:5:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_JAVASCRIPT_MESSAGEBOX_TITLE'[0m
+#define IDS_JAVASCRIPT_MESSAGEBOX_TITLE _Pragma("whitelisted_resource_15100") 15100
+[0;1;32m                                        ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15100
+[0;1;32m ^
+[0m[1m../../components/app_modal/javascript_dialog_manager.cc:157:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                     : IDS_JAVASCRIPT_MESSAGEBOX_TITLE_IFRAME,
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:6:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_JAVASCRIPT_MESSAGEBOX_TITLE_IFRAME'[0m
+#define IDS_JAVASCRIPT_MESSAGEBOX_TITLE_IFRAME _Pragma("whitelisted_resource_15101") 15101
+[0;1;32m                                               ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15101
+[0;1;32m ^
+[0m[1m../../components/app_modal/javascript_dialog_manager.cc:162:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_JAVASCRIPT_MESSAGEBOX_TITLE_NONSTANDARD_URL
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:7:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_JAVASCRIPT_MESSAGEBOX_TITLE_NONSTANDARD_URL'[0m
+#define IDS_JAVASCRIPT_MESSAGEBOX_TITLE_NONSTANDARD_URL _Pragma("whitelisted_resource_15102") 15102
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15102
+[0;1;32m ^
+[0m[1m../../components/app_modal/javascript_dialog_manager.cc:163:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_JAVASCRIPT_MESSAGEBOX_TITLE_NONSTANDARD_URL_IFRAME);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:8:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_JAVASCRIPT_MESSAGEBOX_TITLE_NONSTANDARD_URL_IFRAME'[0m
+#define IDS_JAVASCRIPT_MESSAGEBOX_TITLE_NONSTANDARD_URL_IFRAME _Pragma("whitelisted_resource_15103") 15103
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15103
+[0;1;32m ^
+[0m[1m../../components/app_modal/javascript_dialog_manager.cc:283:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BEFORERELOAD_MESSAGEBOX_TITLE : IDS_BEFOREUNLOAD_MESSAGEBOX_TITLE);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:13:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BEFORERELOAD_MESSAGEBOX_TITLE'[0m
+#define IDS_BEFORERELOAD_MESSAGEBOX_TITLE _Pragma("whitelisted_resource_15108") 15108
+[0;1;32m                                          ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15108
+[0;1;32m ^
+[0m[1m../../components/app_modal/javascript_dialog_manager.cc:283:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_BEFORERELOAD_MESSAGEBOX_TITLE : IDS_BEFOREUNLOAD_MESSAGEBOX_TITLE);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:10:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BEFOREUNLOAD_MESSAGEBOX_TITLE'[0m
+#define IDS_BEFOREUNLOAD_MESSAGEBOX_TITLE _Pragma("whitelisted_resource_15105") 15105
+[0;1;32m                                          ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15105
+[0;1;32m ^
+[0m[1m../../components/app_modal/javascript_dialog_manager.cc:285:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_BEFOREUNLOAD_MESSAGEBOX_MESSAGE);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:12:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BEFOREUNLOAD_MESSAGEBOX_MESSAGE'[0m
+#define IDS_BEFOREUNLOAD_MESSAGEBOX_MESSAGE _Pragma("whitelisted_resource_15107") 15107
+[0;1;32m                                            ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15107
+[0;1;32m ^
+[0m7 warnings generated.

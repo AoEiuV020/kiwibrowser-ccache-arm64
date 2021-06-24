@@ -1,0 +1,37 @@
+[1m../../ui/views/bubble/bubble_frame_view.cc:142:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           *rb->GetImageNamed(IDR_CLOSE_DIALOG).ToImageSkia());
+[0;1;32m                                              ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:10:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_DIALOG'[0m
+#define IDR_CLOSE_DIALOG _Pragma("whitelisted_resource_26966") 26966
+[0;1;32m                         ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26966
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_frame_view.cc:145:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        *rb->GetImageNamed(IDR_CLOSE_DIALOG_H).ToImageSkia());
+[0;1;32m                           ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:11:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_DIALOG_H'[0m
+#define IDR_CLOSE_DIALOG_H _Pragma("whitelisted_resource_26967") 26967
+[0;1;32m                           ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26967
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_frame_view.cc:148:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        *rb->GetImageNamed(IDR_CLOSE_DIALOG_P).ToImageSkia());
+[0;1;32m                           ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:12:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_DIALOG_P'[0m
+#define IDR_CLOSE_DIALOG_P _Pragma("whitelisted_resource_26968") 26968
+[0;1;32m                           ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26968
+[0;1;32m ^
+[0m[1m../../ui/views/bubble/bubble_frame_view.cc:150:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  close_button->SetTooltipText(l10n_util::GetStringUTF16(IDS_APP_CLOSE));
+[0;1;32m                                                         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:83:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CLOSE'[0m
+#define IDS_APP_CLOSE _Pragma("whitelisted_resource_27339") 27339
+[0;1;32m                      ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27339
+[0;1;32m ^
+[0m4 warnings generated.

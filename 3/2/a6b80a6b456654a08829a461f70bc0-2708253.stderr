@@ -1,0 +1,118 @@
+[1m../../components/security_interstitials/core/ssl_error_ui.cc:75:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_SSL_V2_TITLE));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:791:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_V2_TITLE'[0m
+#define IDS_SSL_V2_TITLE _Pragma("whitelisted_resource_15922") 15922
+[0;1;32m                         ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15922
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:77:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_SSL_V2_HEADING));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:792:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_V2_HEADING'[0m
+#define IDS_SSL_V2_HEADING _Pragma("whitelisted_resource_15923") 15923
+[0;1;32m                           ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15923
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:81:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SSL_V2_PRIMARY_PARAGRAPH,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:793:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_V2_PRIMARY_PARAGRAPH'[0m
+#define IDS_SSL_V2_PRIMARY_PARAGRAPH _Pragma("whitelisted_resource_15924") 15924
+[0;1;32m                                     ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15924
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:85:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SSL_V2_RECURRENT_ERROR_PARAGRAPH));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:794:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_V2_RECURRENT_ERROR_PARAGRAPH'[0m
+#define IDS_SSL_V2_RECURRENT_ERROR_PARAGRAPH _Pragma("whitelisted_resource_15925") 15925
+[0;1;32m                                             ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15925
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:125:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SSL_OVERRIDABLE_SAFETY_BUTTON));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:797:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_OVERRIDABLE_SAFETY_BUTTON'[0m
+#define IDS_SSL_OVERRIDABLE_SAFETY_BUTTON _Pragma("whitelisted_resource_15928") 15928
+[0;1;32m                                          ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15928
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:128:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF16(IDS_SSL_OVERRIDABLE_PROCEED_PARAGRAPH, url));
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:798:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_OVERRIDABLE_PROCEED_PARAGRAPH'[0m
+#define IDS_SSL_OVERRIDABLE_PROCEED_PARAGRAPH _Pragma("whitelisted_resource_15929") 15929
+[0;1;32m                                              ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15929
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:143:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF16(IDS_SSL_NONOVERRIDABLE_MORE, url));
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:803:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_NONOVERRIDABLE_MORE'[0m
+#define IDS_SSL_NONOVERRIDABLE_MORE _Pragma("whitelisted_resource_15934") 15934
+[0;1;32m                                    ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15934
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:145:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_SSL_RELOAD));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:799:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_RELOAD'[0m
+#define IDS_SSL_RELOAD _Pragma("whitelisted_resource_15930") 15930
+[0;1;32m                       ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15930
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:151:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int help_string = IDS_SSL_NONOVERRIDABLE_INVALID;
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:804:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_NONOVERRIDABLE_INVALID'[0m
+#define IDS_SSL_NONOVERRIDABLE_INVALID _Pragma("whitelisted_resource_15935") 15935
+[0;1;32m                                       ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15935
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:154:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      help_string = IDS_SSL_NONOVERRIDABLE_REVOKED;
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:802:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_NONOVERRIDABLE_REVOKED'[0m
+#define IDS_SSL_NONOVERRIDABLE_REVOKED _Pragma("whitelisted_resource_15933") 15933
+[0;1;32m                                       ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15933
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:157:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      help_string = IDS_SSL_NONOVERRIDABLE_PINNED;
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:800:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_NONOVERRIDABLE_PINNED'[0m
+#define IDS_SSL_NONOVERRIDABLE_PINNED _Pragma("whitelisted_resource_15931") 15931
+[0;1;32m                                      ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15931
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:160:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      help_string = IDS_SSL_NONOVERRIDABLE_INVALID;
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:804:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_NONOVERRIDABLE_INVALID'[0m
+#define IDS_SSL_NONOVERRIDABLE_INVALID _Pragma("whitelisted_resource_15935") 15935
+[0;1;32m                                       ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15935
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/ssl_error_ui.cc:164:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        help_string = IDS_SSL_NONOVERRIDABLE_HSTS;
+[0;1;32m                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:801:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_NONOVERRIDABLE_HSTS'[0m
+#define IDS_SSL_NONOVERRIDABLE_HSTS _Pragma("whitelisted_resource_15932") 15932
+[0;1;32m                                    ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15932
+[0;1;32m ^
+[0m13 warnings generated.

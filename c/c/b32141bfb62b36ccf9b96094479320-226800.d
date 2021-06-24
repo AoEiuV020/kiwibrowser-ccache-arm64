@@ -1,0 +1,24 @@
+clang_x64/obj/third_party/brotli/brotli/backward_references.o: \
+  ../../third_party/brotli/enc/backward_references.c \
+  ../../third_party/brotli/enc/./backward_references.h \
+  ../../third_party/brotli/enc/../common/constants.h \
+  ../../third_party/brotli/enc/../common/dictionary.h \
+  ../../third_party/brotli/include/brotli/port.h \
+  ../../third_party/brotli/include/brotli/types.h \
+  ../../third_party/brotli/enc/./command.h \
+  ../../third_party/brotli/enc/./fast_log.h \
+  ../../third_party/brotli/enc/./prefix.h \
+  ../../third_party/brotli/enc/./hash.h \
+  ../../third_party/brotli/enc/./find_match_length.h \
+  ../../third_party/brotli/enc/./port.h \
+  ../../third_party/brotli/enc/./memory.h \
+  ../../third_party/brotli/enc/./quality.h \
+  ../../third_party/brotli/include/brotli/encode.h \
+  ../../third_party/brotli/enc/./static_dict.h \
+  ../../third_party/brotli/enc/./hash_to_binary_tree_inc.h \
+  ../../third_party/brotli/enc/./hash_longest_match_quickly_inc.h \
+  ../../third_party/brotli/enc/./hash_longest_match_inc.h \
+  ../../third_party/brotli/enc/./hash_longest_match64_inc.h \
+  ../../third_party/brotli/enc/./hash_forgetful_chain_inc.h \
+  ../../third_party/brotli/enc/./dictionary_hash.h \
+  ../../third_party/brotli/enc/./backward_references_inc.h

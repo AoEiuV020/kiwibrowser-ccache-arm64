@@ -1,0 +1,145 @@
+[1m../../components/policy/core/browser/proxy_policy_handler.cc:41:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    false, false, false, IDS_POLICY_PROXY_MODE_DISABLED_ERROR },
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:677:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_MODE_DISABLED_ERROR'[0m
+#define IDS_POLICY_PROXY_MODE_DISABLED_ERROR _Pragma("whitelisted_resource_15803") 15803
+[0;1;32m                                             ^
+[0m[1m<scratch space>:256:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15803
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:43:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    false, false, false, IDS_POLICY_PROXY_MODE_AUTO_DETECT_ERROR },
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:678:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_MODE_AUTO_DETECT_ERROR'[0m
+#define IDS_POLICY_PROXY_MODE_AUTO_DETECT_ERROR _Pragma("whitelisted_resource_15804") 15804
+[0;1;32m                                                ^
+[0m[1m<scratch space>:258:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15804
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:45:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    true, false, false, IDS_POLICY_PROXY_MODE_PAC_URL_ERROR },
+[0;1;32m                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:679:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_MODE_PAC_URL_ERROR'[0m
+#define IDS_POLICY_PROXY_MODE_PAC_URL_ERROR _Pragma("whitelisted_resource_15805") 15805
+[0;1;32m                                            ^
+[0m[1m<scratch space>:260:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15805
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:47:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    false, true, true, IDS_POLICY_PROXY_MODE_FIXED_SERVERS_ERROR },
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:680:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_MODE_FIXED_SERVERS_ERROR'[0m
+#define IDS_POLICY_PROXY_MODE_FIXED_SERVERS_ERROR _Pragma("whitelisted_resource_15806") 15806
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:262:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15806
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:49:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    false, false, false, IDS_POLICY_PROXY_MODE_SYSTEM_ERROR },
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:681:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_MODE_SYSTEM_ERROR'[0m
+#define IDS_POLICY_PROXY_MODE_SYSTEM_ERROR _Pragma("whitelisted_resource_15807") 15807
+[0;1;32m                                           ^
+[0m[1m<scratch space>:264:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15807
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:78:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_POLICY_NOT_SPECIFIED_ERROR);
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:669:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_NOT_SPECIFIED_ERROR'[0m
+#define IDS_POLICY_NOT_SPECIFIED_ERROR _Pragma("whitelisted_resource_15795") 15795
+[0;1;32m                                       ^
+[0m[1m<scratch space>:266:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15795
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:125:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_POLICY_OUT_OF_RANGE_ERROR,
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:268:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:248:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_OVERRIDDEN,
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:684:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OVERRIDDEN'[0m
+#define IDS_POLICY_OVERRIDDEN _Pragma("whitelisted_resource_15810") 15810
+[0;1;32m                              ^
+[0m[1m<scratch space>:273:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15810
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:253:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_TYPE_ERROR,
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:275:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:262:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_INVALID_PROXY_MODE_ERROR);
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:674:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_INVALID_PROXY_MODE_ERROR'[0m
+#define IDS_POLICY_INVALID_PROXY_MODE_ERROR _Pragma("whitelisted_resource_15800") 15800
+[0;1;32m                                            ^
+[0m[1m<scratch space>:277:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15800
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:269:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_NOT_SPECIFIED_ERROR);
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:669:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_NOT_SPECIFIED_ERROR'[0m
+#define IDS_POLICY_NOT_SPECIFIED_ERROR _Pragma("whitelisted_resource_15795") 15795
+[0;1;32m                                       ^
+[0m[1m<scratch space>:279:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15795
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:275:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_NOT_SPECIFIED_ERROR);
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:669:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_NOT_SPECIFIED_ERROR'[0m
+#define IDS_POLICY_NOT_SPECIFIED_ERROR _Pragma("whitelisted_resource_15795") 15795
+[0;1;32m                                       ^
+[0m[1m<scratch space>:281:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15795
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:282:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_TYPE_ERROR,
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:283:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:296:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          int message_id = IDS_POLICY_PROXY_BOTH_SPECIFIED_ERROR;
+[0;1;32m                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:682:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_BOTH_SPECIFIED_ERROR'[0m
+#define IDS_POLICY_PROXY_BOTH_SPECIFIED_ERROR _Pragma("whitelisted_resource_15808") 15808
+[0;1;32m                                              ^
+[0m[1m<scratch space>:285:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15808
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:306:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          int message_id = IDS_POLICY_PROXY_NEITHER_SPECIFIED_ERROR;
+[0;1;32m                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:683:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_PROXY_NEITHER_SPECIFIED_ERROR'[0m
+#define IDS_POLICY_PROXY_NEITHER_SPECIFIED_ERROR _Pragma("whitelisted_resource_15809") 15809
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:287:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15809
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/proxy_policy_handler.cc:324:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_POLICY_OUT_OF_RANGE_ERROR,
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:289:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m16 warnings generated.

@@ -1,0 +1,91 @@
+[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:88:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_TRY_AGAIN_CVC);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:75:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_TRY_AGAIN_CVC'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_TRY_AGAIN_CVC _Pragma("whitelisted_resource_15171") 15171
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15171
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:94:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_PERMANENT);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:80:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_PERMANENT'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_PERMANENT _Pragma("whitelisted_resource_15176") 15176
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15176
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:100:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_NETWORK);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:81:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_NETWORK'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_ERROR_NETWORK _Pragma("whitelisted_resource_15177") 15177
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15177
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:228:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_AUTOFILL_CARD_UNMASK_PROMPT_EXPIRED_TITLE
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:83:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_EXPIRED_TITLE'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_EXPIRED_TITLE _Pragma("whitelisted_resource_15179") 15179
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15179
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:229:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_AUTOFILL_CARD_UNMASK_PROMPT_TITLE,
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:82:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_TITLE'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_TITLE _Pragma("whitelisted_resource_15178") 15178
+[0;1;32m                                              ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15178
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:256:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS_LOCAL_CARD
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:85:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS_LOCAL_CARD'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS_LOCAL_CARD _Pragma("whitelisted_resource_15181") 15181
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15181
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:257:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:84:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_PROMPT_INSTRUCTIONS _Pragma("whitelisted_resource_15180") 15180
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15180
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:262:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_AUTOFILL_CARD_UNMASK_CONFIRM_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:89:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CARD_UNMASK_CONFIRM_BUTTON'[0m
+#define IDS_AUTOFILL_CARD_UNMASK_CONFIRM_BUTTON _Pragma("whitelisted_resource_15187") 15187
+[0;1;32m                                                ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15187
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:266:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return card_.network() == kAmericanExpressCard ? IDR_CREDIT_CARD_CVC_HINT_AMEX
+[0;1;32m                                                   ^
+[0m[1mgen/components/grit/components_scaled_resources.h:24:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CREDIT_CARD_CVC_HINT_AMEX'[0m
+#define IDR_CREDIT_CARD_CVC_HINT_AMEX _Pragma("whitelisted_resource_17219") 17219
+[0;1;32m                                      ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17219
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/ui/card_unmask_prompt_controller_impl.cc:267:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                 : IDR_CREDIT_CARD_CVC_HINT;
+[0;1;32m                                                   ^
+[0m[1mgen/components/grit/components_scaled_resources.h:23:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CREDIT_CARD_CVC_HINT'[0m
+#define IDR_CREDIT_CARD_CVC_HINT _Pragma("whitelisted_resource_17218") 17218
+[0;1;32m                                 ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17218
+[0;1;32m ^
+[0m10 warnings generated.

@@ -1,0 +1,19 @@
+[1m../../chrome/browser/devtools/devtools_infobar_delegate.cc:40:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_DEV_TOOLS_CONFIRM_ALLOW_BUTTON
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1210:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEV_TOOLS_CONFIRM_ALLOW_BUTTON'[0m
+#define IDS_DEV_TOOLS_CONFIRM_ALLOW_BUTTON _Pragma("whitelisted_resource_4746") 4746
+[0;1;32m                                           ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4746
+[0;1;32m ^
+[0m[1m../../chrome/browser/devtools/devtools_infobar_delegate.cc:41:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_DEV_TOOLS_CONFIRM_DENY_BUTTON);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1211:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEV_TOOLS_CONFIRM_DENY_BUTTON'[0m
+#define IDS_DEV_TOOLS_CONFIRM_DENY_BUTTON _Pragma("whitelisted_resource_4747") 4747
+[0;1;32m                                          ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4747
+[0;1;32m ^
+[0m2 warnings generated.

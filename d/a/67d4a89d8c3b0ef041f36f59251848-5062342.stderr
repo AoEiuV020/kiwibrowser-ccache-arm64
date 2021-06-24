@@ -1,0 +1,28 @@
+[1m../../ui/views/window/dialog_delegate.cc:158:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_APP_OK);
+[0;1;32m                                     ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:81:20: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_OK'[0m
+#define IDS_APP_OK _Pragma("whitelisted_resource_27337") 27337
+[0;1;32m                   ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27337
+[0;1;32m ^
+[0m[1m../../ui/views/window/dialog_delegate.cc:161:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_APP_CANCEL);
+[0;1;32m                                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:82:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CANCEL'[0m
+#define IDS_APP_CANCEL _Pragma("whitelisted_resource_27338") 27338
+[0;1;32m                       ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27338
+[0;1;32m ^
+[0m[1m../../ui/views/window/dialog_delegate.cc:162:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_APP_CLOSE);
+[0;1;32m                                     ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:83:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_CLOSE'[0m
+#define IDS_APP_CLOSE _Pragma("whitelisted_resource_27339") 27339
+[0;1;32m                      ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27339
+[0;1;32m ^
+[0m3 warnings generated.

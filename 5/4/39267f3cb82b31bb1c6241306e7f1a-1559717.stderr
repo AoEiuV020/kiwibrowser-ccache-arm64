@@ -1,0 +1,10 @@
+[1m../../chrome/common/media/media_resource_provider.cc:16:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_DEFAULT_AUDIO_DEVICE_NAME;
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2779:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AUDIO_DEVICE_NAME'[0m
+#define IDS_DEFAULT_AUDIO_DEVICE_NAME _Pragma("whitelisted_resource_6619") 6619
+[0;1;32m                                      ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6619
+[0;1;32m ^
+[0m1 warning generated.

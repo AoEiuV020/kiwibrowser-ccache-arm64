@@ -1,0 +1,37 @@
+[1m../../components/search_engines/default_search_policy_handler.cc:112:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        errors->AddError(policy_name, IDS_POLICY_DEFAULT_SEARCH_DISABLED);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:668:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DEFAULT_SEARCH_DISABLED'[0m
+#define IDS_POLICY_DEFAULT_SEARCH_DISABLED _Pragma("whitelisted_resource_15794") 15794
+[0;1;32m                                           ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15794
+[0;1;32m ^
+[0m[1m../../components/search_engines/default_search_policy_handler.cc:124:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_POLICY_INVALID_SEARCH_URL_ERROR : IDS_POLICY_NOT_SPECIFIED_ERROR);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:673:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_INVALID_SEARCH_URL_ERROR'[0m
+#define IDS_POLICY_INVALID_SEARCH_URL_ERROR _Pragma("whitelisted_resource_15799") 15799
+[0;1;32m                                            ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15799
+[0;1;32m ^
+[0m[1m../../components/search_engines/default_search_policy_handler.cc:124:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_POLICY_INVALID_SEARCH_URL_ERROR : IDS_POLICY_NOT_SPECIFIED_ERROR);
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:669:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_NOT_SPECIFIED_ERROR'[0m
+#define IDS_POLICY_NOT_SPECIFIED_ERROR _Pragma("whitelisted_resource_15795") 15795
+[0;1;32m                                       ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15795
+[0;1;32m ^
+[0m[1m../../components/search_engines/default_search_policy_handler.cc:217:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      errors->AddError(policy_map_entry.policy_name, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m4 warnings generated.

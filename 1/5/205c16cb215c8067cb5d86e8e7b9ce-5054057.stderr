@@ -1,0 +1,100 @@
+[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:273:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                     IDS_APP_SCROLLBAR_CXMENU_SCROLLHERE);
+[0;1;32m                                     ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:63:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLHERE'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLHERE _Pragma("whitelisted_resource_27319") 27319
+[0;1;32m                                            ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27319
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:277:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IsHorizontal() ? IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFTEDGE
+[0;1;32m                         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:64:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFTEDGE'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFTEDGE _Pragma("whitelisted_resource_27320") 27320
+[0;1;32m                                                ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27320
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:278:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       : IDS_APP_SCROLLBAR_CXMENU_SCROLLHOME);
+[0;1;32m                         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:66:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLHOME'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLHOME _Pragma("whitelisted_resource_27322") 27322
+[0;1;32m                                            ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27322
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:281:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IsHorizontal() ? IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHTEDGE
+[0;1;32m                         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:65:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHTEDGE'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHTEDGE _Pragma("whitelisted_resource_27321") 27321
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27321
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:282:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       : IDS_APP_SCROLLBAR_CXMENU_SCROLLEND);
+[0;1;32m                         ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:67:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLEND'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLEND _Pragma("whitelisted_resource_27323") 27323
+[0;1;32m                                           ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27323
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:285:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                     IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEUP);
+[0;1;32m                                     ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:68:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEUP'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEUP _Pragma("whitelisted_resource_27324") 27324
+[0;1;32m                                              ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27324
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:287:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                     IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEDOWN);
+[0;1;32m                                     ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:69:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEDOWN'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLPAGEDOWN _Pragma("whitelisted_resource_27325") 27325
+[0;1;32m                                                ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27325
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:291:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                         ? IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFT
+[0;1;32m                                           ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:70:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFT'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLLEFT _Pragma("whitelisted_resource_27326") 27326
+[0;1;32m                                            ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27326
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:292:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                         : IDS_APP_SCROLLBAR_CXMENU_SCROLLUP);
+[0;1;32m                                           ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:72:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLUP'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLUP _Pragma("whitelisted_resource_27328") 27328
+[0;1;32m                                          ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27328
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:295:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                         ? IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHT
+[0;1;32m                                           ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:71:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHT'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLRIGHT _Pragma("whitelisted_resource_27327") 27327
+[0;1;32m                                             ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27327
+[0;1;32m ^
+[0m[1m../../ui/views/controls/scrollbar/base_scroll_bar.cc:296:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                         : IDS_APP_SCROLLBAR_CXMENU_SCROLLDOWN);
+[0;1;32m                                           ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:73:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SCROLLBAR_CXMENU_SCROLLDOWN'[0m
+#define IDS_APP_SCROLLBAR_CXMENU_SCROLLDOWN _Pragma("whitelisted_resource_27329") 27329
+[0;1;32m                                            ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27329
+[0;1;32m ^
+[0m11 warnings generated.

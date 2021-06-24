@@ -1,0 +1,10 @@
+[1m../../extensions/common/permissions/usb_device_permission.cc:152:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_EXTENSION_USB_DEVICE_PRODUCT_NAME_AND_VENDOR,
+[0;1;32m            ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:54:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_USB_DEVICE_PRODUCT_NAME_AND_VENDOR'[0m
+#define IDS_EXTENSION_USB_DEVICE_PRODUCT_NAME_AND_VENDOR _Pragma("whitelisted_resource_24669") 24669
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24669
+[0;1;32m ^
+[0m1 warning generated.

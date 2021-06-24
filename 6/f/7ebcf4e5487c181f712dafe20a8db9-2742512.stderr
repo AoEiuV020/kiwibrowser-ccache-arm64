@@ -1,0 +1,28 @@
+[1m../../extensions/common/manifest_handlers/content_scripts_handler.cc:316:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *error = l10n_util::GetStringFUTF8(IDS_EXTENSION_BAD_FILE_ENCODING,
+[0;1;32m                                       ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:5:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_BAD_FILE_ENCODING'[0m
+#define IDS_EXTENSION_BAD_FILE_ENCODING _Pragma("whitelisted_resource_24620") 24620
+[0;1;32m                                        ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24620
+[0;1;32m ^
+[0m[1m../../extensions/common/manifest_handlers/content_scripts_handler.cc:439:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_EXTENSION_LOAD_JAVASCRIPT_FAILED, error))
+[0;1;32m                         ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:17:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_JAVASCRIPT_FAILED'[0m
+#define IDS_EXTENSION_LOAD_JAVASCRIPT_FAILED _Pragma("whitelisted_resource_24632") 24632
+[0;1;32m                                             ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24632
+[0;1;32m ^
+[0m[1m../../extensions/common/manifest_handlers/content_scripts_handler.cc:449:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_EXTENSION_LOAD_CSS_FAILED, error))
+[0;1;32m                         ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:15:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_CSS_FAILED'[0m
+#define IDS_EXTENSION_LOAD_CSS_FAILED _Pragma("whitelisted_resource_24630") 24630
+[0;1;32m                                      ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24630
+[0;1;32m ^
+[0m3 warnings generated.

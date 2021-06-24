@@ -1,0 +1,820 @@
+[1mgen/chrome/grit/component_extension_resources_map.cc:12:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"network_speech_synthesis/tts_extension.js", IDR_NETWORK_SPEECH_SYNTHESIS_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:5:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NETWORK_SPEECH_SYNTHESIS_JS'[0m
+#define IDR_NETWORK_SPEECH_SYNTHESIS_JS _Pragma("whitelisted_resource_11560") 11560
+[0;1;32m                                        ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11560
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:13:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"md_bookmarks/bookmarks.html", IDR_COMPONENT_MD_BOOKMARKS_BOOKMARKS_HTML},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:6:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMPONENT_MD_BOOKMARKS_BOOKMARKS_HTML'[0m
+#define IDR_COMPONENT_MD_BOOKMARKS_BOOKMARKS_HTML _Pragma("whitelisted_resource_11563") 11563
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11563
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:14:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"gaia_auth/success.html", IDR_GAIA_AUTH_SUCCESS},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:7:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_GAIA_AUTH_SUCCESS'[0m
+#define IDR_GAIA_AUTH_SUCCESS _Pragma("whitelisted_resource_11564") 11564
+[0;1;32m                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11564
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:15:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"identity_scope_approval_dialog/background.js", IDR_IDENTITY_API_SCOPE_APPROVAL_BACKGROUND_JS},
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:8:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_API_SCOPE_APPROVAL_BACKGROUND_JS'[0m
+#define IDR_IDENTITY_API_SCOPE_APPROVAL_BACKGROUND_JS _Pragma("whitelisted_resource_11579") 11579
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11579
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:16:64: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"identity_scope_approval_dialog/scope_approval_dialog.css", IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG_CSS},
+[0;1;32m                                                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:9:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG_CSS'[0m
+#define IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG_CSS _Pragma("whitelisted_resource_11580") 11580
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11580
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:17:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"identity_scope_approval_dialog/scope_approval_dialog.html", IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG},
+[0;1;32m                                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:10:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG'[0m
+#define IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG _Pragma("whitelisted_resource_11581") 11581
+[0;1;32m                                               ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11581
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:18:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"identity_scope_approval_dialog/scope_approval_dialog.js", IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG_JS},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:11:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG_JS'[0m
+#define IDR_IDENTITY_API_SCOPE_APPROVAL_DIALOG_JS _Pragma("whitelisted_resource_11582") 11582
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11582
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:19:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/index.html", IDR_PDF_INDEX_HTML},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:12:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_INDEX_HTML'[0m
+#define IDR_PDF_INDEX_HTML _Pragma("whitelisted_resource_11611") 11611
+[0;1;32m                           ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11611
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:20:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/index.css", IDR_PDF_INDEX_CSS},
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:13:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_INDEX_CSS'[0m
+#define IDR_PDF_INDEX_CSS _Pragma("whitelisted_resource_11612") 11612
+[0;1;32m                          ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11612
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:21:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/main.js", IDR_PDF_MAIN_JS},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_MAIN_JS'[0m
+#define IDR_PDF_MAIN_JS _Pragma("whitelisted_resource_11613") 11613
+[0;1;32m                        ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11613
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:22:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/pdf.js", IDR_PDF_PDF_JS},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:15:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_PDF_JS'[0m
+#define IDR_PDF_PDF_JS _Pragma("whitelisted_resource_11614") 11614
+[0;1;32m                       ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11614
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:23:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/toolbar_manager.js", IDR_PDF_UI_MANAGER_JS},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:16:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_UI_MANAGER_JS'[0m
+#define IDR_PDF_UI_MANAGER_JS _Pragma("whitelisted_resource_11615") 11615
+[0;1;32m                              ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11615
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:24:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/pdf_fitting_type.js", IDR_PDF_PDF_FITTING_TYPE_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:17:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_PDF_FITTING_TYPE_JS'[0m
+#define IDR_PDF_PDF_FITTING_TYPE_JS _Pragma("whitelisted_resource_11616") 11616
+[0;1;32m                                    ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11616
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:25:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/viewport.js", IDR_PDF_VIEWPORT_JS},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:18:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWPORT_JS'[0m
+#define IDR_PDF_VIEWPORT_JS _Pragma("whitelisted_resource_11617") 11617
+[0;1;32m                            ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11617
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:26:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/open_pdf_params_parser.js", IDR_PDF_OPEN_PDF_PARAMS_PARSER_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:19:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_OPEN_PDF_PARAMS_PARSER_JS'[0m
+#define IDR_PDF_OPEN_PDF_PARAMS_PARSER_JS _Pragma("whitelisted_resource_11618") 11618
+[0;1;32m                                          ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11618
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:27:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/navigator.js", IDR_PDF_NAVIGATOR_JS},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:20:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_NAVIGATOR_JS'[0m
+#define IDR_PDF_NAVIGATOR_JS _Pragma("whitelisted_resource_11619") 11619
+[0;1;32m                             ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11619
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:28:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/viewport_scroller.js", IDR_PDF_VIEWPORT_SCROLLER_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:21:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWPORT_SCROLLER_JS'[0m
+#define IDR_PDF_VIEWPORT_SCROLLER_JS _Pragma("whitelisted_resource_11620") 11620
+[0;1;32m                                     ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11620
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:29:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/pdf_scripting_api.js", IDR_PDF_PDF_SCRIPTING_API_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:22:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_PDF_SCRIPTING_API_JS'[0m
+#define IDR_PDF_PDF_SCRIPTING_API_JS _Pragma("whitelisted_resource_11621") 11621
+[0;1;32m                                     ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11621
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:30:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/zoom_manager.js", IDR_PDF_ZOOM_MANAGER_JS},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:23:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_ZOOM_MANAGER_JS'[0m
+#define IDR_PDF_ZOOM_MANAGER_JS _Pragma("whitelisted_resource_11622") 11622
+[0;1;32m                                ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11622
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:31:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/gesture_detector.js", IDR_PDF_GESTURE_DETECTOR_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:24:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_GESTURE_DETECTOR_JS'[0m
+#define IDR_PDF_GESTURE_DETECTOR_JS _Pragma("whitelisted_resource_11623") 11623
+[0;1;32m                                    ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11623
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:32:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/browser_api.js", IDR_PDF_BROWSER_API_JS},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:25:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_BROWSER_API_JS'[0m
+#define IDR_PDF_BROWSER_API_JS _Pragma("whitelisted_resource_11624") 11624
+[0;1;32m                               ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11624
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:33:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/metrics.js", IDR_PDF_METRICS_JS},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:26:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_METRICS_JS'[0m
+#define IDR_PDF_METRICS_JS _Pragma("whitelisted_resource_11625") 11625
+[0;1;32m                           ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11625
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:34:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/coords_transformer.js", IDR_PDF_COORDS_TRANSFORMER_JS},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:27:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_COORDS_TRANSFORMER_JS'[0m
+#define IDR_PDF_COORDS_TRANSFORMER_JS _Pragma("whitelisted_resource_11626") 11626
+[0;1;32m                                      ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11626
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:35:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/shared-vars.html", IDR_PDF_SHARED_VARS_HTML},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:28:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_SHARED_VARS_HTML'[0m
+#define IDR_PDF_SHARED_VARS_HTML _Pragma("whitelisted_resource_11627") 11627
+[0;1;32m                                 ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11627
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:36:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/icons.html", IDR_PDF_ICONS_HTML},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:29:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_ICONS_HTML'[0m
+#define IDR_PDF_ICONS_HTML _Pragma("whitelisted_resource_11628") 11628
+[0;1;32m                           ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11628
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:37:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-bookmark/viewer-bookmark.html", IDR_PDF_VIEWER_BOOKMARK_HTML},
+[0;1;32m                                                        ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:30:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_BOOKMARK_HTML'[0m
+#define IDR_PDF_VIEWER_BOOKMARK_HTML _Pragma("whitelisted_resource_11629") 11629
+[0;1;32m                                     ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11629
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:38:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-bookmark/viewer-bookmark.js", IDR_PDF_VIEWER_BOOKMARK_JS},
+[0;1;32m                                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:31:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_BOOKMARK_JS'[0m
+#define IDR_PDF_VIEWER_BOOKMARK_JS _Pragma("whitelisted_resource_11630") 11630
+[0;1;32m                                   ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11630
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:39:75: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-bookmarks-content/viewer-bookmarks-content.html", IDR_PDF_VIEWER_BOOKMARKS_CONTENT_HTML},
+[0;1;32m                                                                          ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:32:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_BOOKMARKS_CONTENT_HTML'[0m
+#define IDR_PDF_VIEWER_BOOKMARKS_CONTENT_HTML _Pragma("whitelisted_resource_11631") 11631
+[0;1;32m                                              ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11631
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:40:73: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-bookmarks-content/viewer-bookmarks-content.js", IDR_PDF_VIEWER_BOOKMARKS_CONTENT_JS},
+[0;1;32m                                                                        ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:33:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_BOOKMARKS_CONTENT_JS'[0m
+#define IDR_PDF_VIEWER_BOOKMARKS_CONTENT_JS _Pragma("whitelisted_resource_11632") 11632
+[0;1;32m                                            ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11632
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:41:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-error-screen/viewer-error-screen.html", IDR_PDF_VIEWER_ERROR_SCREEN_HTML},
+[0;1;32m                                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:34:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_ERROR_SCREEN_HTML'[0m
+#define IDR_PDF_VIEWER_ERROR_SCREEN_HTML _Pragma("whitelisted_resource_11633") 11633
+[0;1;32m                                         ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11633
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:42:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-error-screen/viewer-error-screen.js", IDR_PDF_VIEWER_ERROR_SCREEN_JS},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:35:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_ERROR_SCREEN_JS'[0m
+#define IDR_PDF_VIEWER_ERROR_SCREEN_JS _Pragma("whitelisted_resource_11634") 11634
+[0;1;32m                                       ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11634
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:43:69: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-page-indicator/viewer-page-indicator.html", IDR_PDF_VIEWER_PAGE_INDICATOR_HTML},
+[0;1;32m                                                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:36:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PAGE_INDICATOR_HTML'[0m
+#define IDR_PDF_VIEWER_PAGE_INDICATOR_HTML _Pragma("whitelisted_resource_11635") 11635
+[0;1;32m                                           ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11635
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:44:67: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-page-indicator/viewer-page-indicator.js", IDR_PDF_VIEWER_PAGE_INDICATOR_JS},
+[0;1;32m                                                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:37:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PAGE_INDICATOR_JS'[0m
+#define IDR_PDF_VIEWER_PAGE_INDICATOR_JS _Pragma("whitelisted_resource_11636") 11636
+[0;1;32m                                         ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11636
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:45:67: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-page-selector/viewer-page-selector.html", IDR_PDF_VIEWER_PAGE_SELECTOR_HTML},
+[0;1;32m                                                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:38:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PAGE_SELECTOR_HTML'[0m
+#define IDR_PDF_VIEWER_PAGE_SELECTOR_HTML _Pragma("whitelisted_resource_11637") 11637
+[0;1;32m                                          ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11637
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:46:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-page-selector/viewer-page-selector.js", IDR_PDF_VIEWER_PAGE_SELECTOR_JS},
+[0;1;32m                                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:39:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PAGE_SELECTOR_JS'[0m
+#define IDR_PDF_VIEWER_PAGE_SELECTOR_JS _Pragma("whitelisted_resource_11638") 11638
+[0;1;32m                                        ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11638
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:47:71: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-password-screen/viewer-password-screen.html", IDR_PDF_VIEWER_PASSWORD_SCREEN_HTML},
+[0;1;32m                                                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:40:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PASSWORD_SCREEN_HTML'[0m
+#define IDR_PDF_VIEWER_PASSWORD_SCREEN_HTML _Pragma("whitelisted_resource_11639") 11639
+[0;1;32m                                            ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11639
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:48:69: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-password-screen/viewer-password-screen.js", IDR_PDF_VIEWER_PASSWORD_SCREEN_JS},
+[0;1;32m                                                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:41:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PASSWORD_SCREEN_JS'[0m
+#define IDR_PDF_VIEWER_PASSWORD_SCREEN_JS _Pragma("whitelisted_resource_11640") 11640
+[0;1;32m                                          ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11640
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:49:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-pdf-toolbar/viewer-pdf-toolbar.html", IDR_PDF_VIEWER_PDF_TOOLBAR_HTML},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:42:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PDF_TOOLBAR_HTML'[0m
+#define IDR_PDF_VIEWER_PDF_TOOLBAR_HTML _Pragma("whitelisted_resource_11641") 11641
+[0;1;32m                                        ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11641
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:50:61: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-pdf-toolbar/viewer-pdf-toolbar.js", IDR_PDF_VIEWER_PDF_TOOLBAR_JS},
+[0;1;32m                                                            ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:43:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_PDF_TOOLBAR_JS'[0m
+#define IDR_PDF_VIEWER_PDF_TOOLBAR_JS _Pragma("whitelisted_resource_11642") 11642
+[0;1;32m                                      ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11642
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:51:73: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-toolbar-dropdown/viewer-toolbar-dropdown.html", IDR_PDF_VIEWER_TOOLBAR_DROPDOWN_HTML},
+[0;1;32m                                                                        ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:44:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_TOOLBAR_DROPDOWN_HTML'[0m
+#define IDR_PDF_VIEWER_TOOLBAR_DROPDOWN_HTML _Pragma("whitelisted_resource_11643") 11643
+[0;1;32m                                             ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11643
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:52:71: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-toolbar-dropdown/viewer-toolbar-dropdown.js", IDR_PDF_VIEWER_TOOLBAR_DROPDOWN_JS},
+[0;1;32m                                                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:45:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_TOOLBAR_DROPDOWN_JS'[0m
+#define IDR_PDF_VIEWER_TOOLBAR_DROPDOWN_JS _Pragma("whitelisted_resource_11644") 11644
+[0;1;32m                                           ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11644
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:53:64: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-zoom-toolbar/viewer-zoom-button.html", IDR_PDF_VIEWER_ZOOM_BUTTON_HTML},
+[0;1;32m                                                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:46:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_ZOOM_BUTTON_HTML'[0m
+#define IDR_PDF_VIEWER_ZOOM_BUTTON_HTML _Pragma("whitelisted_resource_11645") 11645
+[0;1;32m                                        ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11645
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:54:62: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-zoom-toolbar/viewer-zoom-button.js", IDR_PDF_VIEWER_ZOOM_BUTTON_JS},
+[0;1;32m                                                             ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:47:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_ZOOM_BUTTON_JS'[0m
+#define IDR_PDF_VIEWER_ZOOM_BUTTON_JS _Pragma("whitelisted_resource_11646") 11646
+[0;1;32m                                      ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11646
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:55:65: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-zoom-toolbar/viewer-zoom-toolbar.html", IDR_PDF_VIEWER_ZOOM_SELECTOR_HTML},
+[0;1;32m                                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:48:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_ZOOM_SELECTOR_HTML'[0m
+#define IDR_PDF_VIEWER_ZOOM_SELECTOR_HTML _Pragma("whitelisted_resource_11647") 11647
+[0;1;32m                                          ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11647
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:56:63: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pdf/elements/viewer-zoom-toolbar/viewer-zoom-toolbar.js", IDR_PDF_VIEWER_ZOOM_SELECTOR_JS},
+[0;1;32m                                                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:49:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_VIEWER_ZOOM_SELECTOR_JS'[0m
+#define IDR_PDF_VIEWER_ZOOM_SELECTOR_JS _Pragma("whitelisted_resource_11648") 11648
+[0;1;32m                                        ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11648
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:57:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/util.js", IDR_CRYPTOTOKEN_UTIL_JS},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:50:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_UTIL_JS'[0m
+#define IDR_CRYPTOTOKEN_UTIL_JS _Pragma("whitelisted_resource_11649") 11649
+[0;1;32m                                ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11649
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:58:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/b64.js", IDR_CRYPTOTOKEN_B64_JS},
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:51:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_B64_JS'[0m
+#define IDR_CRYPTOTOKEN_B64_JS _Pragma("whitelisted_resource_11650") 11650
+[0;1;32m                               ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11650
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:59:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/closeable.js", IDR_CRYPTOTOKEN_CLOSEABLE_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:52:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_CLOSEABLE_JS'[0m
+#define IDR_CRYPTOTOKEN_CLOSEABLE_JS _Pragma("whitelisted_resource_11651") 11651
+[0;1;32m                                     ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11651
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:60:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/countdown.js", IDR_CRYPTOTOKEN_COUNTDOWN_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:53:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_COUNTDOWN_JS'[0m
+#define IDR_CRYPTOTOKEN_COUNTDOWN_JS _Pragma("whitelisted_resource_11652") 11652
+[0;1;32m                                     ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11652
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:61:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/countdowntimer.js", IDR_CRYPTOTOKEN_COUNTDOWNTIMER_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:54:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_COUNTDOWNTIMER_JS'[0m
+#define IDR_CRYPTOTOKEN_COUNTDOWNTIMER_JS _Pragma("whitelisted_resource_11653") 11653
+[0;1;32m                                          ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11653
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:62:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/sha256.js", IDR_CRYPTOTOKEN_SHA256_JS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:55:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_SHA256_JS'[0m
+#define IDR_CRYPTOTOKEN_SHA256_JS _Pragma("whitelisted_resource_11654") 11654
+[0;1;32m                                  ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11654
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:63:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/timer.js", IDR_CRYPTOTOKEN_TIMER_JS},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:56:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_TIMER_JS'[0m
+#define IDR_CRYPTOTOKEN_TIMER_JS _Pragma("whitelisted_resource_11655") 11655
+[0;1;32m                                 ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11655
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:64:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/hidgnubbydevice.js", IDR_CRYPTOTOKEN_HIDGNUBBYDEVICE_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:57:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_HIDGNUBBYDEVICE_JS'[0m
+#define IDR_CRYPTOTOKEN_HIDGNUBBYDEVICE_JS _Pragma("whitelisted_resource_11656") 11656
+[0;1;32m                                           ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11656
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:65:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/usbgnubbydevice.js", IDR_CRYPTOTOKEN_USBGNUBBYDEVICE_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:58:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_USBGNUBBYDEVICE_JS'[0m
+#define IDR_CRYPTOTOKEN_USBGNUBBYDEVICE_JS _Pragma("whitelisted_resource_11657") 11657
+[0;1;32m                                           ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11657
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:66:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/gnubbies.js", IDR_CRYPTOTOKEN_GNUBBIES_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:59:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GNUBBIES_JS'[0m
+#define IDR_CRYPTOTOKEN_GNUBBIES_JS _Pragma("whitelisted_resource_11658") 11658
+[0;1;32m                                    ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11658
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:67:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/gnubby.js", IDR_CRYPTOTOKEN_GNUBBY_JS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:60:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GNUBBY_JS'[0m
+#define IDR_CRYPTOTOKEN_GNUBBY_JS _Pragma("whitelisted_resource_11659") 11659
+[0;1;32m                                  ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11659
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:68:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/gnubby-u2f.js", IDR_CRYPTOTOKEN_GNUBBY_U2F_JS},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:61:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GNUBBY_U2F_JS'[0m
+#define IDR_CRYPTOTOKEN_GNUBBY_U2F_JS _Pragma("whitelisted_resource_11660") 11660
+[0;1;32m                                      ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11660
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:69:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/gnubbyfactory.js", IDR_CRYPTOTOKEN_GNUBBYFACTORY_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:62:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GNUBBYFACTORY_JS'[0m
+#define IDR_CRYPTOTOKEN_GNUBBYFACTORY_JS _Pragma("whitelisted_resource_11661") 11661
+[0;1;32m                                         ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11661
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:70:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/usbgnubbyfactory.js", IDR_CRYPTOTOKEN_USBGNUBBYFACTORY_JS},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:63:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_USBGNUBBYFACTORY_JS'[0m
+#define IDR_CRYPTOTOKEN_USBGNUBBYFACTORY_JS _Pragma("whitelisted_resource_11662") 11662
+[0;1;32m                                            ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11662
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:71:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/devicestatuscodes.js", IDR_CRYPTOTOKEN_DEVICESTATUSCODES_JS},
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:64:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_DEVICESTATUSCODES_JS'[0m
+#define IDR_CRYPTOTOKEN_DEVICESTATUSCODES_JS _Pragma("whitelisted_resource_11663") 11663
+[0;1;32m                                             ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11663
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:72:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/asn1.js", IDR_CRYPTOTOKEN_ASN1_JS},
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:65:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_ASN1_JS'[0m
+#define IDR_CRYPTOTOKEN_ASN1_JS _Pragma("whitelisted_resource_11664") 11664
+[0;1;32m                                ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11664
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:73:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/enroller.js", IDR_CRYPTOTOKEN_ENROLLER_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:66:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_ENROLLER_JS'[0m
+#define IDR_CRYPTOTOKEN_ENROLLER_JS _Pragma("whitelisted_resource_11665") 11665
+[0;1;32m                                    ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11665
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:74:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/usbenrollhandler.js", IDR_CRYPTOTOKEN_USBENROLLHANDLER_JS},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:67:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_USBENROLLHANDLER_JS'[0m
+#define IDR_CRYPTOTOKEN_USBENROLLHANDLER_JS _Pragma("whitelisted_resource_11666") 11666
+[0;1;32m                                            ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11666
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:75:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/requestqueue.js", IDR_CRYPTOTOKEN_REQUESTQUEUE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:68:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_REQUESTQUEUE_JS'[0m
+#define IDR_CRYPTOTOKEN_REQUESTQUEUE_JS _Pragma("whitelisted_resource_11667") 11667
+[0;1;32m                                        ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11667
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:76:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/signer.js", IDR_CRYPTOTOKEN_SIGNER_JS},
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:69:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_SIGNER_JS'[0m
+#define IDR_CRYPTOTOKEN_SIGNER_JS _Pragma("whitelisted_resource_11668") 11668
+[0;1;32m                                  ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11668
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:77:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/singlesigner.js", IDR_CRYPTOTOKEN_SINGLESIGNER_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:70:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_SINGLESIGNER_JS'[0m
+#define IDR_CRYPTOTOKEN_SINGLESIGNER_JS _Pragma("whitelisted_resource_11669") 11669
+[0;1;32m                                        ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11669
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:78:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/multiplesigner.js", IDR_CRYPTOTOKEN_MULTIPLESIGNER_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:71:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_MULTIPLESIGNER_JS'[0m
+#define IDR_CRYPTOTOKEN_MULTIPLESIGNER_JS _Pragma("whitelisted_resource_11670") 11670
+[0;1;32m                                          ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11670
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:79:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/usbsignhandler.js", IDR_CRYPTOTOKEN_USBSIGNHANDLER_JS},
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:72:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_USBSIGNHANDLER_JS'[0m
+#define IDR_CRYPTOTOKEN_USBSIGNHANDLER_JS _Pragma("whitelisted_resource_11671") 11671
+[0;1;32m                                          ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11671
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:80:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/webrequest.js", IDR_CRYPTOTOKEN_WEBREQUEST_JS},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:73:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_WEBREQUEST_JS'[0m
+#define IDR_CRYPTOTOKEN_WEBREQUEST_JS _Pragma("whitelisted_resource_11672") 11672
+[0;1;32m                                      ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11672
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:81:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/appid.js", IDR_CRYPTOTOKEN_APPID_JS},
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:74:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_APPID_JS'[0m
+#define IDR_CRYPTOTOKEN_APPID_JS _Pragma("whitelisted_resource_11673") 11673
+[0;1;32m                                 ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11673
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:82:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/usbhelper.js", IDR_CRYPTOTOKEN_USBHELPER_JS},
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:75:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_USBHELPER_JS'[0m
+#define IDR_CRYPTOTOKEN_USBHELPER_JS _Pragma("whitelisted_resource_11674") 11674
+[0;1;32m                                     ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11674
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:83:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/textfetcher.js", IDR_CRYPTOTOKEN_TEXTFETCHER_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:76:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_TEXTFETCHER_JS'[0m
+#define IDR_CRYPTOTOKEN_TEXTFETCHER_JS _Pragma("whitelisted_resource_11675") 11675
+[0;1;32m                                       ^
+[0m[1m<scratch space>:198:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11675
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:84:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/requesthelper.js", IDR_CRYPTOTOKEN_REQUESTHELPER_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:77:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_REQUESTHELPER_JS'[0m
+#define IDR_CRYPTOTOKEN_REQUESTHELPER_JS _Pragma("whitelisted_resource_11676") 11676
+[0;1;32m                                         ^
+[0m[1m<scratch space>:200:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11676
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:85:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/messagetypes.js", IDR_CRYPTOTOKEN_MESSAGETYPES_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:78:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_MESSAGETYPES_JS'[0m
+#define IDR_CRYPTOTOKEN_MESSAGETYPES_JS _Pragma("whitelisted_resource_11677") 11677
+[0;1;32m                                        ^
+[0m[1m<scratch space>:202:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11677
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:86:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/inherits.js", IDR_CRYPTOTOKEN_INHERITS_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:79:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_INHERITS_JS'[0m
+#define IDR_CRYPTOTOKEN_INHERITS_JS _Pragma("whitelisted_resource_11678") 11678
+[0;1;32m                                    ^
+[0m[1m<scratch space>:204:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11678
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:87:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/gnubbydevice.js", IDR_CRYPTOTOKEN_GNUBBYDEVICE_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:80:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GNUBBYDEVICE_JS'[0m
+#define IDR_CRYPTOTOKEN_GNUBBYDEVICE_JS _Pragma("whitelisted_resource_11679") 11679
+[0;1;32m                                        ^
+[0m[1m<scratch space>:206:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11679
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:88:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/generichelper.js", IDR_CRYPTOTOKEN_GENERICHELPER_JS},
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:81:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GENERICHELPER_JS'[0m
+#define IDR_CRYPTOTOKEN_GENERICHELPER_JS _Pragma("whitelisted_resource_11680") 11680
+[0;1;32m                                         ^
+[0m[1m<scratch space>:208:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11680
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:89:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/factoryregistry.js", IDR_CRYPTOTOKEN_FACTORYREGISTRY_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:82:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_FACTORYREGISTRY_JS'[0m
+#define IDR_CRYPTOTOKEN_FACTORYREGISTRY_JS _Pragma("whitelisted_resource_11681") 11681
+[0;1;32m                                           ^
+[0m[1m<scratch space>:210:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11681
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:90:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/errorcodes.js", IDR_CRYPTOTOKEN_ERRORCODES_JS},
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:83:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_ERRORCODES_JS'[0m
+#define IDR_CRYPTOTOKEN_ERRORCODES_JS _Pragma("whitelisted_resource_11682") 11682
+[0;1;32m                                      ^
+[0m[1m<scratch space>:212:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11682
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:91:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/devicefactoryregistry.js", IDR_CRYPTOTOKEN_DEVICEFACTORYREGISTRY_JS},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:84:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_DEVICEFACTORYREGISTRY_JS'[0m
+#define IDR_CRYPTOTOKEN_DEVICEFACTORYREGISTRY_JS _Pragma("whitelisted_resource_11683") 11683
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:214:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11683
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:92:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/origincheck.js", IDR_CRYPTOTOKEN_ORIGINCHECK_JS},
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:85:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_ORIGINCHECK_JS'[0m
+#define IDR_CRYPTOTOKEN_ORIGINCHECK_JS _Pragma("whitelisted_resource_11684") 11684
+[0;1;32m                                       ^
+[0m[1m<scratch space>:216:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11684
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:93:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/individualattest.js", IDR_CRYPTOTOKEN_INDIVIDUALATTEST_JS},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:86:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_INDIVIDUALATTEST_JS'[0m
+#define IDR_CRYPTOTOKEN_INDIVIDUALATTEST_JS _Pragma("whitelisted_resource_11685") 11685
+[0;1;32m                                            ^
+[0m[1m<scratch space>:218:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11685
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:94:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/googlecorpindividualattest.js", IDR_CRYPTOTOKEN_GOOGLECORPINDIVIDUALATTEST_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:87:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_GOOGLECORPINDIVIDUALATTEST_JS'[0m
+#define IDR_CRYPTOTOKEN_GOOGLECORPINDIVIDUALATTEST_JS _Pragma("whitelisted_resource_11686") 11686
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:220:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11686
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:95:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/approvedorigins.js", IDR_CRYPTOTOKEN_APPROVEDORIGINS_JS},
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:88:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_APPROVEDORIGINS_JS'[0m
+#define IDR_CRYPTOTOKEN_APPROVEDORIGINS_JS _Pragma("whitelisted_resource_11687") 11687
+[0;1;32m                                           ^
+[0m[1m<scratch space>:222:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11687
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:96:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/webrequestsender.js", IDR_CRYPTOTOKEN_WEBREQUESTSENDER_JS},
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:89:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_WEBREQUESTSENDER_JS'[0m
+#define IDR_CRYPTOTOKEN_WEBREQUESTSENDER_JS _Pragma("whitelisted_resource_11688") 11688
+[0;1;32m                                            ^
+[0m[1m<scratch space>:224:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11688
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:97:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/window-timer.js", IDR_CRYPTOTOKEN_WINDOW_TIMER_JS},
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:90:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_WINDOW_TIMER_JS'[0m
+#define IDR_CRYPTOTOKEN_WINDOW_TIMER_JS _Pragma("whitelisted_resource_11689") 11689
+[0;1;32m                                        ^
+[0m[1m<scratch space>:226:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11689
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:98:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/watchdog.js", IDR_CRYPTOTOKEN_WATCHDOG_JS},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:91:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_WATCHDOG_JS'[0m
+#define IDR_CRYPTOTOKEN_WATCHDOG_JS _Pragma("whitelisted_resource_11690") 11690
+[0;1;32m                                    ^
+[0m[1m<scratch space>:228:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11690
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:99:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/logging.js", IDR_CRYPTOTOKEN_LOGGING_JS},
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:92:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_LOGGING_JS'[0m
+#define IDR_CRYPTOTOKEN_LOGGING_JS _Pragma("whitelisted_resource_11691") 11691
+[0;1;32m                                   ^
+[0m[1m<scratch space>:230:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11691
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:100:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/cryptotokenapprovedorigins.js", IDR_CRYPTOTOKEN_CRYPTOTOKENAPPROVEDORIGIN_JS},
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:93:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_CRYPTOTOKENAPPROVEDORIGIN_JS'[0m
+#define IDR_CRYPTOTOKEN_CRYPTOTOKENAPPROVEDORIGIN_JS _Pragma("whitelisted_resource_11692") 11692
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:232:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11692
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:101:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/cryptotokenorigincheck.js", IDR_CRYPTOTOKEN_CRYPTOTOKENORIGINCHECK_JS},
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:94:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_CRYPTOTOKENORIGINCHECK_JS'[0m
+#define IDR_CRYPTOTOKEN_CRYPTOTOKENORIGINCHECK_JS _Pragma("whitelisted_resource_11693") 11693
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:234:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11693
+[0;1;32m ^
+[0m[1mgen/chrome/grit/component_extension_resources_map.cc:102:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"cryptotoken/cryptotokenbackground.js", IDR_CRYPTOTOKEN_CRYPTOTOKENBACKGROUND_JS},
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/component_extension_resources.h:95:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CRYPTOTOKEN_CRYPTOTOKENBACKGROUND_JS'[0m
+#define IDR_CRYPTOTOKEN_CRYPTOTOKENBACKGROUND_JS _Pragma("whitelisted_resource_11694") 11694
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:236:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11694
+[0;1;32m ^
+[0m91 warnings generated.

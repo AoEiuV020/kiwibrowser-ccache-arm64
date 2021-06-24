@@ -1,0 +1,73 @@
+[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:81:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SETTINGS_RESET_PROMPT_TITLE_SEARCH_ENGINE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1870:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_TITLE_SEARCH_ENGINE'[0m
+#define IDS_SETTINGS_RESET_PROMPT_TITLE_SEARCH_ENGINE _Pragma("whitelisted_resource_5475") 5475
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5475
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:85:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SETTINGS_RESET_PROMPT_TITLE_STARTUP_PAGE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1871:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_TITLE_STARTUP_PAGE'[0m
+#define IDS_SETTINGS_RESET_PROMPT_TITLE_STARTUP_PAGE _Pragma("whitelisted_resource_5476") 5476
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5476
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:88:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SETTINGS_RESET_PROMPT_TITLE_HOMEPAGE);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1872:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_TITLE_HOMEPAGE'[0m
+#define IDS_SETTINGS_RESET_PROMPT_TITLE_HOMEPAGE _Pragma("whitelisted_resource_5477") 5477
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5477
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:96:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_SETTINGS_RESET_PROMPT_ACCEPT_BUTTON_LABEL);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1873:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_ACCEPT_BUTTON_LABEL'[0m
+#define IDS_SETTINGS_RESET_PROMPT_ACCEPT_BUTTON_LABEL _Pragma("whitelisted_resource_5478") 5478
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5478
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:168:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_SEARCH_ENGINE_NO_EXTENSIONS,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1874:79: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_SEARCH_ENGINE_NO_EXTENSIONS'[0m
+#define IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_SEARCH_ENGINE_NO_EXTENSIONS _Pragma("whitelisted_resource_5479") 5479
+[0;1;32m                                                                              ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5479
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:174:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_STARTUP_PAGE_SINGLE_NO_EXTENSIONS,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1875:85: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_STARTUP_PAGE_SINGLE_NO_EXTENSIONS'[0m
+#define IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_STARTUP_PAGE_SINGLE_NO_EXTENSIONS _Pragma("whitelisted_resource_5480") 5480
+[0;1;32m                                                                                    ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5480
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:178:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_STARTUP_PAGE_MULTIPLE_NO_EXTENSIONS,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1876:87: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_STARTUP_PAGE_MULTIPLE_NO_EXTENSIONS'[0m
+#define IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_STARTUP_PAGE_MULTIPLE_NO_EXTENSIONS _Pragma("whitelisted_resource_5481") 5481
+[0;1;32m                                                                                      ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5481
+[0;1;32m ^
+[0m[1m../../chrome/browser/safe_browsing/settings_reset_prompt/settings_reset_prompt_controller.cc:183:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_HOMEPAGE_NO_EXTENSIONS,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1877:74: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_HOMEPAGE_NO_EXTENSIONS'[0m
+#define IDS_SETTINGS_RESET_PROMPT_EXPLANATION_FOR_HOMEPAGE_NO_EXTENSIONS _Pragma("whitelisted_resource_5482") 5482
+[0;1;32m                                                                         ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5482
+[0;1;32m ^
+[0m8 warnings generated.

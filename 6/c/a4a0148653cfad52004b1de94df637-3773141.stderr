@@ -1,0 +1,91 @@
+[1m../../components/translate/core/browser/translate_infobar_delegate.cc:195:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringFUTF16(IDS_TRANSLATE_INFOBAR_TRANSLATING_TO,
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:981:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_TRANSLATING_TO'[0m
+#define IDS_TRANSLATE_INFOBAR_TRANSLATING_TO _Pragma("whitelisted_resource_16115") 16115
+[0;1;32m                                             ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16115
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:207:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_INFOBAR_ERROR_CANT_CONNECT);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:986:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_ERROR_CANT_CONNECT'[0m
+#define IDS_TRANSLATE_INFOBAR_ERROR_CANT_CONNECT _Pragma("whitelisted_resource_16120") 16120
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16120
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:215:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_INFOBAR_ERROR_CANT_TRANSLATE);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:987:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_ERROR_CANT_TRANSLATE'[0m
+#define IDS_TRANSLATE_INFOBAR_ERROR_CANT_TRANSLATE _Pragma("whitelisted_resource_16121") 16121
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16121
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:218:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_INFOBAR_UNKNOWN_PAGE_LANGUAGE);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:988:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_UNKNOWN_PAGE_LANGUAGE'[0m
+#define IDS_TRANSLATE_INFOBAR_UNKNOWN_PAGE_LANGUAGE _Pragma("whitelisted_resource_16122") 16122
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16122
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:221:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_INFOBAR_UNSUPPORTED_PAGE_LANGUAGE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:990:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_UNSUPPORTED_PAGE_LANGUAGE'[0m
+#define IDS_TRANSLATE_INFOBAR_UNSUPPORTED_PAGE_LANGUAGE _Pragma("whitelisted_resource_16124") 16124
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16124
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:225:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_TRANSLATE_INFOBAR_ERROR_SAME_LANGUAGE, target_language_name());
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:989:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_ERROR_SAME_LANGUAGE'[0m
+#define IDS_TRANSLATE_INFOBAR_ERROR_SAME_LANGUAGE _Pragma("whitelisted_resource_16123") 16123
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16123
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:239:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_TRANSLATE_INFOBAR_REVERT : IDS_TRANSLATE_INFOBAR_RETRY);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:984:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_REVERT'[0m
+#define IDS_TRANSLATE_INFOBAR_REVERT _Pragma("whitelisted_resource_16118") 16118
+[0;1;32m                                     ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16118
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:239:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_TRANSLATE_INFOBAR_REVERT : IDS_TRANSLATE_INFOBAR_RETRY);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:985:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_RETRY'[0m
+#define IDS_TRANSLATE_INFOBAR_RETRY _Pragma("whitelisted_resource_16119") 16119
+[0;1;32m                                    ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16119
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:328:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_TRANSLATE_INFOBAR_AFTER_MESSAGE_AUTODETERMINED_SOURCE_LANGUAGE,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:983:76: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_AFTER_MESSAGE_AUTODETERMINED_SOURCE_LANGUAGE'[0m
+#define IDS_TRANSLATE_INFOBAR_AFTER_MESSAGE_AUTODETERMINED_SOURCE_LANGUAGE _Pragma("whitelisted_resource_16117") 16117
+[0;1;32m                                                                           ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16117
+[0;1;32m ^
+[0m[1m../../components/translate/core/browser/translate_infobar_delegate.cc:340:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_TRANSLATE_INFOBAR_AFTER_MESSAGE, base::string16(), base::string16(),
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:982:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TRANSLATE_INFOBAR_AFTER_MESSAGE'[0m
+#define IDS_TRANSLATE_INFOBAR_AFTER_MESSAGE _Pragma("whitelisted_resource_16116") 16116
+[0;1;32m                                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16116
+[0;1;32m ^
+[0m10 warnings generated.

@@ -1,0 +1,37 @@
+[1mgen/chrome/grit/settings_resources_map.cc:12:95: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"../../../../out/arm64/${root_gen_dir}/chrome/browser/resources/settings/vulcanized.html", IDR_MD_SETTINGS_VULCANIZED_HTML},
+[0;1;32m                                                                                              ^
+[0m[1mgen/chrome/grit/settings_resources.h:5:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_VULCANIZED_HTML'[0m
+#define IDR_MD_SETTINGS_VULCANIZED_HTML _Pragma("whitelisted_resource_12230") 12230
+[0;1;32m                                        ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12230
+[0;1;32m ^
+[0m[1mgen/chrome/grit/settings_resources_map.cc:13:90: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"../../../../out/arm64/${root_gen_dir}/chrome/browser/resources/settings/crisper.js", IDR_MD_SETTINGS_CRISPER_JS},
+[0;1;32m                                                                                         ^
+[0m[1mgen/chrome/grit/settings_resources.h:6:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_CRISPER_JS'[0m
+#define IDR_MD_SETTINGS_CRISPER_JS _Pragma("whitelisted_resource_12231") 12231
+[0;1;32m                                   ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12231
+[0;1;32m ^
+[0m[1mgen/chrome/grit/settings_resources_map.cc:14:105: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"../../../../out/arm64/${root_gen_dir}/chrome/browser/resources/settings/lazy_load.vulcanized.html", IDR_MD_SETTINGS_LAZY_LOAD_VULCANIZED_HTML},
+[0;1;32m                                                                                                        ^
+[0m[1mgen/chrome/grit/settings_resources.h:7:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_LAZY_LOAD_VULCANIZED_HTML'[0m
+#define IDR_MD_SETTINGS_LAZY_LOAD_VULCANIZED_HTML _Pragma("whitelisted_resource_12232") 12232
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12232
+[0;1;32m ^
+[0m[1mgen/chrome/grit/settings_resources_map.cc:15:100: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"../../../../out/arm64/${root_gen_dir}/chrome/browser/resources/settings/lazy_load.crisper.js", IDR_MD_SETTINGS_LAZY_LOAD_CRISPER_JS},
+[0;1;32m                                                                                                   ^
+[0m[1mgen/chrome/grit/settings_resources.h:8:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MD_SETTINGS_LAZY_LOAD_CRISPER_JS'[0m
+#define IDR_MD_SETTINGS_LAZY_LOAD_CRISPER_JS _Pragma("whitelisted_resource_12233") 12233
+[0;1;32m                                             ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_12233
+[0;1;32m ^
+[0m4 warnings generated.

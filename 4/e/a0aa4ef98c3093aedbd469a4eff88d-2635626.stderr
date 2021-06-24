@@ -1,0 +1,19 @@
+[1m../../components/security_interstitials/core/common_string_util.cc:31:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "openDetails", l10n_util::GetStringUTF16(IDS_SSL_OPEN_DETAILS_BUTTON));
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:767:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_OPEN_DETAILS_BUTTON'[0m
+#define IDS_SSL_OPEN_DETAILS_BUTTON _Pragma("whitelisted_resource_15898") 15898
+[0;1;32m                                    ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15898
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/common_string_util.cc:33:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "closeDetails", l10n_util::GetStringUTF16(IDS_SSL_CLOSE_DETAILS_BUTTON));
+[0;1;32m                                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:768:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_CLOSE_DETAILS_BUTTON'[0m
+#define IDS_SSL_CLOSE_DETAILS_BUTTON _Pragma("whitelisted_resource_15899") 15899
+[0;1;32m                                     ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15899
+[0;1;32m ^
+[0m2 warnings generated.

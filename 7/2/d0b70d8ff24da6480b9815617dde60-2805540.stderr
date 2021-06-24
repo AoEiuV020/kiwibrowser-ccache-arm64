@@ -1,0 +1,19 @@
+[1m../../components/autofill/core/browser/credit_card_field.cc:345:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_VISA), true,
+[0;1;32m                                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:32:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_VISA'[0m
+#define IDS_AUTOFILL_CC_VISA _Pragma("whitelisted_resource_15127") 15127
+[0;1;32m                             ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15127
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card_field.cc:348:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_MASTERCARD),
+[0;1;32m                                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:29:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_MASTERCARD'[0m
+#define IDS_AUTOFILL_CC_MASTERCARD _Pragma("whitelisted_resource_15124") 15124
+[0;1;32m                                   ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15124
+[0;1;32m ^
+[0m2 warnings generated.

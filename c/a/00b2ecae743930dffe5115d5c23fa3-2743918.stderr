@@ -1,0 +1,19 @@
+[1m../../extensions/common/manifest_handlers/background_info.cc:279:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_EXTENSION_LOAD_BACKGROUND_SCRIPT_FAILED,
+[0;1;32m          ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:13:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_BACKGROUND_SCRIPT_FAILED'[0m
+#define IDS_EXTENSION_LOAD_BACKGROUND_SCRIPT_FAILED _Pragma("whitelisted_resource_24628") 24628
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24628
+[0;1;32m ^
+[0m[1m../../extensions/common/manifest_handlers/background_info.cc:295:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF8(IDS_EXTENSION_LOAD_BACKGROUND_PAGE_FAILED,
+[0;1;32m                                    ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:14:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_BACKGROUND_PAGE_FAILED'[0m
+#define IDS_EXTENSION_LOAD_BACKGROUND_PAGE_FAILED _Pragma("whitelisted_resource_24629") 24629
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24629
+[0;1;32m ^
+[0m2 warnings generated.

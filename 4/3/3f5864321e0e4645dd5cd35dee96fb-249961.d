@@ -1,0 +1,26 @@
+obj/third_party/flac/flac/stream_encoder.o: \
+  ../../third_party/flac/src/libFLAC/stream_encoder.c \
+  ../../third_party/flac/include/share/compat.h \
+  ../../third_party/flac/include/FLAC/assert.h \
+  ../../third_party/flac/include/FLAC/stream_decoder.h \
+  ../../third_party/flac/include/FLAC/export.h \
+  ../../third_party/flac/include/FLAC/format.h \
+  ../../third_party/flac/include/FLAC/ordinals.h \
+  ../../third_party/flac/src/libFLAC/include/protected/stream_encoder.h \
+  ../../third_party/flac/include/FLAC/stream_encoder.h \
+  ../../third_party/flac/src/libFLAC/include/private/float.h \
+  ../../third_party/flac/src/libFLAC/include/private/bitwriter.h \
+  ../../third_party/flac/src/libFLAC/include/private/bitmath.h \
+  ../../third_party/flac/src/libFLAC/include/private/crc.h \
+  ../../third_party/flac/src/libFLAC/include/private/cpu.h \
+  ../../third_party/flac/src/libFLAC/include/private/fixed.h \
+  ../../third_party/flac/src/libFLAC/include/private/format.h \
+  ../../third_party/flac/src/libFLAC/include/private/lpc.h \
+  ../../third_party/flac/src/libFLAC/include/private/md5.h \
+  ../../third_party/flac/src/libFLAC/include/private/memory.h \
+  ../../third_party/flac/src/libFLAC/include/private/macros.h \
+  ../../third_party/flac/src/libFLAC/include/private/stream_encoder.h \
+  ../../third_party/flac/src/libFLAC/include/private/stream_encoder_framing.h \
+  ../../third_party/flac/src/libFLAC/include/private/window.h \
+  ../../third_party/flac/include/share/alloc.h \
+  ../../third_party/flac/include/share/private.h

@@ -1,0 +1,262 @@
+[1m../../components/autofill/core/browser/credit_card.cc:75:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_AMEX);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:23:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_AMEX'[0m
+#define IDS_AUTOFILL_CC_AMEX _Pragma("whitelisted_resource_15118") 15118
+[0;1;32m                             ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15118
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:77:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_DINERS);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:25:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_DINERS'[0m
+#define IDS_AUTOFILL_CC_DINERS _Pragma("whitelisted_resource_15120") 15120
+[0;1;32m                               ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15120
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:79:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_DISCOVER);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:26:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_DISCOVER'[0m
+#define IDS_AUTOFILL_CC_DISCOVER _Pragma("whitelisted_resource_15121") 15121
+[0;1;32m                                 ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15121
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:81:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_ELO);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:27:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_ELO'[0m
+#define IDS_AUTOFILL_CC_ELO _Pragma("whitelisted_resource_15122") 15122
+[0;1;32m                            ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15122
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:83:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_JCB);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:28:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_JCB'[0m
+#define IDS_AUTOFILL_CC_JCB _Pragma("whitelisted_resource_15123") 15123
+[0;1;32m                            ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15123
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:85:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_MASTERCARD);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:29:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_MASTERCARD'[0m
+#define IDS_AUTOFILL_CC_MASTERCARD _Pragma("whitelisted_resource_15124") 15124
+[0;1;32m                                   ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15124
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:87:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_MIR);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:30:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_MIR'[0m
+#define IDS_AUTOFILL_CC_MIR _Pragma("whitelisted_resource_15125") 15125
+[0;1;32m                            ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15125
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:89:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_UNION_PAY);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:31:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_UNION_PAY'[0m
+#define IDS_AUTOFILL_CC_UNION_PAY _Pragma("whitelisted_resource_15126") 15126
+[0;1;32m                                  ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15126
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:91:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_VISA);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:32:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_VISA'[0m
+#define IDS_AUTOFILL_CC_VISA _Pragma("whitelisted_resource_15127") 15127
+[0;1;32m                             ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15127
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:157:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_GENERIC);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:33:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_GENERIC'[0m
+#define IDS_AUTOFILL_CC_GENERIC _Pragma("whitelisted_resource_15128") 15128
+[0;1;32m                                ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15128
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:159:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_AMEX_SHORT);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:24:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_AMEX_SHORT'[0m
+#define IDS_AUTOFILL_CC_AMEX_SHORT _Pragma("whitelisted_resource_15119") 15119
+[0;1;32m                                   ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15119
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:167:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_AMEX;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:5:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_AMEX'[0m
+#define IDR_AUTOFILL_CC_AMEX _Pragma("whitelisted_resource_17200") 17200
+[0;1;32m                             ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17200
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:169:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_DINERS;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:6:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_DINERS'[0m
+#define IDR_AUTOFILL_CC_DINERS _Pragma("whitelisted_resource_17201") 17201
+[0;1;32m                               ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17201
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:171:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_DISCOVER;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:7:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_DISCOVER'[0m
+#define IDR_AUTOFILL_CC_DISCOVER _Pragma("whitelisted_resource_17202") 17202
+[0;1;32m                                 ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17202
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:173:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_ELO;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:8:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_ELO'[0m
+#define IDR_AUTOFILL_CC_ELO _Pragma("whitelisted_resource_17203") 17203
+[0;1;32m                            ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17203
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:175:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_JCB;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:10:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_JCB'[0m
+#define IDR_AUTOFILL_CC_JCB _Pragma("whitelisted_resource_17205") 17205
+[0;1;32m                            ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17205
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:177:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_MASTERCARD;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:11:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_MASTERCARD'[0m
+#define IDR_AUTOFILL_CC_MASTERCARD _Pragma("whitelisted_resource_17206") 17206
+[0;1;32m                                   ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17206
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:179:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_MIR;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:12:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_MIR'[0m
+#define IDR_AUTOFILL_CC_MIR _Pragma("whitelisted_resource_17207") 17207
+[0;1;32m                            ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17207
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:181:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_UNIONPAY;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:13:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_UNIONPAY'[0m
+#define IDR_AUTOFILL_CC_UNIONPAY _Pragma("whitelisted_resource_17208") 17208
+[0;1;32m                                 ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17208
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:183:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDR_AUTOFILL_CC_VISA;
+[0;1;32m           ^
+[0m[1mgen/components/grit/components_scaled_resources.h:14:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_VISA'[0m
+#define IDR_AUTOFILL_CC_VISA _Pragma("whitelisted_resource_17209") 17209
+[0;1;32m                             ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17209
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:188:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDR_AUTOFILL_CC_GENERIC;
+[0;1;32m         ^
+[0m[1mgen/components/grit/components_scaled_resources.h:9:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_AUTOFILL_CC_GENERIC'[0m
+#define IDR_AUTOFILL_CC_GENERIC _Pragma("whitelisted_resource_17204") 17204
+[0;1;32m                                ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17204
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:729:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTOFILL_ADDRESS_SUMMARY_SEPARATOR);
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:34:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_ADDRESS_SUMMARY_SEPARATOR'[0m
+#define IDS_AUTOFILL_ADDRESS_SUMMARY_SEPARATOR _Pragma("whitelisted_resource_15129") 15129
+[0;1;32m                                               ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15129
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:792:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_AUTOFILL_CREDIT_CARD_EXPIRATION_DATE_ABBR, month, year);
+[0;1;32m                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:67:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_EXPIRATION_DATE_ABBR'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_EXPIRATION_DATE_ABBR _Pragma("whitelisted_resource_15163") 15163
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:184:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15163
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:805:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_AUTOFILL_CREDIT_CARD_EXP_AND_ADDED_DATE,
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:71:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_EXP_AND_ADDED_DATE'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_EXP_AND_ADDED_DATE _Pragma("whitelisted_resource_15167") 15167
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:186:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15167
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:811:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_AUTOFILL_CREDIT_CARD_ADDED_DATE,
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:72:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_ADDED_DATE'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_ADDED_DATE _Pragma("whitelisted_resource_15168") 15168
+[0;1;32m                                            ^
+[0m[1m<scratch space>:188:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15168
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:823:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_AUTOFILL_CREDIT_CARD_EXP_AND_LAST_USED_YEAR_AGO,
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:73:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_EXP_AND_LAST_USED_YEAR_AGO'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_EXP_AND_LAST_USED_YEAR_AGO _Pragma("whitelisted_resource_15169") 15169
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:190:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15169
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:827:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_AUTOFILL_CREDIT_CARD_LAST_USED_YEAR_AGO);
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:74:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_LAST_USED_YEAR_AGO'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_LAST_USED_YEAR_AGO _Pragma("whitelisted_resource_15170") 15170
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:192:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15170
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:833:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_AUTOFILL_CREDIT_CARD_EXP_AND_LAST_USED_DATE,
+[0;1;32m                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:69:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_EXP_AND_LAST_USED_DATE'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_EXP_AND_LAST_USED_DATE _Pragma("whitelisted_resource_15165") 15165
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:194:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15165
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/credit_card.cc:839:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_AUTOFILL_CREDIT_CARD_LAST_USED_DATE,
+[0;1;32m                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:70:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CREDIT_CARD_LAST_USED_DATE'[0m
+#define IDS_AUTOFILL_CREDIT_CARD_LAST_USED_DATE _Pragma("whitelisted_resource_15166") 15166
+[0;1;32m                                                ^
+[0m[1m<scratch space>:196:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15166
+[0;1;32m ^
+[0m29 warnings generated.

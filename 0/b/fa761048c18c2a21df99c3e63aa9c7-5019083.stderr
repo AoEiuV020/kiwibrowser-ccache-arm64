@@ -1,0 +1,127 @@
+[1m../../ui/views/controls/button/radio_button.cc:33:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:138:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO'[0m
+#define IDR_RADIO _Pragma("whitelisted_resource_27583") 27583
+[0;1;32m                  ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27583
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:35:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:150:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_HOVER'[0m
+#define IDR_RADIO_HOVER _Pragma("whitelisted_resource_27595") 27595
+[0;1;32m                        ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27595
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:37:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:151:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_PRESSED'[0m
+#define IDR_RADIO_PRESSED _Pragma("whitelisted_resource_27596") 27596
+[0;1;32m                          ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27596
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:39:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_DISABLED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:143:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_DISABLED'[0m
+#define IDR_RADIO_DISABLED _Pragma("whitelisted_resource_27588") 27588
+[0;1;32m                           ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27588
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:43:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_CHECKED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:139:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_CHECKED'[0m
+#define IDR_RADIO_CHECKED _Pragma("whitelisted_resource_27584") 27584
+[0;1;32m                          ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27584
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:45:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_CHECKED_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:141:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_CHECKED_HOVER'[0m
+#define IDR_RADIO_CHECKED_HOVER _Pragma("whitelisted_resource_27586") 27586
+[0;1;32m                                ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27586
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:47:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_CHECKED_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:142:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_CHECKED_PRESSED'[0m
+#define IDR_RADIO_CHECKED_PRESSED _Pragma("whitelisted_resource_27587") 27587
+[0;1;32m                                  ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27587
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:49:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_CHECKED_DISABLED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:140:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_CHECKED_DISABLED'[0m
+#define IDR_RADIO_CHECKED_DISABLED _Pragma("whitelisted_resource_27585") 27585
+[0;1;32m                                   ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27585
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:53:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_FOCUSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:144:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_FOCUSED'[0m
+#define IDR_RADIO_FOCUSED _Pragma("whitelisted_resource_27589") 27589
+[0;1;32m                          ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27589
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:55:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_FOCUSED_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:148:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_FOCUSED_HOVER'[0m
+#define IDR_RADIO_FOCUSED_HOVER _Pragma("whitelisted_resource_27593") 27593
+[0;1;32m                                ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27593
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:57:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_FOCUSED_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:149:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_FOCUSED_PRESSED'[0m
+#define IDR_RADIO_FOCUSED_PRESSED _Pragma("whitelisted_resource_27594") 27594
+[0;1;32m                                  ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27594
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:61:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_FOCUSED_CHECKED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:145:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_FOCUSED_CHECKED'[0m
+#define IDR_RADIO_FOCUSED_CHECKED _Pragma("whitelisted_resource_27590") 27590
+[0;1;32m                                  ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27590
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:63:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_FOCUSED_CHECKED_HOVER));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:146:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_FOCUSED_CHECKED_HOVER'[0m
+#define IDR_RADIO_FOCUSED_CHECKED_HOVER _Pragma("whitelisted_resource_27591") 27591
+[0;1;32m                                        ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27591
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/radio_button.cc:65:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_RADIO_FOCUSED_CHECKED_PRESSED));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:147:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RADIO_FOCUSED_CHECKED_PRESSED'[0m
+#define IDR_RADIO_FOCUSED_CHECKED_PRESSED _Pragma("whitelisted_resource_27592") 27592
+[0;1;32m                                          ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27592
+[0;1;32m ^
+[0m14 warnings generated.

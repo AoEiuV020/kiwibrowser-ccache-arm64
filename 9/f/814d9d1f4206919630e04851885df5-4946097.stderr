@@ -1,0 +1,73 @@
+[1m../../ui/views/controls/button/blue_button.cc:60:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_NORMAL), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:32:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_NORMAL'[0m
+#define IDR_BLUE_BUTTON_NORMAL _Pragma("whitelisted_resource_27477") 27477
+[0;1;32m                               ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27477
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:62:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_HOVER), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:31:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_HOVER'[0m
+#define IDR_BLUE_BUTTON_HOVER _Pragma("whitelisted_resource_27476") 27476
+[0;1;32m                              ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27476
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:64:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_PRESSED), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:33:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_PRESSED'[0m
+#define IDR_BLUE_BUTTON_PRESSED _Pragma("whitelisted_resource_27478") 27478
+[0;1;32m                                ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27478
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:66:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_DISABLED), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:27:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_DISABLED'[0m
+#define IDR_BLUE_BUTTON_DISABLED _Pragma("whitelisted_resource_27472") 27472
+[0;1;32m                                 ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27472
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:68:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_FOCUSED_NORMAL), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:29:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_FOCUSED_NORMAL'[0m
+#define IDR_BLUE_BUTTON_FOCUSED_NORMAL _Pragma("whitelisted_resource_27474") 27474
+[0;1;32m                                       ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27474
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:70:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_FOCUSED_HOVER), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:28:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_FOCUSED_HOVER'[0m
+#define IDR_BLUE_BUTTON_FOCUSED_HOVER _Pragma("whitelisted_resource_27473") 27473
+[0;1;32m                                      ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27473
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:72:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_FOCUSED_PRESSED), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:30:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_FOCUSED_PRESSED'[0m
+#define IDR_BLUE_BUTTON_FOCUSED_PRESSED _Pragma("whitelisted_resource_27475") 27475
+[0;1;32m                                        ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27475
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/blue_button.cc:74:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *rb.GetImageSkiaNamed(IDR_BLUE_BUTTON_DISABLED), insets));
+[0;1;32m                            ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:27:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BLUE_BUTTON_DISABLED'[0m
+#define IDR_BLUE_BUTTON_DISABLED _Pragma("whitelisted_resource_27472") 27472
+[0;1;32m                                 ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27472
+[0;1;32m ^
+[0m8 warnings generated.

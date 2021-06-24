@@ -1,0 +1,163 @@
+[1m../../components/browsing_data/core/browsing_data_utils.cc:113:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    text = l10n_util::GetStringUTF16(IDS_CLEAR_BROWSING_DATA_CALCULATING);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:117:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLEAR_BROWSING_DATA_CALCULATING'[0m
+#define IDS_CLEAR_BROWSING_DATA_CALCULATING _Pragma("whitelisted_resource_15216") 15216
+[0;1;32m                                            ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15216
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:122:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        password_result->is_sync_enabled() ? IDS_DEL_PASSWORDS_COUNTER_SYNCED
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:126:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_PASSWORDS_COUNTER_SYNCED'[0m
+#define IDS_DEL_PASSWORDS_COUNTER_SYNCED _Pragma("whitelisted_resource_15225") 15225
+[0;1;32m                                         ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15225
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:123:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                           : IDS_DEL_PASSWORDS_COUNTER,
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:125:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_PASSWORDS_COUNTER'[0m
+#define IDS_DEL_PASSWORDS_COUNTER _Pragma("whitelisted_resource_15224") 15224
+[0;1;32m                                  ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15224
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:129:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    text = l10n_util::GetPluralStringFUTF16(IDS_DEL_DOWNLOADS_COUNTER, count);
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:142:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_DOWNLOADS_COUNTER'[0m
+#define IDS_DEL_DOWNLOADS_COUNTER _Pragma("whitelisted_resource_15241") 15241
+[0;1;32m                                  ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15241
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:135:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetPluralStringFUTF16(IDS_DEL_SITE_SETTINGS_COUNTER, count);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:127:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_SITE_SETTINGS_COUNTER'[0m
+#define IDS_DEL_SITE_SETTINGS_COUNTER _Pragma("whitelisted_resource_15226") 15226
+[0;1;32m                                      ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15226
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:147:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_DEL_BROWSING_HISTORY_COUNTER_SYNCED, local_item_count)
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:119:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_BROWSING_HISTORY_COUNTER_SYNCED'[0m
+#define IDS_DEL_BROWSING_HISTORY_COUNTER_SYNCED _Pragma("whitelisted_resource_15218") 15218
+[0;1;32m                                                ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15218
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:149:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     IDS_DEL_BROWSING_HISTORY_COUNTER, local_item_count);
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:118:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_BROWSING_HISTORY_COUNTER'[0m
+#define IDS_DEL_BROWSING_HISTORY_COUNTER _Pragma("whitelisted_resource_15217") 15217
+[0;1;32m                                         ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15217
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:164:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DEL_AUTOFILL_COUNTER_CREDIT_CARDS, num_credit_cards));
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:129:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_CREDIT_CARDS'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_CREDIT_CARDS _Pragma("whitelisted_resource_15228") 15228
+[0;1;32m                                              ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15228
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:168:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DEL_AUTOFILL_COUNTER_ADDRESSES, num_addresses));
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:130:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_ADDRESSES'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_ADDRESSES _Pragma("whitelisted_resource_15229") 15229
+[0;1;32m                                           ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15229
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:176:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS, num_suggestions));
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:131:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS _Pragma("whitelisted_resource_15230") 15230
+[0;1;32m                                             ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15230
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:180:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS_LONG, num_suggestions));
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:132:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS_LONG'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS_LONG _Pragma("whitelisted_resource_15231") 15231
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15231
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:184:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS_SHORT, num_suggestions));
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:133:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS_SHORT'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_SUGGESTIONS_SHORT _Pragma("whitelisted_resource_15232") 15232
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15232
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:196:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        text = l10n_util::GetStringUTF16(IDS_DEL_AUTOFILL_COUNTER_EMPTY);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:128:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_EMPTY'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_EMPTY _Pragma("whitelisted_resource_15227") 15227
+[0;1;32m                                       ^
+[0m[1m<scratch space>:163:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15227
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:200:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDS_DEL_AUTOFILL_COUNTER_ONE_TYPE_SYNCED,
+[0;1;32m                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:134:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_ONE_TYPE_SYNCED'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_ONE_TYPE_SYNCED _Pragma("whitelisted_resource_15233") 15233
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15233
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:206:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            synced ? IDS_DEL_AUTOFILL_COUNTER_TWO_TYPES_SYNCED
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:136:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_TWO_TYPES_SYNCED'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_TWO_TYPES_SYNCED _Pragma("whitelisted_resource_15235") 15235
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15235
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:207:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   : IDS_DEL_AUTOFILL_COUNTER_TWO_TYPES,
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:135:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_TWO_TYPES'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_TWO_TYPES _Pragma("whitelisted_resource_15234") 15234
+[0;1;32m                                           ^
+[0m[1m<scratch space>:169:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15234
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:212:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            synced ? IDS_DEL_AUTOFILL_COUNTER_THREE_TYPES_SYNCED
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:138:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_THREE_TYPES_SYNCED'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_THREE_TYPES_SYNCED _Pragma("whitelisted_resource_15237") 15237
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:171:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15237
+[0;1;32m ^
+[0m[1m../../components/browsing_data/core/browsing_data_utils.cc:213:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   : IDS_DEL_AUTOFILL_COUNTER_THREE_TYPES,
+[0;1;32m                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:137:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_AUTOFILL_COUNTER_THREE_TYPES'[0m
+#define IDS_DEL_AUTOFILL_COUNTER_THREE_TYPES _Pragma("whitelisted_resource_15236") 15236
+[0;1;32m                                             ^
+[0m[1m<scratch space>:173:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15236
+[0;1;32m ^
+[0m18 warnings generated.

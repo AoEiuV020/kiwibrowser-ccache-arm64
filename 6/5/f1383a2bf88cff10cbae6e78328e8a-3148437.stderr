@@ -1,0 +1,10 @@
+[1m../../components/supervised_user_error_page/supervised_user_error_page_android.cc:20:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          .GetRawDataResource(IDR_SUPERVISED_USER_BLOCK_INTERSTITIAL_HTML)
+[0;1;32m                              ^
+[0m[1mgen/components/grit/components_resources.h:51:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_BLOCK_INTERSTITIAL_HTML'[0m
+#define IDR_SUPERVISED_USER_BLOCK_INTERSTITIAL_HTML _Pragma("whitelisted_resource_17064") 17064
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17064
+[0;1;32m ^
+[0m1 warning generated.

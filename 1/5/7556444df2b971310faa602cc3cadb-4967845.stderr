@@ -1,0 +1,311 @@
+[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kTextHoveredImages[] = IMAGE_GRID(IDR_TEXTBUTTON_HOVER);
+[0;1;32m                                 ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:99:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:162:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_TOP_LEFT'[0m
+#define IDR_TEXTBUTTON_HOVER_TOP_LEFT _Pragma("whitelisted_resource_27607") 27607
+[0;1;32m                                      ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27607
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:102:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:161:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_TOP'[0m
+#define IDR_TEXTBUTTON_HOVER_TOP _Pragma("whitelisted_resource_27606") 27606
+[0;1;32m                                 ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27606
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:105:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:163:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_TOP_RIGHT'[0m
+#define IDR_TEXTBUTTON_HOVER_TOP_RIGHT _Pragma("whitelisted_resource_27608") 27608
+[0;1;32m                                       ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27608
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:108:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:159:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_LEFT'[0m
+#define IDR_TEXTBUTTON_HOVER_LEFT _Pragma("whitelisted_resource_27604") 27604
+[0;1;32m                                  ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27604
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:111:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:158:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_CENTER'[0m
+#define IDR_TEXTBUTTON_HOVER_CENTER _Pragma("whitelisted_resource_27603") 27603
+[0;1;32m                                    ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27603
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:114:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:160:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_RIGHT'[0m
+#define IDR_TEXTBUTTON_HOVER_RIGHT _Pragma("whitelisted_resource_27605") 27605
+[0;1;32m                                   ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27605
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:117:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:156:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_BOTTOM_LEFT'[0m
+#define IDR_TEXTBUTTON_HOVER_BOTTOM_LEFT _Pragma("whitelisted_resource_27601") 27601
+[0;1;32m                                         ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27601
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:120:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:155:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_BOTTOM'[0m
+#define IDR_TEXTBUTTON_HOVER_BOTTOM _Pragma("whitelisted_resource_27600") 27600
+[0;1;32m                                    ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27600
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:31:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:123:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_HOVER_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:157:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_HOVER_BOTTOM_RIGHT'[0m
+#define IDR_TEXTBUTTON_HOVER_BOTTOM_RIGHT _Pragma("whitelisted_resource_27602") 27602
+[0;1;32m                                          ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27602
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kTextPressedImages[] = IMAGE_GRID(IDR_TEXTBUTTON_PRESSED);
+[0;1;32m                                 ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:126:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:171:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_TOP_LEFT'[0m
+#define IDR_TEXTBUTTON_PRESSED_TOP_LEFT _Pragma("whitelisted_resource_27616") 27616
+[0;1;32m                                        ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27616
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:129:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:170:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_TOP'[0m
+#define IDR_TEXTBUTTON_PRESSED_TOP _Pragma("whitelisted_resource_27615") 27615
+[0;1;32m                                   ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27615
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:132:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:172:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_TOP_RIGHT'[0m
+#define IDR_TEXTBUTTON_PRESSED_TOP_RIGHT _Pragma("whitelisted_resource_27617") 27617
+[0;1;32m                                         ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27617
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:135:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:168:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_LEFT'[0m
+#define IDR_TEXTBUTTON_PRESSED_LEFT _Pragma("whitelisted_resource_27613") 27613
+[0;1;32m                                    ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27613
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:138:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:167:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_CENTER'[0m
+#define IDR_TEXTBUTTON_PRESSED_CENTER _Pragma("whitelisted_resource_27612") 27612
+[0;1;32m                                      ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27612
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:2:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:169:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_RIGHT'[0m
+#define IDR_TEXTBUTTON_PRESSED_RIGHT _Pragma("whitelisted_resource_27614") 27614
+[0;1;32m                                     ^
+[0m[1m<scratch space>:3:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27614
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:5:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:165:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_BOTTOM_LEFT'[0m
+#define IDR_TEXTBUTTON_PRESSED_BOTTOM_LEFT _Pragma("whitelisted_resource_27610") 27610
+[0;1;32m                                           ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27610
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:8:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:164:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_BOTTOM'[0m
+#define IDR_TEXTBUTTON_PRESSED_BOTTOM _Pragma("whitelisted_resource_27609") 27609
+[0;1;32m                                      ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27609
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:32:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:11:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_TEXTBUTTON_PRESSED_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:166:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_TEXTBUTTON_PRESSED_BOTTOM_RIGHT'[0m
+#define IDR_TEXTBUTTON_PRESSED_BOTTOM_RIGHT _Pragma("whitelisted_resource_27611") 27611
+[0;1;32m                                            ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27611
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:78:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_NORMAL), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:25:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_NORMAL'[0m
+#define IDR_BUTTON_NORMAL _Pragma("whitelisted_resource_27470") 27470
+[0;1;32m                          ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27470
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:81:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_HOVER), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:24:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_HOVER'[0m
+#define IDR_BUTTON_HOVER _Pragma("whitelisted_resource_27469") 27469
+[0;1;32m                         ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27469
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:84:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_PRESSED), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:26:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_PRESSED'[0m
+#define IDR_BUTTON_PRESSED _Pragma("whitelisted_resource_27471") 27471
+[0;1;32m                           ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27471
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:87:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_DISABLED), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:20:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_DISABLED'[0m
+#define IDR_BUTTON_DISABLED _Pragma("whitelisted_resource_27465") 27465
+[0;1;32m                            ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27465
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:90:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_FOCUSED_NORMAL), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:22:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_FOCUSED_NORMAL'[0m
+#define IDR_BUTTON_FOCUSED_NORMAL _Pragma("whitelisted_resource_27467") 27467
+[0;1;32m                                  ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27467
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:93:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_FOCUSED_HOVER), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:21:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_FOCUSED_HOVER'[0m
+#define IDR_BUTTON_FOCUSED_HOVER _Pragma("whitelisted_resource_27466") 27466
+[0;1;32m                                 ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27466
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:96:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_FOCUSED_PRESSED), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:23:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_FOCUSED_PRESSED'[0m
+#define IDR_BUTTON_FOCUSED_PRESSED _Pragma("whitelisted_resource_27468") 27468
+[0;1;32m                                   ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27468
+[0;1;32m ^
+[0m[1m../../ui/views/controls/button/label_button_border.cc:99:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   *rb.GetImageSkiaNamed(IDR_BUTTON_DISABLED), insets));
+[0;1;32m                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:20:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_BUTTON_DISABLED'[0m
+#define IDR_BUTTON_DISABLED _Pragma("whitelisted_resource_27465") 27465
+[0;1;32m                            ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27465
+[0;1;32m ^
+[0m26 warnings generated.

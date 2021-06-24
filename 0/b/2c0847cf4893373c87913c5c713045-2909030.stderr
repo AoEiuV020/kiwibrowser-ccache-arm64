@@ -1,0 +1,10 @@
+[1m../../chrome/common/safe_browsing/file_type_policies.cc:53:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  bundle.GetRawDataResource(IDR_DOWNLOAD_FILE_TYPES_PB).CopyToString(binary_pb);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/browser_resources.h:59:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOWNLOAD_FILE_TYPES_PB'[0m
+#define IDR_DOWNLOAD_FILE_TYPES_PB _Pragma("whitelisted_resource_11046") 11046
+[0;1;32m                                   ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11046
+[0;1;32m ^
+[0m1 warning generated.

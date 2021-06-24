@@ -1,0 +1,100 @@
+[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:28:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->SetDefaultResource(IDR_ABOUT_DOM_DISTILLER_HTML);
+[0;1;32m                             ^
+[0m[1mgen/components/grit/components_resources.h:9:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_DOM_DISTILLER_HTML'[0m
+#define IDR_ABOUT_DOM_DISTILLER_HTML _Pragma("whitelisted_resource_17014") 17014
+[0;1;32m                                     ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17014
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:30:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDR_ABOUT_DOM_DISTILLER_CSS);
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:10:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_DOM_DISTILLER_CSS'[0m
+#define IDR_ABOUT_DOM_DISTILLER_CSS _Pragma("whitelisted_resource_17015") 17015
+[0;1;32m                                    ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17015
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:31:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  source->AddResourcePath("about_dom_distiller.js", IDR_ABOUT_DOM_DISTILLER_JS);
+[0;1;32m                                                    ^
+[0m[1mgen/components/grit/components_resources.h:11:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_ABOUT_DOM_DISTILLER_JS'[0m
+#define IDR_ABOUT_DOM_DISTILLER_JS _Pragma("whitelisted_resource_17016") 17016
+[0;1;32m                                   ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17016
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:34:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_TITLE);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:186:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_TITLE'[0m
+#define IDS_DOM_DISTILLER_WEBUI_TITLE _Pragma("whitelisted_resource_15285") 15285
+[0;1;32m                                      ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15285
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:36:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_ENTRY_URL);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:171:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_ENTRY_URL'[0m
+#define IDS_DOM_DISTILLER_WEBUI_ENTRY_URL _Pragma("whitelisted_resource_15270") 15270
+[0;1;32m                                          ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15270
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:38:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_ENTRY_ADD);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:172:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_ENTRY_ADD'[0m
+#define IDS_DOM_DISTILLER_WEBUI_ENTRY_ADD _Pragma("whitelisted_resource_15271") 15271
+[0;1;32m                                          ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15271
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:40:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_ENTRY_ADD_FAILED);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:173:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_ENTRY_ADD_FAILED'[0m
+#define IDS_DOM_DISTILLER_WEBUI_ENTRY_ADD_FAILED _Pragma("whitelisted_resource_15272") 15272
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15272
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:42:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_VIEW_URL);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:174:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_VIEW_URL'[0m
+#define IDS_DOM_DISTILLER_WEBUI_VIEW_URL _Pragma("whitelisted_resource_15273") 15273
+[0;1;32m                                         ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15273
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:44:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_VIEW_URL_FAILED);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:175:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_VIEW_URL_FAILED'[0m
+#define IDS_DOM_DISTILLER_WEBUI_VIEW_URL_FAILED _Pragma("whitelisted_resource_15274") 15274
+[0;1;32m                                                ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15274
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:46:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_FETCHING_ENTRIES);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:177:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_FETCHING_ENTRIES'[0m
+#define IDS_DOM_DISTILLER_WEBUI_FETCHING_ENTRIES _Pragma("whitelisted_resource_15276") 15276
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15276
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/webui/dom_distiller_ui.cc:48:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             IDS_DOM_DISTILLER_WEBUI_REFRESH);
+[0;1;32m                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:176:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_WEBUI_REFRESH'[0m
+#define IDS_DOM_DISTILLER_WEBUI_REFRESH _Pragma("whitelisted_resource_15275") 15275
+[0;1;32m                                        ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15275
+[0;1;32m ^
+[0m11 warnings generated.

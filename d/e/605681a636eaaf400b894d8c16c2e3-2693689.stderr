@@ -1,0 +1,10 @@
+[1m../../extensions/common/manifest_handlers/options_page_info.cc:218:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *error = l10n_util::GetStringFUTF8(IDS_EXTENSION_LOAD_OPTIONS_PAGE_FAILED,
+[0;1;32m                                       ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:18:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOAD_OPTIONS_PAGE_FAILED'[0m
+#define IDS_EXTENSION_LOAD_OPTIONS_PAGE_FAILED _Pragma("whitelisted_resource_24633") 24633
+[0;1;32m                                               ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24633
+[0;1;32m ^
+[0m1 warning generated.

@@ -1,0 +1,55 @@
+[1m../../extensions/common/file_util.cc:243:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *error = l10n_util::GetStringUTF8(IDS_EXTENSION_MANIFEST_UNREADABLE);
+[0;1;32m                                      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:20:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_MANIFEST_UNREADABLE'[0m
+#define IDS_EXTENSION_MANIFEST_UNREADABLE _Pragma("whitelisted_resource_24635") 24635
+[0;1;32m                                          ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24635
+[0;1;32m ^
+[0m[1m../../extensions/common/file_util.cc:255:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *error = l10n_util::GetStringUTF8(IDS_EXTENSION_MANIFEST_UNREADABLE);
+[0;1;32m                                        ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:20:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_MANIFEST_UNREADABLE'[0m
+#define IDS_EXTENSION_MANIFEST_UNREADABLE _Pragma("whitelisted_resource_24635") 24635
+[0;1;32m                                          ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24635
+[0;1;32m ^
+[0m[1m../../extensions/common/file_util.cc:264:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *error = l10n_util::GetStringUTF8(IDS_EXTENSION_MANIFEST_INVALID);
+[0;1;32m                                      ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:21:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_MANIFEST_INVALID'[0m
+#define IDS_EXTENSION_MANIFEST_INVALID _Pragma("whitelisted_resource_24636") 24636
+[0;1;32m                                       ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24636
+[0;1;32m ^
+[0m[1m../../extensions/common/file_util.cc:300:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF8(IDS_EXTENSION_CONTAINS_PRIVATE_KEY,
+[0;1;32m                                    ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:7:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONTAINS_PRIVATE_KEY'[0m
+#define IDS_EXTENSION_CONTAINS_PRIVATE_KEY _Pragma("whitelisted_resource_24622") 24622
+[0;1;32m                                           ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24622
+[0;1;32m ^
+[0m[1m../../extensions/common/file_util.cc:307:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF8(IDS_EXTENSION_CONTAINS_PRIVATE_KEY,
+[0;1;32m                                    ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:7:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_CONTAINS_PRIVATE_KEY'[0m
+#define IDS_EXTENSION_CONTAINS_PRIVATE_KEY _Pragma("whitelisted_resource_24622") 24622
+[0;1;32m                                           ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24622
+[0;1;32m ^
+[0m[1m../../extensions/common/file_util.cc:499:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_EXTENSION_LOCALES_NO_DEFAULT_LOCALE_SPECIFIED);
+[0;1;32m        ^
+[0m[1mgen/extensions/strings/grit/extensions_strings.h:19:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXTENSION_LOCALES_NO_DEFAULT_LOCALE_SPECIFIED'[0m
+#define IDS_EXTENSION_LOCALES_NO_DEFAULT_LOCALE_SPECIFIED _Pragma("whitelisted_resource_24634") 24634
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24634
+[0;1;32m ^
+[0m6 warnings generated.

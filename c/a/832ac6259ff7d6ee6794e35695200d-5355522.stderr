@@ -1,0 +1,109 @@
+[1m../../components/dom_distiller/core/viewer.cc:96:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOM_DISTILLER_VIEWER_NO_DATA_CONTENT);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:182:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_VIEWER_NO_DATA_CONTENT'[0m
+#define IDS_DOM_DISTILLER_VIEWER_NO_DATA_CONTENT _Pragma("whitelisted_resource_15281") 15281
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:5:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15281
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:106:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDR_DOM_DISTILLER_VIEWER_HTML);
+[0;1;32m          ^
+[0m[1mgen/components/grit/components_resources.h:12:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOM_DISTILLER_VIEWER_HTML'[0m
+#define IDR_DOM_DISTILLER_VIEWER_HTML _Pragma("whitelisted_resource_17017") 17017
+[0;1;32m                                      ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17017
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:122:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_DOM_DISTILLER_VIEWER_LOADING_TITLE));  // $1
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:181:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_VIEWER_LOADING_TITLE'[0m
+#define IDS_DOM_DISTILLER_VIEWER_LOADING_TITLE _Pragma("whitelisted_resource_15280") 15280
+[0;1;32m                                               ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15280
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:129:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_DOM_DISTILLER_VIEWER_LOADING_TITLE));  // $4
+[0;1;32m                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:181:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_VIEWER_LOADING_TITLE'[0m
+#define IDS_DOM_DISTILLER_VIEWER_LOADING_TITLE _Pragma("whitelisted_resource_15280") 15280
+[0;1;32m                                               ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15280
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:132:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DOM_DISTILLER_JAVASCRIPT_DISABLED_CONTENT));                // $5
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:170:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_JAVASCRIPT_DISABLED_CONTENT'[0m
+#define IDS_DOM_DISTILLER_JAVASCRIPT_DISABLED_CONTENT _Pragma("whitelisted_resource_15269") 15269
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15269
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:139:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DOM_DISTILLER_VIEWER_CLOSE_READER_VIEW));                   // $8
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:178:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_VIEWER_CLOSE_READER_VIEW'[0m
+#define IDS_DOM_DISTILLER_VIEWER_CLOSE_READER_VIEW _Pragma("whitelisted_resource_15277") 15277
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15277
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:163:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_DOM_DISTILLER_VIEWER_FAILED_TO_FIND_ARTICLE_TITLE));
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:179:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_VIEWER_FAILED_TO_FIND_ARTICLE_TITLE'[0m
+#define IDS_DOM_DISTILLER_VIEWER_FAILED_TO_FIND_ARTICLE_TITLE _Pragma("whitelisted_resource_15278") 15278
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15278
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:167:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_DOM_DISTILLER_VIEWER_FAILED_TO_FIND_ARTICLE_CONTENT));
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:180:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOM_DISTILLER_VIEWER_FAILED_TO_FIND_ARTICLE_CONTENT'[0m
+#define IDS_DOM_DISTILLER_VIEWER_FAILED_TO_FIND_ARTICLE_CONTENT _Pragma("whitelisted_resource_15279") 15279
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15279
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:223:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      .GetRawDataResource(IDR_DISTILLER_CSS)
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:15:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISTILLER_CSS'[0m
+#define IDR_DISTILLER_CSS _Pragma("whitelisted_resource_17020") 17020
+[0;1;32m                          ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17020
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:229:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      .GetRawDataResource(IDR_DISTILLER_LOADING_IMAGE)
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:17:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISTILLER_LOADING_IMAGE'[0m
+#define IDR_DISTILLER_LOADING_IMAGE _Pragma("whitelisted_resource_17022") 17022
+[0;1;32m                                    ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17022
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:235:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      .GetRawDataResource(IDR_DISTILLER_IOS_CSS)
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:16:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DISTILLER_IOS_CSS'[0m
+#define IDR_DISTILLER_IOS_CSS _Pragma("whitelisted_resource_17021") 17021
+[0;1;32m                              ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17021
+[0;1;32m ^
+[0m[1m../../components/dom_distiller/core/viewer.cc:241:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      .GetRawDataResource(IDR_DOM_DISTILLER_VIEWER_JS)
+[0;1;32m                          ^
+[0m[1mgen/components/grit/components_resources.h:13:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DOM_DISTILLER_VIEWER_JS'[0m
+#define IDR_DOM_DISTILLER_VIEWER_JS _Pragma("whitelisted_resource_17018") 17018
+[0;1;32m                                    ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17018
+[0;1;32m ^
+[0m12 warnings generated.

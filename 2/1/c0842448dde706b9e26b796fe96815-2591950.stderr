@@ -1,0 +1,316 @@
+[1m../../components/ssl_errors/error_info.cc:42:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_CERT_ERROR_NO_SUBJECT_ALTERNATIVE_NAMES_DETAILS,
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:889:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NO_SUBJECT_ALTERNATIVE_NAMES_DETAILS'[0m
+#define IDS_CERT_ERROR_NO_SUBJECT_ALTERNATIVE_NAMES_DETAILS _Pragma("whitelisted_resource_16022") 16022
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16022
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:59:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_CERT_ERROR_COMMON_NAME_INVALID_DETAILS,
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:890:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_COMMON_NAME_INVALID_DETAILS'[0m
+#define IDS_CERT_ERROR_COMMON_NAME_INVALID_DETAILS _Pragma("whitelisted_resource_16023") 16023
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16023
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:65:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_COMMON_NAME_INVALID_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:891:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_COMMON_NAME_INVALID_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_COMMON_NAME_INVALID_DESCRIPTION _Pragma("whitelisted_resource_16024") 16024
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16024
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:75:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_CERT_ERROR_EXPIRED_DETAILS),
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:892:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_EXPIRED_DETAILS'[0m
+#define IDS_CERT_ERROR_EXPIRED_DETAILS _Pragma("whitelisted_resource_16025") 16025
+[0;1;32m                                       ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16025
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:78:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_CERT_ERROR_EXPIRED_DESCRIPTION);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:893:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_EXPIRED_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_EXPIRED_DESCRIPTION _Pragma("whitelisted_resource_16026") 16026
+[0;1;32m                                           ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16026
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:81:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_CERT_ERROR_NOT_YET_VALID_DETAILS),
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:894:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NOT_YET_VALID_DETAILS'[0m
+#define IDS_CERT_ERROR_NOT_YET_VALID_DETAILS _Pragma("whitelisted_resource_16027") 16027
+[0;1;32m                                             ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16027
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:85:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_CERT_ERROR_NOT_YET_VALID_DESCRIPTION);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:895:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NOT_YET_VALID_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_NOT_YET_VALID_DESCRIPTION _Pragma("whitelisted_resource_16028") 16028
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16028
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:92:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_CERT_ERROR_NOT_VALID_AT_THIS_TIME_DETAILS,
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:896:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NOT_VALID_AT_THIS_TIME_DETAILS'[0m
+#define IDS_CERT_ERROR_NOT_VALID_AT_THIS_TIME_DETAILS _Pragma("whitelisted_resource_16029") 16029
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16029
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:95:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_CERT_ERROR_NOT_VALID_AT_THIS_TIME_DESCRIPTION);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:897:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NOT_VALID_AT_THIS_TIME_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_NOT_VALID_AT_THIS_TIME_DESCRIPTION _Pragma("whitelisted_resource_16030") 16030
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16030
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:101:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_CERT_ERROR_AUTHORITY_INVALID_DETAILS,
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:923:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_AUTHORITY_INVALID_DETAILS'[0m
+#define IDS_CERT_ERROR_AUTHORITY_INVALID_DETAILS _Pragma("whitelisted_resource_16056") 16056
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16056
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:104:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_AUTHORITY_INVALID_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:898:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_AUTHORITY_INVALID_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_AUTHORITY_INVALID_DESCRIPTION _Pragma("whitelisted_resource_16031") 16031
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16031
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:108:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_CERT_ERROR_CONTAINS_ERRORS_DETAILS,
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:899:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_CONTAINS_ERRORS_DETAILS'[0m
+#define IDS_CERT_ERROR_CONTAINS_ERRORS_DETAILS _Pragma("whitelisted_resource_16032") 16032
+[0;1;32m                                               ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16032
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:111:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CERT_ERROR_CONTAINS_ERRORS_DESCRIPTION);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:900:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_CONTAINS_ERRORS_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_CONTAINS_ERRORS_DESCRIPTION _Pragma("whitelisted_resource_16033") 16033
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16033
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:115:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_NO_REVOCATION_MECHANISM_DETAILS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:903:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NO_REVOCATION_MECHANISM_DETAILS'[0m
+#define IDS_CERT_ERROR_NO_REVOCATION_MECHANISM_DETAILS _Pragma("whitelisted_resource_16036") 16036
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16036
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:117:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_NO_REVOCATION_MECHANISM_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:904:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NO_REVOCATION_MECHANISM_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_NO_REVOCATION_MECHANISM_DESCRIPTION _Pragma("whitelisted_resource_16037") 16037
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16037
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:120:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      details = l10n_util::GetStringFUTF16(IDS_CERT_ERROR_REVOKED_CERT_DETAILS,
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:905:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_REVOKED_CERT_DETAILS'[0m
+#define IDS_CERT_ERROR_REVOKED_CERT_DETAILS _Pragma("whitelisted_resource_16038") 16038
+[0;1;32m                                            ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16038
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:123:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CERT_ERROR_REVOKED_CERT_DESCRIPTION);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:906:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_REVOKED_CERT_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_REVOKED_CERT_DESCRIPTION _Pragma("whitelisted_resource_16039") 16039
+[0;1;32m                                                ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16039
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:126:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      details = l10n_util::GetStringFUTF16(IDS_CERT_ERROR_INVALID_CERT_DETAILS,
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:907:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_INVALID_CERT_DETAILS'[0m
+#define IDS_CERT_ERROR_INVALID_CERT_DETAILS _Pragma("whitelisted_resource_16040") 16040
+[0;1;32m                                            ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16040
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:129:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CERT_ERROR_INVALID_CERT_DESCRIPTION);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:908:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_INVALID_CERT_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_INVALID_CERT_DESCRIPTION _Pragma("whitelisted_resource_16041") 16041
+[0;1;32m                                                ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16041
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:133:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_WEAK_SIGNATURE_ALGORITHM_DETAILS,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:909:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_WEAK_SIGNATURE_ALGORITHM_DETAILS'[0m
+#define IDS_CERT_ERROR_WEAK_SIGNATURE_ALGORITHM_DETAILS _Pragma("whitelisted_resource_16042") 16042
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16042
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:136:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_WEAK_SIGNATURE_ALGORITHM_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:910:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_WEAK_SIGNATURE_ALGORITHM_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_WEAK_SIGNATURE_ALGORITHM_DESCRIPTION _Pragma("whitelisted_resource_16043") 16043
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16043
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:139:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      details = l10n_util::GetStringFUTF16(IDS_CERT_ERROR_WEAK_KEY_DETAILS,
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:911:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_WEAK_KEY_DETAILS'[0m
+#define IDS_CERT_ERROR_WEAK_KEY_DETAILS _Pragma("whitelisted_resource_16044") 16044
+[0;1;32m                                        ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16044
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:142:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CERT_ERROR_WEAK_KEY_DESCRIPTION);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:912:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_WEAK_KEY_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_WEAK_KEY_DESCRIPTION _Pragma("whitelisted_resource_16045") 16045
+[0;1;32m                                            ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16045
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:146:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_NAME_CONSTRAINT_VIOLATION_DETAILS,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:913:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NAME_CONSTRAINT_VIOLATION_DETAILS'[0m
+#define IDS_CERT_ERROR_NAME_CONSTRAINT_VIOLATION_DETAILS _Pragma("whitelisted_resource_16046") 16046
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16046
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:149:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_NAME_CONSTRAINT_VIOLATION_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:914:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_NAME_CONSTRAINT_VIOLATION_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_NAME_CONSTRAINT_VIOLATION_DESCRIPTION _Pragma("whitelisted_resource_16047") 16047
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16047
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:153:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_CERT_ERROR_VALIDITY_TOO_LONG_DETAILS,
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:915:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_VALIDITY_TOO_LONG_DETAILS'[0m
+#define IDS_CERT_ERROR_VALIDITY_TOO_LONG_DETAILS _Pragma("whitelisted_resource_16048") 16048
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16048
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:156:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_VALIDITY_TOO_LONG_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:916:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_VALIDITY_TOO_LONG_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_VALIDITY_TOO_LONG_DESCRIPTION _Pragma("whitelisted_resource_16049") 16049
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16049
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:160:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DETAILS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:919:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DETAILS'[0m
+#define IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DETAILS _Pragma("whitelisted_resource_16052") 16052
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16052
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:162:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:920:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_SUMMARY_PINNING_FAILURE_DESCRIPTION _Pragma("whitelisted_resource_16053") 16053
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16053
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:166:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_UNABLE_TO_CHECK_REVOCATION_DETAILS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:901:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_UNABLE_TO_CHECK_REVOCATION_DETAILS'[0m
+#define IDS_CERT_ERROR_UNABLE_TO_CHECK_REVOCATION_DETAILS _Pragma("whitelisted_resource_16034") 16034
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16034
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:168:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_UNABLE_TO_CHECK_REVOCATION_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:902:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_UNABLE_TO_CHECK_REVOCATION_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_UNABLE_TO_CHECK_REVOCATION_DESCRIPTION _Pragma("whitelisted_resource_16035") 16035
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16035
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:172:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_CERTIFICATE_TRANSPARENCY_REQUIRED_DETAILS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:921:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_CERTIFICATE_TRANSPARENCY_REQUIRED_DETAILS'[0m
+#define IDS_CERT_ERROR_CERTIFICATE_TRANSPARENCY_REQUIRED_DETAILS _Pragma("whitelisted_resource_16054") 16054
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16054
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:174:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CERT_ERROR_CERTIFICATE_TRANSPARENCY_REQUIRED_DESCRIPTION);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:922:70: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_CERTIFICATE_TRANSPARENCY_REQUIRED_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_CERTIFICATE_TRANSPARENCY_REQUIRED_DESCRIPTION _Pragma("whitelisted_resource_16055") 16055
+[0;1;32m                                                                     ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16055
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:177:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      details = l10n_util::GetStringUTF16(IDS_CERT_ERROR_UNKNOWN_ERROR_DETAILS);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:917:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_UNKNOWN_ERROR_DETAILS'[0m
+#define IDS_CERT_ERROR_UNKNOWN_ERROR_DETAILS _Pragma("whitelisted_resource_16050") 16050
+[0;1;32m                                             ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16050
+[0;1;32m ^
+[0m[1m../../components/ssl_errors/error_info.cc:179:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_CERT_ERROR_UNKNOWN_ERROR_DESCRIPTION);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:918:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CERT_ERROR_UNKNOWN_ERROR_DESCRIPTION'[0m
+#define IDS_CERT_ERROR_UNKNOWN_ERROR_DESCRIPTION _Pragma("whitelisted_resource_16051") 16051
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16051
+[0;1;32m ^
+[0m35 warnings generated.

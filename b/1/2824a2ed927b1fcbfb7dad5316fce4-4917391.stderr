@@ -1,0 +1,46 @@
+[1m../../ui/views/controls/views_text_services_context_menu_base.cc:24:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    menu->InsertItemWithStringIdAt(0, IDS_CONTENT_CONTEXT_EMOJI,
+[0;1;32m                                      ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EMOJI'[0m
+#define IDS_CONTENT_CONTEXT_EMOJI _Pragma("whitelisted_resource_27336") 27336
+[0;1;32m                                  ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27336
+[0;1;32m ^
+[0m[1m../../ui/views/controls/views_text_services_context_menu_base.cc:25:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                   IDS_CONTENT_CONTEXT_EMOJI);
+[0;1;32m                                   ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EMOJI'[0m
+#define IDS_CONTENT_CONTEXT_EMOJI _Pragma("whitelisted_resource_27336") 27336
+[0;1;32m                                  ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27336
+[0;1;32m ^
+[0m[1m../../ui/views/controls/views_text_services_context_menu_base.cc:32:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return command_id == IDS_CONTENT_CONTEXT_EMOJI;
+[0;1;32m                       ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EMOJI'[0m
+#define IDS_CONTENT_CONTEXT_EMOJI _Pragma("whitelisted_resource_27336") 27336
+[0;1;32m                                  ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27336
+[0;1;32m ^
+[0m[1m../../ui/views/controls/views_text_services_context_menu_base.cc:42:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (command_id == IDS_CONTENT_CONTEXT_EMOJI)
+[0;1;32m                    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EMOJI'[0m
+#define IDS_CONTENT_CONTEXT_EMOJI _Pragma("whitelisted_resource_27336") 27336
+[0;1;32m                                  ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27336
+[0;1;32m ^
+[0m[1m../../ui/views/controls/views_text_services_context_menu_base.cc:49:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (command_id == IDS_CONTENT_CONTEXT_EMOJI)
+[0;1;32m                    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EMOJI'[0m
+#define IDS_CONTENT_CONTEXT_EMOJI _Pragma("whitelisted_resource_27336") 27336
+[0;1;32m                                  ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27336
+[0;1;32m ^
+[0m5 warnings generated.

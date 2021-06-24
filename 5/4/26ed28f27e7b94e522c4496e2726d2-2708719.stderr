@@ -1,0 +1,73 @@
+[1m../../components/security_interstitials/core/mitm_software_ui.cc:56:55: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            l10n_util::GetStringUTF16(IDS_SSL_V2_TITLE));
+[0;1;32m                                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:791:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SSL_V2_TITLE'[0m
+#define IDS_SSL_V2_TITLE _Pragma("whitelisted_resource_15922") 15922
+[0;1;32m                         ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15922
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:58:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      "heading", l10n_util::GetStringUTF16(IDS_MITM_SOFTWARE_HEADING));
+[0;1;32m                                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:779:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_HEADING'[0m
+#define IDS_MITM_SOFTWARE_HEADING _Pragma("whitelisted_resource_15910") 15910
+[0;1;32m                                  ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15910
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:112:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MITM_SOFTWARE_PRIMARY_PARAGRAPH_ENTERPRISE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:780:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_PRIMARY_PARAGRAPH_ENTERPRISE'[0m
+#define IDS_MITM_SOFTWARE_PRIMARY_PARAGRAPH_ENTERPRISE _Pragma("whitelisted_resource_15911") 15911
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15911
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:117:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MITM_SOFTWARE_EXPLANATION_ENTERPRISE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:782:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_EXPLANATION_ENTERPRISE'[0m
+#define IDS_MITM_SOFTWARE_EXPLANATION_ENTERPRISE _Pragma("whitelisted_resource_15913") 15913
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15913
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:119:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_MITM_SOFTWARE_EXPLANATION)));
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:784:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_EXPLANATION'[0m
+#define IDS_MITM_SOFTWARE_EXPLANATION _Pragma("whitelisted_resource_15915") 15915
+[0;1;32m                                      ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15915
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:127:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MITM_SOFTWARE_PRIMARY_PARAGRAPH_NONENTERPRISE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:781:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_PRIMARY_PARAGRAPH_NONENTERPRISE'[0m
+#define IDS_MITM_SOFTWARE_PRIMARY_PARAGRAPH_NONENTERPRISE _Pragma("whitelisted_resource_15912") 15912
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15912
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:132:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MITM_SOFTWARE_EXPLANATION_NONENTERPRISE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:783:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_EXPLANATION_NONENTERPRISE'[0m
+#define IDS_MITM_SOFTWARE_EXPLANATION_NONENTERPRISE _Pragma("whitelisted_resource_15914") 15914
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15914
+[0;1;32m ^
+[0m[1m../../components/security_interstitials/core/mitm_software_ui.cc:134:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_MITM_SOFTWARE_EXPLANATION)));
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:784:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MITM_SOFTWARE_EXPLANATION'[0m
+#define IDS_MITM_SOFTWARE_EXPLANATION _Pragma("whitelisted_resource_15915") 15915
+[0;1;32m                                      ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15915
+[0;1;32m ^
+[0m8 warnings generated.

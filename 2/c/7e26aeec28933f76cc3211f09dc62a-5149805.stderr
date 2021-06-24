@@ -1,0 +1,970 @@
+[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kBodyButtonImages[] = IMAGE_GRID(IDR_COMBOBOX_BUTTON);
+[0;1;32m                                ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:40:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:81:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_TOP_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_TOP_LEFT _Pragma("whitelisted_resource_27526") 27526
+[0;1;32m                                     ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27526
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:43:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:78:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_TOP _Pragma("whitelisted_resource_27523") 27523
+[0;1;32m                                ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27523
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:46:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:84:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_TOP_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_TOP_RIGHT _Pragma("whitelisted_resource_27529") 27529
+[0;1;32m                                      ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27529
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:49:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:63:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_LEFT _Pragma("whitelisted_resource_27508") 27508
+[0;1;32m                                 ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27508
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:52:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:60:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_CENTER _Pragma("whitelisted_resource_27505") 27505
+[0;1;32m                                   ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27505
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:55:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:66:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_RIGHT _Pragma("whitelisted_resource_27511") 27511
+[0;1;32m                                  ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27511
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:58:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:54:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_BOTTOM_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_BOTTOM_LEFT _Pragma("whitelisted_resource_27499") 27499
+[0;1;32m                                        ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27499
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:61:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:51:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_BOTTOM _Pragma("whitelisted_resource_27496") 27496
+[0;1;32m                                   ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27496
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:73:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:64:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:57:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_BOTTOM_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_BOTTOM_RIGHT _Pragma("whitelisted_resource_27502") 27502
+[0;1;32m                                         ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27502
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kHoveredBodyButtonImages[] = IMAGE_GRID(IDR_COMBOBOX_BUTTON_H);
+[0;1;32m                                       ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:67:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:82:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_TOP_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_H_TOP_LEFT _Pragma("whitelisted_resource_27527") 27527
+[0;1;32m                                       ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27527
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:70:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:79:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_H_TOP _Pragma("whitelisted_resource_27524") 27524
+[0;1;32m                                  ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27524
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:73:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:85:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_TOP_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_H_TOP_RIGHT _Pragma("whitelisted_resource_27530") 27530
+[0;1;32m                                        ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27530
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:76:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:64:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_H_LEFT _Pragma("whitelisted_resource_27509") 27509
+[0;1;32m                                   ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27509
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:79:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:61:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_H_CENTER _Pragma("whitelisted_resource_27506") 27506
+[0;1;32m                                     ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27506
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:82:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:67:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_H_RIGHT _Pragma("whitelisted_resource_27512") 27512
+[0;1;32m                                    ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27512
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:85:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:55:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_BOTTOM_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_H_BOTTOM_LEFT _Pragma("whitelisted_resource_27500") 27500
+[0;1;32m                                          ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27500
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:88:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:52:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_H_BOTTOM _Pragma("whitelisted_resource_27497") 27497
+[0;1;32m                                     ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27497
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:74:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:91:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:58:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_BOTTOM_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_H_BOTTOM_RIGHT _Pragma("whitelisted_resource_27503") 27503
+[0;1;32m                                           ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27503
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kPressedBodyButtonImages[] = IMAGE_GRID(IDR_COMBOBOX_BUTTON_P);
+[0;1;32m                                       ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:94:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_TOP_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_P_TOP_LEFT _Pragma("whitelisted_resource_27528") 27528
+[0;1;32m                                       ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27528
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:97:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_P_TOP _Pragma("whitelisted_resource_27525") 27525
+[0;1;32m                                  ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27525
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:100:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:86:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_TOP_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_P_TOP_RIGHT _Pragma("whitelisted_resource_27531") 27531
+[0;1;32m                                        ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27531
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:103:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:65:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_P_LEFT _Pragma("whitelisted_resource_27510") 27510
+[0;1;32m                                   ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27510
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:106:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:62:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_P_CENTER _Pragma("whitelisted_resource_27507") 27507
+[0;1;32m                                     ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27507
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:109:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:68:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_P_RIGHT _Pragma("whitelisted_resource_27513") 27513
+[0;1;32m                                    ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27513
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:112:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:56:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_BOTTOM_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_P_BOTTOM_LEFT _Pragma("whitelisted_resource_27501") 27501
+[0;1;32m                                          ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27501
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:115:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:53:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_P_BOTTOM _Pragma("whitelisted_resource_27498") 27498
+[0;1;32m                                     ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27498
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:75:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:118:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:59:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_BOTTOM_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_P_BOTTOM_RIGHT _Pragma("whitelisted_resource_27504") 27504
+[0;1;32m                                           ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27504
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kFocusedBodyButtonImages[] = IMAGE_GRID(IDR_COMBOBOX_BUTTON_F);
+[0;1;32m                                       ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:121:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:117:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_TOP_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_TOP_LEFT _Pragma("whitelisted_resource_27562") 27562
+[0;1;32m                                       ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27562
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:124:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:114:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_F_TOP _Pragma("whitelisted_resource_27559") 27559
+[0;1;32m                                  ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27559
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:127:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:120:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_TOP_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_TOP_RIGHT _Pragma("whitelisted_resource_27565") 27565
+[0;1;32m                                        ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27565
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:130:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:99:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_LEFT _Pragma("whitelisted_resource_27544") 27544
+[0;1;32m                                   ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27544
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:133:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:96:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_F_CENTER _Pragma("whitelisted_resource_27541") 27541
+[0;1;32m                                     ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27541
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:136:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:102:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_RIGHT _Pragma("whitelisted_resource_27547") 27547
+[0;1;32m                                    ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27547
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:139:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:90:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_BOTTOM_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_BOTTOM_LEFT _Pragma("whitelisted_resource_27535") 27535
+[0;1;32m                                          ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27535
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:142:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:87:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_F_BOTTOM _Pragma("whitelisted_resource_27532") 27532
+[0;1;32m                                     ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27532
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:76:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:145:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:93:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_BOTTOM_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_BOTTOM_RIGHT _Pragma("whitelisted_resource_27538") 27538
+[0;1;32m                                           ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27538
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IMAGE_GRID(IDR_COMBOBOX_BUTTON_F_H);
+[0;1;32m    ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:148:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:118:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_TOP_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_TOP_LEFT _Pragma("whitelisted_resource_27563") 27563
+[0;1;32m                                         ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27563
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:151:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:115:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_TOP _Pragma("whitelisted_resource_27560") 27560
+[0;1;32m                                    ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27560
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:154:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:121:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_TOP_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_TOP_RIGHT _Pragma("whitelisted_resource_27566") 27566
+[0;1;32m                                          ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27566
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:157:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:100:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_LEFT _Pragma("whitelisted_resource_27545") 27545
+[0;1;32m                                     ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27545
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:160:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:97:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_CENTER _Pragma("whitelisted_resource_27542") 27542
+[0;1;32m                                       ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27542
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:163:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:103:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_RIGHT _Pragma("whitelisted_resource_27548") 27548
+[0;1;32m                                      ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27548
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:166:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:91:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_BOTTOM_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_BOTTOM_LEFT _Pragma("whitelisted_resource_27536") 27536
+[0;1;32m                                            ^
+[0m[1m<scratch space>:167:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27536
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:169:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:88:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_BOTTOM _Pragma("whitelisted_resource_27533") 27533
+[0;1;32m                                       ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27533
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:78:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:2:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:94:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_BOTTOM_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_BOTTOM_RIGHT _Pragma("whitelisted_resource_27539") 27539
+[0;1;32m                                             ^
+[0m[1m<scratch space>:3:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27539
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    IMAGE_GRID(IDR_COMBOBOX_BUTTON_F_P);
+[0;1;32m    ^
+[0m[1m../../ui/base/nine_image_painter_factory.h:13:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:5:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_TOP_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:119:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_TOP_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_TOP_LEFT _Pragma("whitelisted_resource_27564") 27564
+[0;1;32m                                         ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27564
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:8:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:116:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_TOP _Pragma("whitelisted_resource_27561") 27561
+[0;1;32m                                    ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27561
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:13:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+#define IMAGE_GRID(x) { x ## _TOP_LEFT,    x ## _TOP,    x ## _TOP_RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:11:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_TOP_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:122:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_TOP_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_TOP_RIGHT _Pragma("whitelisted_resource_27567") 27567
+[0;1;32m                                          ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27567
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                        ^
+[0m[1m<scratch space>:14:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:101:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_LEFT _Pragma("whitelisted_resource_27546") 27546
+[0;1;32m                                     ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27546
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                           ^
+[0m[1m<scratch space>:17:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:98:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_CENTER _Pragma("whitelisted_resource_27543") 27543
+[0;1;32m                                       ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27543
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:14:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _LEFT,        x ## _CENTER, x ## _RIGHT, \
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:20:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:104:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_RIGHT _Pragma("whitelisted_resource_27549") 27549
+[0;1;32m                                      ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27549
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:25: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                        ^
+[0m[1m<scratch space>:23:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_BOTTOM_LEFT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:92:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_BOTTOM_LEFT'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_BOTTOM_LEFT _Pragma("whitelisted_resource_27537") 27537
+[0;1;32m                                            ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27537
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                           ^
+[0m[1m<scratch space>:26:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:89:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_BOTTOM _Pragma("whitelisted_resource_27534") 27534
+[0;1;32m                                       ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27534
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:80:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/base/nine_image_painter_factory.h:15:58: [0m[0;1;30mnote: [0mexpanded from macro 'IMAGE_GRID'[0m
+                        x ## _BOTTOM_LEFT, x ## _BOTTOM, x ## _BOTTOM_RIGHT, }
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:29:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_BOTTOM_RIGHT
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:95:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_BOTTOM_RIGHT'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_BOTTOM_RIGHT _Pragma("whitelisted_resource_27540") 27540
+[0;1;32m                                             ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27540
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:85:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kMenuButtonImages[] = MENU_IMAGE_GRID(IDR_COMBOBOX_BUTTON);
+[0;1;32m                                ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:83:5: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m    ^
+[0m[1m<scratch space>:32:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_MENU_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:75:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_MENU_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_MENU_TOP _Pragma("whitelisted_resource_27520") 27520
+[0;1;32m                                     ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27520
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:85:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:21: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                    ^
+[0m[1m<scratch space>:35:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_MENU_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:72:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_MENU_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_MENU_CENTER _Pragma("whitelisted_resource_27517") 27517
+[0;1;32m                                        ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27517
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:85:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                                       ^
+[0m[1m<scratch space>:38:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_MENU_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:69:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_MENU_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_MENU_BOTTOM _Pragma("whitelisted_resource_27514") 27514
+[0;1;32m                                        ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27514
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:86:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kHoveredMenuButtonImages[] = MENU_IMAGE_GRID(IDR_COMBOBOX_BUTTON_H);
+[0;1;32m                                       ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:83:5: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m    ^
+[0m[1m<scratch space>:41:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_MENU_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:76:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_MENU_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_H_MENU_TOP _Pragma("whitelisted_resource_27521") 27521
+[0;1;32m                                       ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27521
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:86:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:21: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                    ^
+[0m[1m<scratch space>:44:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_MENU_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:73:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_MENU_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_H_MENU_CENTER _Pragma("whitelisted_resource_27518") 27518
+[0;1;32m                                          ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27518
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:86:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                                       ^
+[0m[1m<scratch space>:47:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_H_MENU_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:70:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_H_MENU_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_H_MENU_BOTTOM _Pragma("whitelisted_resource_27515") 27515
+[0;1;32m                                          ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27515
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:87:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kPressedMenuButtonImages[] = MENU_IMAGE_GRID(IDR_COMBOBOX_BUTTON_P);
+[0;1;32m                                       ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:83:5: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m    ^
+[0m[1m<scratch space>:50:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_MENU_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:77:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_MENU_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_P_MENU_TOP _Pragma("whitelisted_resource_27522") 27522
+[0;1;32m                                       ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27522
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:87:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:21: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                    ^
+[0m[1m<scratch space>:53:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_MENU_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:74:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_MENU_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_P_MENU_CENTER _Pragma("whitelisted_resource_27519") 27519
+[0;1;32m                                          ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27519
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:87:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                                       ^
+[0m[1m<scratch space>:56:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_P_MENU_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:71:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_P_MENU_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_P_MENU_BOTTOM _Pragma("whitelisted_resource_27516") 27516
+[0;1;32m                                          ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27516
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:88:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+const int kFocusedMenuButtonImages[] = MENU_IMAGE_GRID(IDR_COMBOBOX_BUTTON_F);
+[0;1;32m                                       ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:83:5: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m    ^
+[0m[1m<scratch space>:59:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_MENU_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:111:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_MENU_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_F_MENU_TOP _Pragma("whitelisted_resource_27556") 27556
+[0;1;32m                                       ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27556
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:88:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:21: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                    ^
+[0m[1m<scratch space>:62:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_MENU_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:108:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_MENU_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_F_MENU_CENTER _Pragma("whitelisted_resource_27553") 27553
+[0;1;32m                                          ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27553
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:88:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                                       ^
+[0m[1m<scratch space>:65:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_MENU_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:105:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_MENU_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_F_MENU_BOTTOM _Pragma("whitelisted_resource_27550") 27550
+[0;1;32m                                          ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27550
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:90:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    MENU_IMAGE_GRID(IDR_COMBOBOX_BUTTON_F_H);
+[0;1;32m    ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:83:5: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m    ^
+[0m[1m<scratch space>:68:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_MENU_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:112:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_MENU_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_MENU_TOP _Pragma("whitelisted_resource_27557") 27557
+[0;1;32m                                         ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27557
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:90:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:21: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                    ^
+[0m[1m<scratch space>:71:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_MENU_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:109:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_MENU_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_MENU_CENTER _Pragma("whitelisted_resource_27554") 27554
+[0;1;32m                                            ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27554
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:90:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                                       ^
+[0m[1m<scratch space>:74:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_H_MENU_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:106:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_H_MENU_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_F_H_MENU_BOTTOM _Pragma("whitelisted_resource_27551") 27551
+[0;1;32m                                            ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27551
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:92:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    MENU_IMAGE_GRID(IDR_COMBOBOX_BUTTON_F_P);
+[0;1;32m    ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:83:5: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m    ^
+[0m[1m<scratch space>:77:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_MENU_TOP
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:113:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_MENU_TOP'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_MENU_TOP _Pragma("whitelisted_resource_27558") 27558
+[0;1;32m                                         ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27558
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:92:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:21: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                    ^
+[0m[1m<scratch space>:80:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_MENU_CENTER
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:110:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_MENU_CENTER'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_MENU_CENTER _Pragma("whitelisted_resource_27555") 27555
+[0;1;32m                                            ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27555
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:92:5: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+[1m../../ui/views/controls/combobox/combobox.cc:83:40: [0m[0;1;30mnote: [0mexpanded from macro 'MENU_IMAGE_GRID'[0m
+    x ## _MENU_TOP, x ## _MENU_CENTER, x ## _MENU_BOTTOM, }
+[0;1;32m                                       ^
+[0m[1m<scratch space>:83:1: [0m[0;1;30mnote: [0mexpanded from here[0m
+IDR_COMBOBOX_BUTTON_F_P_MENU_BOTTOM
+[0;1;32m^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:107:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COMBOBOX_BUTTON_F_P_MENU_BOTTOM'[0m
+#define IDR_COMBOBOX_BUTTON_F_P_MENU_BOTTOM _Pragma("whitelisted_resource_27552") 27552
+[0;1;32m                                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27552
+[0;1;32m ^
+[0m[1m../../ui/views/controls/combobox/combobox.cc:463:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDR_MENU_DROPARROW);
+[0;1;32m        ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:38:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MENU_DROPARROW'[0m
+#define IDR_MENU_DROPARROW _Pragma("whitelisted_resource_26997") 26997
+[0;1;32m                           ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26997
+[0;1;32m ^
+[0m73 warnings generated.

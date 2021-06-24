@@ -1,0 +1,154 @@
+[1m../../components/autofill/core/browser/validation.cc:130:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PAYMENTS_VALIDATION_UNSUPPORTED_CREDIT_CARD_TYPE);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:562:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_UNSUPPORTED_CREDIT_CARD_TYPE'[0m
+#define IDS_PAYMENTS_VALIDATION_UNSUPPORTED_CREDIT_CARD_TYPE _Pragma("whitelisted_resource_15688") 15688
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15688
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:138:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENTS_CARD_NUMBER_INVALID_VALIDATION_MESSAGE);
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:566:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_NUMBER_INVALID_VALIDATION_MESSAGE'[0m
+#define IDS_PAYMENTS_CARD_NUMBER_INVALID_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15692") 15692
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15692
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:176:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_NAME_ON_CARD_REQUIRED);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:570:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_NAME_ON_CARD_REQUIRED'[0m
+#define IDS_PAYMENTS_NAME_ON_CARD_REQUIRED _Pragma("whitelisted_resource_15696") 15696
+[0;1;32m                                           ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15696
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:179:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_CARD_NUMBER_INVALID_VALIDATION_MESSAGE);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:566:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_NUMBER_INVALID_VALIDATION_MESSAGE'[0m
+#define IDS_PAYMENTS_CARD_NUMBER_INVALID_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15692") 15692
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15692
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:182:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_CARD_BILLING_ADDRESS_REQUIRED);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:571:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_BILLING_ADDRESS_REQUIRED'[0m
+#define IDS_PAYMENTS_CARD_BILLING_ADDRESS_REQUIRED _Pragma("whitelisted_resource_15697") 15697
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15697
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:185:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_MORE_INFORMATION_REQUIRED);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:572:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_MORE_INFORMATION_REQUIRED'[0m
+#define IDS_PAYMENTS_MORE_INFORMATION_REQUIRED _Pragma("whitelisted_resource_15698") 15698
+[0;1;32m                                               ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15698
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:193:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_EDIT_CARD);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:505:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_EDIT_CARD'[0m
+#define IDS_PAYMENTS_EDIT_CARD _Pragma("whitelisted_resource_15613") 15613
+[0;1;32m                               ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15613
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:195:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_NAME_ON_CARD);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:502:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_NAME_ON_CARD'[0m
+#define IDS_PAYMENTS_ADD_NAME_ON_CARD _Pragma("whitelisted_resource_15610") 15610
+[0;1;32m                                      ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15610
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:197:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_VALID_CARD_NUMBER);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:503:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_VALID_CARD_NUMBER'[0m
+#define IDS_PAYMENTS_ADD_VALID_CARD_NUMBER _Pragma("whitelisted_resource_15611") 15611
+[0;1;32m                                           ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15611
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:199:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_BILLING_ADDRESS);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:501:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_BILLING_ADDRESS'[0m
+#define IDS_PAYMENTS_ADD_BILLING_ADDRESS _Pragma("whitelisted_resource_15609") 15609
+[0;1;32m                                         ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15609
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:202:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_ADD_MORE_INFORMATION);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:504:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ADD_MORE_INFORMATION'[0m
+#define IDS_PAYMENTS_ADD_MORE_INFORMATION _Pragma("whitelisted_resource_15612") 15612
+[0;1;32m                                          ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15612
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:299:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_PAYMENTS_VALIDATION_INVALID_NAME);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:558:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_NAME'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_NAME _Pragma("whitelisted_resource_15684") 15684
+[0;1;32m                                             ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15684
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:310:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRATION_MONTH);
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:560:70: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRATION_MONTH'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRATION_MONTH _Pragma("whitelisted_resource_15686") 15686
+[0;1;32m                                                                     ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15686
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:327:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRATION_YEAR);
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:559:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRATION_YEAR'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRATION_YEAR _Pragma("whitelisted_resource_15685") 15685
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15685
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:340:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:561:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED _Pragma("whitelisted_resource_15687") 15687
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15687
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:360:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_PAYMENTS_CARD_EXPIRATION_INVALID_VALIDATION_MESSAGE);
+[0;1;32m              ^
+[0m[1mgen/components/strings/grit/components_strings.h:567:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CARD_EXPIRATION_INVALID_VALIDATION_MESSAGE'[0m
+#define IDS_PAYMENTS_CARD_EXPIRATION_INVALID_VALIDATION_MESSAGE _Pragma("whitelisted_resource_15693") 15693
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15693
+[0;1;32m ^
+[0m[1m../../components/autofill/core/browser/validation.cc:374:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:561:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED'[0m
+#define IDS_PAYMENTS_VALIDATION_INVALID_CREDIT_CARD_EXPIRED _Pragma("whitelisted_resource_15687") 15687
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15687
+[0;1;32m ^
+[0m17 warnings generated.

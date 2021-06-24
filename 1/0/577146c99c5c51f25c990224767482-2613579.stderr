@@ -1,0 +1,64 @@
+[1m../../components/policy/core/browser/configuration_policy_handler.cc:72:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    errors->AddError(policy_name_, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:287:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/configuration_policy_handler.cc:122:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        errors->AddError(policy_name(), list_index, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:289:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/configuration_policy_handler.cc:131:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_POLICY_VALUE_FORMAT_ERROR);
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:667:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALUE_FORMAT_ERROR'[0m
+#define IDS_POLICY_VALUE_FORMAT_ERROR _Pragma("whitelisted_resource_15793") 15793
+[0;1;32m                                      ^
+[0m[1m<scratch space>:291:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15793
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/configuration_policy_handler.cc:185:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_OUT_OF_RANGE_ERROR,
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:293:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/configuration_policy_handler.cc:256:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_POLICY_TYPE_ERROR,
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:295:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/configuration_policy_handler.cc:270:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_POLICY_OUT_OF_RANGE_ERROR);
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:297:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/configuration_policy_handler.cc:459:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      errors->AddError(policy_name(), IDS_POLICY_LEVEL_ERROR);
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:687:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_LEVEL_ERROR'[0m
+#define IDS_POLICY_LEVEL_ERROR _Pragma("whitelisted_resource_15817") 15817
+[0;1;32m                               ^
+[0m[1m<scratch space>:303:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15817
+[0;1;32m ^
+[0m7 warnings generated.

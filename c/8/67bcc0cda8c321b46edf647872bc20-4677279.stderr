@@ -1,0 +1,19 @@
+[1m../../components/sync/driver/about_sync_util.cc:212:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF8(IDS_SYNC_TIME_NEVER);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:115:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_TIME_NEVER'[0m
+#define IDS_SYNC_TIME_NEVER _Pragma("whitelisted_resource_15214") 15214
+[0;1;32m                            ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15214
+[0;1;32m ^
+[0m[1m../../components/sync/driver/about_sync_util.cc:217:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF8(IDS_SYNC_TIME_JUST_NOW);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:116:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_TIME_JUST_NOW'[0m
+#define IDS_SYNC_TIME_JUST_NOW _Pragma("whitelisted_resource_15215") 15215
+[0;1;32m                               ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15215
+[0;1;32m ^
+[0m2 warnings generated.

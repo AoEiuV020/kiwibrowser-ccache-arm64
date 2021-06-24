@@ -1,0 +1,226 @@
+[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:83:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"area", IDS_LIBADDRESSINPUT_AREA},
+[0;1;32m           ^
+[0m[1mgen/third_party/libaddressinput/messages.h:16:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_AREA'[0m
+#define IDS_LIBADDRESSINPUT_AREA _Pragma("whitelisted_resource_25811") 25811
+[0;1;32m                                 ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25811
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:84:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"county", IDS_LIBADDRESSINPUT_COUNTY},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:17:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_COUNTY'[0m
+#define IDS_LIBADDRESSINPUT_COUNTY _Pragma("whitelisted_resource_25812") 25812
+[0;1;32m                                   ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25812
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:85:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"department", IDS_LIBADDRESSINPUT_DEPARTMENT},
+[0;1;32m                 ^
+[0m[1mgen/third_party/libaddressinput/messages.h:18:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_DEPARTMENT'[0m
+#define IDS_LIBADDRESSINPUT_DEPARTMENT _Pragma("whitelisted_resource_25813") 25813
+[0;1;32m                                       ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25813
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:86:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"district", IDS_LIBADDRESSINPUT_DISTRICT},
+[0;1;32m               ^
+[0m[1mgen/third_party/libaddressinput/messages.h:19:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_DISTRICT'[0m
+#define IDS_LIBADDRESSINPUT_DISTRICT _Pragma("whitelisted_resource_25814") 25814
+[0;1;32m                                     ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25814
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:87:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"do_si", IDS_LIBADDRESSINPUT_DO_SI},
+[0;1;32m            ^
+[0m[1mgen/third_party/libaddressinput/messages.h:20:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_DO_SI'[0m
+#define IDS_LIBADDRESSINPUT_DO_SI _Pragma("whitelisted_resource_25815") 25815
+[0;1;32m                                  ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25815
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:88:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"emirate", IDS_LIBADDRESSINPUT_EMIRATE},
+[0;1;32m              ^
+[0m[1mgen/third_party/libaddressinput/messages.h:21:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_EMIRATE'[0m
+#define IDS_LIBADDRESSINPUT_EMIRATE _Pragma("whitelisted_resource_25816") 25816
+[0;1;32m                                    ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25816
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:89:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"island", IDS_LIBADDRESSINPUT_ISLAND},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:22:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_ISLAND'[0m
+#define IDS_LIBADDRESSINPUT_ISLAND _Pragma("whitelisted_resource_25817") 25817
+[0;1;32m                                   ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25817
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:90:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"oblast", IDS_LIBADDRESSINPUT_OBLAST},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:23:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_OBLAST'[0m
+#define IDS_LIBADDRESSINPUT_OBLAST _Pragma("whitelisted_resource_25818") 25818
+[0;1;32m                                   ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25818
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:91:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"parish", IDS_LIBADDRESSINPUT_PARISH},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:24:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_PARISH'[0m
+#define IDS_LIBADDRESSINPUT_PARISH _Pragma("whitelisted_resource_25819") 25819
+[0;1;32m                                   ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25819
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:92:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"prefecture", IDS_LIBADDRESSINPUT_PREFECTURE},
+[0;1;32m                 ^
+[0m[1mgen/third_party/libaddressinput/messages.h:25:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_PREFECTURE'[0m
+#define IDS_LIBADDRESSINPUT_PREFECTURE _Pragma("whitelisted_resource_25820") 25820
+[0;1;32m                                       ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25820
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:93:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"province", IDS_LIBADDRESSINPUT_PROVINCE},
+[0;1;32m               ^
+[0m[1mgen/third_party/libaddressinput/messages.h:26:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_PROVINCE'[0m
+#define IDS_LIBADDRESSINPUT_PROVINCE _Pragma("whitelisted_resource_25821") 25821
+[0;1;32m                                     ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25821
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:94:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"state", IDS_LIBADDRESSINPUT_STATE},
+[0;1;32m            ^
+[0m[1mgen/third_party/libaddressinput/messages.h:27:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_STATE'[0m
+#define IDS_LIBADDRESSINPUT_STATE _Pragma("whitelisted_resource_25822") 25822
+[0;1;32m                                  ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25822
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:103:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"eircode", IDS_LIBADDRESSINPUT_EIR_CODE_LABEL},
+[0;1;32m              ^
+[0m[1mgen/third_party/libaddressinput/messages.h:12:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_EIR_CODE_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_EIR_CODE_LABEL _Pragma("whitelisted_resource_25807") 25807
+[0;1;32m                                           ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25807
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:104:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"pin", IDS_LIBADDRESSINPUT_PIN_CODE_LABEL},
+[0;1;32m          ^
+[0m[1mgen/third_party/libaddressinput/messages.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_PIN_CODE_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_PIN_CODE_LABEL _Pragma("whitelisted_resource_25808") 25808
+[0;1;32m                                           ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25808
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:105:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"postal", IDS_LIBADDRESSINPUT_POSTAL_CODE_LABEL},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:14:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_POSTAL_CODE_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_POSTAL_CODE_LABEL _Pragma("whitelisted_resource_25809") 25809
+[0;1;32m                                              ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25809
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:106:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"zip", IDS_LIBADDRESSINPUT_ZIP_CODE_LABEL},
+[0;1;32m          ^
+[0m[1mgen/third_party/libaddressinput/messages.h:15:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_ZIP_CODE_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_ZIP_CODE_LABEL _Pragma("whitelisted_resource_25810") 25810
+[0;1;32m                                           ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25810
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:115:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"city", IDS_LIBADDRESSINPUT_LOCALITY_LABEL},
+[0;1;32m           ^
+[0m[1mgen/third_party/libaddressinput/messages.h:6:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_LOCALITY_LABEL'[0m
+#define IDS_LIBADDRESSINPUT_LOCALITY_LABEL _Pragma("whitelisted_resource_25801") 25801
+[0;1;32m                                           ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25801
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:116:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"district", IDS_LIBADDRESSINPUT_DISTRICT},
+[0;1;32m               ^
+[0m[1mgen/third_party/libaddressinput/messages.h:19:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_DISTRICT'[0m
+#define IDS_LIBADDRESSINPUT_DISTRICT _Pragma("whitelisted_resource_25814") 25814
+[0;1;32m                                     ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25814
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:117:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"post_town", IDS_LIBADDRESSINPUT_POST_TOWN},
+[0;1;32m                ^
+[0m[1mgen/third_party/libaddressinput/messages.h:7:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_POST_TOWN'[0m
+#define IDS_LIBADDRESSINPUT_POST_TOWN _Pragma("whitelisted_resource_25802") 25802
+[0;1;32m                                      ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25802
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:118:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"suburb", IDS_LIBADDRESSINPUT_SUBURB},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:8:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_SUBURB'[0m
+#define IDS_LIBADDRESSINPUT_SUBURB _Pragma("whitelisted_resource_25803") 25803
+[0;1;32m                                   ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25803
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:127:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"district", IDS_LIBADDRESSINPUT_DISTRICT},
+[0;1;32m               ^
+[0m[1mgen/third_party/libaddressinput/messages.h:19:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_DISTRICT'[0m
+#define IDS_LIBADDRESSINPUT_DISTRICT _Pragma("whitelisted_resource_25814") 25814
+[0;1;32m                                     ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25814
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:128:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"neighborhood", IDS_LIBADDRESSINPUT_NEIGHBORHOOD},
+[0;1;32m                   ^
+[0m[1mgen/third_party/libaddressinput/messages.h:30:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_NEIGHBORHOOD'[0m
+#define IDS_LIBADDRESSINPUT_NEIGHBORHOOD _Pragma("whitelisted_resource_25825") 25825
+[0;1;32m                                         ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25825
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:129:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"suburb", IDS_LIBADDRESSINPUT_SUBURB},
+[0;1;32m             ^
+[0m[1mgen/third_party/libaddressinput/messages.h:8:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_SUBURB'[0m
+#define IDS_LIBADDRESSINPUT_SUBURB _Pragma("whitelisted_resource_25803") 25803
+[0;1;32m                                   ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25803
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:130:16: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"townland", IDS_LIBADDRESSINPUT_TOWNLAND},
+[0;1;32m               ^
+[0m[1mgen/third_party/libaddressinput/messages.h:9:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_TOWNLAND'[0m
+#define IDS_LIBADDRESSINPUT_TOWNLAND _Pragma("whitelisted_resource_25804") 25804
+[0;1;32m                                     ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25804
+[0;1;32m ^
+[0m[1m../../third_party/libaddressinput/src/cpp/src/rule.cc:131:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  {"village_township", IDS_LIBADDRESSINPUT_VILLAGE_TOWNSHIP},
+[0;1;32m                       ^
+[0m[1mgen/third_party/libaddressinput/messages.h:10:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LIBADDRESSINPUT_VILLAGE_TOWNSHIP'[0m
+#define IDS_LIBADDRESSINPUT_VILLAGE_TOWNSHIP _Pragma("whitelisted_resource_25805") 25805
+[0;1;32m                                             ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25805
+[0;1;32m ^
+[0m25 warnings generated.

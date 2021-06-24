@@ -1,0 +1,208 @@
+[1m../../components/payments/core/strings_util.cc:80:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_SELECT_DELIVERY_ADDRESS_FOR_DELIVERY_METHODS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:585:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_SELECT_DELIVERY_ADDRESS_FOR_DELIVERY_METHODS'[0m
+#define IDS_PAYMENTS_SELECT_DELIVERY_ADDRESS_FOR_DELIVERY_METHODS _Pragma("whitelisted_resource_15711") 15711
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15711
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:83:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_SELECT_PICKUP_ADDRESS_FOR_PICKUP_METHODS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:588:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_SELECT_PICKUP_ADDRESS_FOR_PICKUP_METHODS'[0m
+#define IDS_PAYMENTS_SELECT_PICKUP_ADDRESS_FOR_PICKUP_METHODS _Pragma("whitelisted_resource_15714") 15714
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15714
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:86:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PAYMENTS_SELECT_SHIPPING_ADDRESS_FOR_SHIPPING_METHODS);
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:582:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_SELECT_SHIPPING_ADDRESS_FOR_SHIPPING_METHODS'[0m
+#define IDS_PAYMENTS_SELECT_SHIPPING_ADDRESS_FOR_SHIPPING_METHODS _Pragma("whitelisted_resource_15708") 15708
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15708
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:97:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_DELIVERY_ADDRESS_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:518:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_DELIVERY_ADDRESS_LABEL'[0m
+#define IDS_PAYMENTS_DELIVERY_ADDRESS_LABEL _Pragma("whitelisted_resource_15626") 15626
+[0;1;32m                                            ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15626
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:99:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_PICKUP_ADDRESS_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:521:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PICKUP_ADDRESS_LABEL'[0m
+#define IDS_PAYMENTS_PICKUP_ADDRESS_LABEL _Pragma("whitelisted_resource_15629") 15629
+[0;1;32m                                          ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15629
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:101:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_SHIPPING_ADDRESS_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:515:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_SHIPPING_ADDRESS_LABEL'[0m
+#define IDS_PAYMENTS_SHIPPING_ADDRESS_LABEL _Pragma("whitelisted_resource_15623") 15623
+[0;1;32m                                            ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15623
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:164:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_DELIVERY_OPTION_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:519:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_DELIVERY_OPTION_LABEL'[0m
+#define IDS_PAYMENTS_DELIVERY_OPTION_LABEL _Pragma("whitelisted_resource_15627") 15627
+[0;1;32m                                           ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15627
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:166:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_PICKUP_OPTION_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:522:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PICKUP_OPTION_LABEL'[0m
+#define IDS_PAYMENTS_PICKUP_OPTION_LABEL _Pragma("whitelisted_resource_15630") 15630
+[0;1;32m                                         ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15630
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:168:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PAYMENTS_SHIPPING_OPTION_LABEL);
+[0;1;32m                                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:516:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_SHIPPING_OPTION_LABEL'[0m
+#define IDS_PAYMENTS_SHIPPING_OPTION_LABEL _Pragma("whitelisted_resource_15624") 15624
+[0;1;32m                                           ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15624
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:179:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kNone] = IDS_PAYMENTS_ACCEPTED_CARDS_LABEL;
+[0;1;32m                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:534:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_CARDS_LABEL _Pragma("whitelisted_resource_15642") 15642
+[0;1;32m                                          ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15642
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:180:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kCredit | kDebit | kPrepaid] = IDS_PAYMENTS_ACCEPTED_CARDS_LABEL;
+[0;1;32m                                            ^
+[0m[1mgen/components/strings/grit/components_strings.h:534:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_CARDS_LABEL _Pragma("whitelisted_resource_15642") 15642
+[0;1;32m                                          ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15642
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:182:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kCredit] = IDS_PAYMENTS_ACCEPTED_CREDIT_CARDS_LABEL;
+[0;1;32m                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:535:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_CREDIT_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_CREDIT_CARDS_LABEL _Pragma("whitelisted_resource_15643") 15643
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15643
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:183:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kDebit] = IDS_PAYMENTS_ACCEPTED_DEBIT_CARDS_LABEL;
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:536:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_DEBIT_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_DEBIT_CARDS_LABEL _Pragma("whitelisted_resource_15644") 15644
+[0;1;32m                                                ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15644
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:184:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kPrepaid] = IDS_PAYMENTS_ACCEPTED_PREPAID_CARDS_LABEL;
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:537:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_PREPAID_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_PREPAID_CARDS_LABEL _Pragma("whitelisted_resource_15645") 15645
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15645
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:186:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kCredit | kDebit] = IDS_PAYMENTS_ACCEPTED_CREDIT_DEBIT_CARDS_LABEL;
+[0;1;32m                                 ^
+[0m[1mgen/components/strings/grit/components_strings.h:538:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_CREDIT_DEBIT_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_CREDIT_DEBIT_CARDS_LABEL _Pragma("whitelisted_resource_15646") 15646
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15646
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:188:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENTS_ACCEPTED_CREDIT_PREPAID_CARDS_LABEL;
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:539:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_CREDIT_PREPAID_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_CREDIT_PREPAID_CARDS_LABEL _Pragma("whitelisted_resource_15647") 15647
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15647
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:190:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENTS_ACCEPTED_DEBIT_PREPAID_CARDS_LABEL;
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:540:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_ACCEPTED_DEBIT_PREPAID_CARDS_LABEL'[0m
+#define IDS_PAYMENTS_ACCEPTED_DEBIT_PREPAID_CARDS_LABEL _Pragma("whitelisted_resource_15648") 15648
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15648
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:202:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kCredit] = IDS_PAYMENTS_CREDIT_CARDS_ARE_ACCEPTED_LABEL;
+[0;1;32m                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:546:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CREDIT_CARDS_ARE_ACCEPTED_LABEL'[0m
+#define IDS_PAYMENTS_CREDIT_CARDS_ARE_ACCEPTED_LABEL _Pragma("whitelisted_resource_15654") 15654
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15654
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:203:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kDebit] = IDS_PAYMENTS_DEBIT_CARDS_ARE_ACCEPTED_LABEL;
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:547:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_DEBIT_CARDS_ARE_ACCEPTED_LABEL'[0m
+#define IDS_PAYMENTS_DEBIT_CARDS_ARE_ACCEPTED_LABEL _Pragma("whitelisted_resource_15655") 15655
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15655
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:204:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  string_ids[kPrepaid] = IDS_PAYMENTS_PREPAID_CARDS_ARE_ACCEPTED_LABEL;
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:548:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_PREPAID_CARDS_ARE_ACCEPTED_LABEL'[0m
+#define IDS_PAYMENTS_PREPAID_CARDS_ARE_ACCEPTED_LABEL _Pragma("whitelisted_resource_15656") 15656
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15656
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:207:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENTS_CREDIT_DEBIT_CARDS_ARE_ACCEPTED_LABEL;
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:549:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CREDIT_DEBIT_CARDS_ARE_ACCEPTED_LABEL'[0m
+#define IDS_PAYMENTS_CREDIT_DEBIT_CARDS_ARE_ACCEPTED_LABEL _Pragma("whitelisted_resource_15657") 15657
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15657
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:209:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENTS_CREDIT_PREPAID_CARDS_ARE_ACCEPTED_LABEL;
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:550:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_CREDIT_PREPAID_CARDS_ARE_ACCEPTED_LABEL'[0m
+#define IDS_PAYMENTS_CREDIT_PREPAID_CARDS_ARE_ACCEPTED_LABEL _Pragma("whitelisted_resource_15658") 15658
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15658
+[0;1;32m ^
+[0m[1m../../components/payments/core/strings_util.cc:211:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PAYMENTS_DEBIT_PREPAID_CARDS_ARE_ACCEPTED_LABEL;
+[0;1;32m      ^
+[0m[1mgen/components/strings/grit/components_strings.h:551:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PAYMENTS_DEBIT_PREPAID_CARDS_ARE_ACCEPTED_LABEL'[0m
+#define IDS_PAYMENTS_DEBIT_PREPAID_CARDS_ARE_ACCEPTED_LABEL _Pragma("whitelisted_resource_15659") 15659
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15659
+[0;1;32m ^
+[0m23 warnings generated.

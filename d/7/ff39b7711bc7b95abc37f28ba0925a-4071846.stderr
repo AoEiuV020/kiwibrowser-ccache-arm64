@@ -1,0 +1,370 @@
+[1m../../components/policy/core/browser/cloud/message_util.cc:18:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SUCCESS;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:622:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SUCCESS'[0m
+#define IDS_POLICY_DM_STATUS_SUCCESS _Pragma("whitelisted_resource_15748") 15748
+[0;1;32m                                     ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15748
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:20:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_REQUEST_INVALID;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:623:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_REQUEST_INVALID'[0m
+#define IDS_POLICY_DM_STATUS_REQUEST_INVALID _Pragma("whitelisted_resource_15749") 15749
+[0;1;32m                                             ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15749
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:22:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_REQUEST_FAILED;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:624:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_REQUEST_FAILED'[0m
+#define IDS_POLICY_DM_STATUS_REQUEST_FAILED _Pragma("whitelisted_resource_15750") 15750
+[0;1;32m                                            ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15750
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:24:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_TEMPORARY_UNAVAILABLE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:625:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_TEMPORARY_UNAVAILABLE'[0m
+#define IDS_POLICY_DM_STATUS_TEMPORARY_UNAVAILABLE _Pragma("whitelisted_resource_15751") 15751
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15751
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:26:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_HTTP_STATUS_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:626:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_HTTP_STATUS_ERROR'[0m
+#define IDS_POLICY_DM_STATUS_HTTP_STATUS_ERROR _Pragma("whitelisted_resource_15752") 15752
+[0;1;32m                                               ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15752
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:28:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_RESPONSE_DECODING_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:627:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_RESPONSE_DECODING_ERROR'[0m
+#define IDS_POLICY_DM_STATUS_RESPONSE_DECODING_ERROR _Pragma("whitelisted_resource_15753") 15753
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15753
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:30:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_MANAGEMENT_NOT_SUPPORTED;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:628:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_MANAGEMENT_NOT_SUPPORTED'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_MANAGEMENT_NOT_SUPPORTED _Pragma("whitelisted_resource_15754") 15754
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15754
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:32:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_DEVICE_NOT_FOUND;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:629:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_DEVICE_NOT_FOUND'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_DEVICE_NOT_FOUND _Pragma("whitelisted_resource_15755") 15755
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15755
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:34:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_MANAGEMENT_TOKEN_INVALID;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:630:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_MANAGEMENT_TOKEN_INVALID'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_MANAGEMENT_TOKEN_INVALID _Pragma("whitelisted_resource_15756") 15756
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15756
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:36:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_ACTIVATION_PENDING;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:631:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_ACTIVATION_PENDING'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_ACTIVATION_PENDING _Pragma("whitelisted_resource_15757") 15757
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15757
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:38:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_INVALID_SERIAL_NUMBER;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:632:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_INVALID_SERIAL_NUMBER'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_INVALID_SERIAL_NUMBER _Pragma("whitelisted_resource_15758") 15758
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15758
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:40:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_DEVICE_ID_CONFLICT;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:633:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_DEVICE_ID_CONFLICT'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_DEVICE_ID_CONFLICT _Pragma("whitelisted_resource_15759") 15759
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15759
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:42:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_MISSING_LICENSES;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:634:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_MISSING_LICENSES'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_MISSING_LICENSES _Pragma("whitelisted_resource_15760") 15760
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15760
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:44:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_DEPROVISIONED;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:635:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_DEPROVISIONED'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_DEPROVISIONED _Pragma("whitelisted_resource_15761") 15761
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15761
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:46:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_DOMAIN_MISMATCH;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:638:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_DOMAIN_MISMATCH'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_DOMAIN_MISMATCH _Pragma("whitelisted_resource_15764") 15764
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15764
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:48:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_SERVICE_POLICY_NOT_FOUND;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:636:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_SERVICE_POLICY_NOT_FOUND'[0m
+#define IDS_POLICY_DM_STATUS_SERVICE_POLICY_NOT_FOUND _Pragma("whitelisted_resource_15762") 15762
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15762
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:50:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_CANNOT_SIGN_REQUEST;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:639:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_CANNOT_SIGN_REQUEST'[0m
+#define IDS_POLICY_DM_STATUS_CANNOT_SIGN_REQUEST _Pragma("whitelisted_resource_15765") 15765
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15765
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:53:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_DM_STATUS_UNKNOWN_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:637:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_UNKNOWN_ERROR'[0m
+#define IDS_POLICY_DM_STATUS_UNKNOWN_ERROR _Pragma("whitelisted_resource_15763") 15763
+[0;1;32m                                           ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15763
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:56:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDS_POLICY_DM_STATUS_UNKNOWN_ERROR;
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:637:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DM_STATUS_UNKNOWN_ERROR'[0m
+#define IDS_POLICY_DM_STATUS_UNKNOWN_ERROR _Pragma("whitelisted_resource_15763") 15763
+[0;1;32m                                           ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15763
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:62:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_OK;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:640:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_OK'[0m
+#define IDS_POLICY_VALIDATION_OK _Pragma("whitelisted_resource_15766") 15766
+[0;1;32m                                 ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15766
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:64:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_INITIAL_SIGNATURE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:641:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_INITIAL_SIGNATURE'[0m
+#define IDS_POLICY_VALIDATION_BAD_INITIAL_SIGNATURE _Pragma("whitelisted_resource_15767") 15767
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15767
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:66:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_SIGNATURE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:642:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_SIGNATURE'[0m
+#define IDS_POLICY_VALIDATION_BAD_SIGNATURE _Pragma("whitelisted_resource_15768") 15768
+[0;1;32m                                            ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15768
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:68:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_ERROR_CODE_PRESENT;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:643:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_ERROR_CODE_PRESENT'[0m
+#define IDS_POLICY_VALIDATION_ERROR_CODE_PRESENT _Pragma("whitelisted_resource_15769") 15769
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15769
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:70:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_PAYLOAD_PARSE_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:644:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_PAYLOAD_PARSE_ERROR'[0m
+#define IDS_POLICY_VALIDATION_PAYLOAD_PARSE_ERROR _Pragma("whitelisted_resource_15770") 15770
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15770
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:72:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_WRONG_POLICY_TYPE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:645:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_WRONG_POLICY_TYPE'[0m
+#define IDS_POLICY_VALIDATION_WRONG_POLICY_TYPE _Pragma("whitelisted_resource_15771") 15771
+[0;1;32m                                                ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15771
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:74:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_WRONG_SETTINGS_ENTITY_ID;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:646:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_WRONG_SETTINGS_ENTITY_ID'[0m
+#define IDS_POLICY_VALIDATION_WRONG_SETTINGS_ENTITY_ID _Pragma("whitelisted_resource_15772") 15772
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15772
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:76:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_TIMESTAMP;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:647:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_TIMESTAMP'[0m
+#define IDS_POLICY_VALIDATION_BAD_TIMESTAMP _Pragma("whitelisted_resource_15773") 15773
+[0;1;32m                                            ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15773
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:78:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_DM_TOKEN;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:648:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_DM_TOKEN'[0m
+#define IDS_POLICY_VALIDATION_BAD_DM_TOKEN _Pragma("whitelisted_resource_15774") 15774
+[0;1;32m                                           ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15774
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:80:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_DEVICE_ID;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:649:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_DEVICE_ID'[0m
+#define IDS_POLICY_VALIDATION_BAD_DEVICE_ID _Pragma("whitelisted_resource_15775") 15775
+[0;1;32m                                            ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15775
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:82:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_USER;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:650:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_USER'[0m
+#define IDS_POLICY_VALIDATION_BAD_USER _Pragma("whitelisted_resource_15776") 15776
+[0;1;32m                                       ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15776
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:84:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_POLICY_PARSE_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:651:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_POLICY_PARSE_ERROR'[0m
+#define IDS_POLICY_VALIDATION_POLICY_PARSE_ERROR _Pragma("whitelisted_resource_15777") 15777
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15777
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:86:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_VALIDATION_BAD_KEY_VERIFICATION_SIGNATURE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:652:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_BAD_KEY_VERIFICATION_SIGNATURE'[0m
+#define IDS_POLICY_VALIDATION_BAD_KEY_VERIFICATION_SIGNATURE _Pragma("whitelisted_resource_15778") 15778
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15778
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:91:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDS_POLICY_VALIDATION_UNKNOWN_ERROR;
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:653:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALIDATION_UNKNOWN_ERROR'[0m
+#define IDS_POLICY_VALIDATION_UNKNOWN_ERROR _Pragma("whitelisted_resource_15779") 15779
+[0;1;32m                                            ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15779
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:97:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_STORE_STATUS_OK;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:654:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_OK'[0m
+#define IDS_POLICY_STORE_STATUS_OK _Pragma("whitelisted_resource_15780") 15780
+[0;1;32m                                   ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15780
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:99:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_STORE_STATUS_LOAD_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:655:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_LOAD_ERROR'[0m
+#define IDS_POLICY_STORE_STATUS_LOAD_ERROR _Pragma("whitelisted_resource_15781") 15781
+[0;1;32m                                           ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15781
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:101:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_STORE_STATUS_STORE_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:656:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_STORE_ERROR'[0m
+#define IDS_POLICY_STORE_STATUS_STORE_ERROR _Pragma("whitelisted_resource_15782") 15782
+[0;1;32m                                            ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15782
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:103:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_STORE_STATUS_PARSE_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:657:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_PARSE_ERROR'[0m
+#define IDS_POLICY_STORE_STATUS_PARSE_ERROR _Pragma("whitelisted_resource_15783") 15783
+[0;1;32m                                            ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15783
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:105:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_STORE_STATUS_SERIALIZE_ERROR;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:658:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_SERIALIZE_ERROR'[0m
+#define IDS_POLICY_STORE_STATUS_SERIALIZE_ERROR _Pragma("whitelisted_resource_15784") 15784
+[0;1;32m                                                ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15784
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:110:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_POLICY_STORE_STATUS_BAD_STATE;
+[0;1;32m             ^
+[0m[1mgen/components/strings/grit/components_strings.h:660:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_BAD_STATE'[0m
+#define IDS_POLICY_STORE_STATUS_BAD_STATE _Pragma("whitelisted_resource_15786") 15786
+[0;1;32m                                          ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15786
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:113:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDS_POLICY_STORE_STATUS_UNKNOWN_ERROR;
+[0;1;32m         ^
+[0m[1mgen/components/strings/grit/components_strings.h:661:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_UNKNOWN_ERROR'[0m
+#define IDS_POLICY_STORE_STATUS_UNKNOWN_ERROR _Pragma("whitelisted_resource_15787") 15787
+[0;1;32m                                              ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15787
+[0;1;32m ^
+[0m[1m../../components/policy/core/browser/cloud/message_util.cc:133:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_POLICY_STORE_STATUS_VALIDATION_ERROR,
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:659:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_STORE_STATUS_VALIDATION_ERROR'[0m
+#define IDS_POLICY_STORE_STATUS_VALIDATION_ERROR _Pragma("whitelisted_resource_15785") 15785
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15785
+[0;1;32m ^
+[0m41 warnings generated.

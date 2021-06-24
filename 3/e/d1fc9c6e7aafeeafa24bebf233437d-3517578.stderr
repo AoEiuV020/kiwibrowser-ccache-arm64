@@ -1,0 +1,10 @@
+[1m../../components/autofill/core/browser/field_filler.cc:394:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (value == l10n_util::GetStringUTF16(IDS_AUTOFILL_CC_AMEX)) {
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:23:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_CC_AMEX'[0m
+#define IDS_AUTOFILL_CC_AMEX _Pragma("whitelisted_resource_15118") 15118
+[0;1;32m                             ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15118
+[0;1;32m ^
+[0m1 warning generated.

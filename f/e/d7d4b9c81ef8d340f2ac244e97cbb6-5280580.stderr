@@ -1,0 +1,10 @@
+[1m../../components/dom_distiller/content/browser/distillable_page_utils.cc:42:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          .GetRawDataResource(IDR_EXTRACT_PAGE_FEATURES_JS)
+[0;1;32m                              ^
+[0m[1mgen/components/grit/components_resources.h:18:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTRACT_PAGE_FEATURES_JS'[0m
+#define IDR_EXTRACT_PAGE_FEATURES_JS _Pragma("whitelisted_resource_17023") 17023
+[0;1;32m                                     ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17023
+[0;1;32m ^
+[0m1 warning generated.

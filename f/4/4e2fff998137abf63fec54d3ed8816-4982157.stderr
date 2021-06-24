@@ -1,0 +1,316 @@
+[1m../../ui/views/window/custom_frame_view.cc:95:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  close_button_ = InitWindowCaptionButton(IDS_APP_ACCNAME_CLOSE,
+[0;1;32m                                          ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:58:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_CLOSE'[0m
+#define IDS_APP_ACCNAME_CLOSE _Pragma("whitelisted_resource_27314") 27314
+[0;1;32m                              ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27314
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:96:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_CLOSE, IDR_CLOSE_H, IDR_CLOSE_P);
+[0;1;32m      ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:48:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE'[0m
+#define IDR_CLOSE _Pragma("whitelisted_resource_27493") 27493
+[0;1;32m                  ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27493
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:96:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_CLOSE, IDR_CLOSE_H, IDR_CLOSE_P);
+[0;1;32m                 ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:49:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_H'[0m
+#define IDR_CLOSE_H _Pragma("whitelisted_resource_27494") 27494
+[0;1;32m                    ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27494
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:96:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_CLOSE, IDR_CLOSE_H, IDR_CLOSE_P);
+[0;1;32m                              ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:50:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_P'[0m
+#define IDR_CLOSE_P _Pragma("whitelisted_resource_27495") 27495
+[0;1;32m                    ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27495
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:97:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  minimize_button_ = InitWindowCaptionButton(IDS_APP_ACCNAME_MINIMIZE,
+[0;1;32m                                             ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:59:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_MINIMIZE'[0m
+#define IDS_APP_ACCNAME_MINIMIZE _Pragma("whitelisted_resource_27315") 27315
+[0;1;32m                                 ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27315
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:98:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MINIMIZE, IDR_MINIMIZE_H, IDR_MINIMIZE_P);
+[0;1;32m      ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:135:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MINIMIZE'[0m
+#define IDR_MINIMIZE _Pragma("whitelisted_resource_27580") 27580
+[0;1;32m                     ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27580
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:98:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MINIMIZE, IDR_MINIMIZE_H, IDR_MINIMIZE_P);
+[0;1;32m                    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:136:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MINIMIZE_H'[0m
+#define IDR_MINIMIZE_H _Pragma("whitelisted_resource_27581") 27581
+[0;1;32m                       ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27581
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:98:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MINIMIZE, IDR_MINIMIZE_H, IDR_MINIMIZE_P);
+[0;1;32m                                    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:137:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MINIMIZE_P'[0m
+#define IDR_MINIMIZE_P _Pragma("whitelisted_resource_27582") 27582
+[0;1;32m                       ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27582
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:99:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  maximize_button_ = InitWindowCaptionButton(IDS_APP_ACCNAME_MAXIMIZE,
+[0;1;32m                                             ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:60:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_MAXIMIZE'[0m
+#define IDS_APP_ACCNAME_MAXIMIZE _Pragma("whitelisted_resource_27316") 27316
+[0;1;32m                                 ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27316
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:100:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MAXIMIZE, IDR_MAXIMIZE_H, IDR_MAXIMIZE_P);
+[0;1;32m      ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:132:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MAXIMIZE'[0m
+#define IDR_MAXIMIZE _Pragma("whitelisted_resource_27577") 27577
+[0;1;32m                     ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27577
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:100:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MAXIMIZE, IDR_MAXIMIZE_H, IDR_MAXIMIZE_P);
+[0;1;32m                    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:133:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MAXIMIZE_H'[0m
+#define IDR_MAXIMIZE_H _Pragma("whitelisted_resource_27578") 27578
+[0;1;32m                       ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27578
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:100:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MAXIMIZE, IDR_MAXIMIZE_H, IDR_MAXIMIZE_P);
+[0;1;32m                                    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:134:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MAXIMIZE_P'[0m
+#define IDR_MAXIMIZE_P _Pragma("whitelisted_resource_27579") 27579
+[0;1;32m                       ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27579
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:101:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  restore_button_ = InitWindowCaptionButton(IDS_APP_ACCNAME_RESTORE,
+[0;1;32m                                            ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:61:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_ACCNAME_RESTORE'[0m
+#define IDS_APP_ACCNAME_RESTORE _Pragma("whitelisted_resource_27317") 27317
+[0;1;32m                                ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27317
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:102:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_RESTORE, IDR_RESTORE_H, IDR_RESTORE_P);
+[0;1;32m      ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:152:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RESTORE'[0m
+#define IDR_RESTORE _Pragma("whitelisted_resource_27597") 27597
+[0;1;32m                    ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27597
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:102:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_RESTORE, IDR_RESTORE_H, IDR_RESTORE_P);
+[0;1;32m                   ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:153:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RESTORE_H'[0m
+#define IDR_RESTORE_H _Pragma("whitelisted_resource_27598") 27598
+[0;1;32m                      ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27598
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:102:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_RESTORE, IDR_RESTORE_H, IDR_RESTORE_P);
+[0;1;32m                                  ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:154:23: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_RESTORE_P'[0m
+#define IDR_RESTORE_P _Pragma("whitelisted_resource_27599") 27599
+[0;1;32m                      ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27599
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:358:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_TOP_LEFT_CORNER).ToImageSkia(),
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:179:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_TOP_LEFT_CORNER'[0m
+#define IDR_WINDOW_TOP_LEFT_CORNER _Pragma("whitelisted_resource_27624") 27624
+[0;1;32m                                   ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27624
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:359:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_TOP_RIGHT_CORNER).ToImageSkia(),
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:180:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_TOP_RIGHT_CORNER'[0m
+#define IDR_WINDOW_TOP_RIGHT_CORNER _Pragma("whitelisted_resource_27625") 27625
+[0;1;32m                                    ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27625
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:360:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_BOTTOM_LEFT_CORNER).ToImageSkia(),
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:174:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BOTTOM_LEFT_CORNER'[0m
+#define IDR_WINDOW_BOTTOM_LEFT_CORNER _Pragma("whitelisted_resource_27619") 27619
+[0;1;32m                                      ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27619
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:361:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_BOTTOM_RIGHT_CORNER).ToImageSkia());
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:175:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BOTTOM_RIGHT_CORNER'[0m
+#define IDR_WINDOW_BOTTOM_RIGHT_CORNER _Pragma("whitelisted_resource_27620") 27620
+[0;1;32m                                       ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27620
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:363:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_LEFT_SIDE).ToImageSkia(),
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:176:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_LEFT_SIDE'[0m
+#define IDR_WINDOW_LEFT_SIDE _Pragma("whitelisted_resource_27621") 27621
+[0;1;32m                             ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27621
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:364:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_TOP_CENTER).ToImageSkia(),
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:178:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_TOP_CENTER'[0m
+#define IDR_WINDOW_TOP_CENTER _Pragma("whitelisted_resource_27623") 27623
+[0;1;32m                              ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27623
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:365:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_RIGHT_SIDE).ToImageSkia(),
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:177:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_RIGHT_SIDE'[0m
+#define IDR_WINDOW_RIGHT_SIDE _Pragma("whitelisted_resource_27622") 27622
+[0;1;32m                              ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27622
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:366:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageNamed(IDR_WINDOW_BOTTOM_CENTER).ToImageSkia());
+[0;1;32m                       ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:173:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_WINDOW_BOTTOM_CENTER'[0m
+#define IDR_WINDOW_BOTTOM_CENTER _Pragma("whitelisted_resource_27618") 27618
+[0;1;32m                                 ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27618
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:380:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_APP_TOP_CENTER).ToImageSkia();
+[0;1;32m      ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:5:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_TOP_CENTER'[0m
+#define IDR_APP_TOP_CENTER _Pragma("whitelisted_resource_27450") 27450
+[0;1;32m                           ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27450
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:410:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  const gfx::ImageSkia* top_left = rb.GetImageSkiaNamed(IDR_APP_TOP_LEFT);
+[0;1;32m                                                        ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:6:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_TOP_LEFT'[0m
+#define IDR_APP_TOP_LEFT _Pragma("whitelisted_resource_27451") 27451
+[0;1;32m                         ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27451
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:411:59: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  const gfx::ImageSkia* top_center = rb.GetImageSkiaNamed(IDR_APP_TOP_CENTER);
+[0;1;32m                                                          ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:5:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_TOP_CENTER'[0m
+#define IDR_APP_TOP_CENTER _Pragma("whitelisted_resource_27450") 27450
+[0;1;32m                           ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27450
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:412:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  const gfx::ImageSkia* top_right = rb.GetImageSkiaNamed(IDR_APP_TOP_RIGHT);
+[0;1;32m                                                         ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:7:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_APP_TOP_RIGHT'[0m
+#define IDR_APP_TOP_RIGHT _Pragma("whitelisted_resource_27452") 27452
+[0;1;32m                          ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27452
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:425:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  const gfx::ImageSkia* right = rb.GetImageSkiaNamed(IDR_CONTENT_RIGHT_SIDE);
+[0;1;32m                                                     ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:127:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTENT_RIGHT_SIDE'[0m
+#define IDR_CONTENT_RIGHT_SIDE _Pragma("whitelisted_resource_27572") 27572
+[0;1;32m                               ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27572
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:437:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageSkiaNamed(IDR_CONTENT_BOTTOM_LEFT_CORNER);
+[0;1;32m                           ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:124:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTENT_BOTTOM_LEFT_CORNER'[0m
+#define IDR_CONTENT_BOTTOM_LEFT_CORNER _Pragma("whitelisted_resource_27569") 27569
+[0;1;32m                                       ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27569
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:439:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageSkiaNamed(IDR_CONTENT_BOTTOM_CENTER);
+[0;1;32m                           ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:123:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTENT_BOTTOM_CENTER'[0m
+#define IDR_CONTENT_BOTTOM_CENTER _Pragma("whitelisted_resource_27568") 27568
+[0;1;32m                                  ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27568
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:441:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetImageSkiaNamed(IDR_CONTENT_BOTTOM_RIGHT_CORNER);
+[0;1;32m                           ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:125:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTENT_BOTTOM_RIGHT_CORNER'[0m
+#define IDR_CONTENT_BOTTOM_RIGHT_CORNER _Pragma("whitelisted_resource_27570") 27570
+[0;1;32m                                        ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27570
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:457:53: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  const gfx::ImageSkia* left = rb.GetImageSkiaNamed(IDR_CONTENT_LEFT_SIDE);
+[0;1;32m                                                    ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:126:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CONTENT_LEFT_SIDE'[0m
+#define IDR_CONTENT_LEFT_SIDE _Pragma("whitelisted_resource_27571") 27571
+[0;1;32m                              ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27571
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:471:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              .GetImageNamed(frame_->IsActive() ? IDR_FRAME
+[0;1;32m                                                  ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:130:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FRAME'[0m
+#define IDR_FRAME _Pragma("whitelisted_resource_27575") 27575
+[0;1;32m                  ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27575
+[0;1;32m ^
+[0m[1m../../ui/views/window/custom_frame_view.cc:472:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                : IDR_FRAME_INACTIVE)
+[0;1;32m                                                  ^
+[0m[1mgen/ui/views/resources/grit/views_resources.h:131:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_FRAME_INACTIVE'[0m
+#define IDR_FRAME_INACTIVE _Pragma("whitelisted_resource_27576") 27576
+[0;1;32m                           ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27576
+[0;1;32m ^
+[0m35 warnings generated.
