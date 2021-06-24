@@ -1,0 +1,55 @@
+[1m../../chrome/browser/usb/usb_chooser_controller.cc:59:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DEVICE_CHOOSER_DEVICE_NAME_UNKNOWN_DEVICE_WITH_VENDOR_ID_AND_PRODUCT_ID,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2810:85: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_DEVICE_NAME_UNKNOWN_DEVICE_WITH_VENDOR_ID_AND_PRODUCT_ID'[0m
+#define IDS_DEVICE_CHOOSER_DEVICE_NAME_UNKNOWN_DEVICE_WITH_VENDOR_ID_AND_PRODUCT_ID _Pragma("whitelisted_resource_6651") 6651
+[0;1;32m                                                                                    ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6651
+[0;1;32m ^
+[0m[1m../../chrome/browser/usb/usb_chooser_controller.cc:74:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_USB_DEVICE_CHOOSER_PROMPT_ORIGIN,
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2804:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USB_DEVICE_CHOOSER_PROMPT_ORIGIN'[0m
+#define IDS_USB_DEVICE_CHOOSER_PROMPT_ORIGIN _Pragma("whitelisted_resource_6645") 6645
+[0;1;32m                                             ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6645
+[0;1;32m ^
+[0m[1m../../chrome/browser/usb/usb_chooser_controller.cc:75:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        IDS_USB_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME),
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2805:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USB_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME'[0m
+#define IDS_USB_DEVICE_CHOOSER_PROMPT_EXTENSION_NAME _Pragma("whitelisted_resource_6646") 6646
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6646
+[0;1;32m ^
+[0m[1m../../chrome/browser/usb/usb_chooser_controller.cc:104:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2807:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT'[0m
+#define IDS_DEVICE_CHOOSER_NO_DEVICES_FOUND_PROMPT _Pragma("whitelisted_resource_6648") 6648
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6648
+[0;1;32m ^
+[0m[1m../../chrome/browser/usb/usb_chooser_controller.cc:108:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_USB_DEVICE_CHOOSER_CONNECT_BUTTON_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2808:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_USB_DEVICE_CHOOSER_CONNECT_BUTTON_TEXT'[0m
+#define IDS_USB_DEVICE_CHOOSER_CONNECT_BUTTON_TEXT _Pragma("whitelisted_resource_6649") 6649
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6649
+[0;1;32m ^
+[0m[1m../../chrome/browser/usb/usb_chooser_controller.cc:123:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID, device_name,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2806:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID'[0m
+#define IDS_DEVICE_CHOOSER_DEVICE_NAME_WITH_ID _Pragma("whitelisted_resource_6647") 6647
+[0;1;32m                                               ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6647
+[0;1;32m ^
+[0m6 warnings generated.

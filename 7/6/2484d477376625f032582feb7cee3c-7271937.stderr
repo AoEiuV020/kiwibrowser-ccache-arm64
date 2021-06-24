@@ -1,0 +1,10 @@
+[1m../../chrome/browser/supervised_user/supervised_user_interstitial.cc:292:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_BLOCK_INTERSTITIAL_DEFAULT_FEEDBACK_TEXT, reason);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1846:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BLOCK_INTERSTITIAL_DEFAULT_FEEDBACK_TEXT'[0m
+#define IDS_BLOCK_INTERSTITIAL_DEFAULT_FEEDBACK_TEXT _Pragma("whitelisted_resource_5431") 5431
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5431
+[0;1;32m ^
+[0m1 warning generated.

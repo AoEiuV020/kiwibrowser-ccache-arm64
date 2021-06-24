@@ -1,0 +1,19 @@
+[1m../../chrome/browser/shell_integration.cc:145:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_APP_SHORTCUTS_SUBDIR_NAME_CANARY);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:117:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SHORTCUTS_SUBDIR_NAME_CANARY'[0m
+#define IDS_APP_SHORTCUTS_SUBDIR_NAME_CANARY _Pragma("whitelisted_resource_571") 571
+[0;1;32m                                             ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_571
+[0;1;32m ^
+[0m[1m../../chrome/browser/shell_integration.cc:146:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_APP_SHORTCUTS_SUBDIR_NAME);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:116:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_APP_SHORTCUTS_SUBDIR_NAME'[0m
+#define IDS_APP_SHORTCUTS_SUBDIR_NAME _Pragma("whitelisted_resource_570") 570
+[0;1;32m                                      ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_570
+[0;1;32m ^
+[0m2 warnings generated.

@@ -1,0 +1,145 @@
+[1m../../chrome/browser/chrome_content_browser_client.cc:2118:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return rb.GetNativeImageNamed(IDR_DEFAULT_FAVICON).ToImageSkia();
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:16:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON'[0m
+#define IDR_DEFAULT_FAVICON _Pragma("whitelisted_resource_26972") 26972
+[0;1;32m                            ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26972
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3051:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF8(IDS_DEFAULT_DOWNLOAD_FILENAME);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2306:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_DOWNLOAD_FILENAME'[0m
+#define IDS_DEFAULT_DOWNLOAD_FILENAME _Pragma("whitelisted_resource_5947") 5947
+[0;1;32m                                      ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5947
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3457:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_UTILITY_PROCESS_PDF_COMPOSITOR_SERVICE_NAME);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:790:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UTILITY_PROCESS_PDF_COMPOSITOR_SERVICE_NAME'[0m
+#define IDS_UTILITY_PROCESS_PDF_COMPOSITOR_SERVICE_NAME _Pragma("whitelisted_resource_4028") 4028
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4028
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3467:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UTILITY_PROCESS_PROFILING_SERVICE_NAME);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1287:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UTILITY_PROCESS_PROFILING_SERVICE_NAME'[0m
+#define IDS_UTILITY_PROCESS_PROFILING_SERVICE_NAME _Pragma("whitelisted_resource_4829") 4829
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4829
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3471:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UTILITY_PROCESS_MEDIA_GALLERY_UTILITY_NAME);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1285:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UTILITY_PROCESS_MEDIA_GALLERY_UTILITY_NAME'[0m
+#define IDS_UTILITY_PROCESS_MEDIA_GALLERY_UTILITY_NAME _Pragma("whitelisted_resource_4827") 4827
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4827
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3476:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UTILITY_PROCESS_IMAGE_WRITER_NAME);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1284:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UTILITY_PROCESS_IMAGE_WRITER_NAME'[0m
+#define IDS_UTILITY_PROCESS_IMAGE_WRITER_NAME _Pragma("whitelisted_resource_4826") 4826
+[0;1;32m                                              ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4826
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3504:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UTILITY_PROCESS_PATCH_NAME);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1286:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UTILITY_PROCESS_PATCH_NAME'[0m
+#define IDS_UTILITY_PROCESS_PATCH_NAME _Pragma("whitelisted_resource_4828") 4828
+[0;1;32m                                       ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4828
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3507:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_UTILITY_PROCESS_UNZIP_NAME);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1288:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_UTILITY_PROCESS_UNZIP_NAME'[0m
+#define IDS_UTILITY_PROCESS_UNZIP_NAME _Pragma("whitelisted_resource_4830") 4830
+[0;1;32m                                       ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4830
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3527:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDR_CHROME_CONTENT_BROWSER_MANIFEST_OVERLAY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:237:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_CONTENT_BROWSER_MANIFEST_OVERLAY'[0m
+#define IDR_CHROME_CONTENT_BROWSER_MANIFEST_OVERLAY _Pragma("whitelisted_resource_11433") 11433
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11433
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3529:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDR_CHROME_CONTENT_GPU_MANIFEST_OVERLAY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:238:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_CONTENT_GPU_MANIFEST_OVERLAY'[0m
+#define IDR_CHROME_CONTENT_GPU_MANIFEST_OVERLAY _Pragma("whitelisted_resource_11434") 11434
+[0;1;32m                                                ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11434
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3531:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDR_CHROME_CONTENT_PACKAGED_SERVICES_MANIFEST_OVERLAY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:240:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_CONTENT_PACKAGED_SERVICES_MANIFEST_OVERLAY'[0m
+#define IDR_CHROME_CONTENT_PACKAGED_SERVICES_MANIFEST_OVERLAY _Pragma("whitelisted_resource_11436") 11436
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11436
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3533:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDR_CHROME_CONTENT_PLUGIN_MANIFEST_OVERLAY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:239:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_CONTENT_PLUGIN_MANIFEST_OVERLAY'[0m
+#define IDR_CHROME_CONTENT_PLUGIN_MANIFEST_OVERLAY _Pragma("whitelisted_resource_11435") 11435
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11435
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3535:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDR_CHROME_CONTENT_RENDERER_MANIFEST_OVERLAY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:241:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_CONTENT_RENDERER_MANIFEST_OVERLAY'[0m
+#define IDR_CHROME_CONTENT_RENDERER_MANIFEST_OVERLAY _Pragma("whitelisted_resource_11437") 11437
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11437
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3537:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDR_CHROME_CONTENT_UTILITY_MANIFEST_OVERLAY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:242:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_CONTENT_UTILITY_MANIFEST_OVERLAY'[0m
+#define IDR_CHROME_CONTENT_UTILITY_MANIFEST_OVERLAY _Pragma("whitelisted_resource_11438") 11438
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11438
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3556:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        {printing::mojom::kServiceName, IDR_PDF_COMPOSITOR_MANIFEST},
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/browser_resources.h:53:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PDF_COMPOSITOR_MANIFEST'[0m
+#define IDR_PDF_COMPOSITOR_MANIFEST _Pragma("whitelisted_resource_11040") 11040
+[0;1;32m                                    ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11040
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_content_browser_client.cc:3559:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+         IDR_CHROME_RENDERER_SERVICE_MANIFEST},
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/browser_resources.h:54:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CHROME_RENDERER_SERVICE_MANIFEST'[0m
+#define IDR_CHROME_RENDERER_SERVICE_MANIFEST _Pragma("whitelisted_resource_11041") 11041
+[0;1;32m                                             ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11041
+[0;1;32m ^
+[0m16 warnings generated.

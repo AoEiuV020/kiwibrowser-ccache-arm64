@@ -1,0 +1,10 @@
+[1m../../chrome/browser/android/ntp/content_suggestions_notifier_service.cc:153:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_NTP_NOTIFICATIONS_READ_THIS_STORY_AND_MORE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:360:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_NOTIFICATIONS_READ_THIS_STORY_AND_MORE'[0m
+#define IDS_NTP_NOTIFICATIONS_READ_THIS_STORY_AND_MORE _Pragma("whitelisted_resource_15466") 15466
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15466
+[0;1;32m ^
+[0m1 warning generated.

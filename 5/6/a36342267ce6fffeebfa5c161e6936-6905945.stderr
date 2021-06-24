@@ -1,0 +1,28 @@
+[1m../../chrome/browser/chrome_quota_permission_context.cc:104:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      (is_large_quota_request_ ? IDS_REQUEST_LARGE_QUOTA_INFOBAR_TEXT
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2559:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REQUEST_LARGE_QUOTA_INFOBAR_TEXT'[0m
+#define IDS_REQUEST_LARGE_QUOTA_INFOBAR_TEXT _Pragma("whitelisted_resource_6318") 6318
+[0;1;32m                                             ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6318
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_quota_permission_context.cc:105:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                               : IDS_REQUEST_QUOTA_INFOBAR_TEXT),
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2558:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REQUEST_QUOTA_INFOBAR_TEXT'[0m
+#define IDS_REQUEST_QUOTA_INFOBAR_TEXT _Pragma("whitelisted_resource_6317") 6317
+[0;1;32m                                       ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6317
+[0;1;32m ^
+[0m[1m../../chrome/browser/chrome_quota_permission_context.cc:111:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_REQUEST_QUOTA_PERMISSION_FRAGMENT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2560:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REQUEST_QUOTA_PERMISSION_FRAGMENT'[0m
+#define IDS_REQUEST_QUOTA_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_6319") 6319
+[0;1;32m                                              ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6319
+[0;1;32m ^
+[0m3 warnings generated.

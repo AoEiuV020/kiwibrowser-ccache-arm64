@@ -1,0 +1,82 @@
+[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:159:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CAPTIVE_PORTAL_BUTTON_OPEN_LOGIN_PAGE));
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:778:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_BUTTON_OPEN_LOGIN_PAGE'[0m
+#define IDS_CAPTIVE_PORTAL_BUTTON_OPEN_LOGIN_PAGE _Pragma("whitelisted_resource_15909") 15909
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15909
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:162:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(is_wifi ? IDS_CAPTIVE_PORTAL_HEADING_WIFI
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:771:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_HEADING_WIFI'[0m
+#define IDS_CAPTIVE_PORTAL_HEADING_WIFI _Pragma("whitelisted_resource_15902") 15902
+[0;1;32m                                        ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15902
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:163:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                        : IDS_CAPTIVE_PORTAL_HEADING_WIRED);
+[0;1;32m                                          ^
+[0m[1mgen/components/strings/grit/components_strings.h:770:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_HEADING_WIRED'[0m
+#define IDS_CAPTIVE_PORTAL_HEADING_WIRED _Pragma("whitelisted_resource_15901") 15901
+[0;1;32m                                         ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15901
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:179:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          is_wifi ? IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIFI
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:776:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIFI'[0m
+#define IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIFI _Pragma("whitelisted_resource_15907") 15907
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15907
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:180:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  : IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIRED);
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:775:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIRED'[0m
+#define IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIRED _Pragma("whitelisted_resource_15906") 15906
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15906
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:183:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIFI_SSID,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:777:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIFI_SSID'[0m
+#define IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_NO_LOGIN_URL_WIFI_SSID _Pragma("whitelisted_resource_15908") 15908
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15908
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:196:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          is_wifi ? IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIFI
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:773:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIFI'[0m
+#define IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIFI _Pragma("whitelisted_resource_15904") 15904
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15904
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:197:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  : IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIRED,
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:772:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIRED'[0m
+#define IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIRED _Pragma("whitelisted_resource_15903") 15903
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15903
+[0;1;32m ^
+[0m[1m../../chrome/browser/ssl/captive_portal_blocking_page.cc:201:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIFI_SSID,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:774:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIFI_SSID'[0m
+#define IDS_CAPTIVE_PORTAL_PRIMARY_PARAGRAPH_WIFI_SSID _Pragma("whitelisted_resource_15905") 15905
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15905
+[0;1;32m ^
+[0m9 warnings generated.

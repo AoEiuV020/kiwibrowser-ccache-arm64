@@ -1,0 +1,118 @@
+[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:85:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_TEXT, application_title);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1924:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_TEXT'[0m
+#define IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_TEXT _Pragma("whitelisted_resource_5529") 5529
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5529
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:88:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_WINDOW_CAPTURE_NOTIFICATION_TEXT, application_title);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1928:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_WINDOW_CAPTURE_NOTIFICATION_TEXT'[0m
+#define IDS_MEDIA_WINDOW_CAPTURE_NOTIFICATION_TEXT _Pragma("whitelisted_resource_5533") 5533
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5533
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:91:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT, application_title);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1930:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT'[0m
+#define IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT _Pragma("whitelisted_resource_5535") 5535
+[0;1;32m                                                ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5535
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:99:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_TEXT_DELEGATED,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1925:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_TEXT_DELEGATED'[0m
+#define IDS_MEDIA_SCREEN_CAPTURE_NOTIFICATION_TEXT_DELEGATED _Pragma("whitelisted_resource_5530") 5530
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5530
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:103:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_WINDOW_CAPTURE_NOTIFICATION_TEXT_DELEGATED,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1929:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_WINDOW_CAPTURE_NOTIFICATION_TEXT_DELEGATED'[0m
+#define IDS_MEDIA_WINDOW_CAPTURE_NOTIFICATION_TEXT_DELEGATED _Pragma("whitelisted_resource_5534") 5534
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5534
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:107:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT_DELEGATED,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1931:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT_DELEGATED'[0m
+#define IDS_MEDIA_TAB_CAPTURE_NOTIFICATION_TEXT_DELEGATED _Pragma("whitelisted_resource_5536") 5536
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5536
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:118:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_SCREEN_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1926:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT'[0m
+#define IDS_MEDIA_SCREEN_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT _Pragma("whitelisted_resource_5531") 5531
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5531
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:122:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1932:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT'[0m
+#define IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT _Pragma("whitelisted_resource_5537") 5537
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5537
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:132:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_SCREEN_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT_DELEGATED,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1927:73: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT_DELEGATED'[0m
+#define IDS_MEDIA_SCREEN_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT_DELEGATED _Pragma("whitelisted_resource_5532") 5532
+[0;1;32m                                                                        ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5532
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:136:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT_DELEGATED,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1933:70: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT_DELEGATED'[0m
+#define IDS_MEDIA_TAB_CAPTURE_WITH_AUDIO_NOTIFICATION_TEXT_DELEGATED _Pragma("whitelisted_resource_5538") 5538
+[0;1;32m                                                                     ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5538
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:312:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_MEDIA_SCREEN_CAPTURE_CONFIRMATION_TEXT
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1922:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_CAPTURE_CONFIRMATION_TEXT'[0m
+#define IDS_MEDIA_SCREEN_CAPTURE_CONFIRMATION_TEXT _Pragma("whitelisted_resource_5527") 5527
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5527
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:313:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : IDS_MEDIA_SCREEN_AND_AUDIO_CAPTURE_CONFIRMATION_TEXT,
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1923:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_AND_AUDIO_CAPTURE_CONFIRMATION_TEXT'[0m
+#define IDS_MEDIA_SCREEN_AND_AUDIO_CAPTURE_CONFIRMATION_TEXT _Pragma("whitelisted_resource_5528") 5528
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5528
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/desktop_capture_access_handler.cc:318:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_MEDIA_SCREEN_CAPTURE_CONFIRMATION_TITLE, application_name),
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1921:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_SCREEN_CAPTURE_CONFIRMATION_TITLE'[0m
+#define IDS_MEDIA_SCREEN_CAPTURE_CONFIRMATION_TITLE _Pragma("whitelisted_resource_5526") 5526
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5526
+[0;1;32m ^
+[0m13 warnings generated.

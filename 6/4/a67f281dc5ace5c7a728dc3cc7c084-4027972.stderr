@@ -1,0 +1,127 @@
+[1m../../chrome/browser/themes/browser_theme_pack.cc:104:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_FRAME, IDR_THEME_FRAME, "theme_frame"},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/theme_resources.h:101:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME'[0m
+#define IDR_THEME_FRAME _Pragma("whitelisted_resource_10483") 10483
+[0;1;32m                        ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10483
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:105:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_FRAME_INACTIVE, IDR_THEME_FRAME_INACTIVE,
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:102:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INACTIVE'[0m
+#define IDR_THEME_FRAME_INACTIVE _Pragma("whitelisted_resource_10484") 10484
+[0;1;32m                                 ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10484
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:107:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_FRAME_INCOGNITO, IDR_THEME_FRAME_INCOGNITO,
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:103:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INCOGNITO'[0m
+#define IDR_THEME_FRAME_INCOGNITO _Pragma("whitelisted_resource_10485") 10485
+[0;1;32m                                  ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10485
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:109:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_FRAME_INCOGNITO_INACTIVE, IDR_THEME_FRAME_INCOGNITO_INACTIVE,
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/theme_resources.h:104:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INCOGNITO_INACTIVE'[0m
+#define IDR_THEME_FRAME_INCOGNITO_INACTIVE _Pragma("whitelisted_resource_10486") 10486
+[0;1;32m                                           ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10486
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:111:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_TOOLBAR, IDR_THEME_TOOLBAR, "theme_toolbar"},
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/theme_resources.h:112:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TOOLBAR'[0m
+#define IDR_THEME_TOOLBAR _Pragma("whitelisted_resource_10495") 10495
+[0;1;32m                          ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10495
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:112:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_TAB_BACKGROUND, IDR_THEME_TAB_BACKGROUND,
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:109:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND'[0m
+#define IDR_THEME_TAB_BACKGROUND _Pragma("whitelisted_resource_10491") 10491
+[0;1;32m                                 ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10491
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:115:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_TAB_BACKGROUND_INCOGNITO, IDR_THEME_TAB_BACKGROUND_INCOGNITO,
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/theme_resources.h:110:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_INCOGNITO'[0m
+#define IDR_THEME_TAB_BACKGROUND_INCOGNITO _Pragma("whitelisted_resource_10493") 10493
+[0;1;32m                                           ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10493
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:118:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_TAB_BACKGROUND_V, IDR_THEME_TAB_BACKGROUND_V,
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/theme_resources.h:111:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_V'[0m
+#define IDR_THEME_TAB_BACKGROUND_V _Pragma("whitelisted_resource_10494") 10494
+[0;1;32m                                   ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10494
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:120:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_NTP_BACKGROUND, IDR_THEME_NTP_BACKGROUND,
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/theme_resources.h:108:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_BACKGROUND'[0m
+#define IDR_THEME_NTP_BACKGROUND _Pragma("whitelisted_resource_10490") 10490
+[0;1;32m                                 ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10490
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:122:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_FRAME_OVERLAY, IDR_THEME_FRAME_OVERLAY, "theme_frame_overlay"},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/theme_resources.h:105:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_OVERLAY'[0m
+#define IDR_THEME_FRAME_OVERLAY _Pragma("whitelisted_resource_10487") 10487
+[0;1;32m                                ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10487
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:123:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_FRAME_OVERLAY_INACTIVE, IDR_THEME_FRAME_OVERLAY_INACTIVE,
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/theme_resources.h:106:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_OVERLAY_INACTIVE'[0m
+#define IDR_THEME_FRAME_OVERLAY_INACTIVE _Pragma("whitelisted_resource_10488") 10488
+[0;1;32m                                         ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10488
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:125:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_BUTTON_BACKGROUND, IDR_THEME_BUTTON_BACKGROUND,
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/theme_resources.h:100:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_BUTTON_BACKGROUND'[0m
+#define IDR_THEME_BUTTON_BACKGROUND _Pragma("whitelisted_resource_10482") 10482
+[0;1;32m                                    ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10482
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:127:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_NTP_ATTRIBUTION, IDR_THEME_NTP_ATTRIBUTION,
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/theme_resources.h:107:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_NTP_ATTRIBUTION'[0m
+#define IDR_THEME_NTP_ATTRIBUTION _Pragma("whitelisted_resource_10489") 10489
+[0;1;32m                                  ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10489
+[0;1;32m ^
+[0m[1m../../chrome/browser/themes/browser_theme_pack.cc:129:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {PRS_THEME_WINDOW_CONTROL_BACKGROUND, IDR_THEME_WINDOW_CONTROL_BACKGROUND,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/theme_resources.h:113:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_WINDOW_CONTROL_BACKGROUND'[0m
+#define IDR_THEME_WINDOW_CONTROL_BACKGROUND _Pragma("whitelisted_resource_10497") 10497
+[0;1;32m                                            ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10497
+[0;1;32m ^
+[0m14 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/media_galleries/media_galleries_preferences.cc:434:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_GALLERIES_DIALOG_DEVICE_ATTACHED);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2634:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_DEVICE_ATTACHED'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_DEVICE_ATTACHED _Pragma("whitelisted_resource_6412") 6412
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6412
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_preferences.cc:437:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_GALLERIES_LAST_ATTACHED,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2629:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_LAST_ATTACHED'[0m
+#define IDS_MEDIA_GALLERIES_LAST_ATTACHED _Pragma("whitelisted_resource_6407") 6407
+[0;1;32m                                          ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6407
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_preferences.cc:441:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_MEDIA_GALLERIES_DIALOG_DEVICE_NOT_ATTACHED);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2635:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_DEVICE_NOT_ATTACHED'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_DEVICE_NOT_ATTACHED _Pragma("whitelisted_resource_6413") 6413
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6413
+[0;1;32m ^
+[0m3 warnings generated.

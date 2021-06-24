@@ -1,0 +1,28 @@
+[1m../../chrome/browser/profiles/sql_init_error_message_ids.cc:12:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_OPEN_PROFILE_DATA_LOSS;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2291:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OPEN_PROFILE_DATA_LOSS'[0m
+#define IDS_OPEN_PROFILE_DATA_LOSS _Pragma("whitelisted_resource_5931") 5931
+[0;1;32m                                   ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5931
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/sql_init_error_message_ids.cc:15:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_COULDNT_OPEN_PROFILE_ERROR;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2290:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COULDNT_OPEN_PROFILE_ERROR'[0m
+#define IDS_COULDNT_OPEN_PROFILE_ERROR _Pragma("whitelisted_resource_5930") 5930
+[0;1;32m                                       ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5930
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/sql_init_error_message_ids.cc:17:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDS_PROFILE_TOO_NEW_ERROR;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/chromium_strings.h:54:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILE_TOO_NEW_ERROR'[0m
+#define IDS_PROFILE_TOO_NEW_ERROR _Pragma("whitelisted_resource_467") 467
+[0;1;32m                                  ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_467
+[0;1;32m ^
+[0m3 warnings generated.

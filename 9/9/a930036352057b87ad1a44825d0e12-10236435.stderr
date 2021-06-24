@@ -1,0 +1,55 @@
+[1m../../chrome/browser/password_manager/auto_signin_first_run_dialog_android.cc:55:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_AUTO_SIGNIN_FIRST_RUN_SMART_LOCK_TEXT,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2505:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTO_SIGNIN_FIRST_RUN_SMART_LOCK_TEXT'[0m
+#define IDS_AUTO_SIGNIN_FIRST_RUN_SMART_LOCK_TEXT _Pragma("whitelisted_resource_6255") 6255
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6255
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/auto_signin_first_run_dialog_android.cc:56:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_AUTO_SIGNIN_FIRST_RUN_TEXT, &explanation,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2506:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTO_SIGNIN_FIRST_RUN_TEXT'[0m
+#define IDS_AUTO_SIGNIN_FIRST_RUN_TEXT _Pragma("whitelisted_resource_6256") 6256
+[0;1;32m                                       ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6256
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/auto_signin_first_run_dialog_android.cc:62:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDS_AUTO_SIGNIN_FIRST_RUN_TITLE_MANY_DEVICES
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2503:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTO_SIGNIN_FIRST_RUN_TITLE_MANY_DEVICES'[0m
+#define IDS_AUTO_SIGNIN_FIRST_RUN_TITLE_MANY_DEVICES _Pragma("whitelisted_resource_6253") 6253
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6253
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/auto_signin_first_run_dialog_android.cc:63:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDS_AUTO_SIGNIN_FIRST_RUN_TITLE_LOCAL_DEVICE);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2504:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTO_SIGNIN_FIRST_RUN_TITLE_LOCAL_DEVICE'[0m
+#define IDS_AUTO_SIGNIN_FIRST_RUN_TITLE_LOCAL_DEVICE _Pragma("whitelisted_resource_6254") 6254
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6254
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/auto_signin_first_run_dialog_android.cc:65:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTO_SIGNIN_FIRST_RUN_OK);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2507:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTO_SIGNIN_FIRST_RUN_OK'[0m
+#define IDS_AUTO_SIGNIN_FIRST_RUN_OK _Pragma("whitelisted_resource_6257") 6257
+[0;1;32m                                     ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6257
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/auto_signin_first_run_dialog_android.cc:67:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_AUTO_SIGNIN_FIRST_RUN_TURN_OFF);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2508:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTO_SIGNIN_FIRST_RUN_TURN_OFF'[0m
+#define IDS_AUTO_SIGNIN_FIRST_RUN_TURN_OFF _Pragma("whitelisted_resource_6258") 6258
+[0;1;32m                                           ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6258
+[0;1;32m ^
+[0m6 warnings generated.

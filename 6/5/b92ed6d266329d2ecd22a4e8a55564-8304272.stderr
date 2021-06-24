@@ -1,0 +1,10 @@
+[1m../../chrome/browser/notifications/platform_notification_service_impl.cc:422:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_NOTIFICATION_REPLY_PLACEHOLDER));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2429:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NOTIFICATION_REPLY_PLACEHOLDER'[0m
+#define IDS_NOTIFICATION_REPLY_PLACEHOLDER _Pragma("whitelisted_resource_6082") 6082
+[0;1;32m                                           ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6082
+[0;1;32m ^
+[0m1 warning generated.

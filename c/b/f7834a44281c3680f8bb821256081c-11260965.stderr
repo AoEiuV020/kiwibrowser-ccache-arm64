@@ -1,0 +1,19 @@
+[1m../../chrome/browser/profiles/profile_manager.cc:1022:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    profile_name = l10n_util::GetStringUTF8(IDS_PROFILES_GUEST_PROFILE_NAME);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2152:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_GUEST_PROFILE_NAME'[0m
+#define IDS_PROFILES_GUEST_PROFILE_NAME _Pragma("whitelisted_resource_5791") 5791
+[0;1;32m                                        ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5791
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_manager.cc:1041:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      profile_name = l10n_util::GetStringUTF8(IDS_DEFAULT_PROFILE_NAME);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2153:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_PROFILE_NAME'[0m
+#define IDS_DEFAULT_PROFILE_NAME _Pragma("whitelisted_resource_5792") 5792
+[0;1;32m                                 ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5792
+[0;1;32m ^
+[0m2 warnings generated.

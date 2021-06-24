@@ -1,0 +1,46 @@
+[1m../../chrome/browser/policy/developer_tools_policy_handler.cc:44:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    errors->AddError(key::kDeveloperToolsDisabled, IDS_POLICY_DEPRECATED);
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:685:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_DEPRECATED'[0m
+#define IDS_POLICY_DEPRECATED _Pragma("whitelisted_resource_15811") 15811
+[0;1;32m                              ^
+[0m[1m<scratch space>:298:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15811
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/developer_tools_policy_handler.cc:49:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      errors->AddError(key::kDeveloperToolsDisabled, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:300:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/developer_tools_policy_handler.cc:92:58: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      errors->AddError(key::kDeveloperToolsAvailability, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:302:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/developer_tools_policy_handler.cc:102:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_OUT_OF_RANGE_ERROR, base::IntToString(value));
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:304:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/developer_tools_policy_handler.cc:166:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    errors->AddError(key::kDeveloperToolsDisabled, IDS_POLICY_OVERRIDDEN,
+[0;1;32m                                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:684:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OVERRIDDEN'[0m
+#define IDS_POLICY_OVERRIDDEN _Pragma("whitelisted_resource_15810") 15810
+[0;1;32m                              ^
+[0m[1m<scratch space>:306:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15810
+[0;1;32m ^
+[0m5 warnings generated.

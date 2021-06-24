@@ -1,0 +1,127 @@
+[1m../../chrome/browser/vr/elements/indicator_spec.cc:53:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_IS_TRACKING_LOCATION,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2840:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_IS_TRACKING_LOCATION'[0m
+#define IDS_VR_SHELL_SITE_IS_TRACKING_LOCATION _Pragma("whitelisted_resource_6699") 6699
+[0;1;32m                                               ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6699
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:56:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_CAN_TRACK_LOCATION,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2849:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_CAN_TRACK_LOCATION'[0m
+#define IDS_VR_SHELL_SITE_CAN_TRACK_LOCATION _Pragma("whitelisted_resource_6708") 6708
+[0;1;32m                                             ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6708
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:64:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_IS_USING_MICROPHONE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2841:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_IS_USING_MICROPHONE'[0m
+#define IDS_VR_SHELL_SITE_IS_USING_MICROPHONE _Pragma("whitelisted_resource_6700") 6700
+[0;1;32m                                              ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6700
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:65:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_BG_IS_USING_MICROPHONE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2845:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_BG_IS_USING_MICROPHONE'[0m
+#define IDS_VR_SHELL_BG_IS_USING_MICROPHONE _Pragma("whitelisted_resource_6704") 6704
+[0;1;32m                                            ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6704
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:66:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_CAN_USE_MICROPHONE,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2850:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_CAN_USE_MICROPHONE'[0m
+#define IDS_VR_SHELL_SITE_CAN_USE_MICROPHONE _Pragma("whitelisted_resource_6709") 6709
+[0;1;32m                                             ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6709
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:74:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_IS_USING_CAMERA,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2843:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_IS_USING_CAMERA'[0m
+#define IDS_VR_SHELL_SITE_IS_USING_CAMERA _Pragma("whitelisted_resource_6702") 6702
+[0;1;32m                                          ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6702
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:75:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_BG_IS_USING_CAMERA,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2847:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_BG_IS_USING_CAMERA'[0m
+#define IDS_VR_SHELL_BG_IS_USING_CAMERA _Pragma("whitelisted_resource_6706") 6706
+[0;1;32m                                        ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6706
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:76:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_CAN_USE_CAMERA,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2852:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_CAN_USE_CAMERA'[0m
+#define IDS_VR_SHELL_SITE_CAN_USE_CAMERA _Pragma("whitelisted_resource_6711") 6711
+[0;1;32m                                         ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6711
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:84:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_IS_USING_BLUETOOTH,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2842:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_IS_USING_BLUETOOTH'[0m
+#define IDS_VR_SHELL_SITE_IS_USING_BLUETOOTH _Pragma("whitelisted_resource_6701") 6701
+[0;1;32m                                             ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6701
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:85:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_BG_IS_USING_BLUETOOTH,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2846:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_BG_IS_USING_BLUETOOTH'[0m
+#define IDS_VR_SHELL_BG_IS_USING_BLUETOOTH _Pragma("whitelisted_resource_6705") 6705
+[0;1;32m                                           ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6705
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:86:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_CAN_USE_BLUETOOTH,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2851:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_CAN_USE_BLUETOOTH'[0m
+#define IDS_VR_SHELL_SITE_CAN_USE_BLUETOOTH _Pragma("whitelisted_resource_6710") 6710
+[0;1;32m                                            ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6710
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:94:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_IS_SHARING_SCREEN,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2844:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_IS_SHARING_SCREEN'[0m
+#define IDS_VR_SHELL_SITE_IS_SHARING_SCREEN _Pragma("whitelisted_resource_6703") 6703
+[0;1;32m                                            ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6703
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:95:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_BG_IS_SHARING_SCREEN,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2848:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_BG_IS_SHARING_SCREEN'[0m
+#define IDS_VR_SHELL_BG_IS_SHARING_SCREEN _Pragma("whitelisted_resource_6707") 6707
+[0;1;32m                                          ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6707
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/elements/indicator_spec.cc:96:8: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+       IDS_VR_SHELL_SITE_CAN_SHARE_SCREEN,
+[0;1;32m       ^
+[0m[1mgen/chrome/grit/generated_resources.h:2853:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_SITE_CAN_SHARE_SCREEN'[0m
+#define IDS_VR_SHELL_SITE_CAN_SHARE_SCREEN _Pragma("whitelisted_resource_6712") 6712
+[0;1;32m                                           ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6712
+[0;1;32m ^
+[0m14 warnings generated.

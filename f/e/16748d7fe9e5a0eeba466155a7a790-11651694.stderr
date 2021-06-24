@@ -1,0 +1,10 @@
+[1m../../chrome/browser/download/chrome_download_manager_delegate.cc:634:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF8(IDS_DEFAULT_DOWNLOAD_FILENAME));
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2306:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_DOWNLOAD_FILENAME'[0m
+#define IDS_DEFAULT_DOWNLOAD_FILENAME _Pragma("whitelisted_resource_5947") 5947
+[0;1;32m                                      ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5947
+[0;1;32m ^
+[0m1 warning generated.

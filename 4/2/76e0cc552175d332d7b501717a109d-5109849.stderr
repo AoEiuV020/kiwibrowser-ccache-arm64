@@ -1,0 +1,28 @@
+[1m../../chrome/browser/android/hung_renderer_infobar_delegate.cc:60:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_BROWSER_HANGMONITOR_RENDERER_INFOBAR);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1767:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER_INFOBAR'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER_INFOBAR _Pragma("whitelisted_resource_5345") 5345
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5345
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/hung_renderer_infobar_delegate.cc:66:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      (button == BUTTON_OK) ? IDS_BROWSER_HANGMONITOR_RENDERER_INFOBAR_END
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1769:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER_INFOBAR_END'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER_INFOBAR_END _Pragma("whitelisted_resource_5347") 5347
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5347
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/hung_renderer_infobar_delegate.cc:67:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            : IDS_BROWSER_HANGMONITOR_RENDERER_WAIT);
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1770:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_RENDERER_WAIT'[0m
+#define IDS_BROWSER_HANGMONITOR_RENDERER_WAIT _Pragma("whitelisted_resource_5348") 5348
+[0;1;32m                                              ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5348
+[0;1;32m ^
+[0m3 warnings generated.

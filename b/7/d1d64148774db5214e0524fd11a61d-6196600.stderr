@@ -1,0 +1,19 @@
+[1m../../chrome/browser/prefs/chrome_pref_service_factory.cc:322:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_PREFERENCES_CORRUPT_ERROR;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:56:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREFERENCES_CORRUPT_ERROR'[0m
+#define IDS_PREFERENCES_CORRUPT_ERROR _Pragma("whitelisted_resource_469") 469
+[0;1;32m                                      ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_469
+[0;1;32m ^
+[0m[1m../../chrome/browser/prefs/chrome_pref_service_factory.cc:324:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_PREFERENCES_UNREADABLE_ERROR;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:55:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREFERENCES_UNREADABLE_ERROR'[0m
+#define IDS_PREFERENCES_UNREADABLE_ERROR _Pragma("whitelisted_resource_468") 468
+[0;1;32m                                         ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_468
+[0;1;32m ^
+[0m2 warnings generated.

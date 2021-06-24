@@ -1,0 +1,28 @@
+[1m../../chrome/browser/download/save_package_file_picker.cc:80:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAVE_PAGE_DESC_HTML_ONLY));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2286:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_PAGE_DESC_HTML_ONLY'[0m
+#define IDS_SAVE_PAGE_DESC_HTML_ONLY _Pragma("whitelisted_resource_5926") 5926
+[0;1;32m                                     ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5926
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/save_package_file_picker.cc:94:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAVE_PAGE_DESC_SINGLE_FILE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2287:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_PAGE_DESC_SINGLE_FILE'[0m
+#define IDS_SAVE_PAGE_DESC_SINGLE_FILE _Pragma("whitelisted_resource_5927") 5927
+[0;1;32m                                       ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5927
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/save_package_file_picker.cc:108:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SAVE_PAGE_DESC_COMPLETE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2288:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SAVE_PAGE_DESC_COMPLETE'[0m
+#define IDS_SAVE_PAGE_DESC_COMPLETE _Pragma("whitelisted_resource_5928") 5928
+[0;1;32m                                    ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5928
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/renderer_context_menu/spelling_menu_observer.cc:133:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_SPELLING_CHECKING);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:886:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_CHECKING'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_CHECKING _Pragma("whitelisted_resource_4228") 4228
+[0;1;32m                                              ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4228
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_menu_observer.cc:168:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_ADD_TO_DICTIONARY));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:882:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_ADD_TO_DICTIONARY'[0m
+#define IDS_CONTENT_CONTEXT_ADD_TO_DICTIONARY _Pragma("whitelisted_resource_4224") 4224
+[0;1;32m                                              ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4224
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_menu_observer.cc:335:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CONTENT_CONTEXT_SPELLING_NO_SUGGESTIONS_FROM_GOOGLE);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:887:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_NO_SUGGESTIONS_FROM_GOOGLE'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_NO_SUGGESTIONS_FROM_GOOGLE _Pragma("whitelisted_resource_4229") 4229
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4229
+[0;1;32m ^
+[0m3 warnings generated.

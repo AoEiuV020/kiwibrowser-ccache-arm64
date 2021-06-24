@@ -1,0 +1,649 @@
+[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:538:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                   IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:883:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE _Pragma("whitelisted_resource_4225") 4225
+[0;1;32m                                                ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4225
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:541:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                              IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE);
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:883:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE _Pragma("whitelisted_resource_4225") 4225
+[0;1;32m                                                ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4225
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:970:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_VIEWPAGESOURCE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:836:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_VIEWPAGESOURCE'[0m
+#define IDS_CONTENT_CONTEXT_VIEWPAGESOURCE _Pragma("whitelisted_resource_4178") 4178
+[0;1;32m                                           ^
+[0m[1m<scratch space>:94:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4178
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:973:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_VIEWFRAMESOURCE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:846:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_VIEWFRAMESOURCE'[0m
+#define IDS_CONTENT_CONTEXT_VIEWFRAMESOURCE _Pragma("whitelisted_resource_4188") 4188
+[0;1;32m                                            ^
+[0m[1m<scratch space>:96:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4188
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:975:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_RELOADFRAME);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:845:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_RELOADFRAME'[0m
+#define IDS_CONTENT_CONTEXT_RELOADFRAME _Pragma("whitelisted_resource_4187") 4187
+[0;1;32m                                        ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4187
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:978:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_INSPECTELEMENT);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:831:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_INSPECTELEMENT'[0m
+#define IDS_CONTENT_CONTEXT_INSPECTELEMENT _Pragma("whitelisted_resource_4173") 4173
+[0;1;32m                                           ^
+[0m[1m<scratch space>:100:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4173
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:986:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_RELOAD_PACKAGED_APP);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:842:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_RELOAD_PACKAGED_APP'[0m
+#define IDS_CONTENT_CONTEXT_RELOAD_PACKAGED_APP _Pragma("whitelisted_resource_4184") 4184
+[0;1;32m                                                ^
+[0m[1m<scratch space>:102:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4184
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:988:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_RESTART_APP);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:841:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_RESTART_APP'[0m
+#define IDS_CONTENT_CONTEXT_RESTART_APP _Pragma("whitelisted_resource_4183") 4183
+[0;1;32m                                        ^
+[0m[1m<scratch space>:104:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4183
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:991:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_INSPECTBACKGROUNDPAGE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:839:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_INSPECTBACKGROUNDPAGE'[0m
+#define IDS_CONTENT_CONTEXT_INSPECTBACKGROUNDPAGE _Pragma("whitelisted_resource_4181") 4181
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:106:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4181
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1001:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          GetBrowser()->is_app() ? IDS_CONTENT_CONTEXT_OPENLINKNEWTAB_INAPP
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:138:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKNEWTAB_INAPP'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKNEWTAB_INAPP _Pragma("whitelisted_resource_606") 606
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:108:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_606
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1002:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                 : IDS_CONTENT_CONTEXT_OPENLINKNEWTAB);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:847:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKNEWTAB'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKNEWTAB _Pragma("whitelisted_resource_4189") 4189
+[0;1;32m                                           ^
+[0m[1m<scratch space>:110:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4189
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1005:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                        IDS_CONTENT_CONTEXT_OPENLINKNEWWINDOW);
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:848:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKNEWWINDOW'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKNEWWINDOW _Pragma("whitelisted_resource_4190") 4190
+[0;1;32m                                              ^
+[0m[1m<scratch space>:112:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4190
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1015:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              ? IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD_INAPP
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:139:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD_INAPP'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD_INAPP _Pragma("whitelisted_resource_607") 607
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:114:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_607
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1016:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              : IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD);
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:849:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD _Pragma("whitelisted_resource_4191") 4191
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:116:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4191
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1020:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      IDS_CONTENT_CONTEXT_OPENLINKNEWTAB);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:847:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKNEWTAB'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKNEWTAB _Pragma("whitelisted_resource_4189") 4189
+[0;1;32m                                           ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4189
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1022:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      IDS_CONTENT_CONTEXT_OPENLINKNEWWINDOW);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:848:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKNEWWINDOW'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKNEWWINDOW _Pragma("whitelisted_resource_4190") 4190
+[0;1;32m                                              ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4190
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1028:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:849:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKOFFTHERECORD _Pragma("whitelisted_resource_4191") 4191
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4191
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1084:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringFUTF16(IDS_CONTENT_CONTEXT_OPENLINKINPROFILE,
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:851:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKINPROFILE'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKINPROFILE _Pragma("whitelisted_resource_4193") 4193
+[0;1;32m                                              ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4193
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1105:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_CONTENT_CONTEXT_OPENLINKINPROFILES,
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:850:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKINPROFILES'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKINPROFILES _Pragma("whitelisted_resource_4192") 4192
+[0;1;32m                                               ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4192
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1113:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_SAVELINKAS);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:854:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVELINKAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVELINKAS _Pragma("whitelisted_resource_4196") 4196
+[0;1;32m                                       ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4196
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1119:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CONTENT_CONTEXT_COPYEMAILADDRESS :
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:856:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYEMAILADDRESS'[0m
+#define IDS_CONTENT_CONTEXT_COPYEMAILADDRESS _Pragma("whitelisted_resource_4198") 4198
+[0;1;32m                                             ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4198
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1120:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_CONTENT_CONTEXT_COPYLINKLOCATION);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:855:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYLINKLOCATION'[0m
+#define IDS_CONTENT_CONTEXT_COPYLINKLOCATION _Pragma("whitelisted_resource_4197") 4197
+[0;1;32m                                             ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4197
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1126:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_COPYLINKTEXT);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:857:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYLINKTEXT'[0m
+#define IDS_CONTENT_CONTEXT_COPYLINKTEXT _Pragma("whitelisted_resource_4199") 4199
+[0;1;32m                                         ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4199
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1148:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    open_in_app_string_id = IDS_CONTENT_CONTEXT_OPENLINKBOOKMARKAPP_SAMEAPP;
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:853:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKBOOKMARKAPP_SAMEAPP'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKBOOKMARKAPP_SAMEAPP _Pragma("whitelisted_resource_4195") 4195
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4195
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1150:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    open_in_app_string_id = IDS_CONTENT_CONTEXT_OPENLINKBOOKMARKAPP;
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:852:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKBOOKMARKAPP'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKBOOKMARKAPP _Pragma("whitelisted_resource_4194") 4194
+[0;1;32m                                                ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4194
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1171:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_CONTENT_CONTEXT_LOAD_ORIGINAL_IMAGE);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:863:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_LOAD_ORIGINAL_IMAGE'[0m
+#define IDS_CONTENT_CONTEXT_LOAD_ORIGINAL_IMAGE _Pragma("whitelisted_resource_4205") 4205
+[0;1;32m                                                ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4205
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1179:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_CONTENT_CONTEXT_OPEN_ORIGINAL_IMAGE_NEW_TAB);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:862:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPEN_ORIGINAL_IMAGE_NEW_TAB'[0m
+#define IDS_CONTENT_CONTEXT_OPEN_ORIGINAL_IMAGE_NEW_TAB _Pragma("whitelisted_resource_4204") 4204
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4204
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1182:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_OPENIMAGENEWTAB);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:861:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENIMAGENEWTAB'[0m
+#define IDS_CONTENT_CONTEXT_OPENIMAGENEWTAB _Pragma("whitelisted_resource_4203") 4203
+[0;1;32m                                            ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4203
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1185:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_SAVEIMAGEAS);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:858:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVEIMAGEAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVEIMAGEAS _Pragma("whitelisted_resource_4200") 4200
+[0;1;32m                                        ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4200
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1187:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPYIMAGE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:860:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYIMAGE'[0m
+#define IDS_CONTENT_CONTEXT_COPYIMAGE _Pragma("whitelisted_resource_4202") 4202
+[0;1;32m                                      ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4202
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1189:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPYIMAGELOCATION);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:859:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYIMAGELOCATION'[0m
+#define IDS_CONTENT_CONTEXT_COPYIMAGELOCATION _Pragma("whitelisted_resource_4201") 4201
+[0;1;32m                                              ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4201
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1206:34: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringFUTF16(IDS_CONTENT_CONTEXT_SEARCHWEBFORIMAGE,
+[0;1;32m                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:890:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SEARCHWEBFORIMAGE'[0m
+#define IDS_CONTENT_CONTEXT_SEARCHWEBFORIMAGE _Pragma("whitelisted_resource_4232") 4232
+[0;1;32m                                              ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4232
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1216:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_OPENAUDIONEWTAB);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:873:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENAUDIONEWTAB'[0m
+#define IDS_CONTENT_CONTEXT_OPENAUDIONEWTAB _Pragma("whitelisted_resource_4215") 4215
+[0;1;32m                                            ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4215
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1218:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_SAVEAUDIOAS);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:871:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVEAUDIOAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVEAUDIOAS _Pragma("whitelisted_resource_4213") 4213
+[0;1;32m                                        ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4213
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1220:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPYAUDIOLOCATION);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:872:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYAUDIOLOCATION'[0m
+#define IDS_CONTENT_CONTEXT_COPYAUDIOLOCATION _Pragma("whitelisted_resource_4214") 4214
+[0;1;32m                                              ^
+[0m[1m<scratch space>:158:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4214
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1226:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_SAVEIMAGEAS);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:858:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVEIMAGEAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVEIMAGEAS _Pragma("whitelisted_resource_4200") 4200
+[0;1;32m                                        ^
+[0m[1m<scratch space>:160:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4200
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1228:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPYIMAGE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:860:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYIMAGE'[0m
+#define IDS_CONTENT_CONTEXT_COPYIMAGE _Pragma("whitelisted_resource_4202") 4202
+[0;1;32m                                      ^
+[0m[1m<scratch space>:162:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4202
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1235:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_OPENVIDEONEWTAB);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:870:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENVIDEONEWTAB'[0m
+#define IDS_CONTENT_CONTEXT_OPENVIDEONEWTAB _Pragma("whitelisted_resource_4212") 4212
+[0;1;32m                                            ^
+[0m[1m<scratch space>:164:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4212
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1237:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_SAVEVIDEOAS);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:868:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVEVIDEOAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVEVIDEOAS _Pragma("whitelisted_resource_4210") 4210
+[0;1;32m                                        ^
+[0m[1m<scratch space>:166:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4210
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1239:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPYVIDEOLOCATION);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:869:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPYVIDEOLOCATION'[0m
+#define IDS_CONTENT_CONTEXT_COPYVIDEOLOCATION _Pragma("whitelisted_resource_4211") 4211
+[0;1;32m                                              ^
+[0m[1m<scratch space>:168:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4211
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1246:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       IDS_CONTENT_CONTEXT_LOOP);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:864:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_LOOP'[0m
+#define IDS_CONTENT_CONTEXT_LOOP _Pragma("whitelisted_resource_4206") 4206
+[0;1;32m                                 ^
+[0m[1m<scratch space>:170:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4206
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1248:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       IDS_CONTENT_CONTEXT_CONTROLS);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:865:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_CONTROLS'[0m
+#define IDS_CONTENT_CONTEXT_CONTROLS _Pragma("whitelisted_resource_4207") 4207
+[0;1;32m                                     ^
+[0m[1m<scratch space>:172:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4207
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1265:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_SAVEPAGEAS);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:834:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVEPAGEAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVEPAGEAS _Pragma("whitelisted_resource_4176") 4176
+[0;1;32m                                       ^
+[0m[1m<scratch space>:174:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4176
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1271:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      menu_model_.AddItemWithStringId(IDC_PRINT, IDS_CONTENT_CONTEXT_PRINT);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:835:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PRINT'[0m
+#define IDS_CONTENT_CONTEXT_PRINT _Pragma("whitelisted_resource_4177") 4177
+[0;1;32m                                  ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4177
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1278:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu_model_.AddItemWithStringId(IDC_BACK, IDS_CONTENT_CONTEXT_BACK);
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:832:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_BACK'[0m
+#define IDS_CONTENT_CONTEXT_BACK _Pragma("whitelisted_resource_4174") 4174
+[0;1;32m                                 ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4174
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1279:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu_model_.AddItemWithStringId(IDC_FORWARD, IDS_CONTENT_CONTEXT_FORWARD);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:833:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_FORWARD'[0m
+#define IDS_CONTENT_CONTEXT_FORWARD _Pragma("whitelisted_resource_4175") 4175
+[0;1;32m                                    ^
+[0m[1m<scratch space>:180:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4175
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1280:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu_model_.AddItemWithStringId(IDC_RELOAD, IDS_CONTENT_CONTEXT_RELOAD);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:840:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_RELOAD'[0m
+#define IDS_CONTENT_CONTEXT_RELOAD _Pragma("whitelisted_resource_4182") 4182
+[0;1;32m                                   ^
+[0m[1m<scratch space>:182:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4182
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1283:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_SAVEPAGEAS);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:834:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SAVEPAGEAS'[0m
+#define IDS_CONTENT_CONTEXT_SAVEPAGEAS _Pragma("whitelisted_resource_4176") 4176
+[0;1;32m                                       ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4176
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1284:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu_model_.AddItemWithStringId(IDC_PRINT, IDS_CONTENT_CONTEXT_PRINT);
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:835:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PRINT'[0m
+#define IDS_CONTENT_CONTEXT_PRINT _Pragma("whitelisted_resource_4177") 4177
+[0;1;32m                                  ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4177
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1300:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_CONTENT_CONTEXT_TRANSLATE, language));
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:843:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_TRANSLATE'[0m
+#define IDS_CONTENT_CONTEXT_TRANSLATE _Pragma("whitelisted_resource_4185") 4185
+[0;1;32m                                      ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4185
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1319:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_EXIT_FULLSCREEN);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:844:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EXIT_FULLSCREEN'[0m
+#define IDS_CONTENT_CONTEXT_EXIT_FULLSCREEN _Pragma("whitelisted_resource_4186") 4186
+[0;1;32m                                            ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4186
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1327:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPY);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:878:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPY'[0m
+#define IDS_CONTENT_CONTEXT_COPY _Pragma("whitelisted_resource_4220") 4220
+[0;1;32m                                 ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4220
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1335:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    menu_model_.AddItemWithStringId(IDC_PRINT, IDS_CONTENT_CONTEXT_PRINT);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:835:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PRINT'[0m
+#define IDS_CONTENT_CONTEXT_PRINT _Pragma("whitelisted_resource_4177") 4177
+[0;1;32m                                  ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4177
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1342:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_MEDIA_ROUTER_MENU_ITEM_TITLE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:110:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_ROUTER_MENU_ITEM_TITLE'[0m
+#define IDS_MEDIA_ROUTER_MENU_ITEM_TITLE _Pragma("whitelisted_resource_2519") 2519
+[0;1;32m                                         ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_2519
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1350:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_ROTATECW);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:866:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_ROTATECW'[0m
+#define IDS_CONTENT_CONTEXT_ROTATECW _Pragma("whitelisted_resource_4208") 4208
+[0;1;32m                                     ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4208
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1352:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_ROTATECCW);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:867:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_ROTATECCW'[0m
+#define IDS_CONTENT_CONTEXT_ROTATECCW _Pragma("whitelisted_resource_4209") 4209
+[0;1;32m                                      ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4209
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1390:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringFUTF16(IDS_CONTENT_CONTEXT_SEARCHWEBFOR,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:889:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SEARCHWEBFOR'[0m
+#define IDS_CONTENT_CONTEXT_SEARCHWEBFOR _Pragma("whitelisted_resource_4231") 4231
+[0;1;32m                                         ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4231
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1405:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_CONTENT_CONTEXT_GOTOURL,
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:891:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_GOTOURL'[0m
+#define IDS_CONTENT_CONTEXT_GOTOURL _Pragma("whitelisted_resource_4233") 4233
+[0;1;32m                                    ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4233
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1422:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_EMOJI);
+[0;1;32m                                    ^
+[0m[1mgen/ui/strings/grit/ui_strings.h:80:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_EMOJI'[0m
+#define IDS_CONTENT_CONTEXT_EMOJI _Pragma("whitelisted_resource_27336") 27336
+[0;1;32m                                  ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27336
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1443:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_UNDO);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:875:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_UNDO'[0m
+#define IDS_CONTENT_CONTEXT_UNDO _Pragma("whitelisted_resource_4217") 4217
+[0;1;32m                                 ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4217
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1445:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_REDO);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:876:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_REDO'[0m
+#define IDS_CONTENT_CONTEXT_REDO _Pragma("whitelisted_resource_4218") 4218
+[0;1;32m                                 ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4218
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1451:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_CUT);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:877:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_CUT'[0m
+#define IDS_CONTENT_CONTEXT_CUT _Pragma("whitelisted_resource_4219") 4219
+[0;1;32m                                ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4219
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1453:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_COPY);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:878:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_COPY'[0m
+#define IDS_CONTENT_CONTEXT_COPY _Pragma("whitelisted_resource_4220") 4220
+[0;1;32m                                 ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4220
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1455:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_CONTENT_CONTEXT_PASTE);
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:879:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PASTE'[0m
+#define IDS_CONTENT_CONTEXT_PASTE _Pragma("whitelisted_resource_4221") 4221
+[0;1;32m                                  ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4221
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1458:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_PASTE_AND_MATCH_STYLE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:880:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_PASTE_AND_MATCH_STYLE'[0m
+#define IDS_CONTENT_CONTEXT_PASTE_AND_MATCH_STYLE _Pragma("whitelisted_resource_4222") 4222
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4222
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1460:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTEXT_SELECTALL);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:888:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SELECTALL'[0m
+#define IDS_CONTENT_CONTEXT_SELECTALL _Pragma("whitelisted_resource_4230") 4230
+[0;1;32m                                      ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4230
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1511:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_OPENLINKWITH_CONFIGURE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:838:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKWITH_CONFIGURE'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKWITH_CONFIGURE _Pragma("whitelisted_resource_4180") 4180
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4180
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1515:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_OPENLINKWITH),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:837:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_OPENLINKWITH'[0m
+#define IDS_CONTENT_CONTEXT_OPENLINKWITH _Pragma("whitelisted_resource_4179") 4179
+[0;1;32m                                         ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4179
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1526:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      IDS_CONTENT_CONTEXT_FORCESAVEPASSWORD);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:892:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_FORCESAVEPASSWORD'[0m
+#define IDS_CONTENT_CONTEXT_FORCESAVEPASSWORD _Pragma("whitelisted_resource_4234") 4234
+[0;1;32m                                              ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4234
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1533:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                      IDS_CONTENT_CONTEXT_GENERATEPASSWORD);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:893:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_GENERATEPASSWORD'[0m
+#define IDS_CONTENT_CONTEXT_GENERATEPASSWORD _Pragma("whitelisted_resource_4235") 4235
+[0;1;32m                                             ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4235
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1539:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_AUTOFILL_SHOW_ALL_SAVED_FALLBACK);
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:55:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUTOFILL_SHOW_ALL_SAVED_FALLBACK'[0m
+#define IDS_AUTOFILL_SHOW_ALL_SAVED_FALLBACK _Pragma("whitelisted_resource_15150") 15150
+[0;1;32m                                             ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15150
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/render_view_context_menu.cc:1550:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                    IDS_CONTENT_CONTENT_PICTUREINPICTURE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:874:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTENT_PICTUREINPICTURE'[0m
+#define IDS_CONTENT_CONTENT_PICTUREINPICTURE _Pragma("whitelisted_resource_4216") 4216
+[0;1;32m                                             ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4216
+[0;1;32m ^
+[0m72 warnings generated.

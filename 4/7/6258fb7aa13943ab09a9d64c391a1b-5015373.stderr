@@ -1,0 +1,19 @@
+[1m../../chrome/browser/download/download_permission_request.cc:37:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MULTI_DOWNLOAD_WARNING);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2298:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MULTI_DOWNLOAD_WARNING'[0m
+#define IDS_MULTI_DOWNLOAD_WARNING _Pragma("whitelisted_resource_5939") 5939
+[0;1;32m                                   ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5939
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_permission_request.cc:42:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MULTI_DOWNLOAD_PERMISSION_FRAGMENT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2299:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MULTI_DOWNLOAD_PERMISSION_FRAGMENT'[0m
+#define IDS_MULTI_DOWNLOAD_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_5940") 5940
+[0;1;32m                                               ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5940
+[0;1;32m ^
+[0m2 warnings generated.

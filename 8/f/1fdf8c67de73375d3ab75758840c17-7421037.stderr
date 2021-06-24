@@ -1,0 +1,46 @@
+[1m../../chrome/browser/file_select_helper.cc:408:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        description_id = IDS_IMAGE_FILES;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2512:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_IMAGE_FILES'[0m
+#define IDS_IMAGE_FILES _Pragma("whitelisted_resource_6271") 6271
+[0;1;32m                        ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6271
+[0;1;32m ^
+[0m[1m../../chrome/browser/file_select_helper.cc:410:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        description_id = IDS_AUDIO_FILES;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2513:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_AUDIO_FILES'[0m
+#define IDS_AUDIO_FILES _Pragma("whitelisted_resource_6272") 6272
+[0;1;32m                        ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6272
+[0;1;32m ^
+[0m[1m../../chrome/browser/file_select_helper.cc:412:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        description_id = IDS_VIDEO_FILES;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2514:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VIDEO_FILES'[0m
+#define IDS_VIDEO_FILES _Pragma("whitelisted_resource_6273") 6273
+[0;1;32m                        ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6273
+[0;1;32m ^
+[0m[1m../../chrome/browser/file_select_helper.cc:434:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    description_id = IDS_CUSTOM_FILES;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2515:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CUSTOM_FILES'[0m
+#define IDS_CUSTOM_FILES _Pragma("whitelisted_resource_6274") 6274
+[0;1;32m                         ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6274
+[0;1;32m ^
+[0m[1m../../chrome/browser/file_select_helper.cc:715:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      std::string(), l10n_util::GetStringUTF8(IDS_DEFAULT_DOWNLOAD_FILENAME));
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2306:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_DOWNLOAD_FILENAME'[0m
+#define IDS_DEFAULT_DOWNLOAD_FILENAME _Pragma("whitelisted_resource_5947") 5947
+[0;1;32m                                      ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5947
+[0;1;32m ^
+[0m5 warnings generated.

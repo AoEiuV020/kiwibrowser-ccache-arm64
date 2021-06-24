@@ -1,0 +1,37 @@
+[1m../../chrome/browser/renderer_context_menu/spelling_options_submenu_observer.cc:60:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_CONTENT_CONTEXT_SPELLCHECK_MULTI_LINGUAL, language_group_id_);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:901:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLCHECK_MULTI_LINGUAL'[0m
+#define IDS_CONTENT_CONTEXT_SPELLCHECK_MULTI_LINGUAL _Pragma("whitelisted_resource_4243") 4243
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4243
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_options_submenu_observer.cc:78:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                     IDS_CONTENT_CONTEXT_LANGUAGE_SETTINGS);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:900:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_LANGUAGE_SETTINGS'[0m
+#define IDS_CONTENT_CONTEXT_LANGUAGE_SETTINGS _Pragma("whitelisted_resource_4241") 4241
+[0;1;32m                                              ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4241
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_options_submenu_observer.cc:86:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_CONTENT_CONTEXT_CHECK_SPELLING_WHILE_TYPING));
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:902:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_CHECK_SPELLING_WHILE_TYPING'[0m
+#define IDS_CONTENT_CONTEXT_CHECK_SPELLING_WHILE_TYPING _Pragma("whitelisted_resource_4244") 4244
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4244
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_options_submenu_observer.cc:96:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_SPELLCHECK_MENU),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:899:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLCHECK_MENU'[0m
+#define IDS_CONTENT_CONTEXT_SPELLCHECK_MENU _Pragma("whitelisted_resource_4242") 4242
+[0;1;32m                                            ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4242
+[0;1;32m ^
+[0m4 warnings generated.

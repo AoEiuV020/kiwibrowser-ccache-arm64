@@ -1,0 +1,28 @@
+[1m../../chrome/browser/sessions/restore_on_startup_policy_handler.cc:52:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        errors->AddError(policy_name(), IDS_POLICY_VALUE_DEPRECATED);
+[0;1;32m                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:686:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_VALUE_DEPRECATED'[0m
+#define IDS_POLICY_VALUE_DEPRECATED _Pragma("whitelisted_resource_15812") 15812
+[0;1;32m                                    ^
+[0m[1m<scratch space>:297:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15812
+[0;1;32m ^
+[0m[1m../../chrome/browser/sessions/restore_on_startup_policy_handler.cc:64:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           IDS_POLICY_OVERRIDDEN,
+[0;1;32m                           ^
+[0m[1mgen/components/strings/grit/components_strings.h:684:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OVERRIDDEN'[0m
+#define IDS_POLICY_OVERRIDDEN _Pragma("whitelisted_resource_15810") 15810
+[0;1;32m                              ^
+[0m[1m<scratch space>:299:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15810
+[0;1;32m ^
+[0m[1m../../chrome/browser/sessions/restore_on_startup_policy_handler.cc:75:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_POLICY_OUT_OF_RANGE_ERROR,
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:301:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m3 warnings generated.

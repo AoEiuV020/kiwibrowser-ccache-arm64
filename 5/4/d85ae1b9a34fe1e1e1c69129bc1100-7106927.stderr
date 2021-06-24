@@ -1,0 +1,46 @@
+[1m../../chrome/browser/plugins/plugin_infobar_delegates.cc:53:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_PLUGIN_OUTDATED_PROMPT, name)))));
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2271:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_OUTDATED_PROMPT'[0m
+#define IDS_PLUGIN_OUTDATED_PROMPT _Pragma("whitelisted_resource_5910") 5910
+[0;1;32m                                   ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5910
+[0;1;32m ^
+[0m[1m../../chrome/browser/plugins/plugin_infobar_delegates.cc:110:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PLUGIN_UPDATE : IDS_PLUGIN_ENABLE_TEMPORARILY);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1624:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_UPDATE'[0m
+#define IDS_PLUGIN_UPDATE _Pragma("whitelisted_resource_5194") 5194
+[0;1;32m                          ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5194
+[0;1;32m ^
+[0m[1m../../chrome/browser/plugins/plugin_infobar_delegates.cc:110:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PLUGIN_UPDATE : IDS_PLUGIN_ENABLE_TEMPORARILY);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2272:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_ENABLE_TEMPORARILY'[0m
+#define IDS_PLUGIN_ENABLE_TEMPORARILY _Pragma("whitelisted_resource_5911") 5911
+[0;1;32m                                      ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5911
+[0;1;32m ^
+[0m[1m../../chrome/browser/plugins/plugin_infobar_delegates.cc:142:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_LEARN_MORE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/plugins/plugin_infobar_delegates.cc:150:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  ReplaceWithInfoBar(l10n_util::GetStringFUTF16(IDS_PLUGIN_UPDATING,
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1634:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PLUGIN_UPDATING'[0m
+#define IDS_PLUGIN_UPDATING _Pragma("whitelisted_resource_5205") 5205
+[0;1;32m                            ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5205
+[0;1;32m ^
+[0m5 warnings generated.

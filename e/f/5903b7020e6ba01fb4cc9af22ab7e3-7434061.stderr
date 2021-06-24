@@ -1,0 +1,64 @@
+[1m../../chrome/browser/signin/signin_global_error.cc:75:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SYNC_SIGN_IN_ERROR_WRENCH_MENU_ITEM);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2331:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SIGN_IN_ERROR_WRENCH_MENU_ITEM'[0m
+#define IDS_SYNC_SIGN_IN_ERROR_WRENCH_MENU_ITEM _Pragma("whitelisted_resource_5979") 5979
+[0;1;32m                                                ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5979
+[0;1;32m ^
+[0m[1m../../chrome/browser/signin/signin_global_error.cc:112:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_SIGNIN_ERROR_BUBBLE_VIEW_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2315:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNIN_ERROR_BUBBLE_VIEW_TITLE'[0m
+#define IDS_SIGNIN_ERROR_BUBBLE_VIEW_TITLE _Pragma("whitelisted_resource_5962") 5962
+[0;1;32m                                           ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5962
+[0;1;32m ^
+[0m[1m../../chrome/browser/signin/signin_global_error.cc:136:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_SIGN_IN_ERROR_BUBBLE_VIEW_MESSAGE));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:110:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SIGN_IN_ERROR_BUBBLE_VIEW_MESSAGE'[0m
+#define IDS_SYNC_SIGN_IN_ERROR_BUBBLE_VIEW_MESSAGE _Pragma("whitelisted_resource_558") 558
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_558
+[0;1;32m ^
+[0m[1m../../chrome/browser/signin/signin_global_error.cc:142:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_UNAVAILABLE_ERROR_BUBBLE_VIEW_MESSAGE));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:111:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_UNAVAILABLE_ERROR_BUBBLE_VIEW_MESSAGE'[0m
+#define IDS_SYNC_UNAVAILABLE_ERROR_BUBBLE_VIEW_MESSAGE _Pragma("whitelisted_resource_559") 559
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_559
+[0;1;32m ^
+[0m[1m../../chrome/browser/signin/signin_global_error.cc:148:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_OTHER_SIGN_IN_ERROR_BUBBLE_VIEW_MESSAGE));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:112:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_OTHER_SIGN_IN_ERROR_BUBBLE_VIEW_MESSAGE'[0m
+#define IDS_SYNC_OTHER_SIGN_IN_ERROR_BUBBLE_VIEW_MESSAGE _Pragma("whitelisted_resource_560") 560
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_560
+[0;1;32m ^
+[0m[1m../../chrome/browser/signin/signin_global_error.cc:159:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SYNC_UNAVAILABLE_ERROR_BUBBLE_VIEW_ACCEPT);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2328:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_UNAVAILABLE_ERROR_BUBBLE_VIEW_ACCEPT'[0m
+#define IDS_SYNC_UNAVAILABLE_ERROR_BUBBLE_VIEW_ACCEPT _Pragma("whitelisted_resource_5976") 5976
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5976
+[0;1;32m ^
+[0m[1m../../chrome/browser/signin/signin_global_error.cc:161:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SYNC_SIGN_IN_ERROR_BUBBLE_VIEW_ACCEPT);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2330:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SIGN_IN_ERROR_BUBBLE_VIEW_ACCEPT'[0m
+#define IDS_SYNC_SIGN_IN_ERROR_BUBBLE_VIEW_ACCEPT _Pragma("whitelisted_resource_5978") 5978
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5978
+[0;1;32m ^
+[0m7 warnings generated.

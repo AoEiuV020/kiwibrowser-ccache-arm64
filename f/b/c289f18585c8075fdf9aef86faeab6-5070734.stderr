@@ -1,0 +1,19 @@
+[1m../../chrome/browser/plugins/hung_plugin_infobar_delegate.cc:33:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringFUTF16(IDS_BROWSER_HANGMONITOR_PLUGIN_INFOBAR,
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1772:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_PLUGIN_INFOBAR'[0m
+#define IDS_BROWSER_HANGMONITOR_PLUGIN_INFOBAR _Pragma("whitelisted_resource_5350") 5350
+[0;1;32m                                               ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5350
+[0;1;32m ^
+[0m[1m../../chrome/browser/plugins/hung_plugin_infobar_delegate.cc:36:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_BROWSER_HANGMONITOR_PLUGIN_INFOBAR_KILLBUTTON)) {}
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1773:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BROWSER_HANGMONITOR_PLUGIN_INFOBAR_KILLBUTTON'[0m
+#define IDS_BROWSER_HANGMONITOR_PLUGIN_INFOBAR_KILLBUTTON _Pragma("whitelisted_resource_5351") 5351
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5351
+[0;1;32m ^
+[0m2 warnings generated.

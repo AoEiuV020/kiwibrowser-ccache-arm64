@@ -1,0 +1,37 @@
+[1m../../chrome/browser/task_manager/providers/web_contents/subframe_task.cc:63:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         ? IDS_TASK_MANAGER_ISOLATED_INCOGNITO_SUBFRAMES_PREFIX
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1279:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_ISOLATED_INCOGNITO_SUBFRAMES_PREFIX'[0m
+#define IDS_TASK_MANAGER_ISOLATED_INCOGNITO_SUBFRAMES_PREFIX _Pragma("whitelisted_resource_4817") 4817
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4817
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/web_contents/subframe_task.cc:64:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         : IDS_TASK_MANAGER_ISOLATED_SUBFRAMES_PREFIX;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:1278:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_ISOLATED_SUBFRAMES_PREFIX'[0m
+#define IDS_TASK_MANAGER_ISOLATED_SUBFRAMES_PREFIX _Pragma("whitelisted_resource_4816") 4816
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4816
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/web_contents/subframe_task.cc:85:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       ? IDS_TASK_MANAGER_SUBFRAME_INCOGNITO_PREFIX
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1273:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_SUBFRAME_INCOGNITO_PREFIX'[0m
+#define IDS_TASK_MANAGER_SUBFRAME_INCOGNITO_PREFIX _Pragma("whitelisted_resource_4811") 4811
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4811
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/web_contents/subframe_task.cc:86:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       : IDS_TASK_MANAGER_SUBFRAME_PREFIX;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1272:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_SUBFRAME_PREFIX'[0m
+#define IDS_TASK_MANAGER_SUBFRAME_PREFIX _Pragma("whitelisted_resource_4810") 4810
+[0;1;32m                                         ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4810
+[0;1;32m ^
+[0m4 warnings generated.

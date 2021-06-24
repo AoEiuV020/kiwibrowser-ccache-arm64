@@ -1,0 +1,28 @@
+[1m../../chrome/browser/background/background_contents_service.cc:153:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    notification_icon = rb.GetImageNamed(IDR_EXTENSION_DEFAULT_ICON);
+[0;1;32m                                         ^
+[0m[1mgen/extensions/grit/extensions_browser_resources.h:6:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_EXTENSION_DEFAULT_ICON'[0m
+#define IDR_EXTENSION_DEFAULT_ICON _Pragma("whitelisted_resource_24451") 24451
+[0;1;32m                                   ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_24451
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_contents_service.cc:175:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      extension->is_app() ? IDS_BACKGROUND_CRASHED_APP_BALLOON_MESSAGE :
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:799:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BACKGROUND_CRASHED_APP_BALLOON_MESSAGE'[0m
+#define IDS_BACKGROUND_CRASHED_APP_BALLOON_MESSAGE _Pragma("whitelisted_resource_4141") 4141
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4141
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_contents_service.cc:176:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                            IDS_BACKGROUND_CRASHED_EXTENSION_BALLOON_MESSAGE,
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:800:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BACKGROUND_CRASHED_EXTENSION_BALLOON_MESSAGE'[0m
+#define IDS_BACKGROUND_CRASHED_EXTENSION_BALLOON_MESSAGE _Pragma("whitelisted_resource_4142") 4142
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4142
+[0;1;32m ^
+[0m3 warnings generated.

@@ -1,0 +1,73 @@
+[1m../../chrome/browser/background/background_mode_manager.cc:144:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                              IDS_BACKGROUND_APP_NOT_INSTALLED);
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:801:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BACKGROUND_APP_NOT_INSTALLED'[0m
+#define IDS_BACKGROUND_APP_NOT_INSTALLED _Pragma("whitelisted_resource_4143") 4143
+[0;1;32m                                         ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4143
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:376:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  base::string16 name = l10n_util::GetStringUTF16(IDS_PROFILES_DEFAULT_NAME);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2209:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROFILES_DEFAULT_NAME'[0m
+#define IDS_PROFILES_DEFAULT_NAME _Pragma("whitelisted_resource_5848") 5848
+[0;1;32m                                  ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5848
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:914:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_STATUS_TRAY_ICON);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chrome_unscaled_resources.h:8:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_STATUS_TRAY_ICON'[0m
+#define IDR_STATUS_TRAY_ICON _Pragma("whitelisted_resource_10158") 10158
+[0;1;32m                             ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10158
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:936:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_PRODUCT_NAME));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/chromium_strings.h:34:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRODUCT_NAME'[0m
+#define IDS_PRODUCT_NAME _Pragma("whitelisted_resource_429") 429
+[0;1;32m                         ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_429
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:962:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu->AddItem(IDC_ABOUT, l10n_util::GetStringUTF16(IDS_ABOUT));
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:87:19: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ABOUT'[0m
+#define IDS_ABOUT _Pragma("whitelisted_resource_531") 531
+[0;1;32m                  ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_531
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:963:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu->AddItemWithStringId(IDC_TASK_MANAGER, IDS_TASK_MANAGER);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:934:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER'[0m
+#define IDS_TASK_MANAGER _Pragma("whitelisted_resource_4277") 4277
+[0;1;32m                         ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4277
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:1001:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_STATUS_TRAY_KEEP_CHROME_RUNNING_IN_BACKGROUND);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/chromium_strings.h:52:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_STATUS_TRAY_KEEP_CHROME_RUNNING_IN_BACKGROUND'[0m
+#define IDS_STATUS_TRAY_KEEP_CHROME_RUNNING_IN_BACKGROUND _Pragma("whitelisted_resource_464") 464
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_464
+[0;1;32m ^
+[0m[1m../../chrome/browser/background/background_mode_manager.cc:1012:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  menu->AddItemWithStringId(IDC_EXIT, IDS_EXIT);
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:952:18: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_EXIT'[0m
+#define IDS_EXIT _Pragma("whitelisted_resource_4296") 4296
+[0;1;32m                 ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4296
+[0;1;32m ^
+[0m8 warnings generated.

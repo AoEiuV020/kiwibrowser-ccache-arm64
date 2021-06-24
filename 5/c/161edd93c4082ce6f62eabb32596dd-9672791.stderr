@@ -1,0 +1,325 @@
+[1m../../chrome/browser/sync/sync_ui_util.cc:67:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SIGNED_IN_WITH_SYNC_DISABLED);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2337:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNED_IN_WITH_SYNC_DISABLED'[0m
+#define IDS_SIGNED_IN_WITH_SYNC_DISABLED _Pragma("whitelisted_resource_5985") 5985
+[0;1;32m                                         ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5985
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:70:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_SIGNED_IN_WITH_SYNC_SUPPRESSED);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2338:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNED_IN_WITH_SYNC_SUPPRESSED'[0m
+#define IDS_SIGNED_IN_WITH_SYNC_SUPPRESSED _Pragma("whitelisted_resource_5986") 5986
+[0;1;32m                                           ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5986
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:80:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          sync_everything ? IDS_SYNC_ACCOUNT_SYNCING
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2312:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ACCOUNT_SYNCING'[0m
+#define IDS_SYNC_ACCOUNT_SYNCING _Pragma("whitelisted_resource_5959") 5959
+[0;1;32m                                 ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5959
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:81:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          : IDS_SYNC_ACCOUNT_SYNCING_CUSTOM_DATA_TYPES);
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2313:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ACCOUNT_SYNCING_CUSTOM_DATA_TYPES'[0m
+#define IDS_SYNC_ACCOUNT_SYNCING_CUSTOM_DATA_TYPES _Pragma("whitelisted_resource_5960") 5960
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5960
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:84:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_ACCOUNT_SYNCING_WITH_MANAGE_LINK,
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2340:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ACCOUNT_SYNCING_WITH_MANAGE_LINK'[0m
+#define IDS_SYNC_ACCOUNT_SYNCING_WITH_MANAGE_LINK _Pragma("whitelisted_resource_5988") 5988
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5988
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:100:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      status_label->assign(l10n_util::GetStringUTF16(IDS_SYNC_UPGRADE_CLIENT));
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:150:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_UPGRADE_CLIENT'[0m
+#define IDS_SYNC_UPGRADE_CLIENT _Pragma("whitelisted_resource_619") 619
+[0;1;32m                                ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_619
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:102:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SYNC_UPGRADE_CLIENT_LINK_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/chromium_strings.h:151:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_UPGRADE_CLIENT_LINK_LABEL'[0m
+#define IDS_SYNC_UPGRADE_CLIENT_LINK_LABEL _Pragma("whitelisted_resource_620") 620
+[0;1;32m                                           ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_620
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:107:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SYNC_STATUS_ENABLE_SYNC_ON_ACCOUNT));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2348:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_STATUS_ENABLE_SYNC_ON_ACCOUNT'[0m
+#define IDS_SYNC_STATUS_ENABLE_SYNC_ON_ACCOUNT _Pragma("whitelisted_resource_5996") 5996
+[0;1;32m                                               ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5996
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:130:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_SYNC_RELOGIN_LINK_LABEL));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2353:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_RELOGIN_LINK_LABEL'[0m
+#define IDS_SYNC_RELOGIN_LINK_LABEL _Pragma("whitelisted_resource_6001") 6001
+[0;1;32m                                    ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6001
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:134:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_SYNC_STATUS_UNRECOVERABLE_ERROR));
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2344:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_STATUS_UNRECOVERABLE_ERROR'[0m
+#define IDS_SYNC_STATUS_UNRECOVERABLE_ERROR _Pragma("whitelisted_resource_5992") 5992
+[0;1;32m                                            ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5992
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:138:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_SYNC_STATUS_UNRECOVERABLE_ERROR_NEEDS_SIGNOUT));
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2345:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_STATUS_UNRECOVERABLE_ERROR_NEEDS_SIGNOUT'[0m
+#define IDS_SYNC_STATUS_UNRECOVERABLE_ERROR_NEEDS_SIGNOUT _Pragma("whitelisted_resource_5993") 5993
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5993
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:162:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SYNC_SERVICE_UNAVAILABLE));
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:967:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SERVICE_UNAVAILABLE'[0m
+#define IDS_SYNC_SERVICE_UNAVAILABLE _Pragma("whitelisted_resource_16100") 16100
+[0;1;32m                                     ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16100
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:166:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SYNC_SERVER_IS_UNREACHABLE));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2351:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SERVER_IS_UNREACHABLE'[0m
+#define IDS_SYNC_SERVER_IS_UNREACHABLE _Pragma("whitelisted_resource_5999") 5999
+[0;1;32m                                       ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5999
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:176:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      status_label->assign(l10n_util::GetStringUTF16(IDS_SYNC_RELOGIN_ERROR));
+[0;1;32m                                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2352:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_RELOGIN_ERROR'[0m
+#define IDS_SYNC_RELOGIN_ERROR _Pragma("whitelisted_resource_6000") 6000
+[0;1;32m                               ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6000
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:178:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SYNC_RELOGIN_LINK_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2353:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_RELOGIN_LINK_LABEL'[0m
+#define IDS_SYNC_RELOGIN_LINK_LABEL _Pragma("whitelisted_resource_6001") 6001
+[0;1;32m                                    ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6001
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:218:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SYNC_AUTHENTICATING_LABEL));
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2341:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_AUTHENTICATING_LABEL'[0m
+#define IDS_SYNC_AUTHENTICATING_LABEL _Pragma("whitelisted_resource_5989") 5989
+[0;1;32m                                      ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5989
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:255:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF16(IDS_SYNC_STATUS_NEEDS_PASSWORD));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2346:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_STATUS_NEEDS_PASSWORD'[0m
+#define IDS_SYNC_STATUS_NEEDS_PASSWORD _Pragma("whitelisted_resource_5994") 5994
+[0;1;32m                                       ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5994
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:258:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  IDS_SYNC_STATUS_NEEDS_PASSWORD_LINK_LABEL));
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2347:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_STATUS_NEEDS_PASSWORD_LINK_LABEL'[0m
+#define IDS_SYNC_STATUS_NEEDS_PASSWORD_LINK_LABEL _Pragma("whitelisted_resource_5995") 5995
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5995
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:293:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_SYNC_NTP_SETUP_IN_PROGRESS));
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2362:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_NTP_SETUP_IN_PROGRESS'[0m
+#define IDS_SYNC_NTP_SETUP_IN_PROGRESS _Pragma("whitelisted_resource_6013") 6013
+[0;1;32m                                       ^
+[0m[1m<scratch space>:131:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6013
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:298:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF16(IDS_SYNC_AUTHENTICATING_LABEL));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2341:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_AUTHENTICATING_LABEL'[0m
+#define IDS_SYNC_AUTHENTICATING_LABEL _Pragma("whitelisted_resource_5989") 5989
+[0;1;32m                                      ^
+[0m[1m<scratch space>:133:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5989
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:318:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF16(IDS_SYNC_SETTINGS_NOT_CONFIRMED));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2339:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SETTINGS_NOT_CONFIRMED'[0m
+#define IDS_SYNC_SETTINGS_NOT_CONFIRMED _Pragma("whitelisted_resource_5987") 5987
+[0;1;32m                                        ^
+[0m[1m<scratch space>:135:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5987
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:320:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_SYNC_ERROR_USER_MENU_CONFIRM_SYNC_SETTINGS_BUTTON));
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2326:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_CONFIRM_SYNC_SETTINGS_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_CONFIRM_SYNC_SETTINGS_BUTTON _Pragma("whitelisted_resource_5973") 5973
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:137:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5973
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:329:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF16(IDS_SIGNED_IN_WITH_SYNC_SUPPRESSED));
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2338:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SIGNED_IN_WITH_SYNC_SUPPRESSED'[0m
+#define IDS_SIGNED_IN_WITH_SYNC_SUPPRESSED _Pragma("whitelisted_resource_5986") 5986
+[0;1;32m                                           ^
+[0m[1m<scratch space>:139:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5986
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:374:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        *content_string_id = IDS_SYNC_ERROR_USER_MENU_SIGNOUT_MESSAGE;
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2324:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SIGNOUT_MESSAGE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SIGNOUT_MESSAGE _Pragma("whitelisted_resource_5971") 5971
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:141:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5971
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:375:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        *button_string_id = IDS_SYNC_ERROR_USER_MENU_SIGNOUT_BUTTON;
+[0;1;32m                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2325:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SIGNOUT_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SIGNOUT_BUTTON _Pragma("whitelisted_resource_5972") 5972
+[0;1;32m                                                ^
+[0m[1m<scratch space>:143:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5972
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:380:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *content_string_id = IDS_SYNC_ERROR_USER_MENU_SIGNIN_AGAIN_MESSAGE;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2322:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SIGNIN_AGAIN_MESSAGE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SIGNIN_AGAIN_MESSAGE _Pragma("whitelisted_resource_5969") 5969
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:145:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5969
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:381:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *button_string_id = IDS_SYNC_ERROR_USER_MENU_SIGNIN_AGAIN_BUTTON;
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2323:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SIGNIN_AGAIN_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SIGNIN_AGAIN_BUTTON _Pragma("whitelisted_resource_5970") 5970
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:147:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5970
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:393:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *content_string_id = IDS_SYNC_ERROR_USER_MENU_SUPERVISED_SIGNIN_MESSAGE;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/chromium_strings.h:147:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SUPERVISED_SIGNIN_MESSAGE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SUPERVISED_SIGNIN_MESSAGE _Pragma("whitelisted_resource_616") 616
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:149:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_616
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:399:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *content_string_id = IDS_SYNC_ERROR_USER_MENU_SIGNIN_MESSAGE;
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2318:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SIGNIN_MESSAGE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SIGNIN_MESSAGE _Pragma("whitelisted_resource_5965") 5965
+[0;1;32m                                                ^
+[0m[1m<scratch space>:151:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5965
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:400:25: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    *button_string_id = IDS_SYNC_ERROR_USER_MENU_SIGNIN_BUTTON;
+[0;1;32m                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2319:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_SIGNIN_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_SIGNIN_BUTTON _Pragma("whitelisted_resource_5966") 5966
+[0;1;32m                                               ^
+[0m[1m<scratch space>:153:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5966
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:410:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *content_string_id = IDS_SYNC_ERROR_USER_MENU_UPGRADE_MESSAGE;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/chromium_strings.h:148:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_UPGRADE_MESSAGE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_UPGRADE_MESSAGE _Pragma("whitelisted_resource_617") 617
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:155:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_617
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:411:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *button_string_id = IDS_SYNC_ERROR_USER_MENU_UPGRADE_BUTTON;
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:149:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_UPGRADE_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_UPGRADE_BUTTON _Pragma("whitelisted_resource_618") 618
+[0;1;32m                                                ^
+[0m[1m<scratch space>:157:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_618
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:419:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *content_string_id = IDS_SYNC_ERROR_USER_MENU_PASSPHRASE_MESSAGE;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2320:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_PASSPHRASE_MESSAGE'[0m
+#define IDS_SYNC_ERROR_USER_MENU_PASSPHRASE_MESSAGE _Pragma("whitelisted_resource_5967") 5967
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:159:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5967
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:420:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *button_string_id = IDS_SYNC_ERROR_USER_MENU_PASSPHRASE_BUTTON;
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2321:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_PASSPHRASE_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_PASSPHRASE_BUTTON _Pragma("whitelisted_resource_5968") 5968
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:161:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5968
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:426:28: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *content_string_id = IDS_SYNC_SETTINGS_NOT_CONFIRMED;
+[0;1;32m                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2339:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_SETTINGS_NOT_CONFIRMED'[0m
+#define IDS_SYNC_SETTINGS_NOT_CONFIRMED _Pragma("whitelisted_resource_5987") 5987
+[0;1;32m                                        ^
+[0m[1m<scratch space>:163:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5987
+[0;1;32m ^
+[0m[1m../../chrome/browser/sync/sync_ui_util.cc:427:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      *button_string_id = IDS_SYNC_ERROR_USER_MENU_CONFIRM_SYNC_SETTINGS_BUTTON;
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2326:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SYNC_ERROR_USER_MENU_CONFIRM_SYNC_SETTINGS_BUTTON'[0m
+#define IDS_SYNC_ERROR_USER_MENU_CONFIRM_SYNC_SETTINGS_BUTTON _Pragma("whitelisted_resource_5973") 5973
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:165:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5973
+[0;1;32m ^
+[0m36 warnings generated.

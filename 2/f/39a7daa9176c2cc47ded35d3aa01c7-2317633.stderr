@@ -1,0 +1,10 @@
+[1m../../components/offline_pages/core/renovations/page_renovation_loader.cc:88:29: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      rb.GetRawDataResource(IDR_OFFLINE_PAGES_RENOVATIONS_JS).as_string());
+[0;1;32m                            ^
+[0m[1mgen/components/grit/components_resources.h:33:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_OFFLINE_PAGES_RENOVATIONS_JS'[0m
+#define IDR_OFFLINE_PAGES_RENOVATIONS_JS _Pragma("whitelisted_resource_17046") 17046
+[0;1;32m                                         ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_17046
+[0;1;32m ^
+[0m1 warning generated.

@@ -1,0 +1,19 @@
+[1m../../chrome/browser/banners/app_banner_infobar_delegate_desktop.cc:78:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_ADD_TO_SHELF_INFOBAR_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1656:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD_TO_SHELF_INFOBAR_TITLE'[0m
+#define IDS_ADD_TO_SHELF_INFOBAR_TITLE _Pragma("whitelisted_resource_5227") 5227
+[0;1;32m                                       ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5227
+[0;1;32m ^
+[0m[1m../../chrome/browser/banners/app_banner_infobar_delegate_desktop.cc:87:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_ADD_TO_SHELF_INFOBAR_ADD_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1657:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ADD_TO_SHELF_INFOBAR_ADD_BUTTON'[0m
+#define IDS_ADD_TO_SHELF_INFOBAR_ADD_BUTTON _Pragma("whitelisted_resource_5228") 5228
+[0;1;32m                                            ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5228
+[0;1;32m ^
+[0m2 warnings generated.

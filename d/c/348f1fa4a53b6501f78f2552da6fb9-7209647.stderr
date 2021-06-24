@@ -1,0 +1,388 @@
+[1m../../chrome/browser/search/local_ntp_source.cc:94:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {kExtensionsHtmlFilename, IDR_LOCAL_NTP_EXTENSIONS_HTML, "text/html"},
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/browser_resources.h:115:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_EXTENSIONS_HTML'[0m
+#define IDR_LOCAL_NTP_EXTENSIONS_HTML _Pragma("whitelisted_resource_11196") 11196
+[0;1;32m                                      ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11196
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:95:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {kNewHtmlFilename, IDR_LOCAL_NTP_NEW_HTML, "text/html"},
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/browser_resources.h:116:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_NEW_HTML'[0m
+#define IDR_LOCAL_NTP_NEW_HTML _Pragma("whitelisted_resource_11197") 11197
+[0;1;32m                               ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11197
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:96:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"local-ntp.js", IDR_LOCAL_NTP_JS, "application/javascript"},
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/browser_resources.h:118:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_JS'[0m
+#define IDR_LOCAL_NTP_JS _Pragma("whitelisted_resource_11199") 11199
+[0;1;32m                         ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11199
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:97:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"voice.js", IDR_LOCAL_NTP_VOICE_JS, "application/javascript"},
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:120:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_VOICE_JS'[0m
+#define IDR_LOCAL_NTP_VOICE_JS _Pragma("whitelisted_resource_11201") 11201
+[0;1;32m                               ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11201
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:98:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"custom-backgrounds.js", IDR_LOCAL_NTP_CUSTOM_BACKGROUNDS_JS,
+[0;1;32m                              ^
+[0m[1mgen/chrome/grit/browser_resources.h:122:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_CUSTOM_BACKGROUNDS_JS'[0m
+#define IDR_LOCAL_NTP_CUSTOM_BACKGROUNDS_JS _Pragma("whitelisted_resource_11203") 11203
+[0;1;32m                                            ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11203
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:102:23: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"local-ntp.css", IDR_LOCAL_NTP_CSS, "text/css"},
+[0;1;32m                      ^
+[0m[1mgen/chrome/grit/browser_resources.h:117:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_CSS'[0m
+#define IDR_LOCAL_NTP_CSS _Pragma("whitelisted_resource_11198") 11198
+[0;1;32m                          ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11198
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:103:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"voice.css", IDR_LOCAL_NTP_VOICE_CSS, "text/css"},
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/browser_resources.h:119:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_VOICE_CSS'[0m
+#define IDR_LOCAL_NTP_VOICE_CSS _Pragma("whitelisted_resource_11200") 11200
+[0;1;32m                                ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11200
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:104:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"custom-backgrounds.css", IDR_LOCAL_NTP_CUSTOM_BACKGROUNDS_CSS,
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:121:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_CUSTOM_BACKGROUNDS_CSS'[0m
+#define IDR_LOCAL_NTP_CUSTOM_BACKGROUNDS_CSS _Pragma("whitelisted_resource_11202") 11202
+[0;1;32m                                             ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11202
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:106:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"images/close_3_mask.png", IDR_CLOSE_3_MASK, "image/png"},
+[0;1;32m                                ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:9:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_CLOSE_3_MASK'[0m
+#define IDR_CLOSE_3_MASK _Pragma("whitelisted_resource_26965") 26965
+[0;1;32m                         ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26965
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:107:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"images/ntp_default_favicon.png", IDR_NTP_DEFAULT_FAVICON, "image/png"},
+[0;1;32m                                       ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:39:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_NTP_DEFAULT_FAVICON'[0m
+#define IDR_NTP_DEFAULT_FAVICON _Pragma("whitelisted_resource_27005") 27005
+[0;1;32m                                ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_27005
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:132:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_NEW_TAB_THUMBNAIL_REMOVED_NOTIFICATION);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2092:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_THUMBNAIL_REMOVED_NOTIFICATION'[0m
+#define IDS_NEW_TAB_THUMBNAIL_REMOVED_NOTIFICATION _Pragma("whitelisted_resource_5720") 5720
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5720
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:134:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_NEW_TAB_REMOVE_THUMBNAIL_TOOLTIP);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2093:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_REMOVE_THUMBNAIL_TOOLTIP'[0m
+#define IDS_NEW_TAB_REMOVE_THUMBNAIL_TOOLTIP _Pragma("whitelisted_resource_5721") 5721
+[0;1;32m                                             ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5721
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:136:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_NEW_TAB_UNDO_THUMBNAIL_REMOVE);
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:341:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_UNDO_THUMBNAIL_REMOVE'[0m
+#define IDS_NEW_TAB_UNDO_THUMBNAIL_REMOVE _Pragma("whitelisted_resource_15447") 15447
+[0;1;32m                                          ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15447
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:138:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_NEW_TAB_RESTORE_THUMBNAILS_SHORT_LINK);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2090:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_RESTORE_THUMBNAILS_SHORT_LINK'[0m
+#define IDS_NEW_TAB_RESTORE_THUMBNAILS_SHORT_LINK _Pragma("whitelisted_resource_5718") 5718
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5718
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:140:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_NEW_TAB_ATTRIBUTION_INTRO);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2091:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_ATTRIBUTION_INTRO'[0m
+#define IDS_NEW_TAB_ATTRIBUTION_INTRO _Pragma("whitelisted_resource_5719") 5719
+[0;1;32m                                      ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5719
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:141:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  AddString(translated_strings.get(), "title", IDS_NEW_TAB_TITLE);
+[0;1;32m                                               ^
+[0m[1mgen/components/strings/grit/components_strings.h:336:27: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_TITLE'[0m
+#define IDS_NEW_TAB_TITLE _Pragma("whitelisted_resource_15442") 15442
+[0;1;32m                          ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15442
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:143:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_NEW_TAB_MOST_VISITED);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2089:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_MOST_VISITED'[0m
+#define IDS_NEW_TAB_MOST_VISITED _Pragma("whitelisted_resource_5717") 5717
+[0;1;32m                                 ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5717
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:148:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  ? IDS_GOOGLE_SEARCH_BOX_EMPTY_HINT_MD
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1684:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GOOGLE_SEARCH_BOX_EMPTY_HINT_MD'[0m
+#define IDS_GOOGLE_SEARCH_BOX_EMPTY_HINT_MD _Pragma("whitelisted_resource_5259") 5259
+[0;1;32m                                            ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5259
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:149:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                  : IDS_GOOGLE_SEARCH_BOX_EMPTY_HINT);
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1683:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GOOGLE_SEARCH_BOX_EMPTY_HINT'[0m
+#define IDS_GOOGLE_SEARCH_BOX_EMPTY_HINT _Pragma("whitelisted_resource_5258") 5258
+[0;1;32m                                         ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5258
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:151:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_CUSTOMIZE_BACKGROUND);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1699:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_CUSTOMIZE_BACKGROUND'[0m
+#define IDS_NTP_CUSTOM_BG_CUSTOMIZE_BACKGROUND _Pragma("whitelisted_resource_5274") 5274
+[0;1;32m                                               ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5274
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:153:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_GOOGLE_PHOTOS);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1700:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_GOOGLE_PHOTOS'[0m
+#define IDS_NTP_CUSTOM_BG_GOOGLE_PHOTOS _Pragma("whitelisted_resource_5275") 5275
+[0;1;32m                                        ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5275
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:155:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_CHROME_WALLPAPERS);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1701:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_CHROME_WALLPAPERS'[0m
+#define IDS_NTP_CUSTOM_BG_CHROME_WALLPAPERS _Pragma("whitelisted_resource_5276") 5276
+[0;1;32m                                            ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5276
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:157:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_UPLOAD_AN_IMAGE);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1702:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_UPLOAD_AN_IMAGE'[0m
+#define IDS_NTP_CUSTOM_BG_UPLOAD_AN_IMAGE _Pragma("whitelisted_resource_5277") 5277
+[0;1;32m                                          ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5277
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:159:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_RESTORE_DEFAULT);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1707:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_RESTORE_DEFAULT'[0m
+#define IDS_NTP_CUSTOM_BG_RESTORE_DEFAULT _Pragma("whitelisted_resource_5282") 5282
+[0;1;32m                                          ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5282
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:161:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_SELECT_A_COLLECTION);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1703:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_SELECT_A_COLLECTION'[0m
+#define IDS_NTP_CUSTOM_BG_SELECT_A_COLLECTION _Pragma("whitelisted_resource_5278") 5278
+[0;1;32m                                              ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5278
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:163:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_BG_DAILY_REFRESH);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1705:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_BG_DAILY_REFRESH'[0m
+#define IDS_NTP_CUSTOM_BG_DAILY_REFRESH _Pragma("whitelisted_resource_5280") 5280
+[0;1;32m                                        ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5280
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:165:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NTP_CUSTOM_LINKS_DONE);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1693:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NTP_CUSTOM_LINKS_DONE'[0m
+#define IDS_NTP_CUSTOM_LINKS_DONE _Pragma("whitelisted_resource_5268") 5268
+[0;1;32m                                  ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5268
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:169:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_AUDIO_ERROR);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2096:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_AUDIO_ERROR'[0m
+#define IDS_NEW_TAB_VOICE_AUDIO_ERROR _Pragma("whitelisted_resource_5724") 5724
+[0;1;32m                                      ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5724
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:170:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddString(translated_strings.get(), "details", IDS_NEW_TAB_VOICE_DETAILS);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2097:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_DETAILS'[0m
+#define IDS_NEW_TAB_VOICE_DETAILS _Pragma("whitelisted_resource_5725") 5725
+[0;1;32m                                  ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5725
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:172:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_CLICK_TO_VIEW_DOODLE);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1679:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLICK_TO_VIEW_DOODLE'[0m
+#define IDS_CLICK_TO_VIEW_DOODLE _Pragma("whitelisted_resource_5254") 5254
+[0;1;32m                                 ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5254
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:174:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_TOOLTIP_MIC_SEARCH);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1718:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TOOLTIP_MIC_SEARCH'[0m
+#define IDS_TOOLTIP_MIC_SEARCH _Pragma("whitelisted_resource_5294") 5294
+[0;1;32m                               ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5294
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:176:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_LANGUAGE_ERROR);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2098:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_LANGUAGE_ERROR'[0m
+#define IDS_NEW_TAB_VOICE_LANGUAGE_ERROR _Pragma("whitelisted_resource_5726") 5726
+[0;1;32m                                         ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5726
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:177:54: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddString(translated_strings.get(), "learnMore", IDS_LEARN_MORE);
+[0;1;32m                                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:179:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_LISTENING);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2099:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_LISTENING'[0m
+#define IDS_NEW_TAB_VOICE_LISTENING _Pragma("whitelisted_resource_5727") 5727
+[0;1;32m                                    ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5727
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:181:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_NETWORK_ERROR);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2100:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_NETWORK_ERROR'[0m
+#define IDS_NEW_TAB_VOICE_NETWORK_ERROR _Pragma("whitelisted_resource_5728") 5728
+[0;1;32m                                        ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5728
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:183:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_NO_TRANSLATION);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2101:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_NO_TRANSLATION'[0m
+#define IDS_NEW_TAB_VOICE_NO_TRANSLATION _Pragma("whitelisted_resource_5729") 5729
+[0;1;32m                                         ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5729
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:184:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddString(translated_strings.get(), "noVoice", IDS_NEW_TAB_VOICE_NO_VOICE);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2102:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_NO_VOICE'[0m
+#define IDS_NEW_TAB_VOICE_NO_VOICE _Pragma("whitelisted_resource_5730") 5730
+[0;1;32m                                   ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5730
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:186:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_PERMISSION_ERROR);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2104:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_PERMISSION_ERROR'[0m
+#define IDS_NEW_TAB_VOICE_PERMISSION_ERROR _Pragma("whitelisted_resource_5732") 5732
+[0;1;32m                                           ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5732
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:187:50: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddString(translated_strings.get(), "ready", IDS_NEW_TAB_VOICE_READY);
+[0;1;32m                                                 ^
+[0m[1mgen/chrome/grit/generated_resources.h:2105:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_READY'[0m
+#define IDS_NEW_TAB_VOICE_READY _Pragma("whitelisted_resource_5733") 5733
+[0;1;32m                                ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5733
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:189:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_TRY_AGAIN);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2106:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_TRY_AGAIN'[0m
+#define IDS_NEW_TAB_VOICE_TRY_AGAIN _Pragma("whitelisted_resource_5734") 5734
+[0;1;32m                                    ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5734
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:190:52: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    AddString(translated_strings.get(), "waiting", IDS_NEW_TAB_VOICE_WAITING);
+[0;1;32m                                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2107:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_WAITING'[0m
+#define IDS_NEW_TAB_VOICE_WAITING _Pragma("whitelisted_resource_5735") 5735
+[0;1;32m                                  ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5735
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:192:15: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              IDS_NEW_TAB_VOICE_OTHER_ERROR);
+[0;1;32m              ^
+[0m[1mgen/chrome/grit/generated_resources.h:2103:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_TAB_VOICE_OTHER_ERROR'[0m
+#define IDS_NEW_TAB_VOICE_OTHER_ERROR _Pragma("whitelisted_resource_5731") 5731
+[0;1;32m                                      ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5731
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/local_ntp_source.cc:670:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                           .GetRawDataResource(IDR_LOCAL_NTP_HTML)
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/browser_resources.h:114:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_LOCAL_NTP_HTML'[0m
+#define IDR_LOCAL_NTP_HTML _Pragma("whitelisted_resource_11195") 11195
+[0;1;32m                           ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11195
+[0;1;32m ^
+[0m43 warnings generated.

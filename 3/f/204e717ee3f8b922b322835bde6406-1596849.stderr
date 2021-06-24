@@ -1,0 +1,28 @@
+[1m../../chrome/browser/password_manager/generated_password_saved_infobar_delegate_android.cc:28:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : button_label_(l10n_util::GetStringUTF16(IDS_OK)) {
+[0;1;32m                                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:1022:16: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_OK'[0m
+#define IDS_OK _Pragma("whitelisted_resource_16160") 16160
+[0;1;32m               ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16160
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/generated_password_saved_infobar_delegate_android.cc:29:51: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  base::string16 link = l10n_util::GetStringUTF16(IDS_MANAGE_PASSWORDS_LINK);
+[0;1;32m                                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2491:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_LINK'[0m
+#define IDS_MANAGE_PASSWORDS_LINK _Pragma("whitelisted_resource_6241") 6241
+[0;1;32m                                  ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6241
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/generated_password_saved_infobar_delegate_android.cc:33:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT_INFOBAR, link, &offset);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2490:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT_INFOBAR'[0m
+#define IDS_MANAGE_PASSWORDS_CONFIRM_GENERATED_TEXT_INFOBAR _Pragma("whitelisted_resource_6240") 6240
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6240
+[0;1;32m ^
+[0m3 warnings generated.

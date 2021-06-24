@@ -1,0 +1,109 @@
+[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:45:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_CLEAR_BROWSING_DATA_CALCULATING);
+[0;1;32m                                     ^
+[0m[1mgen/components/strings/grit/components_strings.h:117:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLEAR_BROWSING_DATA_CALCULATING'[0m
+#define IDS_CLEAR_BROWSING_DATA_CALCULATING _Pragma("whitelisted_resource_15216") 15216
+[0;1;32m                                            ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15216
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:64:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                  IDS_DEL_CACHE_COUNTER_BASIC, formatted_size)
+[0;1;32m                                  ^
+[0m[1mgen/components/strings/grit/components_strings.h:122:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_CACHE_COUNTER_BASIC'[0m
+#define IDS_DEL_CACHE_COUNTER_BASIC _Pragma("whitelisted_resource_15221") 15221
+[0;1;32m                                    ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15221
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:68:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          is_basic_tab ? IDS_DEL_CACHE_COUNTER_UPPER_ESTIMATE_BASIC
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:123:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_CACHE_COUNTER_UPPER_ESTIMATE_BASIC'[0m
+#define IDS_DEL_CACHE_COUNTER_UPPER_ESTIMATE_BASIC _Pragma("whitelisted_resource_15222") 15222
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15222
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:69:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       : IDS_DEL_CACHE_COUNTER_UPPER_ESTIMATE,
+[0;1;32m                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:120:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_CACHE_COUNTER_UPPER_ESTIMATE'[0m
+#define IDS_DEL_CACHE_COUNTER_UPPER_ESTIMATE _Pragma("whitelisted_resource_15219") 15219
+[0;1;32m                                             ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15219
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:73:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        is_basic_tab ? IDS_DEL_CACHE_COUNTER_ALMOST_EMPTY_BASIC
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:124:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_CACHE_COUNTER_ALMOST_EMPTY_BASIC'[0m
+#define IDS_DEL_CACHE_COUNTER_ALMOST_EMPTY_BASIC _Pragma("whitelisted_resource_15223") 15223
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15223
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:74:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                     : IDS_DEL_CACHE_COUNTER_ALMOST_EMPTY);
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:121:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_CACHE_COUNTER_ALMOST_EMPTY'[0m
+#define IDS_DEL_CACHE_COUNTER_ALMOST_EMPTY _Pragma("whitelisted_resource_15220") 15220
+[0;1;32m                                           ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15220
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:88:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    int del_cookie_counter_msg_id = IDS_DEL_COOKIES_COUNTER_ADVANCED;
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:140:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_COOKIES_COUNTER_ADVANCED'[0m
+#define IDS_DEL_COOKIES_COUNTER_ADVANCED _Pragma("whitelisted_resource_15239") 15239
+[0;1;32m                                         ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15239
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:96:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DEL_COOKIES_COUNTER_ADVANCED_WITH_EXCEPTION;
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:141:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_COOKIES_COUNTER_ADVANCED_WITH_EXCEPTION'[0m
+#define IDS_DEL_COOKIES_COUNTER_ADVANCED_WITH_EXCEPTION _Pragma("whitelisted_resource_15240") 15240
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15240
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:107:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DEL_MEDIA_LICENSES_COUNTER_SITE_COMMENT,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:146:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_MEDIA_LICENSES_COUNTER_SITE_COMMENT'[0m
+#define IDS_DEL_MEDIA_LICENSES_COUNTER_SITE_COMMENT _Pragma("whitelisted_resource_15245") 15245
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15245
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:111:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DEL_MEDIA_LICENSES_COUNTER_GENERAL_COMMENT);
+[0;1;32m        ^
+[0m[1mgen/components/strings/grit/components_strings.h:145:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_MEDIA_LICENSES_COUNTER_GENERAL_COMMENT'[0m
+#define IDS_DEL_MEDIA_LICENSES_COUNTER_GENERAL_COMMENT _Pragma("whitelisted_resource_15244") 15244
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15244
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:136:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_DEL_HOSTED_APPS_COUNTER_AND_X_MORE,
+[0;1;32m          ^
+[0m[1mgen/components/strings/grit/components_strings.h:144:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_HOSTED_APPS_COUNTER_AND_X_MORE'[0m
+#define IDS_DEL_HOSTED_APPS_COUNTER_AND_X_MORE _Pragma("whitelisted_resource_15243") 15243
+[0;1;32m                                               ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15243
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/counters/browsing_data_counter_utils.cc:145:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DEL_HOSTED_APPS_COUNTER, hosted_apps_count),
+[0;1;32m            ^
+[0m[1mgen/components/strings/grit/components_strings.h:143:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEL_HOSTED_APPS_COUNTER'[0m
+#define IDS_DEL_HOSTED_APPS_COUNTER _Pragma("whitelisted_resource_15242") 15242
+[0;1;32m                                    ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15242
+[0;1;32m ^
+[0m12 warnings generated.

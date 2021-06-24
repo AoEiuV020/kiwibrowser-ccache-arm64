@@ -1,0 +1,28 @@
+[1m../../chrome/browser/password_manager/update_password_infobar_delegate_android.cc:49:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_PASSWORD_MANAGER_SMART_LOCK
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:492:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SMART_LOCK'[0m
+#define IDS_PASSWORD_MANAGER_SMART_LOCK _Pragma("whitelisted_resource_15600") 15600
+[0;1;32m                                        ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15600
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/update_password_infobar_delegate_android.cc:50:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_PASSWORD_MANAGER_TITLE_BRAND);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/chromium_strings.h:60:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_TITLE_BRAND'[0m
+#define IDS_PASSWORD_MANAGER_TITLE_BRAND _Pragma("whitelisted_resource_474") 474
+[0;1;32m                                         ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_474
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/update_password_infobar_delegate_android.cc:102:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PASSWORD_MANAGER_UPDATE_BUTTON);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1799:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_UPDATE_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_UPDATE_BUTTON _Pragma("whitelisted_resource_5377") 5377
+[0;1;32m                                           ^
+[0m[1m<scratch space>:98:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5377
+[0;1;32m ^
+[0m3 warnings generated.

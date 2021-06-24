@@ -1,0 +1,154 @@
+[1m../../chrome/browser/permissions/permission_request_impl.cc:96:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_GEOLOCATION_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2452:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GEOLOCATION_INFOBAR_TEXT'[0m
+#define IDS_GEOLOCATION_INFOBAR_TEXT _Pragma("whitelisted_resource_6202") 6202
+[0;1;32m                                     ^
+[0m[1m<scratch space>:381:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6202
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:99:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_NOTIFICATIONS_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2424:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NOTIFICATIONS_INFOBAR_TEXT'[0m
+#define IDS_NOTIFICATIONS_INFOBAR_TEXT _Pragma("whitelisted_resource_6077") 6077
+[0;1;32m                                       ^
+[0m[1m<scratch space>:383:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6077
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:102:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_MIDI_SYSEX_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2461:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIDI_SYSEX_INFOBAR_TEXT'[0m
+#define IDS_MIDI_SYSEX_INFOBAR_TEXT _Pragma("whitelisted_resource_6211") 6211
+[0;1;32m                                    ^
+[0m[1m<scratch space>:385:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6211
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:105:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_PROTECTED_MEDIA_IDENTIFIER_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2488:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROTECTED_MEDIA_IDENTIFIER_INFOBAR_TEXT'[0m
+#define IDS_PROTECTED_MEDIA_IDENTIFIER_INFOBAR_TEXT _Pragma("whitelisted_resource_6238") 6238
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:387:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6238
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:108:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_MEDIA_CAPTURE_AUDIO_ONLY_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2540:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_CAPTURE_AUDIO_ONLY_INFOBAR_TEXT'[0m
+#define IDS_MEDIA_CAPTURE_AUDIO_ONLY_INFOBAR_TEXT _Pragma("whitelisted_resource_6299") 6299
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:389:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6299
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:111:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_MEDIA_CAPTURE_VIDEO_ONLY_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2541:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_CAPTURE_VIDEO_ONLY_INFOBAR_TEXT'[0m
+#define IDS_MEDIA_CAPTURE_VIDEO_ONLY_INFOBAR_TEXT _Pragma("whitelisted_resource_6300") 6300
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:391:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6300
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:114:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_ACCESSIBILITY_EVENTS_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1744:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBILITY_EVENTS_INFOBAR_TEXT'[0m
+#define IDS_ACCESSIBILITY_EVENTS_INFOBAR_TEXT _Pragma("whitelisted_resource_5321") 5321
+[0;1;32m                                              ^
+[0m[1m<scratch space>:393:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5321
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:117:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_CLIPBOARD_INFOBAR_TEXT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1746:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLIPBOARD_INFOBAR_TEXT'[0m
+#define IDS_CLIPBOARD_INFOBAR_TEXT _Pragma("whitelisted_resource_5323") 5323
+[0;1;32m                                   ^
+[0m[1m<scratch space>:395:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5323
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:134:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_GEOLOCATION_INFOBAR_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2453:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_GEOLOCATION_INFOBAR_PERMISSION_FRAGMENT'[0m
+#define IDS_GEOLOCATION_INFOBAR_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_6203") 6203
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:397:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6203
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:137:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_NOTIFICATION_PERMISSIONS_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2425:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NOTIFICATION_PERMISSIONS_FRAGMENT'[0m
+#define IDS_NOTIFICATION_PERMISSIONS_FRAGMENT _Pragma("whitelisted_resource_6078") 6078
+[0;1;32m                                              ^
+[0m[1m<scratch space>:399:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6078
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:140:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_MIDI_SYSEX_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2462:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MIDI_SYSEX_PERMISSION_FRAGMENT'[0m
+#define IDS_MIDI_SYSEX_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_6212") 6212
+[0;1;32m                                           ^
+[0m[1m<scratch space>:401:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6212
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:144:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_PROTECTED_MEDIA_IDENTIFIER_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2487:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROTECTED_MEDIA_IDENTIFIER_PERMISSION_FRAGMENT'[0m
+#define IDS_PROTECTED_MEDIA_IDENTIFIER_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_6237") 6237
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:403:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6237
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:148:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_FLASH_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1833:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_FLASH_PERMISSION_FRAGMENT'[0m
+#define IDS_FLASH_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_5418") 5418
+[0;1;32m                                      ^
+[0m[1m<scratch space>:405:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5418
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:151:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_MEDIA_CAPTURE_AUDIO_ONLY_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2544:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_CAPTURE_AUDIO_ONLY_PERMISSION_FRAGMENT'[0m
+#define IDS_MEDIA_CAPTURE_AUDIO_ONLY_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_6303") 6303
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:407:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6303
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:154:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_MEDIA_CAPTURE_VIDEO_ONLY_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2545:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_CAPTURE_VIDEO_ONLY_PERMISSION_FRAGMENT'[0m
+#define IDS_MEDIA_CAPTURE_VIDEO_ONLY_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_6304") 6304
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:409:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6304
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:157:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_ACCESSIBILITY_EVENTS_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1743:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_ACCESSIBILITY_EVENTS_PERMISSION_FRAGMENT'[0m
+#define IDS_ACCESSIBILITY_EVENTS_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_5320") 5320
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:411:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5320
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_request_impl.cc:160:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      message_id = IDS_CLIPBOARD_PERMISSION_FRAGMENT;
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1745:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CLIPBOARD_PERMISSION_FRAGMENT'[0m
+#define IDS_CLIPBOARD_PERMISSION_FRAGMENT _Pragma("whitelisted_resource_5322") 5322
+[0;1;32m                                          ^
+[0m[1m<scratch space>:413:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5322
+[0;1;32m ^
+[0m17 warnings generated.

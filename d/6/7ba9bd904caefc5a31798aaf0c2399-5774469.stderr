@@ -1,0 +1,10 @@
+[1m../../chrome/browser/bookmarks/bookmark_html_writer.cc:327:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        title = l10n_util::GetStringUTF8(IDS_BOOKMARK_BAR_FOLDER_NAME);
+[0;1;32m                                         ^
+[0m[1mgen/components/strings/grit/components_strings.h:104:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_BOOKMARK_BAR_FOLDER_NAME'[0m
+#define IDS_BOOKMARK_BAR_FOLDER_NAME _Pragma("whitelisted_resource_15202") 15202
+[0;1;32m                                     ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15202
+[0;1;32m ^
+[0m1 warning generated.

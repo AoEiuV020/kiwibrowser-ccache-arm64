@@ -1,0 +1,82 @@
+[1m../../chrome/browser/task_manager/providers/child_process_task.cc:43:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_TASK_MANAGER_UNKNOWN_PLUGIN_NAME);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1266:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_UNKNOWN_PLUGIN_NAME'[0m
+#define IDS_TASK_MANAGER_UNKNOWN_PLUGIN_NAME _Pragma("whitelisted_resource_4804") 4804
+[0;1;32m                                             ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4804
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:59:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TASK_MANAGER_UTILITY_PREFIX,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1267:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_UTILITY_PREFIX'[0m
+#define IDS_TASK_MANAGER_UTILITY_PREFIX _Pragma("whitelisted_resource_4805") 4805
+[0;1;32m                                        ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4805
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:62:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_TASK_MANAGER_GPU_PREFIX);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1270:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_GPU_PREFIX'[0m
+#define IDS_TASK_MANAGER_GPU_PREFIX _Pragma("whitelisted_resource_4808") 4808
+[0;1;32m                                    ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4808
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:64:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TASK_MANAGER_PLUGIN_PREFIX,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1262:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PLUGIN_PREFIX'[0m
+#define IDS_TASK_MANAGER_PLUGIN_PREFIX _Pragma("whitelisted_resource_4800") 4800
+[0;1;32m                                       ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4800
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:67:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TASK_MANAGER_PLUGIN_BROKER_PREFIX,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1263:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_PLUGIN_BROKER_PREFIX'[0m
+#define IDS_TASK_MANAGER_PLUGIN_BROKER_PREFIX _Pragma("whitelisted_resource_4801") 4801
+[0;1;32m                                              ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4801
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:70:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_TASK_MANAGER_NACL_BROKER_PREFIX);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1269:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_NACL_BROKER_PREFIX'[0m
+#define IDS_TASK_MANAGER_NACL_BROKER_PREFIX _Pragma("whitelisted_resource_4807") 4807
+[0;1;32m                                            ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4807
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:88:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_TASK_MANAGER_NACL_PREFIX,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1268:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_NACL_PREFIX'[0m
+#define IDS_TASK_MANAGER_NACL_PREFIX _Pragma("whitelisted_resource_4806") 4806
+[0;1;32m                                     ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4806
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:94:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringFUTF16(IDS_TASK_MANAGER_RENDERER_PREFIX,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1265:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_RENDERER_PREFIX'[0m
+#define IDS_TASK_MANAGER_RENDERER_PREFIX _Pragma("whitelisted_resource_4803") 4803
+[0;1;32m                                         ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4803
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/child_process_task.cc:160:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           FetchIcon(IDR_PLUGINS_FAVICON, &s_icon_),
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:53:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PLUGINS_FAVICON'[0m
+#define IDR_PLUGINS_FAVICON _Pragma("whitelisted_resource_10329") 10329
+[0;1;32m                            ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10329
+[0;1;32m ^
+[0m9 warnings generated.

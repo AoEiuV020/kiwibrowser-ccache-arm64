@@ -1,0 +1,46 @@
+[1m../../chrome/browser/policy/policy_conversions.cc:39:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourceEnterpriseDefault", IDS_POLICY_SOURCE_ENTERPRISE_DEFAULT},
+[0;1;32m                                ^
+[0m[1mgen/components/strings/grit/components_strings.h:746:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_ENTERPRISE_DEFAULT'[0m
+#define IDS_POLICY_SOURCE_ENTERPRISE_DEFAULT _Pragma("whitelisted_resource_15876") 15876
+[0;1;32m                                             ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15876
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/policy_conversions.cc:40:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourceCloud", IDS_POLICY_SOURCE_CLOUD},
+[0;1;32m                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:747:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_CLOUD'[0m
+#define IDS_POLICY_SOURCE_CLOUD _Pragma("whitelisted_resource_15877") 15877
+[0;1;32m                                ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15877
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/policy_conversions.cc:41:31: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourceActiveDirectory", IDS_POLICY_SOURCE_ACTIVE_DIRECTORY},
+[0;1;32m                              ^
+[0m[1mgen/components/strings/grit/components_strings.h:748:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_ACTIVE_DIRECTORY'[0m
+#define IDS_POLICY_SOURCE_ACTIVE_DIRECTORY _Pragma("whitelisted_resource_15878") 15878
+[0;1;32m                                           ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15878
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/policy_conversions.cc:42:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourcePublicSessionOverride", IDS_POLICY_SOURCE_PUBLIC_SESSION_OVERRIDE},
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:750:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_PUBLIC_SESSION_OVERRIDE'[0m
+#define IDS_POLICY_SOURCE_PUBLIC_SESSION_OVERRIDE _Pragma("whitelisted_resource_15880") 15880
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15880
+[0;1;32m ^
+[0m[1m../../chrome/browser/policy/policy_conversions.cc:43:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    {"sourcePlatform", IDS_POLICY_SOURCE_PLATFORM},
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:749:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_SOURCE_PLATFORM'[0m
+#define IDS_POLICY_SOURCE_PLATFORM _Pragma("whitelisted_resource_15879") 15879
+[0;1;32m                                   ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15879
+[0;1;32m ^
+[0m5 warnings generated.

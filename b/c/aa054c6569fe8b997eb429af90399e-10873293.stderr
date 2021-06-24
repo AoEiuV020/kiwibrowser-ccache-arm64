@@ -1,0 +1,685 @@
+[1m../../chrome/browser/download/download_item_model.cc:114:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:965:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS _Pragma("whitelisted_resource_4309") 4309
+[0;1;32m                                        ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4309
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:118:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_ACCESS_DENIED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:966:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_ACCESS_DENIED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_ACCESS_DENIED _Pragma("whitelisted_resource_4310") 4310
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4310
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:121:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_DISK_FULL;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:970:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_DISK_FULL'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_DISK_FULL _Pragma("whitelisted_resource_4314") 4314
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4314
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:124:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_PATH_TOO_LONG;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:968:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_PATH_TOO_LONG'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_PATH_TOO_LONG _Pragma("whitelisted_resource_4312") 4312
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4312
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:127:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_TOO_LARGE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:972:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_TOO_LARGE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_TOO_LARGE _Pragma("whitelisted_resource_4316") 4316
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4316
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:130:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_VIRUS;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:976:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_VIRUS'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_VIRUS _Pragma("whitelisted_resource_4320") 4320
+[0;1;32m                                              ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4320
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:133:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_TEMPORARY_PROBLEM;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:974:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_TEMPORARY_PROBLEM'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_TEMPORARY_PROBLEM _Pragma("whitelisted_resource_4318") 4318
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4318
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:136:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_BLOCKED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:978:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_BLOCKED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_BLOCKED _Pragma("whitelisted_resource_4322") 4322
+[0;1;32m                                                ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4322
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:139:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_SECURITY_CHECK_FAILED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:982:63: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_SECURITY_CHECK_FAILED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_SECURITY_CHECK_FAILED _Pragma("whitelisted_resource_4326") 4326
+[0;1;32m                                                              ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4326
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:142:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_TOO_SHORT;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:984:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_TOO_SHORT'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_TOO_SHORT _Pragma("whitelisted_resource_4328") 4328
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4328
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:145:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_SAME_AS_SOURCE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:986:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_SAME_AS_SOURCE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_FILE_SAME_AS_SOURCE _Pragma("whitelisted_resource_4330") 4330
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4330
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:149:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_ERROR;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:994:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_ERROR'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_ERROR _Pragma("whitelisted_resource_4338") 4338
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4338
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:152:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_TIMEOUT;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:988:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_TIMEOUT'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_TIMEOUT _Pragma("whitelisted_resource_4332") 4332
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4332
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:155:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_DISCONNECTED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:990:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_DISCONNECTED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_NETWORK_DISCONNECTED _Pragma("whitelisted_resource_4334") 4334
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4334
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:158:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_DOWN;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:992:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_DOWN'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_DOWN _Pragma("whitelisted_resource_4336") 4336
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4336
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:161:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_PROBLEM;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:998:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_PROBLEM'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_PROBLEM _Pragma("whitelisted_resource_4342") 4342
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4342
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:164:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_NO_FILE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:996:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_NO_FILE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_NO_FILE _Pragma("whitelisted_resource_4340") 4340
+[0;1;32m                                                ^
+[0m[1m<scratch space>:95:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4340
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:167:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_STATUS_CANCELLED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1022:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_CANCELLED'[0m
+#define IDS_DOWNLOAD_STATUS_CANCELLED _Pragma("whitelisted_resource_4373") 4373
+[0;1;32m                                      ^
+[0m[1m<scratch space>:97:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4373
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:170:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_SHUTDOWN;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1000:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_SHUTDOWN'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_SHUTDOWN _Pragma("whitelisted_resource_4344") 4344
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:99:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4344
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:173:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_CRASH;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1002:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_CRASH'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_CRASH _Pragma("whitelisted_resource_4346") 4346
+[0;1;32m                                              ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4346
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:176:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_UNAUTHORIZED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1004:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_UNAUTHORIZED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_UNAUTHORIZED _Pragma("whitelisted_resource_4348") 4348
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:103:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4348
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:179:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_CERT_PROBLEM;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1006:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_CERT_PROBLEM'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_SERVER_CERT_PROBLEM _Pragma("whitelisted_resource_4350") 4350
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:105:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4350
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:182:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_FORBIDDEN;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1008:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_FORBIDDEN'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_FORBIDDEN _Pragma("whitelisted_resource_4352") 4352
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:107:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4352
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:185:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_UNREACHABLE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1010:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_UNREACHABLE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_UNREACHABLE _Pragma("whitelisted_resource_4354") 4354
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:109:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4354
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:188:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS_CONTENT_LENGTH_MISMATCH;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:980:65: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS_CONTENT_LENGTH_MISMATCH'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS_CONTENT_LENGTH_MISMATCH _Pragma("whitelisted_resource_4324") 4324
+[0;1;32m                                                                ^
+[0m[1m<scratch space>:111:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4324
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:197:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:965:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS _Pragma("whitelisted_resource_4309") 4309
+[0;1;32m                                        ^
+[0m[1m<scratch space>:113:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4309
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:205:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  int string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:965:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS _Pragma("whitelisted_resource_4309") 4309
+[0;1;32m                                        ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4309
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:210:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_ACCESS_DENIED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:967:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_ACCESS_DENIED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_ACCESS_DENIED _Pragma("whitelisted_resource_4311") 4311
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4311
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:213:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_DISK_FULL;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:971:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_DISK_FULL'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_DISK_FULL _Pragma("whitelisted_resource_4315") 4315
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4315
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:216:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_PATH_TOO_LONG;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:969:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_PATH_TOO_LONG'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_PATH_TOO_LONG _Pragma("whitelisted_resource_4313") 4313
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4313
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:219:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_TOO_LARGE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:973:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_TOO_LARGE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_TOO_LARGE _Pragma("whitelisted_resource_4317") 4317
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:123:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4317
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:222:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_VIRUS;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:977:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_VIRUS'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_VIRUS _Pragma("whitelisted_resource_4321") 4321
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:125:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4321
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:225:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_TEMPORARY_PROBLEM;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:975:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_TEMPORARY_PROBLEM'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_TEMPORARY_PROBLEM _Pragma("whitelisted_resource_4319") 4319
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:127:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4319
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:228:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_BLOCKED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:979:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_BLOCKED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_BLOCKED _Pragma("whitelisted_resource_4323") 4323
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:129:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4323
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:231:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SECURITY_CHECK_FAILED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:983:68: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SECURITY_CHECK_FAILED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SECURITY_CHECK_FAILED _Pragma("whitelisted_resource_4327") 4327
+[0;1;32m                                                                   ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4327
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:234:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_TOO_SHORT;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:985:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_TOO_SHORT'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_TOO_SHORT _Pragma("whitelisted_resource_4329") 4329
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4329
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:237:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_SAME_AS_SOURCE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:987:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_SAME_AS_SOURCE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FILE_SAME_AS_SOURCE _Pragma("whitelisted_resource_4331") 4331
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4331
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:241:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_ERROR;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:995:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_ERROR'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_ERROR _Pragma("whitelisted_resource_4339") 4339
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4339
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:244:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_TIMEOUT;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:989:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_TIMEOUT'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_TIMEOUT _Pragma("whitelisted_resource_4333") 4333
+[0;1;32m                                                             ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4333
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:247:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_DISCONNECTED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:991:67: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_DISCONNECTED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NETWORK_DISCONNECTED _Pragma("whitelisted_resource_4335") 4335
+[0;1;32m                                                                  ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4335
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:250:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_DOWN;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:993:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_DOWN'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_DOWN _Pragma("whitelisted_resource_4337") 4337
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:14:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4337
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:253:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_PROBLEM;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:999:61: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_PROBLEM'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_PROBLEM _Pragma("whitelisted_resource_4343") 4343
+[0;1;32m                                                            ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4343
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:256:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NO_FILE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:997:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NO_FILE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_NO_FILE _Pragma("whitelisted_resource_4341") 4341
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4341
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:259:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_STATUS_CANCELLED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1022:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_CANCELLED'[0m
+#define IDS_DOWNLOAD_STATUS_CANCELLED _Pragma("whitelisted_resource_4373") 4373
+[0;1;32m                                      ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4373
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:262:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SHUTDOWN;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1001:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SHUTDOWN'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SHUTDOWN _Pragma("whitelisted_resource_4345") 4345
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:22:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4345
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:265:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_CRASH;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1003:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_CRASH'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_CRASH _Pragma("whitelisted_resource_4347") 4347
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:24:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4347
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:268:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_UNAUTHORIZED;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1005:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_UNAUTHORIZED'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_UNAUTHORIZED _Pragma("whitelisted_resource_4349") 4349
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:26:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4349
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:271:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_CERT_PROBLEM;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1007:66: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_CERT_PROBLEM'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_SERVER_CERT_PROBLEM _Pragma("whitelisted_resource_4351") 4351
+[0;1;32m                                                                 ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4351
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:274:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FORBIDDEN;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1009:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FORBIDDEN'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_FORBIDDEN _Pragma("whitelisted_resource_4353") 4353
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4353
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:277:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_UNREACHABLE;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1011:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_UNREACHABLE'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_UNREACHABLE _Pragma("whitelisted_resource_4355") 4355
+[0;1;32m                                                         ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4355
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:280:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_CONTENT_LENGTH_MISMATCH;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:981:70: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_CONTENT_LENGTH_MISMATCH'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_DESCRIPTION_CONTENT_LENGTH_MISMATCH _Pragma("whitelisted_resource_4325") 4325
+[0;1;32m                                                                     ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4325
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:289:19: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      string_id = IDS_DOWNLOAD_INTERRUPTED_STATUS;
+[0;1;32m                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:965:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_INTERRUPTED_STATUS'[0m
+#define IDS_DOWNLOAD_INTERRUPTED_STATUS _Pragma("whitelisted_resource_4309") 4309
+[0;1;32m                                        ^
+[0m[1m<scratch space>:36:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4309
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:324:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        status_text = l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_REMOVED);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1023:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_REMOVED'[0m
+#define IDS_DOWNLOAD_STATUS_REMOVED _Pragma("whitelisted_resource_4374") 4374
+[0;1;32m                                    ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4374
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:330:47: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      status_text = l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_CANCELLED);
+[0;1;32m                                              ^
+[0m[1mgen/chrome/grit/generated_resources.h:1022:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_CANCELLED'[0m
+#define IDS_DOWNLOAD_STATUS_CANCELLED _Pragma("whitelisted_resource_4373") 4373
+[0;1;32m                                      ^
+[0m[1m<scratch space>:40:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4373
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:337:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DOWNLOAD_STATUS_INTERRUPTED, interrupt_reason);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1024:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_INTERRUPTED'[0m
+#define IDS_DOWNLOAD_STATUS_INTERRUPTED _Pragma("whitelisted_resource_4375") 4375
+[0;1;32m                                        ^
+[0m[1m<scratch space>:42:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4375
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:340:49: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        status_text = l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_CANCELLED);
+[0;1;32m                                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1022:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_CANCELLED'[0m
+#define IDS_DOWNLOAD_STATUS_CANCELLED _Pragma("whitelisted_resource_4373") 4373
+[0;1;32m                                      ^
+[0m[1m<scratch space>:44:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4373
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:367:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_TAB_PROGRESS_SIZE, received_size, total_text);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1056:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_TAB_PROGRESS_SIZE'[0m
+#define IDS_DOWNLOAD_TAB_PROGRESS_SIZE _Pragma("whitelisted_resource_4408") 4408
+[0;1;32m                                       ^
+[0m[1m<scratch space>:46:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4408
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:378:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    time_remaining = l10n_util::GetStringUTF16(IDS_DOWNLOAD_PROGRESS_PAUSED);
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1057:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_PROGRESS_PAUSED'[0m
+#define IDS_DOWNLOAD_PROGRESS_PAUSED _Pragma("whitelisted_resource_4409") 4409
+[0;1;32m                                     ^
+[0m[1m<scratch space>:48:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4409
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:388:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_TAB_PROGRESS_STATUS_TIME_UNKNOWN, speed_text, amount);
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1054:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_TAB_PROGRESS_STATUS_TIME_UNKNOWN'[0m
+#define IDS_DOWNLOAD_TAB_PROGRESS_STATUS_TIME_UNKNOWN _Pragma("whitelisted_resource_4406") 4406
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:50:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4406
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:391:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_DOWNLOAD_TAB_PROGRESS_STATUS, speed_text, amount, time_remaining);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1055:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_TAB_PROGRESS_STATUS'[0m
+#define IDS_DOWNLOAD_TAB_PROGRESS_STATUS _Pragma("whitelisted_resource_4407") 4407
+[0;1;32m                                         ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4407
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:419:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_PROMPT_MALICIOUS_DOWNLOAD_URL);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/chromium_strings.h:65:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_MALICIOUS_DOWNLOAD_URL'[0m
+#define IDS_PROMPT_MALICIOUS_DOWNLOAD_URL _Pragma("whitelisted_resource_506") 506
+[0;1;32m                                          ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_506
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:424:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_PROMPT_DANGEROUS_DOWNLOAD_EXTENSION);
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1027:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_DANGEROUS_DOWNLOAD_EXTENSION'[0m
+#define IDS_PROMPT_DANGEROUS_DOWNLOAD_EXTENSION _Pragma("whitelisted_resource_4378") 4378
+[0;1;32m                                                ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4378
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:426:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        return l10n_util::GetStringFUTF16(IDS_PROMPT_DANGEROUS_DOWNLOAD,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1026:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_DANGEROUS_DOWNLOAD'[0m
+#define IDS_PROMPT_DANGEROUS_DOWNLOAD _Pragma("whitelisted_resource_4377") 4377
+[0;1;32m                                      ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4377
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:432:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_PROMPT_MALICIOUS_DOWNLOAD_CONTENT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/chromium_strings.h:66:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_MALICIOUS_DOWNLOAD_CONTENT'[0m
+#define IDS_PROMPT_MALICIOUS_DOWNLOAD_CONTENT _Pragma("whitelisted_resource_507") 507
+[0;1;32m                                              ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_507
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:436:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_PROMPT_UNCOMMON_DOWNLOAD_CONTENT,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1028:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_UNCOMMON_DOWNLOAD_CONTENT'[0m
+#define IDS_PROMPT_UNCOMMON_DOWNLOAD_CONTENT _Pragma("whitelisted_resource_4379") 4379
+[0;1;32m                                             ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4379
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:441:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PROMPT_DOWNLOAD_CHANGES_SETTINGS, elided_filename);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/chromium_strings.h:64:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PROMPT_DOWNLOAD_CHANGES_SETTINGS'[0m
+#define IDS_PROMPT_DOWNLOAD_CHANGES_SETTINGS _Pragma("whitelisted_resource_505") 505
+[0;1;32m                                             ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_505
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:461:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_CONTINUE_EXTENSION_DOWNLOAD);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1039:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTINUE_EXTENSION_DOWNLOAD'[0m
+#define IDS_CONTINUE_EXTENSION_DOWNLOAD _Pragma("whitelisted_resource_4391") 4391
+[0;1;32m                                        ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4391
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:463:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_CONFIRM_DOWNLOAD);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1037:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_DOWNLOAD'[0m
+#define IDS_CONFIRM_DOWNLOAD _Pragma("whitelisted_resource_4389") 4389
+[0;1;32m                             ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4389
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:710:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    size_ratio = l10n_util::GetStringFUTF16(IDS_DOWNLOAD_STATUS_SIZES,
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:1017:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_SIZES'[0m
+#define IDS_DOWNLOAD_STATUS_SIZES _Pragma("whitelisted_resource_4368") 4368
+[0;1;32m                                  ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4368
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:733:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_CRX_INSTALL_RUNNING);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:63:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_CRX_INSTALL_RUNNING'[0m
+#define IDS_DOWNLOAD_STATUS_CRX_INSTALL_RUNNING _Pragma("whitelisted_resource_504") 504
+[0;1;32m                                                ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_504
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:739:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_STATUS_IN_PROGRESS, size_ratio,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1015:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_IN_PROGRESS'[0m
+#define IDS_DOWNLOAD_STATUS_IN_PROGRESS _Pragma("whitelisted_resource_4366") 4366
+[0;1;32m                                        ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4366
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:740:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_DOWNLOAD_PROGRESS_PAUSED));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:1057:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_PROGRESS_PAUSED'[0m
+#define IDS_DOWNLOAD_PROGRESS_PAUSED _Pragma("whitelisted_resource_4409") 4409
+[0;1;32m                                     ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4409
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:746:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_OPEN_WHEN_COMPLETE);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1019:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_OPEN_WHEN_COMPLETE'[0m
+#define IDS_DOWNLOAD_STATUS_OPEN_WHEN_COMPLETE _Pragma("whitelisted_resource_4370") 4370
+[0;1;32m                                               ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4370
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:749:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_STATUS_OPEN_IN,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1018:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_OPEN_IN'[0m
+#define IDS_DOWNLOAD_STATUS_OPEN_IN _Pragma("whitelisted_resource_4369") 4369
+[0;1;32m                                    ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4369
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:757:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_DOWNLOAD_STATUS_IN_PROGRESS, size_ratio,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1015:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_IN_PROGRESS'[0m
+#define IDS_DOWNLOAD_STATUS_IN_PROGRESS _Pragma("whitelisted_resource_4366") 4366
+[0;1;32m                                        ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4366
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_item_model.cc:768:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DOWNLOAD_STATUS_STARTING);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1014:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_STATUS_STARTING'[0m
+#define IDS_DOWNLOAD_STATUS_STARTING _Pragma("whitelisted_resource_4358") 4358
+[0;1;32m                                     ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4358
+[0;1;32m ^
+[0m76 warnings generated.

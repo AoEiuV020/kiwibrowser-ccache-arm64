@@ -1,0 +1,64 @@
+[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:23:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDR_THEME_FRAME:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/theme_resources.h:101:25: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME'[0m
+#define IDR_THEME_FRAME _Pragma("whitelisted_resource_10483") 10483
+[0;1;32m                        ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10483
+[0;1;32m ^
+[0m[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:24:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDR_SUPERVISED_USER_THEME_FRAME;
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/theme_resources.h:47:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_THEME_FRAME'[0m
+#define IDR_SUPERVISED_USER_THEME_FRAME _Pragma("whitelisted_resource_10313") 10313
+[0;1;32m                                        ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10313
+[0;1;32m ^
+[0m[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:25:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDR_THEME_FRAME_INACTIVE:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/theme_resources.h:102:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_FRAME_INACTIVE'[0m
+#define IDR_THEME_FRAME_INACTIVE _Pragma("whitelisted_resource_10484") 10484
+[0;1;32m                                 ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10484
+[0;1;32m ^
+[0m[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:26:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE;
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/theme_resources.h:48:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE'[0m
+#define IDR_SUPERVISED_USER_THEME_FRAME_INACTIVE _Pragma("whitelisted_resource_10314") 10314
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10314
+[0;1;32m ^
+[0m[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:27:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDR_THEME_TAB_BACKGROUND:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/theme_resources.h:109:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND'[0m
+#define IDR_THEME_TAB_BACKGROUND _Pragma("whitelisted_resource_10491") 10491
+[0;1;32m                                 ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10491
+[0;1;32m ^
+[0m[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:28:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    case IDR_THEME_TAB_BACKGROUND_V:
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/theme_resources.h:111:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_THEME_TAB_BACKGROUND_V'[0m
+#define IDR_THEME_TAB_BACKGROUND_V _Pragma("whitelisted_resource_10494") 10494
+[0;1;32m                                   ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10494
+[0;1;32m ^
+[0m[1m../../chrome/browser/supervised_user/supervised_user_theme.cc:29:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND;
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/theme_resources.h:49:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND'[0m
+#define IDR_SUPERVISED_USER_THEME_TAB_BACKGROUND _Pragma("whitelisted_resource_10315") 10315
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10315
+[0;1;32m ^
+[0m7 warnings generated.

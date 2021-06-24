@@ -1,0 +1,19 @@
+[1m../../chrome/browser/task_manager/providers/browser_process_task.cc:18:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : Task(l10n_util::GetStringUTF16(IDS_TASK_MANAGER_WEB_BROWSER_CELL_TEXT),
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1253:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_TASK_MANAGER_WEB_BROWSER_CELL_TEXT'[0m
+#define IDS_TASK_MANAGER_WEB_BROWSER_CELL_TEXT _Pragma("whitelisted_resource_4791") 4791
+[0;1;32m                                               ^
+[0m[1m<scratch space>:176:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4791
+[0;1;32m ^
+[0m[1m../../chrome/browser/task_manager/providers/browser_process_task.cc:20:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+           FetchIcon(IDR_PRODUCT_LOGO_16, &s_icon_),
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/theme_resources.h:55:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_PRODUCT_LOGO_16'[0m
+#define IDR_PRODUCT_LOGO_16 _Pragma("whitelisted_resource_10333") 10333
+[0;1;32m                            ^
+[0m[1m<scratch space>:178:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10333
+[0;1;32m ^
+[0m2 warnings generated.

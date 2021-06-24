@@ -1,0 +1,82 @@
+[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:49:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DATA_USE_TRACKING_STARTED_SNACKBAR_MESSAGE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2780:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_STARTED_SNACKBAR_MESSAGE'[0m
+#define IDS_DATA_USE_TRACKING_STARTED_SNACKBAR_MESSAGE _Pragma("whitelisted_resource_6621") 6621
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:76:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6621
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:51:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DATA_USE_TRACKING_SNACKBAR_ACTION,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2781:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_SNACKBAR_ACTION'[0m
+#define IDS_DATA_USE_TRACKING_SNACKBAR_ACTION _Pragma("whitelisted_resource_6622") 6622
+[0;1;32m                                              ^
+[0m[1m<scratch space>:78:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6622
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:53:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DATA_USE_TRACKING_ENDED_SNACKBAR_MESSAGE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2782:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_ENDED_SNACKBAR_MESSAGE'[0m
+#define IDS_DATA_USE_TRACKING_ENDED_SNACKBAR_MESSAGE _Pragma("whitelisted_resource_6623") 6623
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6623
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:54:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        [DATA_USE_TRACKING_ENDED_TITLE] = IDS_DATA_USE_TRACKING_ENDED_TITLE,
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2783:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_ENDED_TITLE'[0m
+#define IDS_DATA_USE_TRACKING_ENDED_TITLE _Pragma("whitelisted_resource_6624") 6624
+[0;1;32m                                          ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6624
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:55:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        [DATA_USE_TRACKING_ENDED_MESSAGE] = IDS_DATA_USE_TRACKING_ENDED_MESSAGE,
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2784:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_ENDED_MESSAGE'[0m
+#define IDS_DATA_USE_TRACKING_ENDED_MESSAGE _Pragma("whitelisted_resource_6625") 6625
+[0;1;32m                                            ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6625
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:57:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DATA_USE_TRACKING_ENDED_CHECKBOX_MESSAGE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2785:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_ENDED_CHECKBOX_MESSAGE'[0m
+#define IDS_DATA_USE_TRACKING_ENDED_CHECKBOX_MESSAGE _Pragma("whitelisted_resource_6626") 6626
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6626
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:59:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            IDS_DATA_USE_TRACKING_ENDED_CONTINUE,
+[0;1;32m            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2786:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_TRACKING_ENDED_CONTINUE'[0m
+#define IDS_DATA_USE_TRACKING_ENDED_CONTINUE _Pragma("whitelisted_resource_6627") 6627
+[0;1;32m                                             ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6627
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:60:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        [DATA_USE_LEARN_MORE_TITLE] = IDS_LEARN_MORE,
+[0;1;32m                                      ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m[1m../../chrome/browser/android/data_usage/data_use_tab_ui_manager_android.cc:61:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        [DATA_USE_LEARN_MORE_LINK_URL] = IDS_DATA_USE_LEARN_MORE_LINK_URL,
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2787:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DATA_USE_LEARN_MORE_LINK_URL'[0m
+#define IDS_DATA_USE_LEARN_MORE_LINK_URL _Pragma("whitelisted_resource_6628") 6628
+[0;1;32m                                         ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6628
+[0;1;32m ^
+[0m9 warnings generated.

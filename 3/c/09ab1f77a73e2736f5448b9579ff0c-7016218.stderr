@@ -1,0 +1,10 @@
+[1m../../chrome/browser/printing/print_job_worker.cc:340:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_DEFAULT_PRINT_DOCUMENT_TITLE));
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:792:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_PRINT_DOCUMENT_TITLE'[0m
+#define IDS_DEFAULT_PRINT_DOCUMENT_TITLE _Pragma("whitelisted_resource_4132") 4132
+[0;1;32m                                         ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4132
+[0;1;32m ^
+[0m1 warning generated.

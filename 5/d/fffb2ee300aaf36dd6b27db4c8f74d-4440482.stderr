@@ -1,0 +1,19 @@
+[1m../../chrome/browser/media/webrtc/native_desktop_media_list.cc:137:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDS_DESKTOP_MEDIA_PICKER_MULTIPLE_SCREEN_NAME,
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2662:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DESKTOP_MEDIA_PICKER_MULTIPLE_SCREEN_NAME'[0m
+#define IDS_DESKTOP_MEDIA_PICKER_MULTIPLE_SCREEN_NAME _Pragma("whitelisted_resource_6454") 6454
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:28:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6454
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/native_desktop_media_list.cc:140:27: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                          IDS_DESKTOP_MEDIA_PICKER_SINGLE_SCREEN_NAME);
+[0;1;32m                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2661:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DESKTOP_MEDIA_PICKER_SINGLE_SCREEN_NAME'[0m
+#define IDS_DESKTOP_MEDIA_PICKER_SINGLE_SCREEN_NAME _Pragma("whitelisted_resource_6453") 6453
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6453
+[0;1;32m ^
+[0m2 warnings generated.

@@ -1,0 +1,181 @@
+[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:363:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_COOKIES_WEB_DATABASE_UNNAMED_NAME) :
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2057:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_WEB_DATABASE_UNNAMED_NAME'[0m
+#define IDS_COOKIES_WEB_DATABASE_UNNAMED_NAME _Pragma("whitelisted_resource_5681") 5681
+[0;1;32m                                              ^
+[0m[1m<scratch space>:52:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5681
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:854:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_COOKIES)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2061:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_COOKIES'[0m
+#define IDS_COOKIES_COOKIES _Pragma("whitelisted_resource_5687") 5687
+[0;1;32m                            ^
+[0m[1m<scratch space>:54:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5687
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:869:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                         IDS_COOKIES_APPLICATION_CACHES)) {
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2062:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_APPLICATION_CACHES'[0m
+#define IDS_COOKIES_APPLICATION_CACHES _Pragma("whitelisted_resource_5688") 5688
+[0;1;32m                                       ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5688
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:882:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_WEB_DATABASES)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2065:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_WEB_DATABASES'[0m
+#define IDS_COOKIES_WEB_DATABASES _Pragma("whitelisted_resource_5692") 5692
+[0;1;32m                                  ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5692
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:895:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_LOCAL_STORAGE)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2066:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_LOCAL_STORAGE'[0m
+#define IDS_COOKIES_LOCAL_STORAGE _Pragma("whitelisted_resource_5694") 5694
+[0;1;32m                                  ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5694
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:909:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_SESSION_STORAGE)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2067:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_SESSION_STORAGE'[0m
+#define IDS_COOKIES_SESSION_STORAGE _Pragma("whitelisted_resource_5695") 5695
+[0;1;32m                                    ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5695
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:923:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_INDEXED_DBS)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2069:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_INDEXED_DBS'[0m
+#define IDS_COOKIES_INDEXED_DBS _Pragma("whitelisted_resource_5697") 5697
+[0;1;32m                                ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5697
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:937:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_FILE_SYSTEMS)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2073:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_FILE_SYSTEMS'[0m
+#define IDS_COOKIES_FILE_SYSTEMS _Pragma("whitelisted_resource_5701") 5701
+[0;1;32m                                 ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5701
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:952:35: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        l10n_util::GetStringUTF16(IDS_COOKIES_CHANNEL_IDS)) {
+[0;1;32m                                  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2077:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_CHANNEL_IDS'[0m
+#define IDS_COOKIES_CHANNEL_IDS _Pragma("whitelisted_resource_5705") 5705
+[0;1;32m                                ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5705
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:974:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_SERVICE_WORKERS)) {
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2079:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_SERVICE_WORKERS'[0m
+#define IDS_COOKIES_SERVICE_WORKERS _Pragma("whitelisted_resource_5707") 5707
+[0;1;32m                                    ^
+[0m[1m<scratch space>:70:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5707
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:989:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_SHARED_WORKERS)) {}
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2080:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_SHARED_WORKERS'[0m
+#define IDS_COOKIES_SHARED_WORKERS _Pragma("whitelisted_resource_5708") 5708
+[0;1;32m                                   ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5708
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1002:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_CACHE_STORAGE)) {}
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2081:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_CACHE_STORAGE'[0m
+#define IDS_COOKIES_CACHE_STORAGE _Pragma("whitelisted_resource_5709") 5709
+[0;1;32m                                  ^
+[0m[1m<scratch space>:74:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5709
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1035:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    : CookieTreeNode(l10n_util::GetStringUTF16(IDS_COOKIES_MEDIA_LICENSES)) {}
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2071:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_MEDIA_LICENSES'[0m
+#define IDS_COOKIES_MEDIA_LICENSES _Pragma("whitelisted_resource_5699") 5699
+[0;1;32m                                   ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5699
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1092:14: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return IDS_COOKIES_COOKIE_SENDFOR_SECURE_SAME_SITE;
+[0;1;32m             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2052:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_COOKIE_SENDFOR_SECURE_SAME_SITE'[0m
+#define IDS_COOKIES_COOKIE_SENDFOR_SECURE_SAME_SITE _Pragma("whitelisted_resource_5676") 5676
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:80:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5676
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1093:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_COOKIES_COOKIE_SENDFOR_SECURE;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2050:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_COOKIE_SENDFOR_SECURE'[0m
+#define IDS_COOKIES_COOKIE_SENDFOR_SECURE _Pragma("whitelisted_resource_5674") 5674
+[0;1;32m                                          ^
+[0m[1m<scratch space>:82:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5674
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1096:12: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return IDS_COOKIES_COOKIE_SENDFOR_SAME_SITE;
+[0;1;32m           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2051:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_COOKIE_SENDFOR_SAME_SITE'[0m
+#define IDS_COOKIES_COOKIE_SENDFOR_SAME_SITE _Pragma("whitelisted_resource_5675") 5675
+[0;1;32m                                             ^
+[0m[1m<scratch space>:84:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5675
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1097:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return IDS_COOKIES_COOKIE_SENDFOR_ANY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2049:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_COOKIES_COOKIE_SENDFOR_ANY'[0m
+#define IDS_COOKIES_COOKIE_SENDFOR_ANY _Pragma("whitelisted_resource_5673") 5673
+[0;1;32m                                       ^
+[0m[1m<scratch space>:86:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5673
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1108:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        .GetNativeImageNamed(IDR_DEFAULT_FAVICON)
+[0;1;32m                                             ^
+[0m[1mgen/ui/resources/grit/ui_resources.h:16:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_DEFAULT_FAVICON'[0m
+#define IDR_DEFAULT_FAVICON _Pragma("whitelisted_resource_26972") 26972
+[0;1;32m                            ^
+[0m[1m<scratch space>:88:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_26972
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1111:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        .GetNativeImageNamed(IDR_COOKIES)
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:29:21: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COOKIES'[0m
+#define IDR_COOKIES _Pragma("whitelisted_resource_10241") 10241
+[0;1;32m                    ^
+[0m[1m<scratch space>:90:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10241
+[0;1;32m ^
+[0m[1m../../chrome/browser/browsing_data/cookies_tree_model.cc:1114:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                        .GetNativeImageNamed(IDR_COOKIE_STORAGE_ICON)
+[0;1;32m                                             ^
+[0m[1mgen/chrome/grit/theme_resources.h:30:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_COOKIE_STORAGE_ICON'[0m
+#define IDR_COOKIE_STORAGE_ICON _Pragma("whitelisted_resource_10242") 10242
+[0;1;32m                                ^
+[0m[1m<scratch space>:92:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_10242
+[0;1;32m ^
+[0m20 warnings generated.

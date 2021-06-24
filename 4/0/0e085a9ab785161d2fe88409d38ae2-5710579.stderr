@@ -1,0 +1,37 @@
+[1m../../chrome/browser/custom_handlers/register_protocol_handler_permission_request.cc:38:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_FRAGMENT,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2534:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_FRAGMENT'[0m
+#define IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_FRAGMENT _Pragma("whitelisted_resource_6293") 6293
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6293
+[0;1;32m ^
+[0m[1m../../chrome/browser/custom_handlers/register_protocol_handler_permission_request.cc:41:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_REPLACE_FRAGMENT,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2535:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_REPLACE_FRAGMENT'[0m
+#define IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_REPLACE_FRAGMENT _Pragma("whitelisted_resource_6294") 6294
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:43:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6294
+[0;1;32m ^
+[0m[1m../../chrome/browser/custom_handlers/register_protocol_handler_permission_request.cc:51:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_FRAGMENT,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2534:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_FRAGMENT'[0m
+#define IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_FRAGMENT _Pragma("whitelisted_resource_6293") 6293
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6293
+[0;1;32m ^
+[0m[1m../../chrome/browser/custom_handlers/register_protocol_handler_permission_request.cc:54:20: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                   IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_REPLACE_FRAGMENT,
+[0;1;32m                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2535:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_REPLACE_FRAGMENT'[0m
+#define IDS_REGISTER_PROTOCOL_HANDLER_CONFIRM_REPLACE_FRAGMENT _Pragma("whitelisted_resource_6294") 6294
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6294
+[0;1;32m ^
+[0m4 warnings generated.

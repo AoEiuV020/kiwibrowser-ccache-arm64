@@ -1,0 +1,73 @@
+[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:52:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          message_id = IDS_INFOBAR_MISSING_LOCATION_PERMISSION_TEXT;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/chromium_strings.h:170:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_LOCATION_PERMISSION_TEXT'[0m
+#define IDS_INFOBAR_MISSING_LOCATION_PERMISSION_TEXT _Pragma("whitelisted_resource_640") 640
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:5:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_640
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:55:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          message_id = IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/chromium_strings.h:168:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT'[0m
+#define IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT _Pragma("whitelisted_resource_638") 638
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_638
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:58:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          message_id = IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT;
+[0;1;32m                       ^
+[0m[1mgen/chrome/grit/chromium_strings.h:167:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT'[0m
+#define IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT _Pragma("whitelisted_resource_637") 637
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_637
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:62:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      } else if (message_id == IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT) {
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/chromium_strings.h:167:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT'[0m
+#define IDS_INFOBAR_MISSING_CAMERA_PERMISSION_TEXT _Pragma("whitelisted_resource_637") 637
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_637
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:64:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_id = IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:169:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT'[0m
+#define IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT _Pragma("whitelisted_resource_639") 639
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_639
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:65:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      } else if (message_id == IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT) {
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/chromium_strings.h:168:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT'[0m
+#define IDS_INFOBAR_MISSING_MICROPHONE_PERMISSION_TEXT _Pragma("whitelisted_resource_638") 638
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_638
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:68:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        message_id = IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT;
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/chromium_strings.h:169:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT'[0m
+#define IDS_INFOBAR_MISSING_MICROPHONE_CAMERA_PERMISSIONS_TEXT _Pragma("whitelisted_resource_639") 639
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_639
+[0;1;32m ^
+[0m[1m../../chrome/browser/permissions/permission_update_infobar_delegate_android.cc:171:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_INFOBAR_UPDATE_PERMISSIONS_BUTTON_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:807:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_INFOBAR_UPDATE_PERMISSIONS_BUTTON_TEXT'[0m
+#define IDS_INFOBAR_UPDATE_PERMISSIONS_BUTTON_TEXT _Pragma("whitelisted_resource_4149") 4149
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4149
+[0;1;32m ^
+[0m8 warnings generated.

@@ -1,0 +1,64 @@
+[1m../../chrome/browser/previews/previews_infobar_delegate.cc:175:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          is_data_saver_user ? IDS_PREVIEWS_INFOBAR_SAVED_DATA_TITLE
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1601:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_SAVED_DATA_TITLE'[0m
+#define IDS_PREVIEWS_INFOBAR_SAVED_DATA_TITLE _Pragma("whitelisted_resource_5153") 5153
+[0;1;32m                                              ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5153
+[0;1;32m ^
+[0m[1m../../chrome/browser/previews/previews_infobar_delegate.cc:176:32: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                             : IDS_PREVIEWS_INFOBAR_FASTER_PAGE_TITLE)),
+[0;1;32m                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1602:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_FASTER_PAGE_TITLE'[0m
+#define IDS_PREVIEWS_INFOBAR_FASTER_PAGE_TITLE _Pragma("whitelisted_resource_5154") 5154
+[0;1;32m                                               ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5154
+[0;1;32m ^
+[0m[1m../../chrome/browser/previews/previews_infobar_delegate.cc:229:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_PREVIEWS_INFOBAR_LINK);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1603:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_LINK'[0m
+#define IDS_PREVIEWS_INFOBAR_LINK _Pragma("whitelisted_resource_5155") 5155
+[0;1;32m                                  ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5155
+[0;1;32m ^
+[0m[1m../../chrome/browser/previews/previews_infobar_delegate.cc:288:11: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          IDS_PREVIEWS_INFOBAR_TIMESTAMP_UPDATED_NOW);
+[0;1;32m          ^
+[0m[1mgen/chrome/grit/generated_resources.h:1607:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_TIMESTAMP_UPDATED_NOW'[0m
+#define IDS_PREVIEWS_INFOBAR_TIMESTAMP_UPDATED_NOW _Pragma("whitelisted_resource_5159") 5159
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:13:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5159
+[0;1;32m ^
+[0m[1m../../chrome/browser/previews/previews_infobar_delegate.cc:304:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PREVIEWS_INFOBAR_TIMESTAMP_MINUTES,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1604:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_TIMESTAMP_MINUTES'[0m
+#define IDS_PREVIEWS_INFOBAR_TIMESTAMP_MINUTES _Pragma("whitelisted_resource_5156") 5156
+[0;1;32m                                               ^
+[0m[1m<scratch space>:15:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5156
+[0;1;32m ^
+[0m[1m../../chrome/browser/previews/previews_infobar_delegate.cc:307:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    return l10n_util::GetStringUTF16(IDS_PREVIEWS_INFOBAR_TIMESTAMP_ONE_HOUR);
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:1605:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_TIMESTAMP_ONE_HOUR'[0m
+#define IDS_PREVIEWS_INFOBAR_TIMESTAMP_ONE_HOUR _Pragma("whitelisted_resource_5157") 5157
+[0;1;32m                                                ^
+[0m[1m<scratch space>:17:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5157
+[0;1;32m ^
+[0m[1m../../chrome/browser/previews/previews_infobar_delegate.cc:310:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+        IDS_PREVIEWS_INFOBAR_TIMESTAMP_HOURS,
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1606:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PREVIEWS_INFOBAR_TIMESTAMP_HOURS'[0m
+#define IDS_PREVIEWS_INFOBAR_TIMESTAMP_HOURS _Pragma("whitelisted_resource_5158") 5158
+[0;1;32m                                             ^
+[0m[1m<scratch space>:19:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5158
+[0;1;32m ^
+[0m7 warnings generated.

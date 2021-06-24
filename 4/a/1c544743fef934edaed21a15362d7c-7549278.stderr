@@ -1,0 +1,73 @@
+[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:123:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringFUTF16(IDS_MEDIA_GALLERIES_DIALOG_HEADER,
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2624:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_HEADER'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_HEADER _Pragma("whitelisted_resource_6402") 6402
+[0;1;32m                                          ^
+[0m[1m<scratch space>:45:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6402
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:141:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_WRITE;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2625:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_WRITE'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_WRITE _Pragma("whitelisted_resource_6403") 6403
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:47:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6403
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:143:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_DELETE;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2626:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_DELETE'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_DELETE _Pragma("whitelisted_resource_6404") 6404
+[0;1;32m                                                       ^
+[0m[1m<scratch space>:49:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6404
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:145:10: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    id = IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_ONLY;
+[0;1;32m         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2627:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_ONLY'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_SUBTEXT_READ_ONLY _Pragma("whitelisted_resource_6405") 6405
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:51:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6405
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:169:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_MEDIA_GALLERIES_PERMISSION_SUGGESTIONS));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2628:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_PERMISSION_SUGGESTIONS'[0m
+#define IDS_MEDIA_GALLERIES_PERMISSION_SUGGESTIONS _Pragma("whitelisted_resource_6406") 6406
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:53:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6406
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:201:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MEDIA_GALLERIES_DIALOG_ADD_GALLERY);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2630:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_ADD_GALLERY'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_ADD_GALLERY _Pragma("whitelisted_resource_6408") 6408
+[0;1;32m                                               ^
+[0m[1m<scratch space>:55:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6408
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:215:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_MEDIA_GALLERIES_DIALOG_ADD_GALLERY_TITLE),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2633:54: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_ADD_GALLERY_TITLE'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_ADD_GALLERY_TITLE _Pragma("whitelisted_resource_6411") 6411
+[0;1;32m                                                     ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6411
+[0;1;32m ^
+[0m[1m../../chrome/browser/media_galleries/media_galleries_permission_controller.cc:257:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_MEDIA_GALLERIES_DIALOG_CONFIRM);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2632:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_GALLERIES_DIALOG_CONFIRM'[0m
+#define IDS_MEDIA_GALLERIES_DIALOG_CONFIRM _Pragma("whitelisted_resource_6410") 6410
+[0;1;32m                                           ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6410
+[0;1;32m ^
+[0m8 warnings generated.

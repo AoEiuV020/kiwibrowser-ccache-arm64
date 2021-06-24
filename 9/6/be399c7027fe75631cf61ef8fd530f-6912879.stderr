@@ -1,0 +1,37 @@
+[1m../../chrome/browser/download/download_open_prompt.cc:64:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_DOWNLOAD_OPEN_CONFIRMATION_DIALOG_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2837:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_OPEN_CONFIRMATION_DIALOG_TITLE'[0m
+#define IDS_DOWNLOAD_OPEN_CONFIRMATION_DIALOG_TITLE _Pragma("whitelisted_resource_6696") 6696
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6696
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_open_prompt.cc:69:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_DOWNLOAD_OPEN_CONFIRMATION_DIALOG_MESSAGE,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2838:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DOWNLOAD_OPEN_CONFIRMATION_DIALOG_MESSAGE'[0m
+#define IDS_DOWNLOAD_OPEN_CONFIRMATION_DIALOG_MESSAGE _Pragma("whitelisted_resource_6697") 6697
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6697
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_open_prompt.cc:75:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CONFIRM_MESSAGEBOX_YES_BUTTON_LABEL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1784:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_MESSAGEBOX_YES_BUTTON_LABEL'[0m
+#define IDS_CONFIRM_MESSAGEBOX_YES_BUTTON_LABEL _Pragma("whitelisted_resource_5362") 5362
+[0;1;32m                                                ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5362
+[0;1;32m ^
+[0m[1m../../chrome/browser/download/download_open_prompt.cc:79:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CONFIRM_MESSAGEBOX_NO_BUTTON_LABEL);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:1785:48: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONFIRM_MESSAGEBOX_NO_BUTTON_LABEL'[0m
+#define IDS_CONFIRM_MESSAGEBOX_NO_BUTTON_LABEL _Pragma("whitelisted_resource_5363") 5363
+[0;1;32m                                               ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5363
+[0;1;32m ^
+[0m4 warnings generated.

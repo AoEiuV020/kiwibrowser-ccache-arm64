@@ -1,0 +1,28 @@
+[1m../../chrome/browser/repost_form_warning_controller.cc:22:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_HTTP_POST_WARNING_TITLE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:167:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HTTP_POST_WARNING_TITLE'[0m
+#define IDS_HTTP_POST_WARNING_TITLE _Pragma("whitelisted_resource_15266") 15266
+[0;1;32m                                    ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15266
+[0;1;32m ^
+[0m[1m../../chrome/browser/repost_form_warning_controller.cc:26:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_HTTP_POST_WARNING);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:168:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HTTP_POST_WARNING'[0m
+#define IDS_HTTP_POST_WARNING _Pragma("whitelisted_resource_15267") 15267
+[0;1;32m                              ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15267
+[0;1;32m ^
+[0m[1m../../chrome/browser/repost_form_warning_controller.cc:30:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_HTTP_POST_WARNING_RESEND);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:169:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_HTTP_POST_WARNING_RESEND'[0m
+#define IDS_HTTP_POST_WARNING_RESEND _Pragma("whitelisted_resource_15268") 15268
+[0;1;32m                                     ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15268
+[0;1;32m ^
+[0m3 warnings generated.

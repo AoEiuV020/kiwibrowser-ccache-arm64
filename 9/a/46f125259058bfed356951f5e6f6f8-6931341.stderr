@@ -1,0 +1,46 @@
+[1m../../chrome/browser/renderer_context_menu/spelling_bubble_model.cc:32:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:883:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_ASK_GOOGLE _Pragma("whitelisted_resource_4225") 4225
+[0;1;32m                                                ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4225
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_bubble_model.cc:36:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_TEXT);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/chromium_strings.h:137:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_TEXT'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_TEXT _Pragma("whitelisted_resource_605") 605
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_605
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_bubble_model.cc:41:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_ENABLE :
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:884:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_ENABLE'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_ENABLE _Pragma("whitelisted_resource_4226") 4226
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4226
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_bubble_model.cc:42:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_DISABLE);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:885:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_DISABLE'[0m
+#define IDS_CONTENT_CONTEXT_SPELLING_BUBBLE_DISABLE _Pragma("whitelisted_resource_4227") 4227
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4227
+[0;1;32m ^
+[0m[1m../../chrome/browser/renderer_context_menu/spelling_bubble_model.cc:54:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_LEARN_MORE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m5 warnings generated.

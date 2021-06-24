@@ -1,0 +1,10 @@
+[1m../../chrome/browser/background/background_mode_manager_android.cc:23:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_SETTINGS);
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:947:22: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS'[0m
+#define IDS_SETTINGS _Pragma("whitelisted_resource_4291") 4291
+[0;1;32m                     ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4291
+[0;1;32m ^
+[0m1 warning generated.

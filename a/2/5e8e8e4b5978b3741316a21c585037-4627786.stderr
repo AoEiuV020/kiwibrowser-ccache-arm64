@@ -1,0 +1,208 @@
+[1m../../chrome/browser/profiles/profile_attributes_storage.cc:33:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_8,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2159:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_8'[0m
+#define IDS_DEFAULT_AVATAR_NAME_8 _Pragma("whitelisted_resource_5798") 5798
+[0;1;32m                                  ^
+[0m[1m<scratch space>:57:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5798
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:34:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_9,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2160:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_9'[0m
+#define IDS_DEFAULT_AVATAR_NAME_9 _Pragma("whitelisted_resource_5799") 5799
+[0;1;32m                                  ^
+[0m[1m<scratch space>:59:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5799
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:35:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_10,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2161:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_10'[0m
+#define IDS_DEFAULT_AVATAR_NAME_10 _Pragma("whitelisted_resource_5800") 5800
+[0;1;32m                                   ^
+[0m[1m<scratch space>:61:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5800
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:36:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_11,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2162:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_11'[0m
+#define IDS_DEFAULT_AVATAR_NAME_11 _Pragma("whitelisted_resource_5801") 5801
+[0;1;32m                                   ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5801
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:37:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_12,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2163:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_12'[0m
+#define IDS_DEFAULT_AVATAR_NAME_12 _Pragma("whitelisted_resource_5802") 5802
+[0;1;32m                                   ^
+[0m[1m<scratch space>:65:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5802
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:38:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_13,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2164:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_13'[0m
+#define IDS_DEFAULT_AVATAR_NAME_13 _Pragma("whitelisted_resource_5803") 5803
+[0;1;32m                                   ^
+[0m[1m<scratch space>:67:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5803
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:39:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_14,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2165:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_14'[0m
+#define IDS_DEFAULT_AVATAR_NAME_14 _Pragma("whitelisted_resource_5804") 5804
+[0;1;32m                                   ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5804
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:40:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_15,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2166:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_15'[0m
+#define IDS_DEFAULT_AVATAR_NAME_15 _Pragma("whitelisted_resource_5805") 5805
+[0;1;32m                                   ^
+[0m[1m<scratch space>:71:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5805
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:41:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_16,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2167:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_16'[0m
+#define IDS_DEFAULT_AVATAR_NAME_16 _Pragma("whitelisted_resource_5806") 5806
+[0;1;32m                                   ^
+[0m[1m<scratch space>:73:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5806
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:42:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_17,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2168:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_17'[0m
+#define IDS_DEFAULT_AVATAR_NAME_17 _Pragma("whitelisted_resource_5807") 5807
+[0;1;32m                                   ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5807
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:43:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_18,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2169:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_18'[0m
+#define IDS_DEFAULT_AVATAR_NAME_18 _Pragma("whitelisted_resource_5808") 5808
+[0;1;32m                                   ^
+[0m[1m<scratch space>:77:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5808
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:44:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_19,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2170:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_19'[0m
+#define IDS_DEFAULT_AVATAR_NAME_19 _Pragma("whitelisted_resource_5809") 5809
+[0;1;32m                                   ^
+[0m[1m<scratch space>:79:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5809
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:45:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_20,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2171:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_20'[0m
+#define IDS_DEFAULT_AVATAR_NAME_20 _Pragma("whitelisted_resource_5810") 5810
+[0;1;32m                                   ^
+[0m[1m<scratch space>:81:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5810
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:46:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_21,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2172:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_21'[0m
+#define IDS_DEFAULT_AVATAR_NAME_21 _Pragma("whitelisted_resource_5811") 5811
+[0;1;32m                                   ^
+[0m[1m<scratch space>:83:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5811
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:47:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_22,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2173:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_22'[0m
+#define IDS_DEFAULT_AVATAR_NAME_22 _Pragma("whitelisted_resource_5812") 5812
+[0;1;32m                                   ^
+[0m[1m<scratch space>:85:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5812
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:48:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_23,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2174:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_23'[0m
+#define IDS_DEFAULT_AVATAR_NAME_23 _Pragma("whitelisted_resource_5813") 5813
+[0;1;32m                                   ^
+[0m[1m<scratch space>:87:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5813
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:49:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_24,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2175:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_24'[0m
+#define IDS_DEFAULT_AVATAR_NAME_24 _Pragma("whitelisted_resource_5814") 5814
+[0;1;32m                                   ^
+[0m[1m<scratch space>:89:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5814
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:50:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_25,
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2176:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_25'[0m
+#define IDS_DEFAULT_AVATAR_NAME_25 _Pragma("whitelisted_resource_5815") 5815
+[0;1;32m                                   ^
+[0m[1m<scratch space>:91:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5815
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:51:3: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  IDS_DEFAULT_AVATAR_NAME_26
+[0;1;32m  ^
+[0m[1mgen/chrome/grit/generated_resources.h:2177:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_AVATAR_NAME_26'[0m
+#define IDS_DEFAULT_AVATAR_NAME_26 _Pragma("whitelisted_resource_5816") 5816
+[0;1;32m                                   ^
+[0m[1m<scratch space>:93:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5816
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:222:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      name = l10n_util::GetStringFUTF16Int(IDS_NUMBERED_PROFILE_NAME,
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2155:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NUMBERED_PROFILE_NAME'[0m
+#define IDS_NUMBERED_PROFILE_NAME _Pragma("whitelisted_resource_5794") 5794
+[0;1;32m                                  ^
+[0m[1m<scratch space>:115:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5794
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:250:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  if (name == l10n_util::GetStringUTF16(IDS_DEFAULT_PROFILE_NAME) ||
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2153:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_DEFAULT_PROFILE_NAME'[0m
+#define IDS_DEFAULT_PROFILE_NAME _Pragma("whitelisted_resource_5792") 5792
+[0;1;32m                                 ^
+[0m[1m<scratch space>:117:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5792
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:251:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      name == l10n_util::GetStringUTF16(IDS_LEGACY_DEFAULT_PROFILE_NAME))
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:2154:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEGACY_DEFAULT_PROFILE_NAME'[0m
+#define IDS_LEGACY_DEFAULT_PROFILE_NAME _Pragma("whitelisted_resource_5793") 5793
+[0;1;32m                                        ^
+[0m[1m<scratch space>:119:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5793
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/profile_attributes_storage.cc:262:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_NEW_NUMBERED_PROFILE_NAME, base::ASCIIToUTF16("%d"));
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2156:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_NEW_NUMBERED_PROFILE_NAME'[0m
+#define IDS_NEW_NUMBERED_PROFILE_NAME _Pragma("whitelisted_resource_5795") 5795
+[0;1;32m                                      ^
+[0m[1m<scratch space>:121:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5795
+[0;1;32m ^
+[0m23 warnings generated.

@@ -1,0 +1,226 @@
+[1m../../chrome/browser/vr/ui_scene_creator.cc:1008:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      select_incognito ? IDS_VR_TABS_BUTTON_INCOGNITO
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2885:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_TABS_BUTTON_INCOGNITO'[0m
+#define IDS_VR_TABS_BUTTON_INCOGNITO _Pragma("whitelisted_resource_6744") 6744
+[0;1;32m                                     ^
+[0m[1m<scratch space>:32:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6744
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1009:26: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       : IDS_VR_TABS_BUTTON_REGULAR)));
+[0;1;32m                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:2884:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_TABS_BUTTON_REGULAR'[0m
+#define IDS_VR_TABS_BUTTON_REGULAR _Pragma("whitelisted_resource_6743") 6743
+[0;1;32m                                   ^
+[0m[1m<scratch space>:34:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6743
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1191:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_BROWSER_UNSUPPORTED_PAGE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2861:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BROWSER_UNSUPPORTED_PAGE'[0m
+#define IDS_VR_BROWSER_UNSUPPORTED_PAGE _Pragma("whitelisted_resource_6720") 6720
+[0;1;32m                                        ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6720
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1586:43: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  text->SetText(l10n_util::GetStringUTF16(IDS_VR_RUNNING_IN_CHROME_MESSAGE));
+[0;1;32m                                          ^
+[0m[1mgen/chrome/grit/generated_resources.h:2864:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_RUNNING_IN_CHROME_MESSAGE'[0m
+#define IDS_VR_RUNNING_IN_CHROME_MESSAGE _Pragma("whitelisted_resource_6723") 6723
+[0;1;32m                                         ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6723
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1651:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_WEB_VR_TIMEOUT_MESSAGE));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2862:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_WEB_VR_TIMEOUT_MESSAGE'[0m
+#define IDS_VR_WEB_VR_TIMEOUT_MESSAGE _Pragma("whitelisted_resource_6721") 6721
+[0;1;32m                                      ^
+[0m[1m<scratch space>:38:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6721
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1682:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_WEB_VR_EXIT_BUTTON_LABEL));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2863:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_WEB_VR_EXIT_BUTTON_LABEL'[0m
+#define IDS_VR_WEB_VR_EXIT_BUTTON_LABEL _Pragma("whitelisted_resource_6722") 6722
+[0;1;32m                                        ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6722
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1955:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_BUTTON_TRACKPAD), model_);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2868:32: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_TRACKPAD'[0m
+#define IDS_VR_BUTTON_TRACKPAD _Pragma("whitelisted_resource_6727") 6727
+[0;1;32m                               ^
+[0m[1m<scratch space>:63:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6727
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1961:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_BUTTON_TRACKPAD_REPOSITION), model_);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2871:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_TRACKPAD_REPOSITION'[0m
+#define IDS_VR_BUTTON_TRACKPAD_REPOSITION _Pragma("whitelisted_resource_6730") 6730
+[0;1;32m                                          ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6730
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1967:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_BUTTON_EXIT), model_);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2869:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_EXIT'[0m
+#define IDS_VR_BUTTON_EXIT _Pragma("whitelisted_resource_6728") 6728
+[0;1;32m                           ^
+[0m[1m<scratch space>:69:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6728
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1973:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_BUTTON_BACK), model_);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2870:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_BACK'[0m
+#define IDS_VR_BUTTON_BACK _Pragma("whitelisted_resource_6729") 6729
+[0;1;32m                           ^
+[0m[1m<scratch space>:72:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6729
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:1980:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_VR_BUTTON_APP_REPOSITION), model_);
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2872:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_APP_REPOSITION'[0m
+#define IDS_VR_BUTTON_APP_REPOSITION _Pragma("whitelisted_resource_6731") 6731
+[0;1;32m                                     ^
+[0m[1m<scratch space>:75:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6731
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2246:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  hint_text->SetText(l10n_util::GetStringUTF16(IDS_SEARCH_OR_TYPE_WEB_ADDRESS));
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:1682:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_OR_TYPE_WEB_ADDRESS'[0m
+#define IDS_SEARCH_OR_TYPE_WEB_ADDRESS _Pragma("whitelisted_resource_5257") 5257
+[0;1;32m                                       ^
+[0m[1m<scratch space>:101:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5257
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2427:45: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          kOverflowMenuNewIncognitoTabItem, IDS_VR_MENU_NEW_INCOGNITO_TAB,
+[0;1;32m                                            ^
+[0m[1mgen/chrome/grit/generated_resources.h:2874:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_MENU_NEW_INCOGNITO_TAB'[0m
+#define IDS_VR_MENU_NEW_INCOGNITO_TAB _Pragma("whitelisted_resource_6733") 6733
+[0;1;32m                                      ^
+[0m[1m<scratch space>:7:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6733
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2432:48: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {kOverflowMenuCloseAllIncognitoTabsItem, IDS_VR_MENU_CLOSE_INCOGNITO_TABS,
+[0;1;32m                                               ^
+[0m[1mgen/chrome/grit/generated_resources.h:2882:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_MENU_CLOSE_INCOGNITO_TABS'[0m
+#define IDS_VR_MENU_CLOSE_INCOGNITO_TABS _Pragma("whitelisted_resource_6741") 6741
+[0;1;32m                                         ^
+[0m[1m<scratch space>:9:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6741
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2438:38: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      {kOverflowMenuPreferencesItem, IDS_VR_MENU_PREFERENCES,
+[0;1;32m                                     ^
+[0m[1mgen/chrome/grit/generated_resources.h:2880:33: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_MENU_PREFERENCES'[0m
+#define IDS_VR_MENU_PREFERENCES _Pragma("whitelisted_resource_6739") 6739
+[0;1;32m                                ^
+[0m[1m<scratch space>:11:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6739
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2559:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_SEARCH_OR_TYPE_WEB_ADDRESS));
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1682:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SEARCH_OR_TYPE_WEB_ADDRESS'[0m
+#define IDS_SEARCH_OR_TYPE_WEB_ADDRESS _Pragma("whitelisted_resource_5257") 5257
+[0;1;32m                                       ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5257
+[0;1;32m ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2851:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                message_id = IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_DESCRIPTION;
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2857:58: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_DESCRIPTION'[0m
+#define IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_DESCRIPTION _Pragma("whitelisted_resource_6716") 6716
+[0;1;32m                                                         ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2854:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_CONTINUE_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2859:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_CONTINUE_BUTTON'[0m
+#define IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_CONTINUE_BUTTON _Pragma("whitelisted_resource_6718") 6718
+[0;1;32m                                                             ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2856:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_ABORT_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2858:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_ABORT_BUTTON'[0m
+#define IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_ABORT_BUTTON _Pragma("whitelisted_resource_6717") 6717
+[0;1;32m                                                          ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2859:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                message_id = IDS_VR_UPDATE_KEYBOARD_PROMPT;
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2854:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_UPDATE_KEYBOARD_PROMPT'[0m
+#define IDS_VR_UPDATE_KEYBOARD_PROMPT _Pragma("whitelisted_resource_6713") 6713
+[0;1;32m                                      ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2862:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_CONTINUE_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2859:62: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_CONTINUE_BUTTON'[0m
+#define IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_CONTINUE_BUTTON _Pragma("whitelisted_resource_6718") 6718
+[0;1;32m                                                             ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2864:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_ABORT_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2858:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_ABORT_BUTTON'[0m
+#define IDS_VR_SHELL_AUDIO_PERMISSION_PROMPT_ABORT_BUTTON _Pragma("whitelisted_resource_6717") 6717
+[0;1;32m                                                          ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2867:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                message_id = IDS_VR_SHELL_EXIT_PROMPT_DESCRIPTION_SITE_INFO;
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2856:56: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_EXIT_PROMPT_DESCRIPTION_SITE_INFO'[0m
+#define IDS_VR_SHELL_EXIT_PROMPT_DESCRIPTION_SITE_INFO _Pragma("whitelisted_resource_6715") 6715
+[0;1;32m                                                       ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2870:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_VR_SHELL_EXIT_PROMPT_EXIT_VR_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2860:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_EXIT_PROMPT_EXIT_VR_BUTTON'[0m
+#define IDS_VR_SHELL_EXIT_PROMPT_EXIT_VR_BUTTON _Pragma("whitelisted_resource_6719") 6719
+[0;1;32m                                                ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2871:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                secondary_button_text_id = IDS_VR_BUTTON_BACK;
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2870:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_BACK'[0m
+#define IDS_VR_BUTTON_BACK _Pragma("whitelisted_resource_6729") 6729
+[0;1;32m                           ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2875:30: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                message_id = IDS_VR_SHELL_EXIT_PROMPT_DESCRIPTION;
+[0;1;32m                             ^
+[0m[1mgen/chrome/grit/generated_resources.h:2855:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_EXIT_PROMPT_DESCRIPTION'[0m
+#define IDS_VR_SHELL_EXIT_PROMPT_DESCRIPTION _Pragma("whitelisted_resource_6714") 6714
+[0;1;32m                                             ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2878:21: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                    IDS_VR_SHELL_EXIT_PROMPT_EXIT_VR_BUTTON;
+[0;1;32m                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:2860:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_SHELL_EXIT_PROMPT_EXIT_VR_BUTTON'[0m
+#define IDS_VR_SHELL_EXIT_PROMPT_EXIT_VR_BUTTON _Pragma("whitelisted_resource_6719") 6719
+[0;1;32m                                                ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2879:44: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                secondary_button_text_id = IDS_VR_BUTTON_BACK;
+[0;1;32m                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:2870:28: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VR_BUTTON_BACK'[0m
+#define IDS_VR_BUTTON_BACK _Pragma("whitelisted_resource_6729") 6729
+[0;1;32m                           ^
+[0m[1m../../chrome/browser/vr/ui_scene_creator.cc:2949:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                   IDS_PRESS_APP_TO_EXIT,
+[0;1;32m                                   ^
+[0m[1mgen/chrome/grit/generated_resources.h:2839:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRESS_APP_TO_EXIT'[0m
+#define IDS_PRESS_APP_TO_EXIT _Pragma("whitelisted_resource_6698") 6698
+[0;1;32m                              ^
+[0m[1m<scratch space>:30:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6698
+[0;1;32m ^
+[0m29 warnings generated.

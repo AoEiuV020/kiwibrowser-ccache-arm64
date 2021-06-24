@@ -1,0 +1,37 @@
+[1m../../chrome/browser/pepper_broker_infobar_delegate.cc:65:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PEPPER_BROKER_MESSAGE, plugin_name_,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1641:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PEPPER_BROKER_MESSAGE'[0m
+#define IDS_PEPPER_BROKER_MESSAGE _Pragma("whitelisted_resource_5212") 5212
+[0;1;32m                                  ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5212
+[0;1;32m ^
+[0m[1m../../chrome/browser/pepper_broker_infobar_delegate.cc:72:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PEPPER_BROKER_ALLOW_BUTTON : IDS_PEPPER_BROKER_DENY_BUTTON);
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1642:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PEPPER_BROKER_ALLOW_BUTTON'[0m
+#define IDS_PEPPER_BROKER_ALLOW_BUTTON _Pragma("whitelisted_resource_5213") 5213
+[0;1;32m                                       ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5213
+[0;1;32m ^
+[0m[1m../../chrome/browser/pepper_broker_infobar_delegate.cc:72:40: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_PEPPER_BROKER_ALLOW_BUTTON : IDS_PEPPER_BROKER_DENY_BUTTON);
+[0;1;32m                                       ^
+[0m[1mgen/chrome/grit/generated_resources.h:1643:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PEPPER_BROKER_DENY_BUTTON'[0m
+#define IDS_PEPPER_BROKER_DENY_BUTTON _Pragma("whitelisted_resource_5214") 5214
+[0;1;32m                                      ^
+[0m[1m<scratch space>:10:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5214
+[0;1;32m ^
+[0m[1m../../chrome/browser/pepper_broker_infobar_delegate.cc:86:36: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16(IDS_LEARN_MORE);
+[0;1;32m                                   ^
+[0m[1mgen/components/strings/grit/components_strings.h:1021:24: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEARN_MORE'[0m
+#define IDS_LEARN_MORE _Pragma("whitelisted_resource_16159") 16159
+[0;1;32m                       ^
+[0m[1m<scratch space>:12:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16159
+[0;1;32m ^
+[0m4 warnings generated.

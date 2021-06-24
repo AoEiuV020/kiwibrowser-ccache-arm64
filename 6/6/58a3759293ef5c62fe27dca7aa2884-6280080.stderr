@@ -1,0 +1,181 @@
+[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:239:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_LOCALE),
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1989:43: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_LOCALE'[0m
+#define IDS_RESET_PROFILE_SETTINGS_LOCALE _Pragma("whitelisted_resource_5607") 5607
+[0;1;32m                                          ^
+[0m[1m<scratch space>:118:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5607
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:242:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_VERSION_UI_USER_AGENT),
+[0;1;32m                                    ^
+[0m[1mgen/components/strings/grit/components_strings.h:1011:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_VERSION_UI_USER_AGENT'[0m
+#define IDS_VERSION_UI_USER_AGENT _Pragma("whitelisted_resource_16145") 16145
+[0;1;32m                                  ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_16145
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:247:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_PRODUCT_NAME),
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/chromium_strings.h:34:26: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PRODUCT_NAME'[0m
+#define IDS_PRODUCT_NAME _Pragma("whitelisted_resource_429") 429
+[0;1;32m                         ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_429
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:261:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_STARTUP_URLS),
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1990:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_STARTUP_URLS'[0m
+#define IDS_RESET_PROFILE_SETTINGS_STARTUP_URLS _Pragma("whitelisted_resource_5608") 5608
+[0;1;32m                                                ^
+[0m[1m<scratch space>:124:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5608
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:269:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SETTINGS_ON_STARTUP_OPEN_NEW_TAB);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:307:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_ON_STARTUP_OPEN_NEW_TAB'[0m
+#define IDS_SETTINGS_ON_STARTUP_OPEN_NEW_TAB _Pragma("whitelisted_resource_3268") 3268
+[0;1;32m                                             ^
+[0m[1m<scratch space>:126:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3268
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:273:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SETTINGS_ON_STARTUP_CONTINUE);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:308:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_ON_STARTUP_CONTINUE'[0m
+#define IDS_SETTINGS_ON_STARTUP_CONTINUE _Pragma("whitelisted_resource_3269") 3269
+[0;1;32m                                         ^
+[0m[1m<scratch space>:128:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3269
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:277:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_SETTINGS_ON_STARTUP_OPEN_SPECIFIC);
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:309:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_SETTINGS_ON_STARTUP_OPEN_SPECIFIC'[0m
+#define IDS_SETTINGS_ON_STARTUP_OPEN_SPECIFIC _Pragma("whitelisted_resource_3270") 3270
+[0;1;32m                                              ^
+[0m[1m<scratch space>:130:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_3270
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:283:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_STARTUP_TYPE),
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1991:49: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_STARTUP_TYPE'[0m
+#define IDS_RESET_PROFILE_SETTINGS_STARTUP_TYPE _Pragma("whitelisted_resource_5609") 5609
+[0;1;32m                                                ^
+[0m[1m<scratch space>:132:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5609
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:288:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_HOMEPAGE),
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1992:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_HOMEPAGE'[0m
+#define IDS_RESET_PROFILE_SETTINGS_HOMEPAGE _Pragma("whitelisted_resource_5610") 5610
+[0;1;32m                                            ^
+[0m[1m<scratch space>:134:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5610
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:293:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      ? IDS_RESET_PROFILE_SETTINGS_YES
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1994:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_YES'[0m
+#define IDS_RESET_PROFILE_SETTINGS_YES _Pragma("whitelisted_resource_5612") 5612
+[0;1;32m                                       ^
+[0m[1m<scratch space>:136:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5612
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:294:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      : IDS_RESET_PROFILE_SETTINGS_NO;
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1995:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_NO'[0m
+#define IDS_RESET_PROFILE_SETTINGS_NO _Pragma("whitelisted_resource_5613") 5613
+[0;1;32m                                      ^
+[0m[1m<scratch space>:138:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5613
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:296:37: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_HOMEPAGE_IS_NTP),
+[0;1;32m                                    ^
+[0m[1mgen/chrome/grit/generated_resources.h:1993:52: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_HOMEPAGE_IS_NTP'[0m
+#define IDS_RESET_PROFILE_SETTINGS_HOMEPAGE_IS_NTP _Pragma("whitelisted_resource_5611") 5611
+[0;1;32m                                                   ^
+[0m[1m<scratch space>:140:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5611
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:300:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      ? IDS_RESET_PROFILE_SETTINGS_YES
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1994:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_YES'[0m
+#define IDS_RESET_PROFILE_SETTINGS_YES _Pragma("whitelisted_resource_5612") 5612
+[0;1;32m                                       ^
+[0m[1m<scratch space>:142:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5612
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:301:9: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      : IDS_RESET_PROFILE_SETTINGS_NO;
+[0;1;32m        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1995:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_NO'[0m
+#define IDS_RESET_PROFILE_SETTINGS_NO _Pragma("whitelisted_resource_5613") 5613
+[0;1;32m                                      ^
+[0m[1m<scratch space>:144:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5613
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:304:33: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_SHOW_HOME_BUTTON),
+[0;1;32m                                ^
+[0m[1mgen/chrome/grit/generated_resources.h:1996:53: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_SHOW_HOME_BUTTON'[0m
+#define IDS_RESET_PROFILE_SETTINGS_SHOW_HOME_BUTTON _Pragma("whitelisted_resource_5614") 5614
+[0;1;32m                                                    ^
+[0m[1m<scratch space>:146:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5614
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:313:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_DSE),
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1997:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_DSE'[0m
+#define IDS_RESET_PROFILE_SETTINGS_DSE _Pragma("whitelisted_resource_5615") 5615
+[0;1;32m                                       ^
+[0m[1m<scratch space>:148:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5615
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:329:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+              l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_SHORTCUTS),
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1999:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_SHORTCUTS'[0m
+#define IDS_RESET_PROFILE_SETTINGS_SHORTCUTS _Pragma("whitelisted_resource_5617") 5617
+[0;1;32m                                             ^
+[0m[1m<scratch space>:150:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5617
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:334:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_SHORTCUTS),
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1999:46: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_SHORTCUTS'[0m
+#define IDS_RESET_PROFILE_SETTINGS_SHORTCUTS _Pragma("whitelisted_resource_5617") 5617
+[0;1;32m                                             ^
+[0m[1m<scratch space>:152:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5617
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:336:17: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                IDS_RESET_PROFILE_SETTINGS_PROCESSING_SHORTCUTS));
+[0;1;32m                ^
+[0m[1mgen/chrome/grit/generated_resources.h:2000:57: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_PROCESSING_SHORTCUTS'[0m
+#define IDS_RESET_PROFILE_SETTINGS_PROCESSING_SHORTCUTS _Pragma("whitelisted_resource_5618") 5618
+[0;1;32m                                                        ^
+[0m[1m<scratch space>:154:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5618
+[0;1;32m ^
+[0m[1m../../chrome/browser/profile_resetter/resettable_settings_snapshot.cc:350:39: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+            l10n_util::GetStringUTF16(IDS_RESET_PROFILE_SETTINGS_EXTENSIONS),
+[0;1;32m                                      ^
+[0m[1mgen/chrome/grit/generated_resources.h:1998:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_RESET_PROFILE_SETTINGS_EXTENSIONS'[0m
+#define IDS_RESET_PROFILE_SETTINGS_EXTENSIONS _Pragma("whitelisted_resource_5616") 5616
+[0;1;32m                                              ^
+[0m[1m<scratch space>:156:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5616
+[0;1;32m ^
+[0m20 warnings generated.

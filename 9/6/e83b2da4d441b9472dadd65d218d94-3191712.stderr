@@ -1,0 +1,100 @@
+[1m../../chrome/browser/search/most_visited_iframe_source.cc:69:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_SINGLE_HTML, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:132:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_SINGLE_HTML'[0m
+#define IDR_MOST_VISITED_SINGLE_HTML _Pragma("whitelisted_resource_11213") 11213
+[0;1;32m                                     ^
+[0m[1m<scratch space>:21:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11213
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:71:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_SINGLE_CSS, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:133:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_SINGLE_CSS'[0m
+#define IDR_MOST_VISITED_SINGLE_CSS _Pragma("whitelisted_resource_11214") 11214
+[0;1;32m                                    ^
+[0m[1m<scratch space>:23:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11214
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:73:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendJSWithOrigin(IDR_MOST_VISITED_SINGLE_JS, wc_getter, callback);
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/browser_resources.h:134:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_SINGLE_JS'[0m
+#define IDR_MOST_VISITED_SINGLE_JS _Pragma("whitelisted_resource_11215") 11215
+[0;1;32m                                   ^
+[0m[1m<scratch space>:25:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11215
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:75:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_TITLE_HTML, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:126:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_TITLE_HTML'[0m
+#define IDR_MOST_VISITED_TITLE_HTML _Pragma("whitelisted_resource_11207") 11207
+[0;1;32m                                    ^
+[0m[1m<scratch space>:27:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11207
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:77:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_TITLE_CSS, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:127:36: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_TITLE_CSS'[0m
+#define IDR_MOST_VISITED_TITLE_CSS _Pragma("whitelisted_resource_11208") 11208
+[0;1;32m                                   ^
+[0m[1m<scratch space>:29:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11208
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:79:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_TITLE_JS, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:128:35: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_TITLE_JS'[0m
+#define IDR_MOST_VISITED_TITLE_JS _Pragma("whitelisted_resource_11209") 11209
+[0;1;32m                                  ^
+[0m[1m<scratch space>:31:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11209
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:81:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_THUMBNAIL_HTML, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:129:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_THUMBNAIL_HTML'[0m
+#define IDR_MOST_VISITED_THUMBNAIL_HTML _Pragma("whitelisted_resource_11210") 11210
+[0;1;32m                                        ^
+[0m[1m<scratch space>:33:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11210
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:83:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_THUMBNAIL_CSS, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:130:40: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_THUMBNAIL_CSS'[0m
+#define IDR_MOST_VISITED_THUMBNAIL_CSS _Pragma("whitelisted_resource_11211") 11211
+[0;1;32m                                       ^
+[0m[1m<scratch space>:35:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11211
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:85:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendJSWithOrigin(IDR_MOST_VISITED_THUMBNAIL_JS, wc_getter, callback);
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/browser_resources.h:131:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_THUMBNAIL_JS'[0m
+#define IDR_MOST_VISITED_THUMBNAIL_JS _Pragma("whitelisted_resource_11212") 11212
+[0;1;32m                                      ^
+[0m[1m<scratch space>:37:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11212
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:87:22: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendJSWithOrigin(IDR_MOST_VISITED_UTIL_JS, wc_getter, callback);
+[0;1;32m                     ^
+[0m[1mgen/chrome/grit/browser_resources.h:135:34: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_UTIL_JS'[0m
+#define IDR_MOST_VISITED_UTIL_JS _Pragma("whitelisted_resource_11216") 11216
+[0;1;32m                                 ^
+[0m[1m<scratch space>:39:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11216
+[0;1;32m ^
+[0m[1m../../chrome/browser/search/most_visited_iframe_source.cc:89:18: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    SendResource(IDR_MOST_VISITED_IFRAME_CSS, callback);
+[0;1;32m                 ^
+[0m[1mgen/chrome/grit/browser_resources.h:125:37: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MOST_VISITED_IFRAME_CSS'[0m
+#define IDR_MOST_VISITED_IFRAME_CSS _Pragma("whitelisted_resource_11206") 11206
+[0;1;32m                                    ^
+[0m[1m<scratch space>:41:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_11206
+[0;1;32m ^
+[0m11 warnings generated.

@@ -1,0 +1,28 @@
+[1m../../chrome/browser/profiles/avatar_menu.cc:158:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_LEGACY_SUPERVISED_USER_INFO,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1838:41: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_LEGACY_SUPERVISED_USER_INFO'[0m
+#define IDS_LEGACY_SUPERVISED_USER_INFO _Pragma("whitelisted_resource_5423") 5423
+[0;1;32m                                        ^
+[0m[1m<scratch space>:16:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5423
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/avatar_menu.cc:163:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_CHILD_INFO_ONE_CUSTODIAN,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1839:38: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHILD_INFO_ONE_CUSTODIAN'[0m
+#define IDS_CHILD_INFO_ONE_CUSTODIAN _Pragma("whitelisted_resource_5424") 5424
+[0;1;32m                                     ^
+[0m[1m<scratch space>:18:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5424
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/avatar_menu.cc:166:41: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      return l10n_util::GetStringFUTF16(IDS_CHILD_INFO_TWO_CUSTODIANS,
+[0;1;32m                                        ^
+[0m[1mgen/chrome/grit/generated_resources.h:1840:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_CHILD_INFO_TWO_CUSTODIANS'[0m
+#define IDS_CHILD_INFO_TWO_CUSTODIANS _Pragma("whitelisted_resource_5425") 5425
+[0;1;32m                                      ^
+[0m[1m<scratch space>:20:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5425
+[0;1;32m ^
+[0m3 warnings generated.

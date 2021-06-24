@@ -1,0 +1,19 @@
+[1m../../chrome/browser/password_manager/save_password_infobar_delegate_android.cc:85:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       ? IDS_PASSWORD_MANAGER_SAVE_BUTTON
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1797:42: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_SAVE_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_SAVE_BUTTON _Pragma("whitelisted_resource_5375") 5375
+[0;1;32m                                         ^
+[0m[1m<scratch space>:120:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5375
+[0;1;32m ^
+[0m[1m../../chrome/browser/password_manager/save_password_infobar_delegate_android.cc:86:42: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                       : IDS_PASSWORD_MANAGER_BLACKLIST_BUTTON);
+[0;1;32m                                         ^
+[0m[1mgen/chrome/grit/generated_resources.h:1798:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PASSWORD_MANAGER_BLACKLIST_BUTTON'[0m
+#define IDS_PASSWORD_MANAGER_BLACKLIST_BUTTON _Pragma("whitelisted_resource_5376") 5376
+[0;1;32m                                              ^
+[0m[1m<scratch space>:122:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_5376
+[0;1;32m ^
+[0m2 warnings generated.

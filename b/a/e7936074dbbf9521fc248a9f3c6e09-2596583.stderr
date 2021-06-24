@@ -1,0 +1,28 @@
+[1m../../chrome/browser/profiles/incognito_mode_policy_handler.cc:31:57: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      errors->AddError(key::kIncognitoModeAvailability, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                                        ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:265:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/incognito_mode_policy_handler.cc:39:24: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                       IDS_POLICY_OUT_OF_RANGE_ERROR,
+[0;1;32m                       ^
+[0m[1mgen/components/strings/grit/components_strings.h:666:39: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_OUT_OF_RANGE_ERROR'[0m
+#define IDS_POLICY_OUT_OF_RANGE_ERROR _Pragma("whitelisted_resource_15792") 15792
+[0;1;32m                                      ^
+[0m[1m<scratch space>:267:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15792
+[0;1;32m ^
+[0m[1m../../chrome/browser/profiles/incognito_mode_policy_handler.cc:49:46: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+    errors->AddError(key::kIncognitoEnabled, IDS_POLICY_TYPE_ERROR,
+[0;1;32m                                             ^
+[0m[1mgen/components/strings/grit/components_strings.h:665:31: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_POLICY_TYPE_ERROR'[0m
+#define IDS_POLICY_TYPE_ERROR _Pragma("whitelisted_resource_15791") 15791
+[0;1;32m                              ^
+[0m[1m<scratch space>:269:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_15791
+[0;1;32m ^
+[0m3 warnings generated.

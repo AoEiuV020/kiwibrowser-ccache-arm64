@@ -1,0 +1,28 @@
+[1m../../chrome/browser/media/webrtc/screen_capture_infobar_delegate_android.cc:57:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDS_MEDIA_CAPTURE_SCREEN_INFOBAR_TEXT,
+[0;1;32m      ^
+[0m[1mgen/chrome/grit/generated_resources.h:2542:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_MEDIA_CAPTURE_SCREEN_INFOBAR_TEXT'[0m
+#define IDS_MEDIA_CAPTURE_SCREEN_INFOBAR_TEXT _Pragma("whitelisted_resource_6301") 6301
+[0;1;32m                                              ^
+[0m[1m<scratch space>:171:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_6301
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/screen_capture_infobar_delegate_android.cc:67:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+  return l10n_util::GetStringUTF16((button == BUTTON_OK) ? IDS_PERMISSION_ALLOW
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:804:30: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PERMISSION_ALLOW'[0m
+#define IDS_PERMISSION_ALLOW _Pragma("whitelisted_resource_4146") 4146
+[0;1;32m                             ^
+[0m[1m<scratch space>:173:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4146
+[0;1;32m ^
+[0m[1m../../chrome/browser/media/webrtc/screen_capture_infobar_delegate_android.cc:68:60: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+                                                         : IDS_PERMISSION_DENY);
+[0;1;32m                                                           ^
+[0m[1mgen/chrome/grit/generated_resources.h:805:29: [0m[0;1;30mnote: [0mexpanded from macro 'IDS_PERMISSION_DENY'[0m
+#define IDS_PERMISSION_DENY _Pragma("whitelisted_resource_4147") 4147
+[0;1;32m                            ^
+[0m[1m<scratch space>:175:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_4147
+[0;1;32m ^
+[0m3 warnings generated.
