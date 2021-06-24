@@ -1,0 +1,4 @@
+obj/third_party/blink/renderer/platform/platform/web_prerendering_support.o: \
+  ../../third_party/blink/renderer/platform/exported/web_prerendering_support.cc \
+  ../../third_party/blink/public/platform/web_prerendering_support.h \
+  ../../third_party/blink/public/platform/web_common.h

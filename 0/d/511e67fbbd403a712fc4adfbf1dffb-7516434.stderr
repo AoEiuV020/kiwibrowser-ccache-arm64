@@ -1,0 +1,100 @@
+[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:36:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          ? IDR_UASTYLE_MODERN_MEDIA_CONTROLS_CSS
+[0;1;32m            ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:6:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_MODERN_MEDIA_CONTROLS_CSS'[0m
+#define IDR_UASTYLE_MODERN_MEDIA_CONTROLS_CSS _Pragma("whitelisted_resource_25601") 25601
+[0;1;32m                                              ^
+[0m[1m<scratch space>:56:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25601
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:37:13: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+          : IDR_UASTYLE_LEGACY_MEDIA_CONTROLS_CSS);
+[0;1;32m            ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:5:47: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_LEGACY_MEDIA_CONTROLS_CSS'[0m
+#define IDR_UASTYLE_LEGACY_MEDIA_CONTROLS_CSS _Pragma("whitelisted_resource_25600") 25600
+[0;1;32m                                              ^
+[0m[1m<scratch space>:58:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25600
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:44:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_UASTYLE_LEGACY_MEDIA_CONTROLS_ANDROID_CSS);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:9:55: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_LEGACY_MEDIA_CONTROLS_ANDROID_CSS'[0m
+#define IDR_UASTYLE_LEGACY_MEDIA_CONTROLS_ANDROID_CSS _Pragma("whitelisted_resource_25500") 25500
+[0;1;32m                                                      ^
+[0m[1m<scratch space>:60:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25500
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:50:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_TIMELINE_CSS);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:10:60: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_TIMELINE_CSS'[0m
+#define IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_TIMELINE_CSS _Pragma("whitelisted_resource_25501") 25501
+[0;1;32m                                                           ^
+[0m[1m<scratch space>:62:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25501
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:56:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_LOADING_CSS);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:8:59: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_LOADING_CSS'[0m
+#define IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_LOADING_CSS _Pragma("whitelisted_resource_25603") 25603
+[0;1;32m                                                          ^
+[0m[1m<scratch space>:64:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25603
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:62:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MODERN_MEDIA_CONTROLS_JUMP_SVG);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:13:44: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MODERN_MEDIA_CONTROLS_JUMP_SVG'[0m
+#define IDR_MODERN_MEDIA_CONTROLS_JUMP_SVG _Pragma("whitelisted_resource_25504") 25504
+[0;1;32m                                           ^
+[0m[1m<scratch space>:66:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25504
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:68:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MODERN_MEDIA_CONTROLS_ARROW_RIGHT_SVG);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:14:51: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MODERN_MEDIA_CONTROLS_ARROW_RIGHT_SVG'[0m
+#define IDR_MODERN_MEDIA_CONTROLS_ARROW_RIGHT_SVG _Pragma("whitelisted_resource_25505") 25505
+[0;1;32m                                                  ^
+[0m[1m<scratch space>:68:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25505
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:74:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_MODERN_MEDIA_CONTROLS_ARROW_LEFT_SVG);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:15:50: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_MODERN_MEDIA_CONTROLS_ARROW_LEFT_SVG'[0m
+#define IDR_MODERN_MEDIA_CONTROLS_ARROW_LEFT_SVG _Pragma("whitelisted_resource_25506") 25506
+[0;1;32m                                                 ^
+[0m[1m<scratch space>:2:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25506
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:80:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_SCRUBBING_MESSAGE_CSS);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:12:69: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_SCRUBBING_MESSAGE_CSS'[0m
+#define IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_SCRUBBING_MESSAGE_CSS _Pragma("whitelisted_resource_25503") 25503
+[0;1;32m                                                                    ^
+[0m[1m<scratch space>:4:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25503
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:86:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_OVERLAY_PLAY_CSS);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:11:64: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_OVERLAY_PLAY_CSS'[0m
+#define IDR_SHADOWSTYLE_MODERN_MEDIA_CONTROLS_OVERLAY_PLAY_CSS _Pragma("whitelisted_resource_25502") 25502
+[0;1;32m                                                               ^
+[0m[1m<scratch space>:6:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25502
+[0;1;32m ^
+[0m[1m../../third_party/blink/renderer/modules/media_controls/media_controls_resource_loader.cc:92:7: [0m[0;1;35mwarning: [0m[1munknown pragma ignored [-Wunknown-pragmas][0m
+      IDR_UASTYLE_MEDIA_INTERSTITIALS_CSS);
+[0;1;32m      ^
+[0m[1mgen/third_party/blink/public/resources/grit/media_controls_resources.h:7:45: [0m[0;1;30mnote: [0mexpanded from macro 'IDR_UASTYLE_MEDIA_INTERSTITIALS_CSS'[0m
+#define IDR_UASTYLE_MEDIA_INTERSTITIALS_CSS _Pragma("whitelisted_resource_25602") 25602
+[0;1;32m                                            ^
+[0m[1m<scratch space>:8:2: [0m[0;1;30mnote: [0mexpanded from here[0m
+ whitelisted_resource_25602
+[0;1;32m ^
+[0m11 warnings generated.
